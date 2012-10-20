@@ -1,0 +1,965 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CpQBgQAAAHFSivvB5ola9YHOckaXEBAhFujmP4y0ZdIORy1xsXVjfy9KJKRVcQn01m2oF5XFKonQwg674dFQqrnegmT8aAuYsZ7md2o4Z3HFMozCR9tvv08IW-mVslLEFsXa7yNrk7Lcqu9vT3eMC3pArDrssnk0_3z725ccuTXfbHc5vAVurFL6zvIK9xyeV4A2Ze8zmhIQSZ94IH-xbco_B3eLnU4BoBoUMxbcaj2Td7drNcBAdmhsqOXcELE", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAZVud3gqmQtXA6oCwOE12mszuBXNed1IzgJa7FtMsOFNA0H79cd6lGpLbDo-QowrDQJaA1O-14nIVuAxYj9ifA1ynFreDJmDj3ZiE_9uYlkMh8FRdDXxCSAUWDlEpugLgvaeTbJ-fe9ZUHQbq9Gv3KxIQ8DvcUi0AQI_RWizgiWuSKRoUdiqwbe75DpVtN2sFU4q2Qmx7p08", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "H&S Maring\u00e1", 
+        "reference": "CnRrAAAAAZ4VQ7h-hbTDTEXqDm0ggYZdYg2LyF9VymHr2QYOkqo8hHQi7wJI_TeEa9QH3t_JrfCqGuMXAbCjyYoL4PQe8UUHcCw1IeqDxCWFpy3n8EwSmiuyw3Jke7dLn__RUPCEerLIyWWq64dbwWQkTPDeuRIQgDrg29BW2eKFC0I0zQnn3BoUL31P5dM4ZSJ5K0uWKRoVqlhifR8", 
+        "geometry": {
+          "location": {
+            "lat": -23.479936, 
+            "lng": -52.012023
+          }
+        }, 
+        "vicinity": "Aeroporto Regional de Maring\u00e1 Silvio Name Junior - Av. Dr. Vladimir Babkov s/n\u00ba., Terminal de Passageiros - Bairro Parque Industrial Mario Bulh\u00f5es, Maring\u00e1", 
+        "id": "1518ddc5b32937cf11297884bc01e83dd261f1b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Localiza Rent a Car", 
+        "reference": "CoQBcgAAAK5lmBiK51OckF1KSh6zzXnTdgMhgYZWqB-IS0Uf6iOgcI6Q_NbMSus2uG7jIPOkReiVyZG1uLPp6EJ99cG0nEv-DUnwIJ4_JIuswQAM5rWiJNQb0JQ7VkkHqJiEUqEQgkPRkRqOM1RU3LZaZxtYa-__CtmDV3-TiEj885_2yIFXEhATnGik6FvdKKoHq7wL6PkNGhT59ofVtCtnZYCblktKXBHcSuDxog", 
+        "geometry": {
+          "location": {
+            "lat": -23.479685, 
+            "lng": -52.012067
+          }
+        }, 
+        "vicinity": "Rodovia PR; 317, KM 107, Hall Aeroporto de Maring\u00e1; Km107, Maring\u00e1", 
+        "id": "75827d090aabb8cce00b890d4334f13236d56090", 
+        "types": [
+          "car_rental", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CoQBgAAAALC0IUtcx2aAzlCnPxnmhsqkIznvQlsVb60xqoYoWq5f8jcBaOXr_ik69YQJn-FtJsh-FiKRQp3kbGq3cQIPXBfiqRczWQ5HDYx_l3phYBxM3t0ZBlCwhYp1LW5RdI_01A7yh60NkROsQq_-cKXUX2llhzCzfYD9azd8tZdtCuX1EhDt2WweOcjPEaJKwIQWqW3jGhQVoyKVrxppMzAp36-gbwk2BdfanA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 45", 
+        "reference": "CnRuAAAAejQHVMo9hTc9KYvz3C1nha1M4zf4A4jg4WJRFCBHFUe3gMG2qKMGUDNbWEvF3RbhwkOxhAvT0EVX5awLZ2DzM1qEiMeN0SiWHVBXcKhkJAlJyVhvIe9cbcL-TmL2nzVgKV9FFnCWC6pJODN-yXSWLRIQ4mlZZIEkbZv9u5Yju-vWzhoUYAVwV-hu2B0QJx-9IGP97unsxqc", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAxlWlz1RL60NEKNa7WSulKnNPnFmx-dOKXZ7rnzizdmy-JdH6lZMkVhE7JQbDye9jdDlztna5TlkxgU4G0cTxbaB9TwY4nC7upz_lpxhBSA4LxQOe3UcGspNhEfQLsw8K1qsXDTjo_MfdCRkB9GDd9RIQq_ziQRJ2LQzyjO4us1RvbBoU3lZrLqxz0UKPi00Ilgdj4-nlOqM", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CoQBgAAAAFTzrHdACHcmGVEP9KB7V9DF_hkOou2s2JZ5CxB8mhsCGElMZmkckYpTMYGZWit7QPeZfyD9Gj6MXiYSNWb1CN9XupbiiZJUGYiFJ4Q0fid2Ha4PqzmFvw5U1cciWkmO4QUkJ2h5g_QbPmzVxZeBuh_OaYGsGJOo8Jf5_ooqh3ivEhCOhGHV0rDWGSuQyjt_9faSGhQ5T8sx-s_qf0GsKNaZR63DAJk9eA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAE83T9ghAcg0mLblBiYhMjWDc8mnOxa2vJuE1M5IcW0F3TXMySA9H-XHTzx5VQPgsDqKA48tWo3ErsjQMwNUDLGch_YHvFNlDXU5id_DG7-gqlsUlf-Oyef58oHi7IumoWkmYOlFYCOs9TbhhfgczMBIQU810oT-UsjBBh1mnauIEXxoUk_zyXcfPL3VUmEBYhi2X2X7KnJw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "H&S Maring\u00e1", 
+        "reference": "CnRqAAAABnjjay36I8jJAC6hFe38ja0MQqpCcz9dQdWUCxRI_wACjW_k51LXK_gAKpIVd0P8DdPftA9zDaq2h3fNSCUtet0qB4x2zWy9ZkMS1TsmYr-V0IqHf8HWpHCePooWdPPSeq-OpsfC5gHjcdArXZKrzRIQP79nktyPmN08zlI14Qm5HRoU-sovBOmxJebN8H0ManwjDkw72Bg", 
+        "geometry": {
+          "location": {
+            "lat": -23.479936, 
+            "lng": -52.012023
+          }
+        }, 
+        "vicinity": "Aeroporto Regional de Maring\u00e1 Silvio Name Junior - Av. Dr. Vladimir Babkov s/n\u00ba., Terminal de Passageiros - Bairro Parque Industrial Mario Bulh\u00f5es, Maring\u00e1", 
+        "id": "1518ddc5b32937cf11297884bc01e83dd261f1b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Localiza Rent a Car", 
+        "reference": "CoQBcQAAABQDVh82YZqmc-hPTs_Hq1JKvHvj2_5eQ1Q0hxD_6aY71DIyfRFoxOwEf-BQ5ISyMK3lIVjgZsBKAgiFbGZ5jIhJpeEQ_k8Z1s5NQ_z_XAk1tLa8Jb68lDMujcHOswGrpeuU5KGgx7WI87NyUFGzZzHr-ps7EDIQ2-4VX4536DikEhClMzK9UbD3hBENo5TAf0KoGhRUs1I6T0oruH0GwxaJZUOjdk0Y6Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.479685, 
+            "lng": -52.012067
+          }
+        }, 
+        "vicinity": "Rodovia PR; 317, KM 107, Hall Aeroporto de Maring\u00e1; Km107, Maring\u00e1", 
+        "id": "75827d090aabb8cce00b890d4334f13236d56090", 
+        "types": [
+          "car_rental", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAo_DxiZ120w_9osfVaU0MQc4hhj7PptPGRarEQn0lX9K-EM5CUqyIpo_IC8z0tnSl21btkzVpvc9Is6s_npCHWFvvf7Kh3QY6tzsbnLiui5Vgbm18szGhu-kPwmL3Qz6HQp_ANwtXiJH_mNRXVNvz4BIQv1_hEBRqDHUiZD25CD0a0hoUuXTP_ysRweBP7wKJEEafJ15AVPE", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CoQBgAAAAPdh37K6I1C_Ea7idmGGcyub0MutyerpeqpNzc02XTKQ2qJXszKJ6LJBQT85FMwwFkRMndTXUTAmowmJr7nk_ZLxRo5sp5GvsPp-1onQYjUczJCgx09RhxBd258EhWjBG5aIjFJOHyU1a8eF3eeu30T2k-sN2TO8b8W1w-cJh4OYEhDt_2XPKMq5vH2e82ow0qsxGhQc_wNRciBPLdMse1La0LhyQ0C8eA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 45", 
+        "reference": "CnRuAAAA1gJxDl8wc6MSWDZZav9zUJxUHwN7FO9b04TTMuT9Z9EEimwTWb1Pupd7gfyg9dVGByufAPbVj8PyjOHS13TzeZumKxoiNa_vYJhjCX5W31sgdX7NN4XcBoEq0CLJJqIoBVOFSlXoZx00FKF-_1TqVxIQSjeUGLZ-NdEdi3yvCtJcoRoUSdelBFMqP5Jq5sesp49YYBy6Gxg", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAM2_wN10Oqh3y19egTSsNV9kh6utFf1zBta0tVZKb_0riCZ-Ej6hjXYIoYYx8oMyrbucINseGFrzYX-AU2rz8M_7264LLo4KvI5OwV7cb8WgSzdG4MXJlnoIQBT4ZUCDGdiMlfFfOnvf9G8iodIC7YBIQXymmUuMM7Ig4PSjkMLqMvhoU9pVJU1TNaTm8WhGN1npRXPwWytw", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CpQBgQAAAGUlkd-OjElRNdf8y8yTj-P08rIka95UtlqtmQ1Xz8Y21dwV4V4Jj_FsC-O2J35yY0a64Usw2JLVsPxfX5QAhBlaQgrsKNMcvPTSAV8aOUa4v0kjjnCLfJYtuH5KbzF81YfCP_pFX-sqWIdpNtjAeCl6gBdw0I22c8wCmF5IPqDTK1lIT6TBBAaGH_VDucxlVRIQ2eYxF0T1EMzZlryH6zsxjBoUp6Rla2AyKW1WPsNCVcHUl3QTRes", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 45", 
+        "reference": "CnRvAAAA0sF7hpzok-mqRXEV69i6rLLV2TCdrqbbz-EmdIA0kesDHNvlxLYTdDu3Lm2_-gBffUBPLqDkCKDJFc4S20BphN4AeVikjTPhSbH5MnY8bJy7wNlYRENahmA1aJMXYrOmeyRob9Q3Pd8wdtt96oZguBIQN2cXNe-sYrOl1HRWfPedYhoUvdToZVDlx-iG8Z4j-ELSYWlDisE", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA7u_ap_VaiSVZuadnq6WkT4qdgUCdCKl2XatynzFGQ4xGDH31fPLGNksKtvdpa2balHQ5KNfCuH1n1KL6HML2fXT25J6ASZphwapFfEriqNZSWMe4zPKpPWmiyC28oUENhX4OtxoUV6zWpZAGf3PBHhIQx3Q4vlp8iDKjRDUDva5WQRoUoNBlDpCO9pIM_xBuMu9hNaGqVhU", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CpQBgQAAAGFohSizRituqSVziIW4X4n49lBkcGUbvjfrgpXRUqpxmTmscQAWhM4ItZw7xcnc3Kon5-aIY2r0L9jg1Iw_w57lemWTL_TBhFexyfVdnymIoNiGGAbMJTI7KmH8WdRUSPxNzXXSy0CM2N2DT6dYVeEUMlK0vgrFe3wBNlJK6HCFuQtIvBnNtRawfoFyVvImBhIQB56iv0KYwPsAW6CCTjyDDhoU6XuIe2yx8i7ATZixP0I8ABMyedc", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 45", 
+        "reference": "CnRvAAAAfqFAzGfemPERE2_sqIDzLrEIBBtmtw-OTB0ixMbLcq7Mi8OIle2kZeLqjfSv4MqG9iXwBH76JbdLrx9vHNqu_fW5axcWpfjWplVMbtR0ZDVnTikFfR2oCnmXOEP6AEMWhOX4i7uCmclriBllTHVg8RIQPi4QkHybRNlDwpn8O5rSpBoUW41x9TbzHGUjd6FfskoveFHkoCA", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Aeroporto Regional de Maringa", 
+        "reference": "CoQBfAAAAK46fcolj8-bBnf6gnT9z3_fdQi7X6lI_FvfcDlolcIVBchEjcLnNSj4w97hnmJz-JNW36rDJokwoxMTCjZF7uGyMOfKgHxFbv7tb2-E4QEix8EyIS8DsEVE1OBCsogFwi33iu-Ms8AeBfIR6pnvx4HFBk6Hoxk6OnTfsEO-IpI0EhCLP4Z5KOVvQEz6oVPKtdgYGhQlajIR8yFsZuKuylJTvnu9B7vWIA", 
+        "geometry": {
+          "location": {
+            "lat": -23.475874, 
+            "lng": -52.015655
+          }
+        }, 
+        "vicinity": "Brazil", 
+        "id": "4943e70d4f62c3e0df27ca9749793e6cc64ac523", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA_bUnKogr7emH1JCI3RzERwkQgn6hCKRalRObkBTfUa0kzLmplTKxbSYLrxV6xPzWn9Y_492XK9Z6oQKEWNxRpD2swf55yeuWB16mt6yrxuJx9c5cMEHryWjmQ5ItbVuKeZLWuboxvsk9covf3Gke_RIQ3FspehEHF3hlCFpWrm6kxxoUxffm-y9Xv7vSasMd8_9A-RSPW9c", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CoQBgAAAAIC6ofe-Ag-61G9ef2vOn4pBSJ2ZzgaMtqaqff1YmeAdaBs3U9AunqTA3bydpqZM4R4WUOh0MmX_vIEOyXrum7qK9XARbRZwY8L3SHQcjY4lisvF7sqk0GzzS54stfzTkeW5R5i-rnhG7pIpXNd46eK8YJil_5NAMiucF9DPJdGtEhBmsLv585uE9b4AP_hEaPwNGhS6jaeEHM7G0ACllHrCDCl0T7C6NQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 45", 
+        "reference": "CnRuAAAAyQihWF-3dFaQYgTDTcArfGVH7HHGFWGDwYmZof-TQ69-CSaVVtt5lmvd-CgdgcBlc-eBzDR_5NFP2JUoKBrxAtXzFS5caZ8cwrUXsuFMxal2jIkBsVD7xTifBx_pGgRzMICcBK0zS3GfWVSYtb_zAhIQ8JLZwd23X5uH7ej4Y4MzxxoUj0YLms7_LCbcF9AHrIAP5WbtoEQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAtyZp932nva2dvpQeJLZ7_ZYf9YxFJm_G2x5XZlEgSqC-OMwVKSQmMZpVctw_K6SB9cK7uyHhVJRkhjXMR9sCbV9aXub5UmMLuIVscs23FVqnSRVzMOtCSumbhsQE4rtmTDVpnd0maPXqz752wFveqxIQpZSh2__gv3pFRJQn-I0Z-xoUT7vyuJgY0gNfKzmCW8ycI8zCk9w", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CpQBgQAAAAfDjUHiy32RruRSyK6VfqGZhP-msWA_tuMrDZ0Pe1H0rQ6iUC5vICIOA0H5p1EUAtbZJRm-tLHGJklb7bMYH23vobLlphA-yRHbWRyDK1TAFe0eobAzX6MjBD0rkEAaJZVm6-9zP_Qc_-DQzr8BZHZD7WH_CSt8WfUruGT8h3Y9-A0Jhf77_4Np-VT4852qwBIQogcIHf_cnuoc1ur2FXyOARoUtw8TlPlqMs5N-bJM33EgUUxSGJY", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA_zgYSfR01HOpwQS3OShR2ovgS7_ck0fnybMJzptO2N9eFkfSpiIOio2fjXuxP4Wh57KtQ5Uy4zH7-2VOICeBVYCqPLw8hPkpmnL_kORoId4sHIConYbIFMJGidLyggCRAZ5KjDKMtgZotSwR5zZ4jRIQh_nBmR-JnOeYuVYHE5H1-RoUQJTyo1HzGO3_hOUL2ZdXVXfh6Mg", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Localiza Rent a Car", 
+        "reference": "CoQBcgAAADsYkdkGju586oiB3VzG42hNqc81F5nK7tLWykMgYmRoX_8BoVCpS1lk5IzXdhZqnDHiQS1tNrt2D2rN7mCtjtwt_XjifOJx-rZDAoh3gg3MRqnqKqlvDmoxLiZcQ6mz1tddaK_-gdYLv8Wrzn7P_iPvIjrH4raiMjxvxvGfClTTEhDN3ck_-0VoRJUxJG6PU-CdGhRf2EAL55bum-Ts5nbaHLva53ZQww", 
+        "geometry": {
+          "location": {
+            "lat": -23.479685, 
+            "lng": -52.012067
+          }
+        }, 
+        "vicinity": "Rodovia PR; 317, KM 107, Hall Aeroporto de Maring\u00e1; Km107, Maring\u00e1", 
+        "id": "75827d090aabb8cce00b890d4334f13236d56090", 
+        "types": [
+          "car_rental", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Aeroporto Regional de Maringa", 
+        "reference": "CoQBfAAAAKO1cqSmgWL_ycXbb65oSz4WvHpya6n_Ex5eJMj_DUo3mwqFADqV_9PURblgE2deLsTlNtfjxvHViO_bMSyP7PVHrbxUyckE0Jal71vcw73ybfcsIJEubAwgwKjv3OkROcXkgQCJlE1wEoNgxScCPyDpL2bqM_A0VforBXLiCBkyEhDWnvQivPR3h6LkpEkPrL0mGhRLV_i6Ur4mTDd9F4fr1anX0vvqNA", 
+        "geometry": {
+          "location": {
+            "lat": -23.475874, 
+            "lng": -52.015655
+          }
+        }, 
+        "vicinity": "Brazil", 
+        "id": "4943e70d4f62c3e0df27ca9749793e6cc64ac523", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CoQBgAAAAHk9rKByh6AbznPv4QRGMAQ6vM8iA6tbYARLZ0FQiI1hwPT_iCldhEJWjtqJLCkTssAI6LVXOohl71QvEToWshA7vRvRG6jp0Oo6Oc4APo4wfkZW_muIt8bWi8lWgUu95fT5XHuwyIoTBIxmComU9AVvYxwWeoGVKaFd9iSJftv2EhCCtm96tY8DU1UNaxw87q7vGhQIiTK6RL6UGul73Oob3RovrYpaOw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAMzrBArQDTcfFRXl9-NarOYR3tQYwEZecsw4r5NpCgFjqFSyB1YocJpXfSGbPVMj_Bgy80Zv8bNrslcnbi1wlzBPgSbC-Wb0y1VKElACVJyn7f5Ksv7mMhFsO0_SdhDGOgChLFZXWQmcRCUItJcxi7hIQnSCsPT43PQ5yvTtnTTZg6BoUnQ7trkgwfek2NrBBOl2l3YTMl0w", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "H&S Maring\u00e1", 
+        "reference": "CnRqAAAA670aqNHY7zfbSEY1NA_rKPFiW3g6PM3ucFiDuLD_PR6_W9U14Rf4Bb-sJUdHkin5bUtwVRS5pA126rRy7y2zYuQLfBYiaS_ERMbFoqoUhpgqH64xAiUwq32abbBQfJJd0B5BGGYrY75DrW8dZnX5SBIQ6aHjUwuJBFS2ikk4NBD8lBoUehE8J1f40-Q_UZz9pyxWtVEYonE", 
+        "geometry": {
+          "location": {
+            "lat": -23.479936, 
+            "lng": -52.012023
+          }
+        }, 
+        "vicinity": "Aeroporto Regional de Maring\u00e1 Silvio Name Junior - Av. Dr. Vladimir Babkov s/n\u00ba., Terminal de Passageiros - Bairro Parque Industrial Mario Bulh\u00f5es, Maring\u00e1", 
+        "id": "1518ddc5b32937cf11297884bc01e83dd261f1b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Localiza Rent a Car", 
+        "reference": "CoQBcQAAAIICy2qEed88_uZBdRbKeGrANMXfzk-2YaxIzYT7gTPjqGs5OgMQrxUtuByb5FwB2uRKAniO0XP7_LTTdlcAsfBEk98prOCCLqfYszNH5hZa4ImwDqu9UO96Y89D_OjKkpaJRYn9-kg8M2Vu7aoj9XLGC2jxDgSx-iPpVE4PLTAiEhAq4Fcx9ouQTnR5j2pFI8PqGhR_GxTWDctNcyHIjqSqDD9V_Dogrw", 
+        "geometry": {
+          "location": {
+            "lat": -23.479685, 
+            "lng": -52.012067
+          }
+        }, 
+        "vicinity": "Rodovia PR; 317, KM 107, Hall Aeroporto de Maring\u00e1; Km107, Maring\u00e1", 
+        "id": "75827d090aabb8cce00b890d4334f13236d56090", 
+        "types": [
+          "car_rental", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Maring\u00e1 Regional Airport", 
+        "reference": "CpQBgQAAALCm8eTFajZQxC-vC5XvAXlEt-OBRTe9IrIKc1EPhGyeV63EZ6BBG0clYdMBCzMpUa0HJh7hHuyvSXrccf5obPoGTdBafhmafFG8GZWvcjaRuGWNi7YGUHx-G-zYpHzpMwUjC9NjPayKu3fkpjzkpeWZYYiCRSqLLlzctq-p8fMQ29QM6ETa3pAv6_SA9rotYxIQgTY-TR09V-VYSn1jEmO2OxoUl2L3rr72ONnKBNNjYAYvUP0UZcg", 
+        "geometry": {
+          "location": {
+            "lat": -23.4763889, 
+            "lng": -52.0163889
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.473049, 
+              "lng": -52.0047912
+            }, 
+            "southwest": {
+              "lat": -23.4806619, 
+              "lng": -52.0198365
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "ebeb7a24dc2a74d667eda5fd224879771c54f8ff", 
+        "types": [
+          "airport", 
+          "transit_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png"
+      }, 
+      {
+        "name": "Zona 45", 
+        "reference": "CnRvAAAA8DNTmpIhD4tfirbFU69VwFqnbFk7LnskdJS5U-cVxV94x8FJH58zAZA4AkGZ2exiuQpaZDUxR_upISjiQTsjA0bM_Gp_4EfJgniGwrqzYbmVSpkpDnxJORw5CpCher2hysMlTMfR6dSG_JrrSUGVPhIQhgrO6UBFfvf6sObKA88NoRoUtu0fL2muYAoCaC1g0u_hzdBlWeE", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "SKY AVIA\u00c7\u00c3O LTDA", 
+        "reference": "CoQBcQAAAHL20EF_IHiu9i-Z94TULDw130B26ld7M9y5Zs3qP8Bh-VBi9q25_AXOB3RiTSQzoAS9-kTtkky-v24KXkEltrmZRKqxsCZLukojKFA9WfJIMNapR1TGWPocHmL7B9VXeUQg9QAkysgNy_HGRqgaQNV-dOY5KaDIF4bJl-0JiGkWEhA2jfrSTARTovuiut3QBu2oGhTjIHQOjuB3HEfGxRf4Xcwiw2-_Vg", 
+        "geometry": {
+          "location": {
+            "lat": -23.478893, 
+            "lng": -52.006664
+          }
+        }, 
+        "vicinity": "Avenida Dr. Vladmir babcov s/n - Hangar 54, Parque Industrial M\u00e1rio Bulh\u00f5es, Maring\u00e1", 
+        "id": "4cf7ca60707962f12d2025decd736b39dad076c7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAOn3wKP9RZ8ukThCNsI7c7a0v6UAK_Ij-gxCDtUlUBwSH6LOCKD7f_5SqfsdVUDAoRuzKCoQJoN-Sxw1FXcyxOSa4XsyxX_nAOhQatY9MmsnxMGX69Ye6e7m1C-cZ4ZzBd_7j619tx-gf3juvu1rQAxIQUe7NKd2UujCFFsV2RJjGVxoUPZlCmqgI9xHsf4mbtzLPTorVV1s", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

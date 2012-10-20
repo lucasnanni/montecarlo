@@ -1,0 +1,1006 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAANgHHQ6UjKWM6zkMsKA2Z1VbjoBJzOtSa0wfXBOAMAJK5-h5E1IUUgGnO0zM0xY70SFUrVxyZw0HWZ45gBQcGuWk3XoqhoG-FI7GMK8fa-Wh70lzdURsFPTQgXDosb7Nx3fB_3ipNtppVXD9gr6itYxIQlNFqvZS3TVeDXIqTwKzeHxoURVefxRzbKqCgIEXA4hd_c_qZxss", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Mercado S\u00e3o Carlos", 
+        "reference": "CoQBcgAAAEX_309WHQxrh3S1YSkCAGy_zx4MX18yXgVLDi9bpCOCtSblWYQsflQmoZlltqGGSJqPNCE0dw1w9RDqB3xFJTEqGYkjtAhQ1j-XaVd8IaMa1ypDRwBx3UUXigykRivZtFd78JwNnfSodWQbAhD5i2x1fnuOxBIetOBRdBof5w0TEhArgCp29a5rFyDvKYOuVb7eGhR-pnLkRDPKnYEsy83NDx4OlzBePg", 
+        "geometry": {
+          "location": {
+            "lat": -23.451269, 
+            "lng": -51.976312
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 527 - Jd Itaipu, Maring\u00e1", 
+        "id": "a33d3834233290056b670dd707e54f2d22f8ee46", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro Municipal de Educa\u00e7\u00e3o Inf Jos\u00e9 Cl\u00e1udio Pereira Neto", 
+        "reference": "CqQBngAAAPwS32292T_AhQYQP13orHyiuNl2vTJmwQrkeNdtCsz5hskL5RhI7knt6ZasUHB5dY8z0KTfpl4a_VAz4QF4uKA0cEgnqEldTmI4YQKVZ1lZG3md8m_8pCCl89TqZyj03lLeoD9w60L5z41B1apCmtinF07iUl3ZSN0bBy2w1qah8nFqxV7qBaaBFU77oNaU6C2rKRuTWXgYbPJbCllVbYgSEBAKl83xxatOyjEi9st_9RoaFKWEeaJkzZ-mwgA-PahD_zXMYsfq", 
+        "geometry": {
+          "location": {
+            "lat": -23.450885, 
+            "lng": -51.97741
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 dos Santos - Maring\u00e1", 
+        "id": "f1ef49fc74270cf8cff46ce11373530db8f3200a", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Aparecida F B Seneme Centro Mun ED Inf", 
+        "reference": "CpQBhQAAAIzDDp3YiJJCaKSlOIKTYpqol7HdgLPbDvjR3V4vAT3BCuorXF_VCka2XNUleAkuha61VN3up3WjZA5azj3h6GT_RTDmsojVI_07iWpC3CtxWQ-0IegwIkFmOt1hHSd85ZQIMoNkZkT8Pw3pwz43Tx6OC9W7GLrKkj6mWR4LqzjrNc4DTftd1JrUyp4Nn8dO2xIQn8LGZIr8ORs0A2O1XriEcRoUMvW607RL71oJozI_uy6we4_U4d0", 
+        "geometry": {
+          "location": {
+            "lat": -23.448633, 
+            "lng": -51.976278
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Ant\u00f4nio Pires, SN - Parque Itaipu, Maring\u00e1", 
+        "id": "ce0da9f8620b245309e555b99b5cf78e6caad65c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dep\u00f3sito Construmega Materiais para Constru\u00e7\u00e3o", 
+        "reference": "CqQBkQAAAFbLlff8j_fA7ec3hSmnIt6BHYP9OYxMEegHkalRtzSc1pEP8BAMPNTjyfB6Y3gxnB0ZSqlv0ar1xHI2DWAsoNfRsnXRf4YwU9kCt2r0gLLpA3xKe0XP7ImIIVh6c98Dq2-VcO_ok5G_Ejf9JkYoHOz-eBW6JfUzye7VLJcBBB_J4i7dbAdO_j2vvXcfr-iL89iMq2LiLN3KGKice7bZjT4SEAXjLoh0fA3agfaTCBl_CwoaFIIga9V8m7W1rIPPXUNUlMrZuOE4", 
+        "geometry": {
+          "location": {
+            "lat": -23.450494, 
+            "lng": -51.976253
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 439 - Maring\u00e1", 
+        "id": "8bc25c32888cce6a743ebe91ebf3e7bbd7bd836c", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cirurgi\u00e3o Dentista Dr. Daniel Fabre Sanches Jr.", 
+        "reference": "CpQBjwAAAIOXEPymYADZ5zn9_j-KBwOkV25jvKactHRdHr2ve_aXi6MxaEp8lYs8TIoY0XfWtXH_llshNiQdKCBh8scaDiTEPoZWQ3JNfDLZ0YKLjkHVsj6kTo4bGaQTv_ikLzxUa-UgNrHSV_wd6r5BM22x6cwA7PF4tQATK1JzPmDhuakJXcf7zV50ViUw4IlhLYEfdRIQZJrqCASM81MEw9bIfGgRpxoUPJvpGBg2jdUvSpNRjJCksm9tZJc", 
+        "geometry": {
+          "location": {
+            "lat": -23.451084, 
+            "lng": -51.976447
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 528 - Prq Itaip\u00fa, Maring\u00e1", 
+        "id": "e17e80950cf456a58848ab56dad9e1bfa8a2ecd4", 
+        "types": [
+          "dentist", 
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png"
+      }, 
+      {
+        "name": "Batista, Marildo", 
+        "reference": "CnRuAAAA5PWN2ajNfPw-YNXXCUDhlyPdOQ9tneNEDLvnbQ3kb3n5VR6iLuO9gNfS3y-w23Tki6OOz3mJsI9Mid6qwNR-r_BZCXwhspZuKSyEHSLnmPBOkLwfOdLS6_6A75dSRCyM820ssR6pV18e2zIn4anZVhIQR-ltHk88Qce9SAIlaaSliBoUFBuwd9A22Jybfi90vJyrgKTE5OE", 
+        "geometry": {
+          "location": {
+            "lat": -23.449822, 
+            "lng": -51.97659
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 382 - Jd Itaipu, Maring\u00e1", 
+        "id": "e0bf19647a03348a8815616d9639cc187c06188e", 
+        "types": [
+          "bakery", 
+          "store", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Disk G\u00e1s e \u00c1gua G\u00e1s Itaip\u00fa", 
+        "reference": "CoQBfAAAAH2LJpWyIHF7BSgTCFP8rBkKWqpeZfkyFLO6sOyM5_9UXK8wn82hy-vIBHbB8AHV4i0Zfqp2_WihcyE3AmRrgQzxxvK3ITr159Ie6v8vCO34QStBruRpSqRgY61fNP0RBGiLCR6Hqffif1BgsWcw7ft__jA1mPn68Ri0L5M1j2SSEhCzlxoCA_r531PYg_DcPOAdGhTh73DzAZP8sMdaT92oJiy9DOhlfQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.450571, 
+            "lng": -51.976619
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 468 - Jd Itaipu, Maring\u00e1", 
+        "id": "4a2cf1f8f0b8c7a751b0d74a31b48132b8d5d3d3", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Supermercado Mais", 
+        "reference": "CnRvAAAAN2kr_TY9BaubqxVEYC3EWMYxwj07qgXWR7U-g0Wx3AY9JExZYNKowU7BPREIymMFEDx_yF7fDWEy6vGfA80hLpwIstYZdLvi7tWjKT-2A-w4YWuWUtDZ09ilnjD8tl-0RrEvhwOOvbt1ToAdPB4yNRIQnBfVI9MapC8AI_WTor1L1xoUvd0f86yxNYHuIHL-de7L_pWYAsA", 
+        "geometry": {
+          "location": {
+            "lat": -23.45102, 
+            "lng": -51.976293
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 499 - Jd Itaipu, Maring\u00e1", 
+        "id": "12610db87639c969462e5c6f48585fe1b6923bbc", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Waljoi Supermercado", 
+        "reference": "CoQBcgAAAK6hixOyZeHjsAnKt1UCJ8gSPYTT7_kMoZfUxW_PftY61cx9HfMagbG8c-lv3LcBZGzUDCj-f8mlGP1GgzDo63zPlIKq4G2jE88CAcMugVmnGrcOxaKXEoWVhil9z1-Bvt1Vcznd1BHKosR_Kxq4fW2bwSRYFLkQX0fqM9bhpIogEhDxVaBvp_ZfoLdoA5D5UHvNGhSmXhgwEJv6vap9Gg5CgkG_O7zw7w", 
+        "geometry": {
+          "location": {
+            "lat": -23.450937, 
+            "lng": -51.97722
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 dos Santos, 825 - Maring\u00e1", 
+        "id": "0ed5a78517da6c2844b9ffad667ebe282eceb6f2", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Kaio's Presentes", 
+        "reference": "CnRuAAAAHprkPhGXexf3qNbekvyznfWMiGGzG9L4nw6HFo1zUe65jXrprBoZYZp8rO2I6PeLuBJavbX1LYNySy3ETJNsSQBRAhAOkvboDcTgFAB556fntU-ssVa_e2V-joqfMqbmEMYjjNNQu2nZDlb00ba6QxIQMpenBNJJZChMC0QTcSnn9xoUX7tA9JrracpYkROIqn-XYBFiMiA", 
+        "geometry": {
+          "location": {
+            "lat": -23.450412, 
+            "lng": -51.976611
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 450 - Jd Itaipu, Maring\u00e1", 
+        "id": "58c9dc458784726029135ca0197cbcd42ffb5bf7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Supermercado S\u00e3o Carlos", 
+        "reference": "CoQBdgAAAFnTL2k1hTtHEM5_PSAbfrg4DvEYTtzxCp3Dt6-fdKNO9nestAKbWwktBi5FWt-1B1j8pkPSroq7TlqoC41uNaH5Tul_sqZuYOaGbi_2TZikVp9hZzln-9RbXwQQSoeC7Qyc-jFnjXVXo3313wUwMgNGV8T_HOjCRx8p7z9BwwVoEhBSiXMHgb_KGLW9YYoWEIKtGhQNiIS12zXrCcdAQ9p0uwPrtQXeAQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.451269, 
+            "lng": -51.976312
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 527 - Maring\u00e1", 
+        "id": "b0fac362a9f33ef2242834437a8e82d9f88d904b", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Via Sul Confec\u00e7\u00f5es", 
+        "reference": "CoQBcgAAAHTfQT-OpVwr1KJQ2S_oG8T3Ly34kqMRkyq7zpdaNLoSsJ82-VPpxXL3zafdmvEkAAm_z6sTsB8FsthRkIxeblLEreA-bIWLa29VloTbg736xNG3vP8E5NgsJsSFadkRfOpUxMv1eCxTWQ8KgJaPIrkA-oi0BtJheNlSBr5jV03ZEhBW4h5ZZonL9lkic_KajryTGhTYGaKf4oO8fy2i2xSzOnIItTKYrg", 
+        "geometry": {
+          "location": {
+            "lat": -23.45092, 
+            "lng": -51.976636
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 508 - Jd Itaipu, Maring\u00e1", 
+        "id": "31db556d0bee41f050cfa86c1c317866e28a108b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eletricista Edson E.V Machado Inst. El\u00e9tricas", 
+        "reference": "CpQBjAAAAAT_5zm_t7OhxzxL_s7eNru5VgPGJr1PpGwJgjsCAf-rAq-Zgln-feQt41bvROVVJWjUaysjDyrf6JOSSYmZEbiRgf5JbaJsb00Ur2MjbcH0m1aKf2OOWkpuctX1DVZd7V6chBdvmsM8TTq1DupKZwZPc4KQn2LkS1BWzIf7QoCdteqj9hXJSfdywpvHYFQ_YxIQG5Yp_6O8XGDiHdzGPLP3bhoUV4L6Gp3GQnWeHZpTAcCy3n3vETA", 
+        "geometry": {
+          "location": {
+            "lat": -23.450885, 
+            "lng": -51.97741
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 dos Santos, 965 - Jardim Novo Alvorada, Maring\u00e1", 
+        "id": "43d9ae0aedfed04a421d595f6a349bab393a1971", 
+        "types": [
+          "electrician", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Catering Maring\u00e1", 
+        "reference": "CnRwAAAAZ1fUw_kDriWotsJnfnInH8VMmQ19AUXyRAWzdsCpGhuVkTWI79F4S8SKkGPTfM3tfzizPLVJq5SgZFLEnHw4e9mPG-IJj_XRKeh7oUQkYHujQk06Kfohty8uEjLvi427Tsi_mMPd_y2b_kRPoKlSthIQf_AzlBkE2Xxf0UcfVJUM1xoU8T_FpLa83lslYqKSreETI66W1Fc", 
+        "geometry": {
+          "location": {
+            "lat": -23.450385, 
+            "lng": -51.977193
+          }
+        }, 
+        "vicinity": "Rua Pion. Ant\u00f4nio Alves Teixeira, 479 - Maring\u00e1", 
+        "id": "0f75f29071f9de3eda1365d2136256a405932b3a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA0o6YoPCXAe_mJHm49MkzWQIBfBe1g8Bbr6AWS7lFEIKO3aJN9ofaNq8dGirUluJMk6F26YyDQAHcjHH9gSRoBJQXEykJW2jcAI_lBGnoLl5rqg-j07FGjxLlIG5sc4BPc65IBHRRr1Tg-R4FcVolqBIQyOQezin92Pwj6_LVxCEiRxoU2a4K5D9Lr_WxjoFouFuTqMxuHoo", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 44", 
+        "reference": "CnRvAAAAHCKE9RLcW3iqhtyQjaHqCAtJBbtq2fhB-Q-FJ0-AWgXY9UTGNy0UhZcau01q2-ltkpjc27k30GIIPUIoRp6hmsmri_kBA8NivfFxC8iAhHv1PuOUU6Iwo7HoXOYz3Qp4aygxj5TKYrvr4jAEVacMcBIQfpVsRgNDN_j_pfcwl-WChxoU3Z_5kye6tW2JA80sxwk_G4Jtyr4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4556563, 
+            "lng": -51.9606621
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.445657, 
+              "lng": -51.952806
+            }, 
+            "southwest": {
+              "lat": -23.4620791, 
+              "lng": -51.97096
+            }
+          }
+        }, 
+        "vicinity": "Zona 44", 
+        "id": "bc1716be835c9183ee7279ffb6294a72df28acb2", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAA8pCxjnW9ZhxSMRtEH1p4k65Ip17qtV5n0TJj4BrQTJo8bQDCxJQcsMfa77PN6H_8QSUesj_zVQg4p6nKnG9T_kF2-0MK2cQ_0Hizls1YmIwXl8ekXjZvafwj4cSJBw6BWNJcG1j6j5Oj6ehtJhrZAxIQ_fh5WycwAsd-R6E1v7z15RoUQOqKxqA1z1oEpKqxG-Fz9TOTPpA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRuAAAAjRtMSStiUHzlfl9VP4xf5Jgb5JXcri9IxoBlq4ti1wCYQ-j52BG5H_U2XRBpqsvGIX4vdx6N5f1nndPWrzyfAC8NCf049tKnktYi7crgx1nxGdRtWa2VR3Djtc068ie5hQ0Yh24GGa94gnUhkeewaRIQ-GO3y1S7Ac6Kxd3E5_ER_BoUoSzWh3cUWMRlHTOh6OjR2Mx51Yk", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Ingalimp Equipamentos E Sistemas Para Limpeza Ltda Epp", 
+        "reference": "CqQBlAAAANkLAma1Q8D2gd4AAiHlbbjpwYi6odgWYQkBEJIfnwdy8T7g94p9T3e_PqkwY7LjfhhtWSiS-Z8yvKP-wX9OV10MWKhU5riYETvPdnt1TQOpiYBasOPNhHtNn7UDjSmnefMpJQwE2AJ3QyfWV0F7V7ngFJ4-zkI0cgtrxnJX8efL8q_fZOq1pwoIP0XIxLrvFTNMzKi5QNGHbtSosnYjBHMSELSQqZP81L1mJGgHBSci6cwaFAkWQuN4M3vC2eH2GHh4gOQp3B0H", 
+        "geometry": {
+          "location": {
+            "lat": -23.445074, 
+            "lng": -51.97329
+          }
+        }, 
+        "vicinity": "Rua \u00cdris, 150 - Jardim Industrial, Maring\u00e1", 
+        "id": "af9264b2eb42ebe69adc4374cf02e911bd0064d9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAz1CKh__Y3W44f9tYkpZxJxFB5-Pm1HnYYp_m3Bb2YE1IuSMORo_SVKOa11VIDx0FPj_Hbg0CSMacwmsMh2ND_WX1UtXLZKtlnkIvXJu9XVX7CfRxvbeI_pgC58nADkvtI5O5jde87RxVGYiSvsBGXRIQRllqcGoZ2m5EleOy7ArxEhoUcmz-wRcq948AV1VMcMlodvkCzgY", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAApkSHuF73nQL1YvdVCqFZgzGuNGIUI7ZHqndGsXqwFAzCXbz-dFLepXyvwjfO9HAziQenQBt7INmi2TKJIcBy42izUm3JtKQxfW-TE-OWuOYZBOp-JBhP_ibcj9fm39zhSAKJfpz4stxQ436xAqntshIQuteLFGMtacisAy0id2woRRoUAFBj7JMPtSy_WghAkh1D-mTglVc", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA_NLBwVtSkKoGsay1znT01ClWcsNa2NYadnNfAd2uZUxENcltl5vyYEG2z2wvk-wDdly8kb7dktdZDLg7MpwM4gDj9HkNkk3rnK2JSli7NzseJVk56Lo2SxfnPMB1qiWTiTajqvFqqMxJ6pJ0mnw4yhIQjqEaydfu0DkgMdOceO6ADRoUDJKZ1vP58b1NyyyoKo6rJo49aDk", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 44", 
+        "reference": "CnRvAAAA-1M6qh17RChBPrtCjS1slIE4nrrqz6hV1xCpikKV2PkVfpJtygzQk-HJB6z--c2joDURuFXF8physpmer-e-iBYjngCg4FzSVxGqMMLJ6WKCn0GmwnQLGe-PMsh21AzxIM1SDxeLJEc3_jcrAx0VqxIQSIl5hpMCkhCc5zzlFf8ChRoUsMf-RbJ5ipBHFtRe3-uC57msvBk", 
+        "geometry": {
+          "location": {
+            "lat": -23.4556563, 
+            "lng": -51.9606621
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.445657, 
+              "lng": -51.952806
+            }, 
+            "southwest": {
+              "lat": -23.4620791, 
+              "lng": -51.97096
+            }
+          }
+        }, 
+        "vicinity": "Zona 44", 
+        "id": "bc1716be835c9183ee7279ffb6294a72df28acb2", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAhD7d7iPl9oyq8WUQBbwDEhQRHHhtRKkaZDHLRIIXD05SFhx5gMgQBgS8FGdcs1a5c4TeobEIJYGftA9ZPMkbAcUE7puvosCDMx-J-lfn4RQlvKBdBmB-ffZqSfUwCvWBOvNCbacMSyyvGDn6vWo0uxIQwkZY_9TfZvmoSZ6sN3zDNRoUDjiJP8FsrVxFIUU2IKPk0NyBEW4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 44", 
+        "reference": "CnRvAAAAPDotsOY4BRuAjzDlBnOPapNaZ9Vx3T1cUEsvBWHgCI1VxNfeGeKdc-ENgJtyu0AEwRizWz7xoGetNaRnF1qd2RnRPxdXg0SsyutDP8zbAC9Kb9b7IOl_ydpoqPtkgkRdEbAeu-sGj_9imOgbJZLJOBIQyvmShxrQGI3JCDDTUKB3nBoULUvhgSPnw3OrcyZt5iece71TOl4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4556563, 
+            "lng": -51.9606621
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.445657, 
+              "lng": -51.952806
+            }, 
+            "southwest": {
+              "lat": -23.4620791, 
+              "lng": -51.97096
+            }
+          }
+        }, 
+        "vicinity": "Zona 44", 
+        "id": "bc1716be835c9183ee7279ffb6294a72df28acb2", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Marcelo Marchezan Caniatti", 
+        "reference": "CoQBeAAAAEmYw96KwOTtSTeZsAvur8EnqVWqf8TwrujuLbmw3cHhOlACHWKnVEEk5ac2Dsj-MJf_ClTG4R5JIcaFJhXh3qzR9Grng7zhrnfcl34UT6cWCxKPewxiQ7IgZrZSwPaooAwaALqGCM7zfPf3E9Grt9YSjGXyPjRWmlzFa6DNJ5ZIEhC0AIHFdtIV6WYrS7B9c11nGhSD-ZYnQgrVQzyBYh0vizoJbvB1Pg", 
+        "geometry": {
+          "location": {
+            "lat": -23.453338, 
+            "lng": -51.974463
+          }
+        }, 
+        "vicinity": "Rua Pion. Jo\u00e3o Pinheiro Dantas, 4641 - Maring\u00e1", 
+        "id": "af62f6e78e64613ecd7a5b4cc61a6e4431564552", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Escola", 
+        "reference": "CnRkAAAAucc1AhSjWOnLQV0I_E1xaGH7swni2Rw7btE2v_x7wX-NVCg1cULpyEosZdSV7zEC5VRTHyaiv_zE2_Cr2hK4LPnVQJ8K62xRDSL7EhBg51jgQTG6tXhYNXfYYIQNShcyd0qvJmbs8Io-ewEdD_HuHRIQh7Vwdjc-_xihIjMRyaKLsRoUy1IgtxgZHvGJuWZC2Q60kiApd5k", 
+        "geometry": {
+          "location": {
+            "lat": -23.452653, 
+            "lng": -51.974523
+          }
+        }, 
+        "vicinity": "Zona 47, Maring\u00e1", 
+        "id": "4841914b795322f4e9fcaa97160287aa97210a0a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAA3pp2Apvd2RzRLJgA8xGaDrpnmUbk5IsKUjvzndagnfrxP1mcApgdQ3OUl_t9W53Df-BFi0BZeYMdnCbo81tkdm8k9rItTBcGhuhKIuT6zJQYIza2PWyUlzOUV2FaHoXC6TnAdP7akd2ZJsnHZ792HRIQq8uaej8yNdCWvKO-zVt32xoU0ejExWoI9-TrAuBxsBgVoR0K3Qc", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAA93wVWwNDyU2WS-VMrEYiW5miUcVJTxn-HmrW3gjsy7MRBXpagZw06FGC5bPCJh2t4nE1j3acBnI4kX1PCYLJg3fI4Gv0hVT_rQNCbE3uogS7GJsrB6_pXWbRA-PSvLJU5sup9urdBWanWW2D_hZpNxIQv-AR94GSTrFwbAKlkxXWARoUwqOadzSIs8ZhAnHQ6bR-GST6k8g", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Escola Municipal Oscar Pereira dos Santos", 
+        "reference": "CpQBhwAAAFiKuDd9y7IqoIOHrpfd-CrjVcJPmstrSICzP5KOr2czzkhXuXwshw7yRrJvJpunIo5CButcYdjwh98-VfkVB9IVCDiHdi8Apubk5am-nFHbF5i9TccAIsEzjgEloIu5Av5lRoSYHblmyEiiVXd80E_kwYMe7dMuKIc0BXfqVWpUzyP_--ex-PpOPkQCHEvKCRIQ96Xtoy3RvapApyb7b9NICxoU8s-HgT4rTYwIyuZVl9xlAThSzDo", 
+        "geometry": {
+          "location": {
+            "lat": -23.44391, 
+            "lng": -51.977334
+          }
+        }, 
+        "vicinity": "Rua Pet\u00fania, 239 - Maring\u00e1", 
+        "id": "98d9aec087ba279d0b8b8e47ccdbbf5dfb5431dd", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Posto Municipal de Sa\u00fade Industrial", 
+        "reference": "CpQBgwAAADW8B8-opQV0npyBCt0Wp__UTwIusAp1zd7pOjiTDltGo3jmN6DvLwyQ1KuFWCJ9t7jrLNu5cKVGjtfDfBPTde0ImuxK12LNAMnYo-QIUvGkPxdkmpzl3cy0SHZNFvVGDets5vLwlFPiow46LbaouvdjGAzZ-Y_NjXLo0zelZU0D7Ok96Hmm9uqJ6BkostFsjRIQOqUkiMZhxu-VOzLlYKxvzxoU1AUPVMWyzpsg8bwJYk8xzZ4ucnQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.447175, 
+            "lng": -51.977706
+          }
+        }, 
+        "vicinity": "Rua Lob\u00e9lia - Maring\u00e1", 
+        "id": "8fbfa4417315a5713ba264b32254d514d568140a", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro Municipal de Educa\u00e7\u00e3o Inf Luiza Martos M Fontes", 
+        "reference": "CqQBmAAAAMR7mln3wi3d0LscHi7_HuZhEF5sF17xJyCA_BQhrPge7bguudGq4bnWmRCePP5f6ZroCRY_uF4NLhugY4e8xk10PXtuUWSiCD_QPeX_i1xKVE-CjGcSXz992PqNFJ4bSxXtLsiRnbp2LJUcO-68XT8iJu-ROMXPNWE8oYPvUi-TSTnnSh9mkdMeKm0MulpZL5blvly9_ZCqkyPvtryI7HESENu-QQYqnaA8jdbVwJmn1fYaFAKDDhJj9w3jXPGRV0alvM4APSa7", 
+        "geometry": {
+          "location": {
+            "lat": -23.447175, 
+            "lng": -51.977706
+          }
+        }, 
+        "vicinity": "Rua Lob\u00e9lia - Maring\u00e1", 
+        "id": "6d9f0b929398ddf20973bfd023b47b227770112f", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Luiza Martos M Fontes Cto Mun Educ Inf", 
+        "reference": "CpQBhAAAAIKeWt9m8wI6EOUf_zEGL34foHvfFGfPZJpEe5ah3wF5JlpZ-Y5zzr5hSZwOcdJtSH8KXRREoZdyfOz7rZpi3Q7jdrSO2nsKWM9kW1g3r5QEIQyEHSbDcuVjkx-vmuij25_cXO9yKUJSRe3rG_sv327WZFr64bSZwEQj-gL0HAQpTbR13lmHWFB_koZFdaV3CRIQLVyXStSfweGJAHxBsbciQBoUjkLdnO-0sSzayK9V5h4kPE9LbSM", 
+        "geometry": {
+          "location": {
+            "lat": -23.447175, 
+            "lng": -51.977706
+          }
+        }, 
+        "vicinity": "Rua Lob\u00e9lia, 00604 - Jardim Industrial, Maring\u00e1", 
+        "id": "198a8b43b1a137998d8fda2b7f013c9099d7a258", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAojI3gU7adsquPj4fqXtkfu9axYfwsUWpf3S5aD7ZRn6J7M0FACeFaFHgx_s9qpjUygr9U_dFhA156td0I29O2i8jUq53w005OReiuDiFmrXyheQ9hHVr0TbU-iou_GoAsaSKdcgIVzPlTp9sdFoOehIQq1kE0m7kLO9QGA5va1fHMRoUlvTyeI9sY4NiaRFpE8MXePgcdOY", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 44", 
+        "reference": "CnRvAAAA0Zp1-oaJsxQSA3p4n__DPJXYr2vHZ4rV0tm8dxYPMfGeZoEBZcWYES-b3twzEjXHDFmi40piT9rncXoD6ISaAFl2dmA36olPQf3IIkVVg8ZO8krB2pBKwerkwngvzunKw0UqkpKGjLdhGfqr5B2OuhIQGDztIZozuErk_qwWAZqawhoUmgrZsj1TrfKacmPMoLVO7uqV7ts", 
+        "geometry": {
+          "location": {
+            "lat": -23.4556563, 
+            "lng": -51.9606621
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.445657, 
+              "lng": -51.952806
+            }, 
+            "southwest": {
+              "lat": -23.4620791, 
+              "lng": -51.97096
+            }
+          }
+        }, 
+        "vicinity": "Zona 44", 
+        "id": "bc1716be835c9183ee7279ffb6294a72df28acb2", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAfu2ZinUUJA6XcEddSyALZmTMa2jjKHy2k8QnN9jYfuDc1SXJQfFFueniM-g5H8tRtUMhPnMb8eX4k-YdlUDMJTT4DnB1q8HG0IhG1-Jq-rofQ-w0eWzZkFh3yItfK6YUaI355Smf8EKW4hmOpJMM1xIQy_uSNikRYFNIRHpC7pnbvhoU2ioJ6P05DVXHd57MJ82-w25RM9Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAqSkNqPNGFh_8wauCOc9buW3WmxKy82VMZSQ2_8ENtDcUpmOGNbxPpMB4QpyBc49v0kpL5eMMzKa2SY-s3e4bAg2QOb8oecURkxxOm9_PgBUGUhYFeGahXL3jiRaSFsDZEHhY2N33RIVnjkvgt1DwthIQvQMWuwgUOPaksZE67fAl7RoU9DOnuKWZb0BqqGf9F3DSR_k9UJo", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAA1nuTP6iSogzZlDLxpJSRFRkpid0KbUEfO14BihoNRCnVokf9Tw_2dJZMVGVHV9SfsGT63Vduu70GDQLOllZwZhlItxZBhjE95TkLMANCKzqlWfltYWnLNVxU0Fk9GeNzhpPb6QFvTJKJdoyCElIhPBIQUPcR3fZsXcNK6UHNI1F8OxoU0nQ7Y0rFOc1hTCGfVjUx_1FR9vc", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 44", 
+        "reference": "CnRvAAAA5c5DNJsdgJMy0Nm82i0ZeSkDIFgRG2GSLnylImlE4WIJc8tEAplog17byUh7FJIwZGjpDb8aX933IAHyec-p1Epec42-szPVbU3WUNRXUcUO0_lKunrDqZHhWmDUwB02fz2bFA1VaxlBxb6vkgtb-xIQI8JKbmB5QH_gZktXBE0G5hoUYCX9GsgmCmbQTwaxD0KXZZ35bKM", 
+        "geometry": {
+          "location": {
+            "lat": -23.4556563, 
+            "lng": -51.9606621
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.445657, 
+              "lng": -51.952806
+            }, 
+            "southwest": {
+              "lat": -23.4620791, 
+              "lng": -51.97096
+            }
+          }
+        }, 
+        "vicinity": "Zona 44", 
+        "id": "bc1716be835c9183ee7279ffb6294a72df28acb2", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Amadeu Campos", 
+        "reference": "CoQBeAAAAE5YI2YNGzHXH0GQHbolLt-O_4upCwbjxio2JK2ykcx9lhG49YyZEr9yvNVrUo-6H_c-t8WwPj4mdPGS0Mbg4nm14-BJjK-93RpKetvKrIsoO3uQ0unDQE4gHERFjdnIW8_ckGMUjGuPwZpnm5YTKRrDynGignk1c1L6vVuaSqoDEhDnbgrDiv_rx6AmJyIW0qd6GhQy9WUns7gbX3r_dW2D4IfzTnIySw", 
+        "geometry": {
+          "location": {
+            "lat": -23.452173, 
+            "lng": -51.967608
+          }
+        }, 
+        "vicinity": "Rua das Tipuanas, 1373 - Maring\u00e1", 
+        "id": "d0c3e10bbc59543ccbd98a16e50e4d623d10d0e7", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "FAGION REPRESENTA\u00c7\u00d5ES COMERCIAIS LTDA", 
+        "reference": "CpQBhgAAAMax7wTt0x3Q4BX_zY0AXhA7uWpFX7MI6TueQLSWtHu67FYEox-8XE9xy_wUmPC0_yAaUy9l3KR3Ax11arvWqESniYw0SQATQhFxr1C_g4DjrY0sHkPWxJZCEpnuJf_xReik7dWVNqZyOoHeJ0oENb0u5nmvOc0JPYYRjANaoRxNm10--wqHDfG51xgoZcw5VRIQECzGB3h1oNruXjAdDVlIOBoUc0q_cYRLENFHvoWjc1XS-j14UW0", 
+        "geometry": {
+          "location": {
+            "lat": -23.451494, 
+            "lng": -51.967859
+          }
+        }, 
+        "vicinity": "Rua das Ac\u00e1cias, 1100 - Zona 44, Maring\u00e1", 
+        "id": "381431bb07b43a866de830bf5fcf61ee909a8358", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAApJ6ZiUrEnPvxKOBpFVvEQe6l_9Xd8naJ3qv6vk1nvyU5Elyo5hMwq1yjITywxXfJ0AJBuCGo5bko7xpC_7xvUYgABXYW4xZ7KFia5zsJj8wdjmNJFSIEOUvShHOLCrzjlk9gojomTaNXjs7RvywethIQnI8p02bQl1SaF-bWtCKCNhoUr8WT1zP9DNruQUcnGKWhPpop3n4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

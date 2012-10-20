@@ -1,0 +1,1548 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAHr-4f2wkc7VIj_zqf0iyOeY3XxqHe34ggzEXbpGGjNzgx6y_1gzD052zBkWp9k9RRwG4S-Ha8Qx4adwYFrO53MBatQPBe_ibL0VNWsiTxT_5yROKRtC0nZQhZcr1d4kW6bbYLCHX9SFBeIG8RxPyLhIQiPDRmFi2VbIa4mwoKUbU-xoUxbpMPskFI4jIW1hUXqVu_CeUv3g", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 1.9, 
+        "name": "Departamento Estadual de Tr\u00e2nsito-DETRAN", 
+        "reference": "CpQBhgAAAAXzdPYBFht4YYZlXN4K0bncnPBxB31SOEuXPqgEMIRRL559k-sh0mnbTy8lpXb4hC8T2bMgZJziZa-gZ4k-NjhK1h01D3MRLyY1e-o803raHgxPZFpaDSXGlclznQP3HlV-MBfmnYD17K0tWl_LdBWF24Hx78rMCNHEZyfWDTfgy1rJwaGQzH6AtbKSRAPlDxIQSMfepIL1BYhrULp8wUc_xBoUVDeF6es3ZrVCwr266TedCi8F_nQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.451754, 
+            "lng": -51.98361
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti, s/n, Jardim Itaipu - Maring\u00e1", 
+        "id": "15ae98e55dbd185527aefbadd963e2286e5dd57e", 
+        "types": [
+          "local_government_office", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Comercial Gerdau S/A", 
+        "reference": "CoQBcQAAAN9haAuNwt6Dd2oTfO6pZP4l_dIAK2Qbl51Rckj1ZmNl3ScoNS6E0CPfEFg-DniIbbJUs1RH6A2uwVFWHJtbeB5hWTUKfBkJkLSU7DZsV1dNqSlN8Rc7WqxZaQcT7hx1lgkvX9XiONQjNtQHFs0DrhHCZJBSUWfhfiV1G-VhoLOZEhDJKfY6WTDqxduVcG3MvrGmGhTeCWaa9tmdJvWHCNgnJtfnlEbEEQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.452428, 
+            "lng": -51.982452
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti, Km 01, 386, Contorno Sul - Maring\u00e1", 
+        "id": "4ffea80f7007b21cd9b5e379cb506e82a4856a73", 
+        "types": [
+          "hardware_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png"
+      }, 
+      {
+        "name": "Favo de Mel Centro de Educa\u00e7\u00e3o Infantil", 
+        "reference": "CpQBhwAAAP9ZPxrJTwEWdceoBQpuxNpN5i0D3iAohF4z0WWUPqcOWXyC9HWoUVUHo_UybjBPSlcQfC21p91VWcTbyAGuFpWa3r4WsfkzV44HM49bP3dfme4T3d2mEYXbZxOreCK8awqYHU_5hf56fhd3yA__zhQDpNasjwqXGgiEjZno_dyFsKw9pvRn5Ejw-WYhUd-AqxIQoDEL9Th4dRZ0FS4rUdoQ2xoUiIs4QmykQD83iSc9XXKFbWQx9G8", 
+        "geometry": {
+          "location": {
+            "lat": -23.450828, 
+            "lng": -51.980367
+          }
+        }, 
+        "vicinity": "Rua Dourados, 176 - Parque Itaipu, Maring\u00e1", 
+        "id": "d93ee5000ee9ee7593c498349add0edc9cb07db6", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pol\u00edcia Rodovi\u00e1ria Estadual 4\u00aa Cia", 
+        "reference": "CpQBggAAAHDJEa9xg78dVVpWyTOGlzV-12Z27UtiJSSJOWMVMML3586tVUxQG8A13ZqZBLpkHTLgj0jMnmYCrnHSi7ovAOrG1DmIuddoqFk9N8QCYqUrc5VOv4xJq6zx_fAebqwl2d44qRaTew57B0zk1Xq-GIBu7EdppvI-ri0QsvLCiaHKRbEiWlQZm9vG6Ur6rAzZBhIQtU7bYEhIsC_sqvIjII_k3hoUUscVo7UqWGPjkFDO4MjEBP2Y2YA", 
+        "geometry": {
+          "location": {
+            "lat": -23.451754, 
+            "lng": -51.98361
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti - Maring\u00e1", 
+        "id": "7764479356f46eebf5ad3330f332612374118ad9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Coliseu", 
+        "reference": "CnRvAAAAVuczF1xB4l3K_SsHdeWLHalccLO3R7u_qCjvENID8yqMtOlsVHPy0MUwZaM9g7vfbSrgdDIbpGfgmuY2IuSOFMMeQE0IRmk_kpIK8--5YvYZj76qjA46qMae64SAAGI3xazh_7dXOF1PADIeytn3BhIQU1_uOB7-Zx1rjmI_wZyauRoUKd4N4q3cMaBZVd8O42nhntcM9_U", 
+        "geometry": {
+          "location": {
+            "lat": -23.451086, 
+            "lng": -51.982477
+          }
+        }, 
+        "vicinity": "Avenida Pion. Ant\u00f4nio Ruiz Saldanha, 2436 - Parque Industrial, Maring\u00e1", 
+        "id": "cda31a6cd54d620524e2804514cb931c51d7261d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Recauchutagem de Pneus Guaraciaba", 
+        "reference": "CoQBfwAAAPXMo9jDFAlMQW1duunfD8__ZEX5eQ9XbKct8TJxfivqV5rWpwLmSike6hhQ_NZ-JCSRVj6j-GFshJFVFEiav3olw4klSPfSCEYYJtwbIzieDL5Uhx98tuXkzXJupq6MES4uny63f2_tZG_8c1VY0i4AVutfIzM07pb87ksZE5xkEhDpuJ_ujl3sL_Wby7cC7WV-GhTbX86hgXqF7WoOScCnuEFgUh8xzA", 
+        "geometry": {
+          "location": {
+            "lat": -23.451754, 
+            "lng": -51.98361
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti - Maring\u00e1", 
+        "id": "b4c4a8ad095c43e0b052fcf243530888cd835572", 
+        "types": [
+          "store", 
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Associa\u00e7\u00e3o Grupo dos Dez", 
+        "reference": "CoQBeAAAAO4oGjlk81ByrbNDeqgmEmnmlFDuTpM1br8I74o0MKrwKQOs4TDZfpUEzLcW6QTL_B2nk8cckBLbkQ8mJ5WeMgoG0bm4SnjdMG1_uj8J4VLjVkZcG8zVlhbcc_Mxo8bhFFbQIifCNZ1RgBXjGz7zTflifDI9bxY1j22GODYcbKcOEhDJ_hm53dv4i51KENZQG0UdGhQUt4za4dHxUhoxsV7ZDsTLNBa4rg", 
+        "geometry": {
+          "location": {
+            "lat": -23.451754, 
+            "lng": -51.98361
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti - Maring\u00e1", 
+        "id": "af41b11e4e2966b1ab4826ad2de582e4137355b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Aline Aparas de Pap\u00e9is", 
+        "reference": "CoQBdQAAAGHYODTnkHlpHN7TzULzHOooPRi7e7bEzcVBmb9LNQv_UbQaJh6KrYc3DQwKI_8GOVflKI1XcLtuXSDurrp5rbuliJB9rN4TD7IK_n2g7oYWTryNXAJhn_0dCF6PvN0RJjQJhFAHFajBWDsxKWV1YDNg70NstUCKY_MstHit2lpkEhDM1O5EpLEF52_aPS4bo0DLGhTOsJDSBnU1U7kSfqepBdhtRrWmoA", 
+        "geometry": {
+          "location": {
+            "lat": -23.452014, 
+            "lng": -51.980241
+          }
+        }, 
+        "vicinity": "Rua Lob\u00e9lia, 1220 - Maring\u00e1", 
+        "id": "176e02f74042d466f119950f96104dc5520eb060", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Tecpel Ind\u00fastria Metal\u00fargica", 
+        "reference": "CoQBewAAABa-6Bvnts_SsQ2SP8_Bsc3O2OVzM9dgTOYwp-lsVG9eHDaUUG1XZrl5ZRocpRT59n9uxaFe36H3SDTtC6RTVfQG99A7P9E7Nbrkrx4TKYYWO4WI23AvC8s8gMeqRJWCJbYhSZv7GF0BUL9ejgIYulQncvBB6JgvNTI1Hqii_UjfEhDLMLtJOq9vd6oXhyVWKYNdGhR3aZoYGCjFU2TpADwKo5RIWAm90Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.452014, 
+            "lng": -51.980241
+          }
+        }, 
+        "vicinity": "Rua Lob\u00e9lia, 1168 - Maring\u00e1", 
+        "id": "58495c9413b30f20d20c4fc2ffd9abf837669917", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro de Distribui\u00e7\u00e3o Log\u00edstica do Norte do Paran\u00e1", 
+        "reference": "CqQBlgAAAJdqNpRnOiINfPcibkEBUpokp-U0b211kLPujc7Cx9VbxAwdxyAgIOwD4rWE7UOqk5uQWnxyTdclNdddDdPqNjwKwdgSa7txUyhkMb7bqmV8ujGkzxLkVw2yfeIqdUjwIslQQmEGbn7-qiG7Uq--VoAdMPe71hLka2SzPix2KaxrVozv3SnO_tNwbjVEMkGSSN4wjdAFbYf-kRzLTRDxyPISEE1lO4O7OMxH6uab4XB6kqYaFJCJYJPS18KcpAPSGmoApdvfOUS6", 
+        "geometry": {
+          "location": {
+            "lat": -23.452076, 
+            "lng": -51.980057
+          }
+        }, 
+        "vicinity": "Rua Lob\u00e9lia, 1137 - Maring\u00e1", 
+        "id": "5de3283f3102e9b5f4279ec930df7d5d82bc16b4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J.O Comunica\u00e7\u00e3o", 
+        "reference": "CnRuAAAASWwmy_9WZaLRwWLWggHUt1PjAUheGYeMX3sD_ehNv29vpoqLnEaJceKbco2pknXWaeFE0Qi8CTq4Zn2yvfrt6ZuUMMmS1UUcpjwjglOqpRj8pTxQSsoyF18Ee2BLbEwAmt757j_FOqN4ljdIeLvPRRIQjqA_O7FEEIXYXxDmWJni0BoUNkny6QBH0e2aAo7ygMfvECWHWTY", 
+        "geometry": {
+          "location": {
+            "lat": -23.451754, 
+            "lng": -51.983609
+          }
+        }, 
+        "vicinity": "Rua Prefeito Sincler Sambatti - Zona 47, Maring\u00e1", 
+        "id": "1cb671f9f8f48a3efb081c7ad2279a50e88f1d35", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centervias Sinaliza\u00e7\u00e3o Vi\u00e1ria LTDA.", 
+        "reference": "CpQBhAAAADwbURV3g8qr3an3dqWfdhkgi1Ih8bTIrwak-izyq7kTHG78UduPlAwZ94PBnQaxHaSOtNDJrhaTHOLr7OIKxKbsPCuGe3ELYZhNiyVLp8V9jIuXxE48EUMIKkLWc6bZKCq8w7mejgKJZ7kFeI2PA3iSJS-Yku0B1U3udGsObi_Gy34UgNZuwl5XPsLPB6ZHNhIQgZpFSwpiYnqj5KE4R-aadRoUy6BGhDbVdwPPjNoA4GTuJhlcOGA", 
+        "geometry": {
+          "location": {
+            "lat": -23.451553, 
+            "lng": -51.984483
+          }
+        }, 
+        "vicinity": "R. Pref. Sincler Sambatti 311, Maring\u00e1", 
+        "id": "6110972169b96c0574a979cb563e8e2b9a15b012", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Truckvel Com\u00e9rcio de Pe\u00e7as e Servi\u00e7os Ltda", 
+        "reference": "CpQBigAAAF1H0QHGejkXU8XZTFnhtc60n7zdTta07YuMGqfFnIlhDQeoSZoIqXTmKZoBzau35mvHyTkWsRwXDi_FluKNxRY0WWWCfIIHZWluX7x0jxiOOlI-N4aE-h80MKCeXJPba2Z3QKOLQhLwTUyBRQf4OjzXLqIwxqJh3i5ShzexiBTh3OwYx2N2BLSaBjYCcE5PyBIQJeyHTiFIUJ7uAVkT1W3WbhoUz08wIjQ4dxE6xHVHqbJ0Mxl1RbM", 
+        "geometry": {
+          "location": {
+            "lat": -23.45288, 
+            "lng": -51.980749
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av. Sincler Sambatti, 536-A, Maring\u00e1", 
+        "id": "595312d9e75f3faf340e7b78884bda1fd85d5894", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vidrabox Vidra\u00e7aria", 
+        "reference": "CoQBcgAAANMfxUckpt7DktMg9XZK4oy1ltJWCuwoU3N0bXSrZ16T5-rgua34m4WSkWxfMcCN-8RKgVBXyjzo83Gp2fDl9eTi_8DMWWOiKEFyGR0FMs-t71SYCLXR6fARQiJ2bQHr1VbCf4U1QW6Xc-RWWY21eZgHgM7oNbmZHgMiwj8hUuSLEhAsff-OnHucEvEq60Bn1PzfGhRfwUHqfX85oZOcsCyflMMF6aze3g", 
+        "geometry": {
+          "location": {
+            "lat": -23.451883, 
+            "lng": -51.980493
+          }
+        }, 
+        "vicinity": "Avenida das Torres, 499 - Parque Itaipu, Maring\u00e1", 
+        "id": "7a487f9605042dd7a959fa30605b446fa00b08a3", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "RECOLPEX EMBREAGENS", 
+        "reference": "CnRwAAAArGRK21oNC7hehypuTT1Fb_pc4k4wPQXT7-3fimnKXTrRU3PzyqqFd6yG5zhhxrykCv7tqJQjxPUB3917kUc-DOunSqX_HOeuPhVxvHZZhC4yE64N4LWaRBPJcHA8752CLp1dIxKSA-V1YigMIO_XFRIQ17etEaQk-FlNKakZbfXBzBoUUQRuc3PODweuh6GMPM78rEhXFNI", 
+        "geometry": {
+          "location": {
+            "lat": -23.451691, 
+            "lng": -51.983867
+          }
+        }, 
+        "vicinity": "Rua Prefeito Sincler Sambatti - Zona 47, Maring\u00e1", 
+        "id": "89fcb397cd36ec66f1ab6a2d68127e56b297713f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAAVmD2AHwGTMXnR8V07FbxMP0N5vS1e4pEtL34R4-oL8pt-npmcdgKKoBL3cQ2ELX6oqG0TfNdO3K9JBrnzjFq5ki0-DC9a8N3zUWhnuKoe0VA3w6fzDZerc0kSdNXy8btaWO51H-6uEztt0w3eDIExIQlMUOpekGplHYMXWWB9z0KhoUuYuPKs3G_4cyfqHb0n9fS4i2zIM", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAp3Mihs12n0NT19ecoNGA1PcUcBuRjUOOakkOeZw-bJUsANuUsdgEwTIf0Vzw4ocY9NjaiG3JuzdFvC32CPhfjUElNkQvrWvq0W3uAHiLFVTQaPOVSgWq_Q9NWUhevn_myputPCc8AEtasI54gW3s_hIQnLs4aUNJ2-hmDnTzWOgd0RoUicvfeua5vHzA7pS3X3n1sXGP85g", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAIZrT91LVF4ccQjpEiuQfmubtoelv1tvsW1fWFZO3s66o7DGLMnFZT_RDxPFUrmhonUftWZjs4ThjDoL9uZmlsML2S9cDYSogiHZ4o3ma4uELd1UGOdNC8Jzl8AyYaRW0V4Zok_H2DMu6bXtz0N8xLhIQ2c5cvn8qJWej_usu1Ud-GBoUC1KfeJOn34bkUU5F2PRoOfmlWb4", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAmVECnixk3Skf5Cbzgp90AVs52--LOQFF0VkTf85Ul4K_D8vdVuXYR8YvEAyd2wBXn0X17x6-ts57dRWq1TJmsi-jT-Yy96AYDwQ_3-3Y_6K3se0YryLYIAuQJw90yrdWJkE8E78kGltF2q5fpiNw-hIQshz5zwjSvMk7cS_SHLE10RoUfQvw_VP5RUOboS288cw1gVxlc1o", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Aludiza Anodiza\u00e7\u00e3o e Colora\u00e7\u00e3o Metais Maring\u00e1", 
+        "reference": "CqQBkQAAAIyRW55Y0dGNc6bFw8gDRTNgS0JUexiKF2e7LXnxOStTAzFHeQLdU86nqrxLwGMmaUQnmD71fRWJAycz4vowwAidM7jrT3-JcCGxY1rik1n_7zYMhRh4enQZiYUGucXc9bxoBBD7VNGRld8vRsvviMZ8Y7IlalRvBA-i6Tabg76bQz-y5_ivv7Rld35iRSyexX4F9b6tiOSJvd6BrsXKPhMSECM_2mtBZmGGHZ-ZdorR9QUaFEMV5Ucy11wP_WlqK4ZS3_Sc8Tg5", 
+        "geometry": {
+          "location": {
+            "lat": -23.455731, 
+            "lng": -51.97789
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1020 - Jd Itaipu, Maring\u00e1", 
+        "id": "d268076c5d0e2e9f70aa9599c35e8fc40d3c4714", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polycart Ind\u00fastria e Com\u00e9rcio de Embalagens", 
+        "reference": "CpQBigAAAK1C9sJkDtad0cwedwUqJXtNzJWpKGgv4ubZCv7Co-zBwk9zVzPkBdn81ffZdLuOIvkWw4cq6j1FJCshpwvNMNhlX0c4sEh7Hq_vi6BPsvq1sA-ytvLHkYZD4Kxa-t7t6zquZCoApnQDJvy4xekYt0fculVRDxfEjorz31K-QWBieucsl6lQEPY2fjjjUGQQfRIQ7JPkrLXugcgfnLfJPcF7BRoU8ygh3BhFDN3pyBTEashFJ3SLpCM", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Maring\u00e1", 
+        "id": "6423032bef15469b3222e6c791b5a6395aa5fcc8", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polycaixas", 
+        "reference": "CnRoAAAAz4-nVEQJO4xpU1tMKkZ43IWH2gwNkT_zbf_SexhKHqEmRhPM3n4SnhfF1edGCTWDEBlHie-frQGDq3OAXhb9_7k9YD-k9RiyuYDLk9E0RHZQhjQyS40JRwhfgyn-4_opBn9xwSfOfewmmikvs6-4EhIQNW15mAuMXR-EnVV_Ov6z8xoUXH2A9RT9zss5IDclrMbtouBXwjY", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jd Itaipu, Maring\u00e1", 
+        "id": "f48d714b5ffe499be95fd44f5414a99c5db37560", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pin\u00f3quio Equipamentos", 
+        "reference": "CoQBcwAAAGQid1_ImJK8D6u7zgoo29WRo_V6-jJWHcOxGCmiu7s6X3GHks-z5iNKR0tNVPXoHYaM8-0_fjJytzal_qGfKf5XVWxaV5OSL7ckqbh633StwkDcziyFSH_4esqJM7mq2ndCCu7SVSu8GHNkiR9tjtHZY4VuGiloy1l22BFk4PvfEhATtNjUHE6xbkal5FnU6fy3GhTZNQkvBwq878-Z6EMoFtM6H_xRqA", 
+        "geometry": {
+          "location": {
+            "lat": -23.454672, 
+            "lng": -51.979378
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 418 - Jardim Itaipu, Maring\u00e1", 
+        "id": "4e51d2cb4478a1ff95a7d581cfb3f8b387139a6e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "R\u00e1dio Cultura AM", 
+        "reference": "CnRuAAAAxo3LVwanHwvhiY0GSsy10b03gdZldqBXVLUnHBDoPsLOnMBYmHtXKVi4nYLvHWEPCLEo7_jzzJZdPFOhbMHvdlEJDSciNKOfLUY9Gd424njbBdLk2fIgGlMowSKvUUTJjX5tQduC6oqFqfjRm0eYSRIQp_0O9WFfxzx3r5H3wEk1kBoUWBU6jBdGpdmUJkyr76ipjVRbOMU", 
+        "geometry": {
+          "location": {
+            "lat": -23.453824, 
+            "lng": -51.975435
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti, 61 - Maring\u00e1", 
+        "id": "c54b20295f390bb2b995db7a7e5c96b6ebf091ef", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Metal\u00fargica C\u00edrculo", 
+        "reference": "CoQBcwAAAOv-YrhCfuVcXH_2UwizIo4pFE_mB2ttsUg4bt40q7SwH4Eu7QtBKfKH9aa9251D4eWaVl8B6hA63bjs1wpTyS676U2FzxfCnrgiR34zWL4R1oqP7N_p1GAzQfQ0Vd_YxJvI4ocgX8Hv-z4nHOqmrmkFlyEtNyawm_GHhz3L02iZEhBUZGwlq8HAhec2RNbBEcZlGhSJDhl3DlEc_-GnBk5dDMHsRdlgWg", 
+        "geometry": {
+          "location": {
+            "lat": -23.456041, 
+            "lng": -51.976736
+          }
+        }, 
+        "vicinity": "Rua 47027, n.\u00ba 98 - Parque Industrial Cidade Hannover, Maring\u00e1", 
+        "id": "4744de13cd90fbbd006dcd8f62fd62ee7e295bcb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polykraft Embalagens Ltda", 
+        "reference": "CoQBdgAAACW-xgfcU9h-HT-FoIYNEGFQJBKNe2dyWbpWCxHRwvrtEFJ6CIgnHZF2hA-yVhOiWLq3Hmxk9vuBV9LDKu29rnLmt21MLd-ePX6cNLWTk7Y5j0RM1xQFILFiPi7A_t6YgHisSbEhpcHVEUwyFSdDbVd9p5M63adBFrQXrVqGGWRXEhAKwWKSsMKzsHcB0UbmSoK9GhTj-cP3cOaRnLESDts8NPnLLjfQOw", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jardim Itaipu, Maring\u00e1", 
+        "id": "8f3aec488b38ee1ec4056f6f50be4d4b81d330db", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Caixas de Papel\u00e3o Polykraft", 
+        "reference": "CoQBeQAAAF4o2km_BHr7nVfWnxKr7moz8aiAZgnPNNSRoFrehVANsbd-6qDKUcY8W-VaFfedDieXWli9v67TkGzQKsotUBd2nugzLjjN_cPUIhE5xhmB5_6LP0iQg-TFdRyVXNiQccYZAbJn3tNm2N3hdoE6V7qDg0_dH351IPslYbUsgofpEhCKzQrsCkKizDHWn3uzNilSGhT7TfkIzYCQwDX45AzecBWnY4uTtw", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jd Itaipu, Maring\u00e1", 
+        "id": "c84210f4488d56434deae948054cd7891b90a69e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAU28iJPLPBZfNhNQI5o8qNR-A-7SQlU7U0gxBUsAU_PixEn8O00SxqNP30lOFGH4e9X9d79Ym0HV2KHxmzbzkjiSDpazDO4QZUpEqs7S8zR1Zl80775l5DTTTL3HuG0y8GW0oJyGNyeZrk84cEALNuBIQk26a5Oro-KECKE5xWz4n4BoUy3Tou1cIXBPbWPBVZnqdRusPkSM", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAA1HRNaFQZIpGJkn7Ca7B7gWrCcHJ4rcGRWT_znUDfSrpuR9eXSiMBFjNsbJyQS31KMNhd55c9lULo1FZAL0r1vXhBbTyGjK2zyg-CTSGW95ISEF2ehHP8s2_C1Kvd8aBDr5YaFIsHxacih6Ugvn7YrBrRC7fJ9z0E", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAcMVP2RgzsnkytdQyEy0P7-oKkjbikW7jCzgtbtAJgc_JrMBcFSSAN96OrIx7DpEqyTfzV6PijJ5I1IUVRaJeBvE446X3GSSLJ6j1j7Z5CdCoMmeOkf9PJTIvAfIgtkTN9hBAZJrRRf8qTztdvpqM3xIQ4ABZ0Wf2jnk4EFR9K2j8-hoUY17ctrK1CakbD3TO79PdCZRs_yo", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Col\u00e9gio Estadual do Parque Itaipu - Ensino Fundamental e M\u00e9dio", 
+        "reference": "CqQBnwAAAJhR3epe671q4n4r8HgJa1lLRH66JcZq2mXh2L6dp7Cf79QlbReUM-NfIpGQIkUpK9CnCYtr5OCGZTGJmuvg_hnXTdonlWO7J9gu5KesmEWokLn5HwKTe7jaL0qoN5un4FJkUnZSdOx8kMJn1TqY5Kueh7bgldaMYX-GD2e99ooy38aJq-3pVERl9JUD42CEK3-WlP2PVBZsHX5-LMCKICoSEMzvIfFzs5eOIMBYkcNvsFsaFNNMj7YxmxoSIbV5LIiE8Q79uo06", 
+        "geometry": {
+          "location": {
+            "lat": -23.452754, 
+            "lng": -51.975116
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Col\u00e9gio Estadual do Parque Itaipu - Ensino Fundamental e M\u00e9dio, Rua Piapara, 150 - Zona 47, Maring\u00e1", 
+        "id": "cd7f42ff161d9d743d3260dc5ae5d8e9536f2797", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Mercado S\u00e3o Carlos", 
+        "reference": "CoQBcQAAALW639cvi-_Z6ibGzCJYfkVX_UIH1e3Arsa-jGY69G5Cr1g4Il117WcC6oDvUzppS-cC1ODa90MjLVYoorUxvMLhwvJKI1nA4rluBAOc8IhmamJHiuYAHImtdF6yqGRbgYTOMZT3drutfKL0m72LDCKGNn5miNGKAm5qe5ZHSARPEhBJIjRnVoDdJhxTI-YVPjflGhSUzohOlmjTFXUFI-kyEfsP_YDD2Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.451269, 
+            "lng": -51.976312
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 527 - Jd Itaipu, Maring\u00e1", 
+        "id": "a33d3834233290056b670dd707e54f2d22f8ee46", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A\u00e7\u00e3o Social Santa Rita de C\u00e1ssia-ASSRC", 
+        "reference": "CpQBhwAAAN6U_9-mq55zsCM_-nTSi6yYnSZZJOPzXLIbyn1e_1VonIcmG7IGrZgn3aOZtfaZ_vcHlFhOhKntKjT9hL0dHb3gS0EBfWLJj_EWZiNCK4keLQsgC-bZL6iXvRkdUXxWfs83CtpzX8wzpzYwgio9OdkAo5iBAjuhvHKOjGqFvEDRbm4P8-8scx68BZv6HEkRVxIQmHxhO5_ZAW0ryeUjZ7DzZRoUCeKF1wm1BubreY9iP0yAMjEL5y8", 
+        "geometry": {
+          "location": {
+            "lat": -23.452581, 
+            "lng": -51.976371
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 671 - Maring\u00e1", 
+        "id": "7aac1dbda544a71d4f367ec831d8c64e393b33ab", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro Municipal de Educa\u00e7\u00e3o Inf Jos\u00e9 Cl\u00e1udio Pereira Neto", 
+        "reference": "CqQBnQAAACnigYKXOOUvJIQAedqasjYUvsHlIUfiBlZvqirAkBFIHtHc3PYk3_PO80oe2vq9DXmJR9CHBBoBfnOPBunqHlPd1n9cczQCGTBSdWxA4mjZGr0qW2LWe3Q3U8dcIGJcKAL88-pVhmiQCFWwkQmnzIDp-D3xgTMZBKR54mr91uM7J2765TQ3VnUUkQOl3dsIgdY0E8VbnRCygnAR1UifkNASEOIZ6wmw8hsnvfdL8Gy3w4IaFDxl1KQA2w1FBqywvKrE0xxALdRJ", 
+        "geometry": {
+          "location": {
+            "lat": -23.450885, 
+            "lng": -51.97741
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 dos Santos - Maring\u00e1", 
+        "id": "f1ef49fc74270cf8cff46ce11373530db8f3200a", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Neo Telas Rede de Prote\u00e7\u00e3o", 
+        "reference": "CoQBegAAAOIR9e82kDgPNk8SB_sOviJ29naoyDK8kFaaicWF5utvBKqkcxN85EHIKVr_qoBkk4Tguo4w5O7Q3QToZ5GkGNUsvsVtt3zEq_Vu4RaZWrSmBX0PZ1n9lMd_G5fXrdEIsVm1OcHU1niWhAwqtx0lx_o4enNJZMiz2mJ7Y0sTtMUCEhAYh5NdSkRwGm96Iy2RVDfmGhSy0grfUuKJosCWu6D07JFrnuChMg", 
+        "geometry": {
+          "location": {
+            "lat": -23.451875, 
+            "lng": -51.978001
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 22 - Jardim Itaipu, Maring\u00e1", 
+        "id": "7ba66dde5e1efc00e88e0bb1597155b13366ec81", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Garmon Sul Am\u00e9rica", 
+        "reference": "CnRwAAAALZP-xUN4x0eKRVBGGyhUKa5LMaOaaWbvKwrE_hd9Ygpvx1KgGrGOa27fTQdJqdk-7NGXki65e_PkW0a3qOeA5HtEn6s7u4lUgVIxs5DPo7rlwtLTOvN2qV0Hfxto3Mj0rgnzeuQfFC0DBhkO6b14qxIQoKOYeXMRFFOy0ob6WB6IxBoUq-MSQ310sG9MOtTmYNldBO8F-aY", 
+        "geometry": {
+          "location": {
+            "lat": -23.452815, 
+            "lng": -51.978324
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 378 - Jardim Itaipu, Maring\u00e1", 
+        "id": "7639ab932e41caacd49bc7eb751c0899ae59eb2c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pressuri Compressores e Equipamentos Ltda", 
+        "reference": "CpQBhgAAACIeIrLsxCwjbqC5uLPtRqeA9Aq79trZBbnvIU6VO7mdhn9AUWe4WrwqpOqOPtCd45PGzOpyFjJDhOIyMBvJLxSQf2ng8gavAfaYVPK7N4Cunskc-ZHzooT5AEZ7m_nx0bOYh2kSj1_1vbqKxE9d-UvB76G8rquqadUDj4VG1T3XobOeBRxaq_-DmG9daGeR8xIQxmtNkIrR7NvPkoqFRZEsRxoUvT37oJsr08lBnGKGUYfVsl3JAxo", 
+        "geometry": {
+          "location": {
+            "lat": -23.452486, 
+            "lng": -51.978284
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 307 - Jardim Itaipu, Maring\u00e1", 
+        "id": "54c9573e475d42ad9ceaa4b634b5514fef7c8665", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Metal\u00fargica Pem", 
+        "reference": "CnRuAAAA8QdMncTe2xeD9y1Bk52GG30Y8dkmVppevIyz4_i7FC_Vdu7q3H9nYir0pnU4pYIhWDui10RbyCfo57HBGiLanFrkkapY1n7Fk5PuNnvfjTVIByonPdlKBjn53sLBSV5hOtpxpr0ZWJrPHUqYzGwZBhIQlsuBQtX1UH3bfhXLrwZycxoUiH4aiQRNtBJsogRWDskOOlDOvV4", 
+        "geometry": {
+          "location": {
+            "lat": -23.452486, 
+            "lng": -51.978284
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 307 - Jardim Itaipu, Maring\u00e1", 
+        "id": "6eb6451828aae448a34b5e7d34b4724129a14968", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia Itaipu", 
+        "reference": "CnRtAAAA78phSyN4uNfHT-0DgqkeYpDoNFcJsJcl7Jmc2CIIbj2aHIdZn5Y-S59XScciHLgr1XVrNj0NqriPtLUWVCUVmJgzT8WyEl1SWLUcjE7WEOd7mfH5C0Qh2rjn6j2imxqjV6_YX3K27EKsV2k83J9J5xIQH3hJR0HMdCMVkpaaw1d1_hoUvWNhWnoZKQoa9g5Zm37HaM-j2fo", 
+        "geometry": {
+          "location": {
+            "lat": -23.451382, 
+            "lng": -51.976661
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 560 - Maring\u00e1", 
+        "id": "52c867ba74262ac1abd54aeeb57ef1a8c5e88bbd", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dep\u00f3sito Construmega Materiais para Constru\u00e7\u00e3o", 
+        "reference": "CpQBkAAAAKjlJ31CzyHteq3sf6pZoMxg8k1RT7FJSqtyAoLbIuvMQlNvKU4NUxWSNpWCgDcINlT3dj7FCIX9vDWoQtqNRwfGhS22QElCKhfi5kheIyvmaMgugLMbqUQdkUeVQOE90dKz0IGiV6RxvO0SMz10TOzYMaAB79vBJj_DjH6-YtzV_K76Yl_6-07rBUslmUaJ4RIQjEBSXeNeFbB1HSWUjAtDfxoU85ji7ZYroCrOna6PRbUGgX1_ajY", 
+        "geometry": {
+          "location": {
+            "lat": -23.450494, 
+            "lng": -51.976253
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 439 - Maring\u00e1", 
+        "id": "8bc25c32888cce6a743ebe91ebf3e7bbd7bd836c", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cirurgi\u00e3o Dentista Dr. Daniel Fabre Sanches Jr.", 
+        "reference": "CpQBjgAAANWNU8R9MUPsu0GB3cb4v77tfjSWv-uwUoP5g_JtqQcnyNQaGOemhPxVrIPYACodrlKfqOj1u9uYGbwt_3YvdKE-1b9C74jhSOShSeVKNv1FXZtOovHu4Yk8Pl7ZTUsj-_gztZXunytPhZfiqGQVXP8KUazl6pkt-EBUa6H9pzcuxWgK8HQp9fD7JanWSPZhRBIQTJzhRDYXYrv6S11Olxg6gxoUQo2W7scGvxwk1oUcwZatXg8tjKo", 
+        "geometry": {
+          "location": {
+            "lat": -23.451084, 
+            "lng": -51.976447
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 528 - Prq Itaip\u00fa, Maring\u00e1", 
+        "id": "e17e80950cf456a58848ab56dad9e1bfa8a2ecd4", 
+        "types": [
+          "dentist", 
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png"
+      }, 
+      {
+        "name": "Teles Automotiva Ltda", 
+        "reference": "CoQBcgAAAIbU6kpjshS3wOQmzKcaDKK2utZLQaV5PwWF3vBtSKO73ZSlNQRRJBrETML97yIODI8ypSCVqsZxGLmmtIJNKfSrD1ecula4_Cb9jSSogiVRlDAKdY_LjqtHVWOzcTdIqvgXkU2QpPyMsP5Py0crbKIwHOn7PewyP-2yUuMJVVt5EhDVNRKxmfHjyGEgP9Wh0WYYGhSCnNw9h_OFdNQdxPLgZXDAeZU_8g", 
+        "geometry": {
+          "location": {
+            "lat": -23.451731, 
+            "lng": -51.977926
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 518 - Jardim Hanover, Maring\u00e1", 
+        "id": "a3b94ae5124439e943c05108738567d7cf0eeee2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Terraplenagem Ana", 
+        "reference": "CnRvAAAA3Rzt0nRwzQQdBDZQceyqTjA6thvhS5Ni8BY2uXbrXkhn5B8sKUpTYZr6Z1ZbDMsVsNTKRPCGHxgOdxls2oQfBYs068VVWbsx4z75OEZYa5Wl59NT327GMLv5I2B_stD8KxSfA6YcFnmXEeNx7cXPUBIQ4WN9yYv90l9tIbgzCB8zlRoUqZNu0Ddp6ySk8T1ERQCtfFBgAPo", 
+        "geometry": {
+          "location": {
+            "lat": -23.452445, 
+            "lng": -51.976367
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 657 - Jd Itaipu, Maring\u00e1", 
+        "id": "42c148f3e1477efd35fe43a67aa9e16cb52c1163", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disk G\u00e1s e \u00c1gua G\u00e1s Itaip\u00fa", 
+        "reference": "CoQBewAAACYujkyznQBE3183Vf-fjZRKacHPsEhywg9cx9R7emrz4GMvOSwPV52B-2f2pJ_0xL6k37aRd9eKdtsIaMn-yKEVnWN-T4aLovnaI8kvNmRYtjzd60519Y9bnO6p48NI4d_A-lsdiHACLZLdc5W7Y7G44OgWsLcbwizI4LdpMB8kEhC_HN9FWFdBm_bmOwysCnhYGhRxURo_yJyrtO57O7jRI6NjnDpZ7A", 
+        "geometry": {
+          "location": {
+            "lat": -23.450571, 
+            "lng": -51.976619
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 468 - Jd Itaipu, Maring\u00e1", 
+        "id": "4a2cf1f8f0b8c7a751b0d74a31b48132b8d5d3d3", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Supermercado Mais", 
+        "reference": "CnRuAAAAtJs9ePNEowcycsEeTu2cjSJmOe3aJC3JuC1MZePtfQ7AaYvEr0QH8jlBwUsYQcJ0jeIr221cGaDLp7aSeJilbkq-f9XnDS5IZwCp1zLjKQ1x0LixF5LQPephgZx4-VrP1icLJ_fNuN008oqTOcqNuhIQNqAzOGZb6U3ChwD1WEt9phoUncTSVtZ1Y4brgm69sostyNpjQok", 
+        "geometry": {
+          "location": {
+            "lat": -23.45102, 
+            "lng": -51.976293
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 499 - Jd Itaipu, Maring\u00e1", 
+        "id": "12610db87639c969462e5c6f48585fe1b6923bbc", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Waljoi Supermercado", 
+        "reference": "CoQBcQAAABBTLMGu3XO191u67NL1VZBhqhMIWQYVonWgwP5dt8ZtdljbayCVCIHRRRcHWEVMNWJ8giW8_0-hg32EzQUwNq48K9VsVudAYfCw-Ok8H_b-0Efv8Fnm5zdi2YFo-uT4ITNGec1XwBO7-_uwz8stltdtBnthl2J4-CIvrbah3XQpEhBqvCCi1Oq5x6WDZeaeckVVGhQ2Zw1JimMGoS-b7-RIltb_U3YKcQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.450937, 
+            "lng": -51.97722
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 dos Santos, 825 - Maring\u00e1", 
+        "id": "0ed5a78517da6c2844b9ffad667ebe282eceb6f2", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pin\u00f3quio Equipamentos", 
+        "reference": "CoQBcwAAAHtTn-6-rqVj1R5mamO93d7MrDEXD3DuxzLSaY0FDlttoNJ8ETgT3VNAXUtbWxyZIUbLEZhr3hILQ792y6smSGcV2egJS1af_ldA79tdHKMsg5NYJ5o-fR8h6uunUKAFgHm2m4Mv1rr-aGp7x9VW3GKDRKgsN3va2UtrEv15DKFcEhClF8I1IoY2hEWMFVnTyRsKGhS9D41Lb8NPmy2JEqs-alA7Rr6q9w", 
+        "geometry": {
+          "location": {
+            "lat": -23.454672, 
+            "lng": -51.979378
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 418 - Jardim Itaipu, Maring\u00e1", 
+        "id": "4e51d2cb4478a1ff95a7d581cfb3f8b387139a6e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Rosa Isete de Oliveira Souza", 
+        "reference": "CoQBegAAAFvFySSOq__WRNVefeAY9bILZDC7BhgCBQ7Rf_cxif2XTs9MfT4Lbckvk41_cp5talOhgZpmp35aL9vIz-cvZ_BAQRlGOfhM2kI6OG7DBzCKNMS8U7kuhrqFRpcD7nU-YLMx6jphdwjyG0wDGW1WAIY5TU5UngKYAIsc62dfW6rUEhArRWulMcuqNtvdGoCqXK60GhRkuK3PN5pVuk7pb5M2eUUEofDxmQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.451663, 
+            "lng": -51.976681
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 590 - Maring\u00e1", 
+        "id": "e9bd06aee6d994ea0d85fb847a98331852af6af0", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAgjAkoyHj3_5__lPmgx1scyg9Y10bGQpP6uPu4aHo9TT1TqK1ZtNRweY9Lw1HkdTjwaGqZZtHZFB28eqX62J5m_OvJIHs5gI6hYsCrOacoy7chKDUzqhnza4Mvs5Xu6euBuSnXWTknawB0tTvVh3B_xIQ0MvOG319VMH9nJnn0VtxDxoUe4L6Qkvz_iKhy-VjIf2KxM5Qw9s", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAxK0OSxvgNKByyWhR86KMjtZqN_p8VHtHO-4CAgbVwNY0RoHK8dZ90LyitoN9JUeVwilRm5s3foCojqU8TgVSUPlfJKBdIMO3_9oPaZyY9li36D41WFE8qTg4qPmtXWz6GZ6y8P-gcBYKaSbOcYnOXxIQLuHbxb6Xvo0RnavclQB-yRoUOziw39FAfdCpfIIBsbM7AJOlD1Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAVXiQS_wcD3mq90aS7xXK7A2Cl-o5AuMMZyBVfZCDumkMLtis_DzXme3opk0pm61jY_vSEgZRzDQRjF1XRs2yPNIZrlc46OPzjSKLF7QYA-2a1Lzse6o0O76vFLD21YWcZSCLdBpRNBEIJ2ScTImZ8BIQ4tAnuRyhX_skLxMjTyOkxxoUrdMljbXbqBBXLwukXfnwTquWrl0", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAABTz6-KEw8n5ROY4Aiu1c-T3HhAEUMVm3NFBpBCeLoBq_yZXttMLj70htMyfpsG7mrz-aj2oEXuEHqhAY6spY93YE7ZdG7739eGPPUei7NTSzLosZO-5GIyTZnPzwPGtY-UlAnYwNq8R1MSZC0MslfxIQS8v8C2UEns2AVQqLnRQKuBoUcuOYsO8I7AL7ghU0zwoUn2NGFuw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA8GxGYy0Jyd3IEiQ5_ymF_OpEvTwr5iixur-qXA71cxXOHCSDp0JBaOapy0FlvIXUtr0qeKwUnckG8H4IyZAwjbXDcgMlPY1mOdStfPYPlH8Y5IdMjNgZJCTfc2mWZeT6zlCRegJeX-FIJQVpnpSQhRIQN2iNg_bTYA5XcYK1LoCBRhoUjvexTgNaddSjt0YSFCBCk_PsJXE", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAw34-5iBXWLqwn50nDig58XSfGuT8JLv52T0nEC2LEiEfY-e0CIE0PLYnJhuFThtNf-hyeraLfZnvVwLRxV9Pts2w92HhfKkIrmcHulVBACRT2NiXNaT_xUyzbSSAgkYkv2tpFrEjMKnx2TuyIEJIzhIQ7QNspTLv_4Ek1gn1LYTxshoUWWbanLYa-18FtfW5E7VoiaZTLLI", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Aludiza Anodiza\u00e7\u00e3o e Colora\u00e7\u00e3o Metais Maring\u00e1", 
+        "reference": "CqQBkgAAAOJxhkEfz6reKCoMznaq3ardRIiuOnEmKIwnEKKap92I7VvFN74wpvCOy8EJk1j5p8D_RiE8DPW4M0hP20Qxj1DkkLsBMBBH2uj4Dy0JTLj8V6Iww5mPfGIuFQscpiEx1xNPKtjJQZ2VBW3S7LXrLG4qZWetxaauTFQ6Bnk0rrKCdIADLkeS6k06n6MC-x8ConAVwhbEPxZFzUWNL09LnGYSEGK3avHBq6zy630C6kS03dIaFDttv2RhhcPvCVi7I5272gYD84P2", 
+        "geometry": {
+          "location": {
+            "lat": -23.455731, 
+            "lng": -51.97789
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1020 - Jd Itaipu, Maring\u00e1", 
+        "id": "d268076c5d0e2e9f70aa9599c35e8fc40d3c4714", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polycart Ind\u00fastria e Com\u00e9rcio de Embalagens", 
+        "reference": "CpQBiwAAAO5MpLOq0mQNCSNRkQTktrVUHzvWnb9WVtLLlRYlrk2LuIt_WdKes0q_VEVuGMRGUdVmq_A--DhR77Isy0YH01H3lrocMuf5IdxNvX3giylpBVrvpgDCjLYiEGvqgi13UBqeoH3XMwFpoyxFFmmro6uy8gNT5oGvdeGS9awg2QS03HBTwJa2AF0qY1hZYaEZRRIQmlK4yCVIjPZ1lmaJVNqmOxoUWk3PYEpZlTgb2dJHPK_7NxbBciI", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Maring\u00e1", 
+        "id": "6423032bef15469b3222e6c791b5a6395aa5fcc8", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polycaixas", 
+        "reference": "CnRpAAAADU2oExNAfR_Smo6Sj4Wnlgyv3Udf7Q_ibVszN61VA3xJeAYck7I-V-tilKOnOegRl7vWLHVKLFEGzeHxAvoh_pT_oEYw0WvuiEmXRmLCLedPxLaBfNl6x9GEsCpSFrUPlyEdz50bClzVOLMSxfe2ORIQcbgI4nJfAkjI1Mouh3izABoU9PZ136aM7Au_dpoSMg3EzqVXRJo", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jd Itaipu, Maring\u00e1", 
+        "id": "f48d714b5ffe499be95fd44f5414a99c5db37560", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Metal\u00fargica C\u00edrculo", 
+        "reference": "CoQBdAAAADkQQ2y5QuJzk5X0U8lybSl15FZOQz27SbDugt_2VBVLCqjNomL32Cd88WybhgO7HWk82osjV8FIG2OPYZ336RXQnYacCP3jJnJ0T1U8B1C5tlN6OIp-xBG0E1n_y8rBI_MzX42VE3TYTqBzAU6AP0COfBlYv74A87Ws8GhJOVtNEhBDgK7w1uqX6SJ_6OIf8O4UGhR5WKhPto_DqMs3vVXF-DRKSaJ87Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.456041, 
+            "lng": -51.976736
+          }
+        }, 
+        "vicinity": "Rua 47027, n.\u00ba 98 - Parque Industrial Cidade Hannover, Maring\u00e1", 
+        "id": "4744de13cd90fbbd006dcd8f62fd62ee7e295bcb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polykraft Embalagens Ltda", 
+        "reference": "CoQBdwAAABjElCo4J6HVSF5tym3gy-hu3OwGbnck8VsWjWDI2drr4V1m1LiBC-ersV9ThfLlxtjh9q8vhazlU3i5Clk18gz7CX_hwKQTCV6e1RCq7EHwr15JsPYSNGk6JwvxlJ-_SNA1x7RdGPQWnaoawtkvb4hueNlZnNFV07oL26xPpFqaEhAE932vWcw5V0RkWrba2KESGhRTIhCANWVxP5lBaoJom2wtncXxtw", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jardim Itaipu, Maring\u00e1", 
+        "id": "8f3aec488b38ee1ec4056f6f50be4d4b81d330db", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Caixas de Papel\u00e3o Polykraft", 
+        "reference": "CoQBegAAAOeb8JwuZ06u08DeJ-3pUGmRSfYymTqNIxwCby1Z-AbhhfKHt5QUdFnXnVKa4rWRnD1OIPqvWagbPcx_a3mbG88D2xOfTIezYNiOapN79a57nz8Q0GpgMw-50I28Uexwyf7mN1ZzSMwQ8tFkh3q7LVeqx4W1ohQ_DvSgP7BCFWFrEhC8ocxDY7o_dYviC4A7TkNfGhTI5iIrTqwCUn0q5gzWVxDSqcGQtA", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jd Itaipu, Maring\u00e1", 
+        "id": "c84210f4488d56434deae948054cd7891b90a69e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAn_JlfXD8x6071prVaIoQvlQihX5gHZNcuEJjV86xyrycI96irn-KCrRcgTgSm-XMiPXb-XktEmQxNmj5-xMxocDCAst8cys1vNX-4XvKI7E776PNAkdLN0K-1mD58FIG4qyUyC9Y2qaoYZD8g3gHKxIQ-Bq_TP1HHEocKOSSIJmByBoURE9vuq8j63JHzPGsGLHeJMLaaY8", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAA7zg8FTU8ywzqAX-5VuZJ2CjdUkuyn4RX7unP0V0IZfLJb7tuOj96Azw3b4Q0QucXnL4tFrL319NcmuvauStHy8-vGhCH54wa6aEBkeUM3vpwBHW-RBXU0Vh6BXGvYZBnRYaBJBUt7hL1DkOMC0SC3RIQ3tidZjmRaYRG5v6zK53wbhoU0w0cV7eQlHpk7IT7oZf-_9IF3fs", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA7ynoulN9hhQ3otJcjG4xSL_yuT2Gj8uLtO-CmcodGoaOmiK8Us5imij6zKBK3Q5ZxRawshP4jTx_qON3Co03oGGWovN4W39Xit2yBesV31imvG5y13GwfsT3Akr8j45edG2uRAuw9niHcueIAg7--RIQhvlH0AGhUxN29ziH8VnfAhoUK34WHQwFXY__3HwwCFB2Rf-ZIGo", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAUC0tCXGap45z9leR3xoZSXJuoCUOYE6PCnBuqrXIsGbUZo1xlibbM8-Hyo95H5mLMUCQQuHI3aDR0c0Tygg4JaXvooPKR6JAqm6qFowu2aO-FEDcHqadJaPY_qjwwAiCQvXK2dZHO6FDreGMTg4trhIQ39Oemty2U-gbbLS7yj3SOhoUdLVkSbsTFcfXvOzls-jQxlil84I", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Aludiza Anodiza\u00e7\u00e3o e Colora\u00e7\u00e3o Metais Maring\u00e1", 
+        "reference": "CqQBkgAAAH5sBWi2K4uTJ_dN9EpsdmLCY82UDh0xHWWQXzV6h5FZn0q7XyW8YyTUNmos_GHsCwItw2kqETc3FpNOrHHpLoypZ0J2aNGo77O2IYF16dXSLaNiORIi8gIW48GM-ebLm00cwwH49a_V8B-tC_jP0Ituj0Yg6fZC5VqXJF4BRG42iRMnolW-3QZKsZcIjk4gyk30Kicds7uiTn3QwPYmKfESEHkSSJEEpK90zo8nzPznDeQaFA2Fg3Mwxe4ZEPcxagGd71K1y398", 
+        "geometry": {
+          "location": {
+            "lat": -23.455731, 
+            "lng": -51.97789
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1020 - Jd Itaipu, Maring\u00e1", 
+        "id": "d268076c5d0e2e9f70aa9599c35e8fc40d3c4714", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polycart Ind\u00fastria e Com\u00e9rcio de Embalagens", 
+        "reference": "CpQBiwAAAHM75b2JdhQ142rK9VnEbPXzmExJjOmo1206ldbNc94UPwZ5p8XWCVJVHgLatNxl4SGp6ZXQr6FbpHhaM0YXL7eYLb3bm4JgxC-GTbqHLQa3nAEspu6_NeOtr9rK3DKebaDdy71_cwu6OgnnkLm1ZNl1pjsU6LGaiTv4aYpV4iJLJVlpX3DaETWCXLeX_NuiuxIQa-emrgfJf1JTTjuIKK3--xoU_xTNbOCbVBNkFIvfI5lngbIcU2g", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Maring\u00e1", 
+        "id": "6423032bef15469b3222e6c791b5a6395aa5fcc8", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polycaixas", 
+        "reference": "CnRpAAAAMGcUX1PQas1PP9u9-3O-z_p3tpqIUhIqWSd_jfw3nG5Q4H-hAa2HTqpcfHQ5tFguRqiXgYjkDPeLMGhAjLdquhcVaPN_UI0ngke2dV4bbEz3dOOZxj5SyG7CYEU3R365xKiK5Z-1iIeVva4wEOVKGhIQMIA0dto2mssPvF3jmDMy0BoUA_yHB5Lsi-86KE_wngG9D-tfe_k", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jd Itaipu, Maring\u00e1", 
+        "id": "f48d714b5ffe499be95fd44f5414a99c5db37560", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pin\u00f3quio Equipamentos", 
+        "reference": "CoQBdAAAAHxfG96LgT4xTsKyNWt5lGbYDYHe0GMUSjBSTAD2H4eDUsgIrx3Wrw1TshG4G2bQcDe80yrSSexDkHFYVR8lsqquMF6iBulzeHKbZ-ulc-W17YEupXNpg99LbKT8mZiaDrYHlvzskbpjDpnC1FRdcudiF4LtCwRVKkSS5lzH65kAEhCQIYctZAM0lIzWERLGNohKGhQpl_9oy2wVJmNf8xJtl2g8xnNGzQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.454672, 
+            "lng": -51.979378
+          }
+        }, 
+        "vicinity": "Rua Piona. Laura Sordi Leonardo, 418 - Jardim Itaipu, Maring\u00e1", 
+        "id": "4e51d2cb4478a1ff95a7d581cfb3f8b387139a6e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "M Siraichi e Cia", 
+        "reference": "CnRvAAAAwFjMCh-1HCZUcQ6gGDK0hY3ujiyfld4SqSPQGrXzopWszUVd64fbqG9T2SlelC6FdX5EY6prFNx5UX1f3UWLINrI623ThTRPdgNwBVa0zxaMlEkvU8hyeOXJbphd9HcR9qq1DzSan_TACN8a2ygq7xIQYcgV85qaDPq5Mo69ZwShIhoUBzT15deYYZYsfRbKR0XFD6xAGQE", 
+        "geometry": {
+          "location": {
+            "lat": -23.45336, 
+            "lng": -51.977149
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti, 51 - Maring\u00e1", 
+        "id": "016800a107e4159ded4d7856cec3da8a9178a0fe", 
+        "types": [
+          "gas_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png"
+      }, 
+      {
+        "name": "R\u00e1dio Cultura AM", 
+        "reference": "CnRvAAAA0Zf46DpYyHVAQVSTvgGTJXTqFB0EyfnpvTKxkjHDQEPs2aGk4YZUH7XNEub21ktZM7sVtordLoXPQnA_-wGYSFUGZqeiccr-214C84uHZcfe4WQZQ6WGNhVaIGjGgcx3qIjDNkj25Tc8WJfWW7mMmhIQlWM9tiPMUdz5r0nakkeEOxoUukhKw6WSESncvefS1UezhO-6LZs", 
+        "geometry": {
+          "location": {
+            "lat": -23.453824, 
+            "lng": -51.975435
+          }
+        }, 
+        "vicinity": "Avenida Prefeito Sincler Sambatti, 61 - Maring\u00e1", 
+        "id": "c54b20295f390bb2b995db7a7e5c96b6ebf091ef", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Metal\u00fargica C\u00edrculo", 
+        "reference": "CoQBdAAAACe5L53i4Wqf7orozAxGkN5Mv3b5S1DTsK5s9d2hfTL1dAdodV2XZJgOy_7pMDeNtXVh37Aao24W38WGFuqtCJJuRoq2Akug6ndJ3LX4pyuQ1iPq4x7iBOa0vBM5eX7wFFET5dN5RU9B1-VSUPdhdBuQy2xjokMALVzLoH2DgUydEhDCIFO74OLaY8PUMH3JGGe7GhSyVQ_nHWZn43cWV6RebrSULubSmQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.456041, 
+            "lng": -51.976736
+          }
+        }, 
+        "vicinity": "Rua 47027, n.\u00ba 98 - Parque Industrial Cidade Hannover, Maring\u00e1", 
+        "id": "4744de13cd90fbbd006dcd8f62fd62ee7e295bcb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polykraft Embalagens Ltda", 
+        "reference": "CoQBdwAAAG6jITbBaeTs0H36aVhUEXgECex9nBos2GSRBkgaJvBHYL-T1Rj7vu92vWXCwSNRskbLsLOVdcRHFAd8G45B--9uVPKVmtl7nNLTvrhDRzaJwOCi9jEGw83j8Xwd5Zg1AiARA9IVedOfxbbSaoNvLUimrs_aUKv-oXNqchcHd19KEhDPBGnpBOROVoZKWAdpQ9tHGhQQjh7B8R5J8CkLPVyS99y637_VKg", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jardim Itaipu, Maring\u00e1", 
+        "id": "8f3aec488b38ee1ec4056f6f50be4d4b81d330db", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Caixas de Papel\u00e3o Polykraft", 
+        "reference": "CoQBegAAAPUDN3bJfiRbJw-WwMMk9GXXsozOENK7S3IC2OY1EBEMM__gBthYkIMDTcc9DvfLVEiVYtxvSU4eEeyNWE8PNWPmpLIFTt7bNsCH-6BCkkQ1EAbFtp8Jh4khZqadD75cEXgPF7MXmECVQDUVqXs7CAsS5FN6lZ0CDHw-7hxNGWzaEhDsBTJEDzQgeVPAMRIn69VaGhRQzCnRylmMriJx8Nhk5gPw19u0EQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.45589, 
+            "lng": -51.977572
+          }
+        }, 
+        "vicinity": "Avenida Pion. Maur\u00edcio Mariani, 1081 - Jd Itaipu, Maring\u00e1", 
+        "id": "c84210f4488d56434deae948054cd7891b90a69e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAwvhiD__eGejX1fLRb9ei4_Y7DkruP4JoBqKq5IfcyRU0_gEQQR76AJA-SZtY0lnohWAyjBTmoAS2LxUP2Pxs1Z0B8kQ2NjSCH-m-oiXFpv4GJlBsnMFytgUGRcLp3ad5pyQ5bco4R61x8A_gvvP7GBIQwE_hqWOy2yJ4NGDSPGZItRoUDdFY5U73i6QjuDYG7fqWUpPBoB8", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAiB5uFp0INp09O77WfFRRKDIBwgUaOSjP3X0q-PHB-oyPNd-g6FpcEk1ShoRTsLi--QywJiF11X8NWE0Ia2oeTea1pS-ObelnOplSCawS_BVnT7eN21uWiF4x8_PnOiEqO1xrC-UEJc2owmTfQl-UChIQ-G5NSeP1rK0F39IrNBKFlBoUn2GQx1BvmksWaCkbZWvgxM99uB4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAA1XN68nNlLhAvElSg5jFnqijEDwDET2XLX_9v0wFC6xKRVJZdkfT3YBa-YuF53aCRmlRYuBVisqB_OBSC0583UB-VXIunJb9g4UcWaLQ9JKY-dUVIm_-3upPqINaxN4auwLeLM3PvdKpGbtfpBF7hTRIQoPIQK7lWZNeWSFIrObyNIBoUy4e_O-Gp61cw2_eFN_8oUYbVvA0", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

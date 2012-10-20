@@ -1,0 +1,2322 @@
+[
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAnyZxD_6eySpV8JyIo9-YvS3xnnwFoSiw4dYVAiV_ejHicayd0COZ05rGWdpzXXwjIjs3iLZKmpdW11OpMBARQ7Dt5YI1utm3F50cOTvFsAMSEId0mFCKpdOEIObJmrOlkvEaFB9NXSvcgaVdNyBXWDOGSo4riqoB", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRuAAAA3zKS3chZDnNmTA5DoBQUv2WErqFoesurxRen_Lh2DvA4xVIH2oU0Q2C4LbswVortTZdZisAl6t_6WTNaw3j1IMtNQ3NHDisGtKvt0dpKE3iZsKn6d-nEMmj4QTr7JUL7oXR8uuck32TXtS4rQY-wERIQMIUjDs6ci761YAVWBQsMBxoUTTY2mO1GMpC-Qhkgk0oimckn8d0", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Gileade Sistemas", 
+        "reference": "CnRuAAAAlkmE5zDjEBXtMMSflPQKnLBYB7mG8pYtRkRZuEbhOl0iU7RxxGqrO-USwzKpkNtH8SPXaSGHKUcU6dib7VcKbhGcsgJostpvknqg2wMINHOaV7dFR2QQzBvsg2_xYgz7E1P1oMC--BztqJ1hL_z8cBIQeUw3HxhSgHPAmsH-2yKVVhoUrgWrpjFNbEmXzHIKB-nmT_a2vg0", 
+        "geometry": {
+          "location": {
+            "lat": -23.444404, 
+            "lng": -51.958582
+          }
+        }, 
+        "vicinity": "Rua Pion. Domingos Salgueiro - Maring\u00e1", 
+        "id": "e36244cceb64ae65c2102ecf85396dadf972619f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panelas de Alum\u00ednio Fundido Tuyuyu", 
+        "reference": "CoQBgAAAAEkPVuFwTInlX6FpRHxsPNufJTOWBI7GeYBlZOBvkIHSKNuRFw_k5lW7diUyQG3mh7eP-LS-3X5qsU_jVG2jQLKv_FQesiGTG4BFixKgiWyB8Ie3658XBMoXYb07ebava_uKzneIa6Da3n4UAAakza6IOt3AGNQv9scwyjvC6AnaEhB2cFbqNud1LQTcQcKOy-ccGhSO6DBqjTkvqaJz1zbkTIOgmV4mYA", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 393 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "4f2f0f49e643d9f6af4b58cefc04a4e88af74683", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro de Cardiologia Paran\u00e1", 
+        "reference": "CoQBewAAAJWlOw8tC3ofHEwxiVWXJhScY2wV7GIll6DNOJvYMF1feMXiBW1Ev9_4YM_x02Z8_JPGSwaiAypVKbfdgtMeu15vHiL8x_zKetHFtfHS4cqlLOcZHam2wPsUntQOmS1SR0clxrWzBxS0uT4PyBfJBip6q2L6AFX0PbeMDytDWegMEhCUrFh1TuOBEwOEqDc4z3xxGhRyVNtfq1hJ8YV_7qyA1aLwov_Y4A", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7d54fa86980695be29054daf5756c65aebc9720d", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica", 
+        "reference": "CnRqAAAAaYnagBxyC8uANkCJ6UqNFKaiAWGgW5d9clOOt4rN9Q8eaSRG-qkuSgSXyqf0gdEYzBGJjW6RhtILEXIhwh7ujM6t6G3m3RVsH9-FYc9H-4Va2kJMGRmS7cH7jcWXfOCVQguYAgkhAQzg9zV3bpI-lBIQWnW2kn8W2ZXF9om0jk7Z6BoUB-W9dhgwL_FvLAkzTCNzq4aiL_Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 78 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "0fb026b1f88276a2618ded504ee253e8b3bf7bf2", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Portal de Seg\u00f3via", 
+        "reference": "CoQBfAAAACGbp5b_I7L_AUFPv1mWsvvGd8-pMcg9mSIwU4MKgT_ZWGQsq9-vH-fCSAnRY25ZjlqmUcsQBs7HeEmf1eWk8MU6tGE_SFTxr_p1gomca-07bYTm49BA_Z-4IxUXtiQjpa5pand1sNZbe-oz-hQJGocq15oL7h6mgRnoV-1NFROrEhCZf_7wMwjdceX3D1BAFLZnGhT2GSTXd0JAAw6hKdLKchFNTNZCLQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.44424, 
+            "lng": -51.957907
+          }
+        }, 
+        "vicinity": "Rua Pioneiro Domingos Salgueiro , n\u00ba 542, Jardim Guapore, Maring\u00e1", 
+        "id": "f09cdae7bf19f038676720216ed83b49c972dcf0", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicolog\u00eda Hivi de Castro Ruiz Marques", 
+        "reference": "CqQBkQAAAN2HGL4t1sqaCLQ-pk1jNM54sTLFNcnwvT9br1hdJuwKt-kSP_P2-yB5seT2JWvYJvPao8SUE3S1sUQuQm5_3pq62-QxmoOuOQi9DwfIvQqgzX0Gx8kXgPz-dPBftzkMtmilUajsfH94985dXST5345nmqH6a2MArEwalkdaTKQz2ZPAKI4kkm-tC0LY5x_HvK-v92sGkOA12Fnb0yC-QUsSEJMHT9Wftkb3EPrfxR3e8oIaFF9kEU_uluoUIzBOo1vfzbe8eWCn", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 290 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "f0ae063907e356aaa6be0efb41226aaba2f93456", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "G\u00f3es, Manoel T", 
+        "reference": "CnRtAAAAjUOAGa6dPcB574IqAvzFmm_E2cUFRrB-CAzdErAz7iPYXCHsgVbTNG-WCHFjFE8p5shxQKrfb2UmBg9IbkTUOQuNWIL2m-7Yzv3hBqwcBdSrElEuRm1qPPs9rwEK_3KBe6r-9IKolDCs1ICk74FcChIQA6kW6AtkiA7ULQQ8x6KQEBoUzKLx5JBtGq0qF1OFRHxPKvANSg8", 
+        "geometry": {
+          "location": {
+            "lat": -23.444531, 
+            "lng": -51.958254
+          }
+        }, 
+        "vicinity": "Rua Pion. Domingos Salgueiro, 1567 - Maring\u00e1", 
+        "id": "b4745357cdd696720a0789f4a3f60d0f8b6288c3", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Waldeli Boffo Im\u00f3veis", 
+        "reference": "CoQBdAAAAJFG6wVNO4o0ZbKtdNsST0jRUgqKCLpFgMYYjSkmIF_tHEpuyG85PZddWkjfOe1SXG3opuSXANrDrA3tUmxxObggfZ1hfuin7lkw6GAR_8ZZbR0YdIk_q2-OM85FaEP758fZ2hlZQVMeHEmob5siXwm4CDooA2cuuHU1fIBaHjiaEhBQd2f7rOFQ5tlufoC4jpg2GhTdBcShGnto23z62TmdKBUg4DwCOg", 
+        "geometry": {
+          "location": {
+            "lat": -23.442168, 
+            "lng": -51.955713
+          }
+        }, 
+        "vicinity": "Avenida Carlos Correia Borges, 898 - Maring\u00e1", 
+        "id": "087942e1aea6ef4ae6bdc36288f6dbfb85077d89", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Salermo Representa\u00e7\u00f5es", 
+        "reference": "CoQBdgAAAEOTlwRjw4Be8AWwXBdUemaFaAhYMGbuGTSIpMYmJmLLgbY1De44iNe2b2qZUs5WTiVP6_fvKo2E_Kzfiu5gjR76ER08jKYzPwkgmSUxPLKXelMpbIxnSSuhF0kBvdYON2ju1wI851655zG4JtLV6bGxcjTJvTw4g7IJVBoSgpNkEhCL1tgWC80UAHQR6HSHZ9alGhTyNpgbbO-hu4vfIDA8uFUfGqGIWQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1300 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "ba669c242c40f3a648d805edb964062bd2094451", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Praaida Concep\u00e7\u00f5es Publicit\u00e1rias", 
+        "reference": "CpQBgQAAAPr5l-OHoUtsMc_spbwk7EPayAbh5d7XD9yft-7TJOEvhZ4em8DAm8mZkd_WIAV4GQWIQAWNCDIRmI72MSLWnynWfQAoWn14oXVun5eAhe_vmr0ofWRlmRRxfBELsGCTyL5Wycg6bV8shjpx3K4MykhJAWJBxjEsi8DYjHu9UHbAUR-B6TZpgWNjHkFflRvmlRIQByGf0te67W2cvqOG_rScuhoU_7wqUtNCIj95aELhIGsy0JNJVCw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1028 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "839cc69a68014f3be31f687d945fae863955ffa9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Urologia Dr. Valter Sorace e Dr. Darcio Sorace", 
+        "reference": "CqQBmQAAANm27JxoYjeeOzmAXmSP0y3PT0sLbDJPhQTgWQ4_CEWC9qkQMIR3Egj7ZOgv9qWEqGV527QBKRcTrDtfnOsitV18N-HPh6uoEWL5iFMlOz3MvSfZZNoV-faX85iNeL5HpaO9v1t14WO4Fy3BShFTeaRJcAB0zF3s6o_2q5tdv-AO4rvwZ07v2P7ziNL2Cqd_XGMqSZ10DFAq6tt0zO4VP2ASEEbMaWSegx_tYraqbLhgnccaFFB54PgP2ovoCIIpXNzFQpQ_gWpZ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7052716f3f695846ecf2de0264ca72cf876e86ef", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "AJB", 
+        "reference": "CnRhAAAAbd8gZjs_Qeaoju66gxBzovOMQ2RLrrNGndCf18qe-w4B3cK9Rk3xOwKCQG6YPlFcFf0lEYNYVfwHBx9Dy2VWOvh91hxO2dgDnAp-4kRz5jzmy9Nz_sNw_7Vbs-4rxVO7sfNrXyvyPNJJ-5DO68wBlRIQ2mxgB--QoTWCkNxmPNRdghoUDc4W8BiqhjkWtP8AGLJZK86lY0c", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1358 - Maring\u00e1", 
+        "id": "f716ce5afaee9e79606ee0045e2b2e6f97a7be0e", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Portal Verde", 
+        "reference": "CpQBgQAAAH355SdgrqDWxmK8CGncnjcgNIvc1PTMFkixQi95K5skfJye-3TV-6_YSn3ZPCrW1ElJC71QZNYP2j3sjoCQBeQ8iD1Pp6RYfqu630tycFCkq52LqLuSUZONpx3j9tg0eOnuv_O-3whvYrJjXgKN1r4FVgC0E67kbuu7BcjLEwKyvEnQSjqm_huS4rjWbi8XORIQt1vpSNLwUshedhoiJUQ_IxoUVrzQXMTpMS7USmQQrJg_xgPoiS4", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 638 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "6173dc4d2dbf8eabe03b1f0e1fe2fc9951f75ad9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicologia Adriana C Bavelloni", 
+        "reference": "CpQBhwAAADuwIx3_lyA9hRJHlXmSZXmlfxANahgZCBEUSfLgxdX96T_q9VRYvxSHpN2kQzazm-XJSQZWhidkj4o4ULnnY-8fRqU1cdeKW3Wbw5UnfeRKK5_yEglnpszyxSJDukr5NQha4OOu5aT8CsUiyGUicBfk2Ep923ERsjz_9uv7Z01VuNdJm8odrEhKDPhUfTeO7hIQVasZI-QtxSJnQsnxPGlWvxoU8js_2P01TZd_mnP1q6nYId6E69E", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7a4a316826a6403e1ac7e4290b27ad709c766517", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Limpeza e Conserva\u00e7\u00e3o Rosstec Servi\u00e7os", 
+        "reference": "CpQBhwAAADTsYOhUbAeIr42uLgncLd4iCnoBX2c6rg5dy3fOQ12TKq2pM92b0KGMgoenPXmOhQWR_tnI3rudImKswoI5wDX3JaN7npijQhjMJ9899G1-oMou4YqlGEvCITgHWx3DHYtH8xiTp98OZ1UX5hz__wCE7kCgK2Mt3RiBs7nBEFuNO_01wShvQqod8trWlqjQIBIQpS40t8eHgh9uqUYXMr15ARoUkEg9bGcuh3FYAT8ghsE1s7-kYlM", 
+        "geometry": {
+          "location": {
+            "lat": -23.442684, 
+            "lng": -51.959427
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Tel, 935 - Jd Guapor\u00e9, Maring\u00e1", 
+        "id": "540da4469e29a9adc1c2971f5c05c2bbb0db4257", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Karrapicho", 
+        "reference": "CoQBdAAAAI6kPfCBJeJLvu-7zlSK-d1t6DqdM5kp-Eb0M4sO42BMPY2XQUbNoI8K4DVFxa4lmohAfZhSH0juirvmME_-7SnxgRdvGwnOnWPb9S9xoWlw1adOVUXiGoXdXuEKsgbFBRo_WOYs6ISZw3Kf0e1arBPscJ6UIcNhCmDq3Ssq-uheEhCU-nnV5MMANbdaoCIu8yryGhSeEe42cFc8o3J7ltKw1tIxPj5uKQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "293cfbc728209f4306266a455e2c1be99c513e5e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "SDM Com e Montagem de Comp Eletr\u00f4nicos", 
+        "reference": "CpQBhAAAALhWMM91TS6XHWRNSzUE_Co4Y9DXYjGXZFtJZgRWyrKVjBi1YFmc91ucUo4uBhmHjBqg1BhQ6gapyhqs4NRixN8L2kvauydZqi7wDjmmEIxc5Kng20mZ2781uUK_b2Fb5Q7zreUXtYeuEQxiqrjsnx6APjYTTh_R5Kh6EZBqYD_o6tI6XfvVvJO-rU51GW8F2BIQXfG6uaWU3-uxVD1ih0gA6hoUzJXW70lDJOdnFF1d-luZIf9BES8", 
+        "geometry": {
+          "location": {
+            "lat": -23.441837, 
+            "lng": -51.955782
+          }
+        }, 
+        "vicinity": "Avenida Carlos Correia Borges, 842 - Maring\u00e1", 
+        "id": "575ff409500e5b148b2532c46dd5f9fadb66b71e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Residencial Village", 
+        "reference": "CoQBfAAAAP8wrUWQWlTbMpgxeuOSpr1Tv2GDUhCw-mGHSDpV9CEawbqdiUQEu30cKDoBEfkG3PU-rFfzI1n9CVbOWNKweTreCFx7ys4EAtfXs9XQwI9YXmvf9hzEXA6-MXKY2vGzF4BkeWhtyHMAoZgq0SWBPca96xJXCTvGTb_ebZKYIhIVEhBa2kh_I0gWQfymqfTPyR67GhRveQYYunNNPLB1mTc613Bo-X_EEQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.444404, 
+            "lng": -51.958582
+          }
+        }, 
+        "vicinity": "Rua Pion. Domingos Salgueiro - Maring\u00e1", 
+        "id": "0c90a88ad722716a5e43e1f2ab2c7e521221d5cd", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAcfsac9iWcWetZkN1t-mj75Y_rcskkEouJbCSw4N9dVdQWOUxcPNyS3vQhao9Au0NiY7aEBRpq4-s0hyZwzg4_yYuWKPe5kDMIhPcl6_X5u5UP5-idUcvrkzZAeWJyMCJLebhNeutK6VsVWjE3q5U2xIQeBLfSfH6usrPSueqRQis-xoU6jEgu_ebM8fw95Qob_3XKLfOp1c", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAA07L7AyqEPgj5jXS1sdQBDQ93L_-uVmM4G_KF4awYMPOKtjUg_JHhGo7VwF4iutChA9Ao_wsHQEF5aQ4Ac5-dIHdbuJFbxZqL2SwTs-741nwSEIZqiR6IAJYyA98vYoBQeMgaFMwEjXg9HO3E-gwF_jVJQ_Dry9rc", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRvAAAAxYCJGl9U2xBKwCAJ1FrBFx3jt4d8v-YxxCk78BPzVpT0BhvVoj1pPwXb6S6t2nE5IMobot_qnCG3BKtUo3Uv81gShSIuciPESYSSVLcIhzt5edIz1Cv2D1J-7rwhH2wTqszQwe6wrJD_poQR73HCtRIQWlIxs7G67rZ1_Rtuo7_4PhoUWazALuruzldtfLxQrjysBCVYomo", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Gileade Sistemas", 
+        "reference": "CnRvAAAADOhuooWJN8NYfT6Po55q_RSRW2zUaAmQHmPq5DFnzTxx7EE6PdtZRUe0U0t6t79JppRGSZmGshEEA9pFGq-aFycOjZ1EZP7NF9StA-BAey5-9rardLdyHIklOXAaWy3QT1_7bsNaNBLch5xtPMHByBIQUF5HwhMBIyzLeGHDEaYnMBoUj9ZZPRal3u7pMC3hUJ3P2GnZ2jM", 
+        "geometry": {
+          "location": {
+            "lat": -23.444404, 
+            "lng": -51.958582
+          }
+        }, 
+        "vicinity": "Rua Pion. Domingos Salgueiro - Maring\u00e1", 
+        "id": "e36244cceb64ae65c2102ecf85396dadf972619f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Azaleia Park", 
+        "reference": "CpQBggAAAMncg3DuZSzCiJws7jyUSSdXaSXGnZjaNwjomtQ6gHPqR-dzKFL6m9HBF-Wfoit_1r0b2B-hG1lQMrOr3YukJTFe3CM9rDJL5X3F2lHB7v7DNMSKGwkgSm1z9Uf8ztsyDP9OxZgI_P7uNMzhxVARRlm7u3nJytJRG2Y5zCpI5wqHrkkUEgcYy3D0K8RRbLRhYRIQ_Va1WjKPXph8ZFllv_YdTRoUbhiYPxN3r3S9x889XLyooV4TvC8", 
+        "geometry": {
+          "location": {
+            "lat": -23.442759, 
+            "lng": -51.962613
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 756 - Zona 40, Maring\u00e1", 
+        "id": "879cea4c4f757167a256e993a89555604b2c6020", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panelas de Alum\u00ednio Fundido Tuyuyu", 
+        "reference": "CpQBgQAAAEDgJwnRY9ghpwjrl5nvDw8BZQaO8CmT5GFA3hIs4gBrODW8ENFPxCJMn95x_9bI8t85jd4CZd5hIlTrw_--BH0ebokC_Te3MtcqO10jGoMJiagrmKGaTMgA2qTChImeuJN8bvaQZXssbluKjI97IK-nw_DZUyjtUFPAKhvZRHZGt7ypxB14QWmhhA-aWtWkIhIQJACg22ERopH-f40MaPVQ1xoUmrigdoSkMJ2willvEfaJerzL254", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 393 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "4f2f0f49e643d9f6af4b58cefc04a4e88af74683", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro de Cardiologia Paran\u00e1", 
+        "reference": "CoQBfAAAAI-UKFcNzsriPPOWWT9vlnbU4CzHY2X1G_MRimhlD5Hq20y1G3nEFJ-eHEzXEBb4OcQVKYUl-IqPOE_cyOs2G1Z6nd8MBwZ7BsZKqPTN7kpo5yu6fbqMrXx4V06xND0txSsQ8TcSJuMYz8u1Jwnbl8FqbxkAMIfOXjLJMcPECSA_EhDj35NZTYJTjD1NcCnpoJgTGhS-vz5yfEriTCKLtysUaqD449rFNw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7d54fa86980695be29054daf5756c65aebc9720d", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica", 
+        "reference": "CnRrAAAA69-_ikdeKRuu11jFW0kkVgVtLDOUK-27lbTZEey4LtZuGKHX2wxN_SZeUfb05sE_MfOIYCS1ITiv2MoOPPlFSGylgiNSquHtSSOBXEpJm24ic1F-Jfa3-oDMfTeS6-xL38RutvEnxh8m7HP2AUqM2hIQyDBPGOAONueOqTg2_QFO0xoUGvZUsvIBszqRGz6V3Qc_8YDkw-c", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 78 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "0fb026b1f88276a2618ded504ee253e8b3bf7bf2", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicolog\u00eda Hivi de Castro Ruiz Marques", 
+        "reference": "CqQBkgAAAJCKFd13DUVMpHB3Nhd5S7aKLbINh2caEpokursruMSbM-7q8414ieqDVjRjbETb81sS6LTT1ROAFrsUodF7Lozeqybal4oHfDXTLkAB1H7xdTmQQTZOAAN-2ClD4UkCq3AA_r0shnrpQSYTZ3BlSUGNDAXVMp5jNNqxwOH9hZOjyzIYAdu5nvQOhx9H50jxMRMV417MFvdD4ubFg3ryFfcSEFdfIBtwdusHqc6pXX6cHzcaFIlHmWSJFRWQqtZHNP7nCoDcduqc", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 290 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "f0ae063907e356aaa6be0efb41226aaba2f93456", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "G\u00f3es, Manoel T", 
+        "reference": "CnRuAAAA4alv0b_MVdj3e12YhuR5rth66vxjZEwRMkyKIg3ELX1xGwqnLVwVVvPGrJh8dCyFJlt4OjPzpiGje9-ca4Zsp1thohHTWYZoLsRq5B09oqhRC-YRY-wWNrB8yYKqqI5BsNto9Yh9Uwu8ZJe-jQCd-BIQZxR_DqEtbcY7ekGEQZjFFxoUoiKOU-0NwoS-iKM4PDeDAE4h1EQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.444531, 
+            "lng": -51.958254
+          }
+        }, 
+        "vicinity": "Rua Pion. Domingos Salgueiro, 1567 - Maring\u00e1", 
+        "id": "b4745357cdd696720a0789f4a3f60d0f8b6288c3", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Salermo Representa\u00e7\u00f5es", 
+        "reference": "CoQBdwAAAAROTqam00hYmPZdL2nU9xhZLVwPKkclmwHvWH7Mcdsl-jsZfzaWjd2TrKo_sTyv2ce8EIYA1JyoThyjoDSrdVs8GOn4COy8JuzVO0URn2_dx16FNojJNv4hl2BfWifWthdLBkVwWkKqmsB8lucyNtlm9CH3G9PgPZ1NPu3H_zrSEhDdQT6YczdGb_vmWULHAOPOGhRHH3L3vdRHKJ55juWkXjyRKC97ew", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1300 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "ba669c242c40f3a648d805edb964062bd2094451", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Praaida Concep\u00e7\u00f5es Publicit\u00e1rias", 
+        "reference": "CpQBggAAAJaAPeA-fm-Vc2Dnhsnn5Z_YFXVeYJuwvcg7k5tS3I-oz_LZ8KUY1tL05mL7jCRoETmknOiwtGuCUShlui-gm_LrOqWZ-cRpAd49RfHulji7XV_BOOUeuCDWFlOFY7_VDbjfclHEWZrfAmaKB0kP_6a_AAsTlfdK3XCy50LqYPuY1Ys4_lEwpmI2j_5nLYFlnRIQ_P5n2bIm3-LLcEHqtn6_qBoUcUnMC6XNNlv3iSJk-R-4Ljllo6M", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1028 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "839cc69a68014f3be31f687d945fae863955ffa9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Op\u00e7\u00e3o Im\u00f3veis", 
+        "reference": "CoQBfAAAAN-NR57OOu8WDBY25jAuxaiLPkX8HQuatuQZ0Ob6bnH06usuObRCt7uF7GIwQ2hun8Z2upgNpBXkWhnfEfOz1TIUE94qHW0UVNCfvva6ki_mzlUXMsGrRkKzcRScO1RpA8fjZc5sVfatg0FNFRr3Oluhwc4eqCsmG9k7H3pDT1ThEhBXXlP_qRqO6MmE707yDkI2GhRYLT2esJM0b1-wQXx_DjnsPOonEw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442759, 
+            "lng": -51.962613
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 756 - Maring\u00e1", 
+        "id": "c1bbc792872fd950d4084cdc457788f17e7fa4f2", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Urologia Dr. Valter Sorace e Dr. Darcio Sorace", 
+        "reference": "CqQBmgAAAHsp9pc3EC-2Lj8WpRu3UAaO_o50t1H9Dks90gDswDwajC6JsfkiT3V1eSHSo4iBeJohQsGvjCe5TaCoDv8UCAzwLe22iGvLnJo6pxoF4G4NTvl130Jff-1ZivQwb74BZ6qIw4BNA0p0s0EUDepFQMhm_xeelf3beYrJORR31ivxumEpzMUlkl-lYN_mbQ_lOWoiCtjvuOGKmImZlh9080kSEHZHsSD-MpIyKgiu6Dt43mQaFPOMaOBwmg0pMBvz2ik-KLlbtzNN", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7052716f3f695846ecf2de0264ca72cf876e86ef", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "AJB", 
+        "reference": "CnRiAAAAk2o0EkG9V7JycQEU2rggUbNH1Fc9DPV2CQQJan3oj25CoQ5uGucCLezniQU7bpDM2Gwgfe7QDS_vKvAxKfpOCkinfL1j2mF2pScPEam-dRRWY_LwRD_bIUNXUgw1U9RwlZ_gX6TlpK9SelqGk0LOLRIQyaFqQ2eJUtwEX3LpK9nwdxoUlBSsvjINIBthvDuGy1xuLziA4TY", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1358 - Maring\u00e1", 
+        "id": "f716ce5afaee9e79606ee0045e2b2e6f97a7be0e", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Portal Verde", 
+        "reference": "CpQBggAAABBGcBDWylsK7Q57pEJNakWhe2qhhGLRWBspGeYgHxmaMDgcWNc91wKeTW8TL266_FvJlktJ7JcD8ZYLYsmHK-MhoJ9TqmUVR3r9HhZs1NmA1-wEW-C8oKdE-lrI-FPSb3N3efArfTibfZlnCDfHOJTJKpfgNfiV8Z2CwGsqmcj0W9gNytUjocsm9M58O6oc4BIQhqh0MNqqG4cGl6kn17o7hRoUU1zY4Q9P1tZSAwanu5W7noc33nc", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 638 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "6173dc4d2dbf8eabe03b1f0e1fe2fc9951f75ad9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicologia Adriana C Bavelloni", 
+        "reference": "CpQBiAAAAB9zZH_mM2Ju2ZeGkVPamsbDNRlth5DbE36iaLDrFnPlc6FLSaq7YZXKCsG4JW39MeqGLOUsu84TSXTcPTrc-e3glBHIu-bx0LlfLlNUAn67krTk3EDsQTcRv4yDO1F_IX_ZXoDjlr4ZDH9T9l71LEFoXopWD7l5SHQU5Umfs6w2hT1_a5lmSbo0iURaYFRSVBIQbDRflHdoi_AZkvgYrSH1fhoUlMBJx53aoB1I4f1cFQtKFfWVBHA", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7a4a316826a6403e1ac7e4290b27ad709c766517", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Limpeza e Conserva\u00e7\u00e3o Rosstec Servi\u00e7os", 
+        "reference": "CpQBiAAAALHISwE9O_uuTt7IatKF5iWo0JeED-zThXIT5e1ifQCP2pPZj_ATzl33snmJ5gl9c9cY2fveMSD9_g5qO7hthiDWLr4YAliMLmJ2t0GFdMciLiFM7lSM7jMifuLljR8f0OT6Y-ZzVeg77nwZHALSxSfAtUiB8BgAeX8JBV6FFPlwvoLmMBKBigzJPM1ZefsM6xIQxr8Zo3iEiKB_LeJGGSTXAhoUX6gxRzXg4QhIBAd5qs02JVAADl0", 
+        "geometry": {
+          "location": {
+            "lat": -23.442684, 
+            "lng": -51.959427
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Tel, 935 - Jd Guapor\u00e9, Maring\u00e1", 
+        "id": "540da4469e29a9adc1c2971f5c05c2bbb0db4257", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Karrapicho", 
+        "reference": "CoQBdQAAAAHgD7yjBARwq73E3OisVqjPp2TyQhN7kl6yg7hPmnMWl4Bok1Kkwdbkw2TglmocIewI7beGXWzfUwrSGwHgRnAevpBqJjwLoYdFXr02eD1r131sw101LrJqPrfriKZHQyitpK9L35yH8RvDg73WtXZZRyB0ll9En6dH_5S2DHKtEhCSkCOKh53aLb6tpB8ev8NdGhShjvzrWKIJPp8vAp0OcENBjv84ng", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "293cfbc728209f4306266a455e2c1be99c513e5e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Residencial Village", 
+        "reference": "CoQBfQAAAPskScArTfiecytzkRbzRd_3QXJQsvzjiH59hKb6jckFaIUd4fU6Dz5Hl1ppC7uxhVv8Dy4sBb5hPyR-2_1R9vhYtvVS0r_uTVzi7cxKzLH_g--Ct6LNeXTl-sE3iWnVQBk1FoMyexj770uDVk6w2hCw4j-e0XDRZU2MkjfLO9hLEhANE03fbRdR4p3JQhV5QsvqGhRyV7KsY_fH9_3O_lFiWjIclhfZQQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.444404, 
+            "lng": -51.958582
+          }
+        }, 
+        "vicinity": "Rua Pion. Domingos Salgueiro - Maring\u00e1", 
+        "id": "0c90a88ad722716a5e43e1f2ab2c7e521221d5cd", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cilson Pinheiro de Moraes", 
+        "reference": "CoQBeAAAAEQ9uoa8cnEcCwmGwxV3GxIQpc-4Yry7zAmRfRvAMNO-TAdqnXrHEqsuhgIFUecAtpJtBBWbcoIDcS730nebOKyrYeIeZutM2twbGWhOIsdMCaHxZX6O-VZePhKKZO-Tnl9OPrQdK1Pp-_F4zt2WhJleLZWCaFbY4Ast7raaesQOEhAZUWlymckmexEVW2P8GxogGhRE6WgF4gQirqBv8fsJk2tfpTzALA", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "2f8fe6bceb11add784705b44f16264aadd37e5d2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA5Zn0Yk8Myki_7P7XI3avRrSzLJOeWha2ZsrUAwk7k737lPI_W7wWPMqHy4Ih6p8HvfqPRXq9Wu6zcaKcJTPlRvfFtAc5hH7HTogn6sEqxswsZ-MGtYKLF0_MJIqgQkLHkML68l7LCi3ak-5kJKmoBhIQTOJMJe2NK-c6T-O-cRgm2xoUPozbb0pW5gGGPRl3XxwgsDcI1m0", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRuAAAA12_IVPYJR7QBA2Mj4R6Cu-wmWx5TKha0QeEcH1ihPW2MIv04AMKqLGfKBJ3jQnOXinMXDN4hmB8p7rCMH0FEZ-AwvJEByw_jtSGARhtBnRf10NPN5U1vGMIsf34ugInryrenrjcuO6K5yGOD-eudHhIQojRveIfxvme1Lo5qh1r-xhoUZbDYg3f99rNyxWiG00cbOnITD4s", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Azaleia Park", 
+        "reference": "CpQBgQAAAC_bT1-tVvIjNicnczzKgJfvzyJbSRJ6LsFNrnQDhxPaBzpQIjzETbNnT0KvoMNqAHKomR2HUYiwJ8_SNbVukXsnE21h4oGyCTaRIE2ssZ8CIQRxq2-e7NAxM-atWEnTrsBbN5Jo4EIXN9qA8Mfr48Eq73ch6VDtMEWTJPXdseHkTgRjRJ0z3pxWLH66AIRKcxIQygq59mIi_mC54qs9KuiC0hoUMX2Hzq3kHlEA-0AFXOpNCF7qqrc", 
+        "geometry": {
+          "location": {
+            "lat": -23.442759, 
+            "lng": -51.962613
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 756 - Zona 40, Maring\u00e1", 
+        "id": "879cea4c4f757167a256e993a89555604b2c6020", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panelas de Alum\u00ednio Fundido Tuyuyu", 
+        "reference": "CoQBgAAAADq3IPbLJHK2UHyOzsXKuWUe-mGj8lWKz7GsJCtuRrY-Rg716o4dcQlvD5ZNV0A-x9nZTg2x2OhyKcqCzqeWSYF7VBTCZCLxM8VD7dcx-Fw-1C3P_86lDaNiIa5VfyOVbSNyA7hXuEpxqhQF1XOleocb_A4T7CY4HKQBnO9vDRF4EhDlytsWWaLlm_Kzt7r4H7WrGhRpCj-Nq5Vm5xe_YbJ3ziNpEtVlSg", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 393 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "4f2f0f49e643d9f6af4b58cefc04a4e88af74683", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro de Cardiologia Paran\u00e1", 
+        "reference": "CoQBewAAAOzEnaUGtzPaoJWN6UFhd2MZp3JGvY_APfEJXaP-Tqz-hUFO3mHh_G5KLAFQO2ASUX5yIDq1GeKhMYHEBUMoZLvUvO-pRHC-pAqpwnDo36R8bIXBsWFhoSWuuaxmAMwpfI_pw0lI4Hu8dST8CPx74-opMjYVPzQ48WqgW9o1IYiiEhAXLhlnKAkklClEiBmATeEjGhR_wrUkL1s2WgrvAvh4Ql--HycYPQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7d54fa86980695be29054daf5756c65aebc9720d", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica", 
+        "reference": "CnRqAAAAtUdupYW4gqgjqZQNb8jKcgZgtkN585n0dTnl0FQhoWp2NGnNOd4Fgp0gsbn0UNaHXjMeELlvz0WpqeWx3XjAl6b00uMFYr-qhPZZPGAQsq2UIAQsCifsr0kR00BmuSOTMTMixVBI-1GXVcGxnt_GDBIQcjcYTN5-D2UQOx7TsYlufxoUqm0mERx5mBGupxr6bIcq0tDm4Dc", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 78 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "0fb026b1f88276a2618ded504ee253e8b3bf7bf2", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Residencial Parresh", 
+        "reference": "CoQBfAAAAJZ_ILoUNEIJWjOQc8nVm0XpNuYXRQEmGouqutIXZ5BLd_cFMbZhc1grSnb6r_OgGbKiVIZB1s4vExtKfOa0mdRwh2vMJYbAR_6XtEdBGFoJIjRgbgvpDY_1z7h0ya1d5ZUok7_mbFpnkc73j6sjEN10cof53cqcJngDsT1AuzRDEhDSv1B_iWvheSo0wpjhw58WGhQ3v080oTfSO2bkbZhinldrljMw8g", 
+        "geometry": {
+          "location": {
+            "lat": -23.440187, 
+            "lng": -51.960433
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 435 - Maring\u00e1", 
+        "id": "8b9b783f3a3ec12a9b9f9bc1761c66248e9d8569", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicolog\u00eda Hivi de Castro Ruiz Marques", 
+        "reference": "CqQBkQAAAH-hdA4qCX1M0sH8ZRjHltUmGWUMakdcRnryY-920R4oPE0ATnlc7HFUvlb-MQrriQsOAVPPNJC9GQ2HHwgAtCsNIMVCyTSqlFC1rkQoCPy8AL-7jxjgkm8vereC9jj38FTdj5L6Q5XoD6e1IKkVLXZ8Aq3gAYf24Zy0XKaskPPibhJ_gHnywmAqamCeyO4yI5wg64O-IlmPty-eNF5QnlMSEOTCypXjPWOHk6LZicXU9yQaFJXkJabITzuw8v4Jk7ac0-LiaE9A", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 290 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "f0ae063907e356aaa6be0efb41226aaba2f93456", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Salermo Representa\u00e7\u00f5es", 
+        "reference": "CoQBdgAAAEhhBu0b9rkQBdFmgbok6-hGgeJmEO5z16EKxFcVmSIxAJuGmqWSQOMW_dHhoasFVvuf9M3yD6xhh8Wl2C3bSoA9BgWGjIz_7qsfwW6t3KR2o2NHGVEc6bUvatfENSjc54Fs7bb6GjlwkPwkZM6geF23HZXk4gHlrFyTRwOK9iPpEhCiEGwJMDiFWkyZ0scNV_sKGhSy_u-QAroRXl3bPHbYtqCxFwFSFg", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1300 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "ba669c242c40f3a648d805edb964062bd2094451", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Praaida Concep\u00e7\u00f5es Publicit\u00e1rias", 
+        "reference": "CpQBgQAAACutcTK7-Zx55TqUrB2kK8UHLLsjQoUXVqwx0HPriCrOw5AI6xvgVG1LLo110bxX__69cfRwk7-jLElnF1TSrN81DSgtIg-i9GDR65G1kdEjp0KFCkx7PDQPL-CnCcE1mo3zW2SM1q5DgH76ERW9D-hc2CYh_bTtz9406Hnv-cnOH61yy6BMBlXVmXI3OnzIGxIQUmTOB7rKCwoM19iYVDamAxoUNwJI3HnzfRuOydbKJN38ixL4k2Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1028 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "839cc69a68014f3be31f687d945fae863955ffa9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Op\u00e7\u00e3o Im\u00f3veis", 
+        "reference": "CoQBewAAAO9bXICJYeyfX1hwakmvjSp8RgCdzoOhy1AH9Ld80Z9sMtRoi4K2PsZoCksnz64wfcoFL2APllEwAeX8MCvHLD3sgaS5NnCl8alajSBaEtEWtuEB9_q_3TqmCmC94JLSD7s78hL4ikDruU1Qh9HSR0-qetDDRvj44dmeKzAjFjDvEhAMX14REk6wwkGvbFhNZF1rGhQFuAukxNmlvXIdeH46da4M55cdzA", 
+        "geometry": {
+          "location": {
+            "lat": -23.442759, 
+            "lng": -51.962613
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 756 - Maring\u00e1", 
+        "id": "c1bbc792872fd950d4084cdc457788f17e7fa4f2", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Urologia Dr. Valter Sorace e Dr. Darcio Sorace", 
+        "reference": "CqQBmQAAAGSH6F9Jpd69jitK4YREqaQX-HHGGsj4-b5IH84Ps2ll69D5M7OaTsw63fqxcXZXFBO_uVQ0FAW6AUH9f6hTLu-Pdtc53GAgBROUgmRjlGMpplexwIYGITWTRMy4mIHdf7OHKST-4rAvSmxCdfMSeWYsGTdWNtz03kCFOYJxKW8MIUjcmA7h74iIl0C3i6cO7Y40p4qxOoh8WqTTsNFvPRISEE6oSTdpadnUQZADsxS-Wh4aFGprCu6yordkiGtsJcH8SWqxcQtV", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7052716f3f695846ecf2de0264ca72cf876e86ef", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "AJB", 
+        "reference": "CnRhAAAALBvwvvqhB150JNTQV08QEyeJLAxvGlZ9c2HTpo7pMCELjeF8NiZ5bpQBacRuIlmeLxJu6rtUpMfV19vqSOJhTNJMNkDRw5sW6nOd4tQ9bA5MfYg7--8uzmB-Fvl6GbH5oLYY8iOmbA7UPf_6-1F2jhIQu6KZukSH-vYsPcLCiYR_WBoUQbm8hzBqjTkJ7B8pDM8PJZKUdFI", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1358 - Maring\u00e1", 
+        "id": "f716ce5afaee9e79606ee0045e2b2e6f97a7be0e", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Portal Verde", 
+        "reference": "CpQBgQAAAA49QYx0J0rpSD0XjODuVwOtQ_4DVp4beavOvfONr4jsBqyL_QI5iW83_ep8SYrwQqc2Z-56zQnjs3TZn5sNloLOwLEbiRHOmrE6t4d18SqbV6cOQBnxphO34QYOJEsPMCjxl55I96PjLrvjVGyhiSb3hRCUfHLAy6bx5T2DPBc3vXe4yfOvYfZ7DWKlP4d13RIQK10uhHUqKXzkiCylDNTa9BoUN10Fo8PSYLh8o_mrmEuOgifKyKQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 638 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "6173dc4d2dbf8eabe03b1f0e1fe2fc9951f75ad9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicologia Adriana C Bavelloni", 
+        "reference": "CpQBhwAAAAdAxVcw-qmsHvRLd6Ash9B864h_jr7X6EpRdKu1wZnmcQSuNMifwySJTWRnAcPEetbinVO_3CLjz1gGh5ONfxtS31pQ2Hdhfx2gAhzkqocCJv0IMhSazjnjUJqgJJEcH5_XONY7kwN8RS3bhcz8BnkB0mXSGbSI3SUiYfmr2OHemnoRyAkO1rPNsF9wG0OkGhIQ-l5DGoAnr1kYWhvZ7hzmkhoUajuabNko3NX3SuSVAXXoi5w3fag", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7a4a316826a6403e1ac7e4290b27ad709c766517", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Limpeza e Conserva\u00e7\u00e3o Rosstec Servi\u00e7os", 
+        "reference": "CpQBhwAAAOKLhESSbdlCETAmxxwsVgV_pgQboXQu8ZQwEmm385dJngewUDNr6sAri0J1oHHMseTZaJ-xn1hG2Dj_AXQK1CZ1AY1npQB-00-_ZFyd6FT2uiwWPr01o2X1xZcSEIk10ukRTYY15H5s1QFkjTPUR8_B2gRnN2fsb9mmZ0farclEocrJYiySrDZeSrtFhvsckhIQQ97_z-BjRiTgmxeuCRf_LxoUAjRoK4HoCisfxqz1jJa9I7PrX5A", 
+        "geometry": {
+          "location": {
+            "lat": -23.442684, 
+            "lng": -51.959427
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Tel, 935 - Jd Guapor\u00e9, Maring\u00e1", 
+        "id": "540da4469e29a9adc1c2971f5c05c2bbb0db4257", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Karrapicho", 
+        "reference": "CoQBdAAAAJmxfcXvT_aI8QYmqzsrWA4cIzRO6UqRLBsvzoaEqsKItirDpXUpIZeVYxdLuDRLTfWmQfxBzUh0JJiWm75CFmzYVHQ0pUtxtWTUuhLusfOlrIcYi8a04HjU_wfa3hPLqDbI_7_mzY5czFXOB6ydjykL7SB7fyiYRwmDmUOlJxIuEhA0CXjz971QRbSGfZotkC_3GhTO-v_85_yJ8BIyqK3UweQFRshWeg", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "293cfbc728209f4306266a455e2c1be99c513e5e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cilson Pinheiro de Moraes", 
+        "reference": "CoQBdwAAAHGtLVkCcPKW6fYmMN0tY1_o1xJz8Auecd6jsuGy4se_wTRWlaRtxCKZoO2dqG9IvIK_C0P65u0DI4YZztHYGwgEi1uiC59mMatXK4mGsVeZhVrd9Auw5jQKv4JinT6WWqgYG-tJByc8BnQivvUPBm-5NcXDnMwfmE-g6JHU34c3EhDHSL9iNo-rloFUO846wMp3GhTvgeupDRHV6kBGEV73KP9_gbm0Dw", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "2f8fe6bceb11add784705b44f16264aadd37e5d2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jud Nicolau", 
+        "reference": "CnRpAAAA089l5bm-CjZh-JAgPlxgQUxIR2WzSciYKc5xIqCn8HtkUH_9ywmksoXfWzoL8qa3-UmG50hT5v8PnrbNNaLRJCCf-Xsi7cpR8laEfLn1ihOc4ANr6m0GkPEoYBWRd65mPNwAHQ8hjRp-W4C71QwPVhIQ_r-aDNr24guj678BUyMNDhoUwTjAM3sKLS729oRPjKsrV6TaaGg", 
+        "geometry": {
+          "location": {
+            "lat": -23.439884, 
+            "lng": -51.960697
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 394 - Zona 05, Maring\u00e1", 
+        "id": "6f0c597dbaa71849feb80fc3bf7de244f97ac16b", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Paladar Restaurante e Pizzaria", 
+        "reference": "CoQBewAAADOXNqMWTUwbDQEsMRQczCIECqb-mm7sj5veCQUhqnCbpozsz2fEC6tBlOF3DmnlhtfOJKVVxiAyz8JcWOcjXn6UUA81XURm3p9ndTiYuZen5dtXZFdardRUUqq-_8VAn5HqpiF2G7rpCFVFdZGlO_q1XsWe3xdXFn9kqQ8q68blEhAJvCBxI4isLgbDitw_0WVDGhQFYUeVU98dcLeky4WGZebQVuvDCg", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 6 - Maring\u00e1", 
+        "id": "82344b4f39ce5a5fe66148754eaf6ff710f6c798", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAY18UPBAK3n-1clh64rvtDQEBAN4IlEkgbeUYWrRXqtrFGqtTKbX77HdmpH5niCukK4qPeKaOfkdmbK6PVkF5idcMBHUvkrSK7J7f9bo78gqPlNcBqn9-iSBoGuacDuarEgCjaGcNXRKX5UiJLo9XxRIQ2BXSpUaL9dSRdH3ecDloehoU3lXo1fCH48kHxfyLNWNfouclLeM", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRuAAAApsW2R_aD7nsz7lwVBC56bpkuf7un0sZcWuqnO4wyJtmqRQigxvB39NrQEr-iiNN-_g_LN7iSAg1oUfTIIUbbMq0Te7nJSupg7qHjeO3z0rZ_SkB1SkrA41jbbs91zRkpUbMZB9PAiVieKbbSGRDJfBIQaGNgP0D7ljVw7MYZHIBJ6xoUv5_ywUyOo4Fr98Pkd7E9qQ3Qr30", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Panelas de Alum\u00ednio Fundido Tuyuyu", 
+        "reference": "CoQBgAAAAJy1VTSL1vvx9bGAwLlo2aVTQ0jfeH0B9pBbZLqYV3nVO4ZFXFkLgKb8zmqNbMQNi5_T4Q5mKPaD-BHUdDTpj46EYDNDiDy9JIbOoZxRSOeNu9Tr4u-tbRDCFJqTyaxiQmhJq5Qbiwtn26Srp7ebyU2xoBl0JsemHS7PGy4jDcmpEhBUkH4H0kYb_RtxGSiJsjVgGhR9dfUGgwb7lQJC93FpkP6gKP1scg", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 393 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "4f2f0f49e643d9f6af4b58cefc04a4e88af74683", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro de Cardiologia Paran\u00e1", 
+        "reference": "CoQBewAAAEqrekh78JHR3Z18Q3-e3xAa2Qti-ELN6V-myvbvNoCaiBH4TUqrjr-hLTzU91CqGifacTPgYGvMXM0L5Z0LMSuinCS2T8dNedFd85LyFmfJwbAbNLzW9RQorQQZ2uUghfcjPmgNQG-HZa6hM_JhuH-D9xCHy0jrXv5uerPhCZd8EhCM2b1PI-6q19QgZwHL-ouLGhTsi3Ws0ALcr3rbN1VTKUdQdtxZ-w", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7d54fa86980695be29054daf5756c65aebc9720d", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica", 
+        "reference": "CnRqAAAABSDlNfN_P8syL9BdxfYaM9jaITNfEpWrC-L2kia_EbHJSEXare8aXUW6ooo05jV18sYBv_v9cIha-CSl1VI-JSqbYfOarwhqCDx6Cqzcy3jB_bwuzTW8KQ9ZpQJNUiE5x8KM3NRSDPKJpXgfO21kUhIQndOeTptXGZqQnz4Z4fgxrhoUC2jtfREKaLwW5OMiSxElNEDFoRo", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 78 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "0fb026b1f88276a2618ded504ee253e8b3bf7bf2", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Residencial Parresh", 
+        "reference": "CoQBfAAAACi8qB5gbkph6_4jeHcWk0WlcdJ80b0KXNs6AYwFwt64pR99wzKFxn_YASxDV880OGYLilcnRmUxxb_KVps7pIxYHbzQw4rIuKysY4TC3fdEP5ER7uRLvVvlcr0z6fDR6KLzuRpZnXewgsowjEwYy9H8L4wYfWIfvCUyh_OFIfeCEhBzLR1Q1Ylv0WRs4Jm2TNzJGhSa_WYwo5poHVRtFUTB8_zekN_6sw", 
+        "geometry": {
+          "location": {
+            "lat": -23.440187, 
+            "lng": -51.960433
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 435 - Maring\u00e1", 
+        "id": "8b9b783f3a3ec12a9b9f9bc1761c66248e9d8569", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicolog\u00eda Hivi de Castro Ruiz Marques", 
+        "reference": "CqQBkQAAAHKV12EFy_qTtwuU5IYi6-oyJlI_pKljD8BcktCkAF_I2lcfPSIjpidRYpqZ5a7QimC0Ap3TkRvekTALqoOzwekxDNNwQsgm7T5RJLAtic2xMutXJmAUV9aIDv-clotB50YRUjtgjKlhI2JziWitXnb4kAuEktQoNa_gCVTRRJ-yX2NeMwWFWf97h0A-3YTp36NMj_uSIPyrrd0kkUv4s90SEKIY-N6HGIotfz4rd85Lv-8aFLvXqeAk77nrG9L-zLgs9oX4Ldej", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 290 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "f0ae063907e356aaa6be0efb41226aaba2f93456", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Salermo Representa\u00e7\u00f5es", 
+        "reference": "CoQBdgAAALaJBK1NCD_CAJyzIzOBXk7SxiTXQkQbuzy4gbQfJhr9VXPR11U4iH1GbNNGILr82S1BKLY6_E5kFXIJxMPmZH36wpHYzTM6MiU1A17HoaSYxZBQB_FXBncK_eWIhMHooYWNICRAiSFxeS6Gtbt5vjchbOdfRt79Sk_NNP7XnC2REhA6MIgVCz-UrJstpM_4mBWeGhSbsOvFjx9P-PS0XuFCpJhb5_cJgw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1300 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "ba669c242c40f3a648d805edb964062bd2094451", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Praaida Concep\u00e7\u00f5es Publicit\u00e1rias", 
+        "reference": "CpQBgQAAAH3DorLNow8NY1l8_LHrs8GtfSOicWBmqALaBbIoK4D1hhcgxAYTcFoRE3lkW_djzAFUpcp5A5dw1s_0APw03n1F6YH-2fZXKolnDI6ENkE2d_RLJWT-GA-cdUFSgW7_IkYfl0E2hg-DIqpyk1u3685LPPqm5s0NoIKkKEZnIMiicAF_lVScSuwmX90iltWWsRIQxAq7eNFzsL8Uba1-kOUtpBoU6xlXuJAP8cbZYUUf94AriRqCA5Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1028 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "839cc69a68014f3be31f687d945fae863955ffa9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Urologia Dr. Valter Sorace e Dr. Darcio Sorace", 
+        "reference": "CqQBmQAAANbP3L9uNUYbLfCJ1HgYh6k_WtoJg8uOALgg1aGcnQtrjCqW8_Nqa4rGBDnccconG0aptpeMLbbVtTjNZhYqseVDYeLoAiOul5fRVvvLuedH3HOIYMu7co8VKyOtsJlSy7w3yTTVAEGvDx9K4dw_C3uGOCypGflcz8Pi6ud6z7NDsAJyejiqoFLgq0dJ80McX9nGrsOfTdwzNe0nERmdT8sSEDe38JIX8rYemxLp2QmSDf0aFDYct4VgpsHDcqqw_qK_lqMPr-L0", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7052716f3f695846ecf2de0264ca72cf876e86ef", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "AJB", 
+        "reference": "CnRhAAAAhpJnga1lvoN6VTUUrSFJljcf8G-FnncnUtiwD4kg2IHR6mOTwoWocO4DUVntC5OzU26JDXM5kA3aMVPOoyhgsf_a1V7wI1WigiQK_zklGmR77FnuI40qz66y6CN-qI1Qo6w2kIjc21FsyMchC25fAhIQyX6HXVIAQsOHESVWwN-KWhoUsZd9aBCnFC4wsAkiTAIpgh2T5Aw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1358 - Maring\u00e1", 
+        "id": "f716ce5afaee9e79606ee0045e2b2e6f97a7be0e", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Portal Verde", 
+        "reference": "CpQBgQAAAAKRQNVFqz95jzzQ46oXUw7istW_QqZOWF2vtGxJuLVGtfELIkLqAGw2_1TB9ldXFP3ygjSyeMfYIGga4IPEWQqgTstIKfjO947iFsH5ypj1dWeu0Y2fwo7GSxZ8lddA0ZeCjUgAOrThF971R0S_TUU_EH-8e0iMh9R7Jfeg8RX-jsc8yMTL_GUORDOEyc5VERIQMlo6KYaXiBLHfAFuPtxVhBoURozPTIklME5tCtm0EScbAU58BqQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 638 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "6173dc4d2dbf8eabe03b1f0e1fe2fc9951f75ad9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicologia Adriana C Bavelloni", 
+        "reference": "CpQBhwAAAFb1mA45d6HX9F0XIXovUdAtC-0z0oGLY0_TcxI06Ngxq0JW0X8r34_M8VfTNJTELxxBH6Q-TG2GzCKuD_sUmZyZkMX1iNGs7i5-HA5F3tgYB6sWUnAbWb1Pl1PkbYGjGQo_gV3TvIkjL7FruC1-AJrmlHwecs46U6GpVGu7FZXbD7VkMSx1wrm3ovH8QQoDIhIQteSsG7c5ySjIxN79yMJqvRoUK6t4DjxqOJBP-rc0atkNd5_jX0Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7a4a316826a6403e1ac7e4290b27ad709c766517", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Limpeza e Conserva\u00e7\u00e3o Rosstec Servi\u00e7os", 
+        "reference": "CpQBhwAAAPI75PLxEtfBvOmKo4DehRjqzqRB8Q4NLX46wjEzDDi-BWL-b6UvGQ5znmTVH6kNE2RUSzrrmqOftI3oJzG2WG1g2_iE8oTiL8SMORNaEYxdBSnH8DCQw5LOHp7sHufxDZjBamqm7WVJ_VzZlXcIVLCnF5jcplvYDZO8MSd_6GiAfVKjhVWi6AekWLm4aTHSbhIQpI_H0DiyoeDK6C_Wx3HQuBoUSVEJeIrDsP-rstUHq_BM5X8KbgI", 
+        "geometry": {
+          "location": {
+            "lat": -23.442684, 
+            "lng": -51.959427
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Tel, 935 - Jd Guapor\u00e9, Maring\u00e1", 
+        "id": "540da4469e29a9adc1c2971f5c05c2bbb0db4257", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Karrapicho", 
+        "reference": "CoQBdAAAAP9B20qQfagtTUdI6b_3g6dOIip-UzwwPd7Rah9QwEMWdelke-vD8Kyq49LvRrC7iSRzwWnObLp4ysTeSWrOL97jM7NxD9B1NqUwSWRijRXD7SD2LiG4zdkUP0oFzCN70sVo7bXvJmW5NMkedNshAFICvn8nJZMnLgn2IZp41MKBEhCCFqHKIOUfvfWCZEZJhqgFGhRXlG2P4yzZsGN0DU3yuoJEvc8xKg", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "293cfbc728209f4306266a455e2c1be99c513e5e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1 Kennel Club", 
+        "reference": "CoQBcgAAABohiXZCj7BJGi1xEXIOqOAxsemXB9jkes7LjRSMtmV0am2InsoAJ8ljOXRzsrDK2_LI-BX8AHk1nr-xz3Pcf_dLWzYCyTEzxDI2Kqhzg26Qkxt3rfK1ZLBygjIlhDDBr3tHJdzP2oddQwEoPMyPPUu2FCi1zG_Jdn9wOwQByVQIEhDbmbc8y8i_RBuEL-pCfZpEGhQzYi0HOMQYktT_KMsRYQXm-szNjg", 
+        "geometry": {
+          "location": {
+            "lat": -23.442305, 
+            "lng": -51.957153
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Tel - Maring\u00e1", 
+        "id": "c1b5166476d3ef2b2789893fc9804c7bba1dfafc", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cilson Pinheiro de Moraes", 
+        "reference": "CoQBdwAAAACLBHx6QobtFdIbSElxgi3aOuIXOhuPEtTzTbLNf_QMQ9PX66gGYkzHQnEbcaUWnYPk_5Zwbb36A3w770gmUBljleyZ6BfXHpiVN5RUN4D5dil7mvujF57ertaas_D2PnwiSH3H7SHINDSUQzaoVudYRdSADN7RKPaI1fv-gu4REhCEaHYbRLhXSAGyRmvDg_aaGhSBA74gzkyYUWcDWj38pFKhc3nT7g", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "2f8fe6bceb11add784705b44f16264aadd37e5d2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jud Nicolau", 
+        "reference": "CnRpAAAAz8bnw0WmxsRVQy8kwngi4vEU0PQZwWhecc6CI5dD4fX1lEunmB-Ijyke-dRns6qlNNYCLYM7JBcM6KiRjCXfDhFMH_rJgyMVknX_2EYycC52Kt6XmVTizAMiwNT7SwbX9xNPWXeGEBx3VTUQxnVz6BIQz2rUKDe6eFY3iQsJX75spxoUiSsXQTlZ91ilmOOeTz3bpOGi1_g", 
+        "geometry": {
+          "location": {
+            "lat": -23.439884, 
+            "lng": -51.960697
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 394 - Zona 05, Maring\u00e1", 
+        "id": "6f0c597dbaa71849feb80fc3bf7de244f97ac16b", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Paladar Restaurante e Pizzaria", 
+        "reference": "CoQBewAAAAst0ayOo3juCNPA_6CgW_t8Gfm52sON5NAUDziQk2oLshmziyo1o2jgtdluZwuIM4RnV6M2789L6tT2zPG1IFsYAfxL9Q-xYnjUIkDxKDi9nVF0vbEADAmpiuq6uAmMsw__0HXUKOkZJzrTvmbm9Cf57oCPBgX-pMNdQt_tJy8FEhAsLItc7QuoCi2GszdJcQOlGhR5N6Mj710U7ox9-Mkp3RSx4iLPRw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 6 - Maring\u00e1", 
+        "id": "82344b4f39ce5a5fe66148754eaf6ff710f6c798", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Residencial Ingaville", 
+        "reference": "CoQBfgAAAOJI860y7LVn2ZhB-xfiE2P0jKGHOhknuvgJI7cgHHr26Zy_XO_EA9e9v5qvMoh6Mh4NTV55G-mbaKAjr6SttbpChvZklkkyQSU40TrD8LIJbH7mMV-_aSFKU2bmIlg5v0qRD4PnwPHt0UIGVvjiqX7Qt2gCdQE4G0tWegq--u43EhC8H1NBni8nrA_BRQHzUQkwGhQEe-chIw9ExMsucoso3rfDtoYBIA", 
+        "geometry": {
+          "location": {
+            "lat": -23.442305, 
+            "lng": -51.957153
+          }
+        }, 
+        "vicinity": "Rua Pion. Jos\u00e9 Tel - Maring\u00e1", 
+        "id": "b90218a2f437a35eb60dc90d38f0a66af8dbd784", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAJHzolG_MbIfozJzWj6R0qhosupTfXmMZpskN9BSkjsy29ymhHv9m3H2lT5h15IXW5WRdZ1MhL4nQ6n7AMXiv--nMdduoO1Mijnxk_rPzPx0gmN067s8npXElCoUaZog9w3Ynm-rLxAmIHt1ZvEA2ShIQOKUng7EUPl6HyGj-yyDlohoUbBR_HfyWwApVcMAyk-_-sWhI6Ls", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRvAAAAiJoYNAS5NhqOL-kFTKvwHi-AfrruUL-MWWho2YIgszP8FnxruF7AydpTXKjlt7KKcL59kGRvrpdQjl47p3r4UiJP-9dB5XVaHz8UDJorUFVlBcX9hyfjqV-P4ojlSOU56cj-TAMr4uHDkfQLEeTRjBIQ67beO-0-ag_9LcJhrS90eRoUvD2WrCRzIHhYSaCq_RTyQWLPiBQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Azaleia Park", 
+        "reference": "CpQBggAAAPbcMbSYTAqlWOiOpQJ5XJKIcfWlzTpU2gjjQNbyJCCRi2soGqTXc6ZPvdwi8d8ZjuMvd-eLgdfMl_L_pemBfV-Ox3ThVuZB37bKCknU34oYaZhTkstjICXWwC9hphOf3WpYNdYQwaaSt2ZqK3r0hiFLcKm29Cw_nCOZTfTjJiubBs9FzC44aCPJCGBJ9zDm3BIQJaAdmAzb9JZHCB6JoIT1nhoUNwNBOiNvKG3ETQfP6dlWDem_MVs", 
+        "geometry": {
+          "location": {
+            "lat": -23.442759, 
+            "lng": -51.962613
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 756 - Zona 40, Maring\u00e1", 
+        "id": "879cea4c4f757167a256e993a89555604b2c6020", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panelas de Alum\u00ednio Fundido Tuyuyu", 
+        "reference": "CpQBgQAAABtU1WvhSgPTEN7mSK6TyY7YyAISch7R_i1wnwU-PVwgu4inlgXEGCu8tOs6Gewn4BJQ3sFy6zk6g0axxlk7D-Yg8_Ip-BCRseX9FpWcUK4JC2YuWuPvt5LhmWCJbvdDaxNCo5A1v8a8Uy-8AaJeV8L891rv2llficA7WyQkCLm6s0rfyutRTYlXUrF-wYC2ohIQtRYRkRR9SogIXc3DW-e0fBoUlokslH6KCgle3fMdBo6kaK1Rb6M", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 393 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "4f2f0f49e643d9f6af4b58cefc04a4e88af74683", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Centro de Cardiologia Paran\u00e1", 
+        "reference": "CoQBfAAAAMhYlOlfaqpKgZYrn9J4O76aWyz0Ywo8qs_dY9udnkQY1xo0zuDxRmQV795LrjZZELAVgHA5zmMDyzIacB32PGwQQp8U22jVWS-4uAcU02metqMLlFiWkRUc7PQdmdyoE6piFCDi4IXvwq1B4cymPN5XAtHV-JgUmXE1woZDqFhOEhC0kJ_gMBVRetwAw3-Yqp-_GhShpfwRTpFUD4aqNSFVe31SIty5WQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7d54fa86980695be29054daf5756c65aebc9720d", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica", 
+        "reference": "CnRrAAAA6joe-CJzK2iP7tqdlPLLRN5ETvqq_eMuakTYQ3naIY8S63kPeTbiL6HGQzTjP9qYKYP2i5dprnLc7WLkVPwN4BxETxXOqjXWGjwEekAYxUKpDzS_nWzSNF_G7fOCRL4U3QtcXGoZev-tPdzs2A10zxIQo0nhsn8LUU9rTqwcqsR4nhoU6SIHqDbp9xIbt5eEOT9PRZR5TlQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 78 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "0fb026b1f88276a2618ded504ee253e8b3bf7bf2", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Residencial Parresh", 
+        "reference": "CoQBfQAAADT8f0fPYZwgMlQq0zGfMM-50XOPTAwdGuLoSvQ4naMMkMcTdgycY_mcckI1eGSvYD_TUmfVAow1g44eKC48NkZ9QAe7IjOKmbLUCueemdZAqZRTXKWKeyBtCnVi3auCgpxwWf6k5ve0Fo34xaftAQdDv7s6B-iztGrtK7rld47-EhAJD1xWdJZvsFIlcivxBQotGhQ4gw_7Xhee86a3z2G5XiXHNWnEyA", 
+        "geometry": {
+          "location": {
+            "lat": -23.440187, 
+            "lng": -51.960433
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 435 - Maring\u00e1", 
+        "id": "8b9b783f3a3ec12a9b9f9bc1761c66248e9d8569", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicolog\u00eda Hivi de Castro Ruiz Marques", 
+        "reference": "CqQBkgAAAPFU_LtMG6rLoBaqS205PxnlNGJ4dKxtiXdCm78-lj0fukqUY6QhAdvZwFxl9sPWePyh0p3vkb_wniIsgkUPxNrrO3iAAAzQSmrd8NBhnvNKlZniXnkB6cIhxpRzmXleJDYPWwzKRkrz0w6ygt3kjaHX_2uTuAaDeVzJnH6baRlBbMgXuuuZIEUsjLbGKEdwy54Db2odQFv6d84euCowTNASEEZMj6t25hMejVuAoe0wkjgaFIuhjsTXYJ4IJJrXtIkHnlbyzjWm", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 290 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "f0ae063907e356aaa6be0efb41226aaba2f93456", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Salermo Representa\u00e7\u00f5es", 
+        "reference": "CoQBdwAAAIYC7YtKULxkK1EXUeRZVZJiyJ0PzwCHPtM4_LXjW3sbRgls6cnXXxSxgRSQLgK_iY1xFzeMJ3V45thgjSjri2bj2ch38yRfZqTmhtA4nWHGXdPD91ZPizFlJtAgU-T_aWLnwZhADp9qjzs9SnQ_iIAjzSZcUXUfykX-lmDlwqRTEhDjNMPPuod_hpJ35Qqm03dVGhR5Skecw4s2o2y2GgP5swwcKm6brw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1300 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "ba669c242c40f3a648d805edb964062bd2094451", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Praaida Concep\u00e7\u00f5es Publicit\u00e1rias", 
+        "reference": "CpQBggAAAACgciN9asnuF-HojOp9QiHhuU67BUIBvk7y8qYSXj--F49ZyQWqO9wUMJgiiFAjctpTGXDt3_quffAoKA304deB-z7uWsL9ZsK9SUEB1fjQXE9x-hpFCoqcl_5zCIvkkQsYuj0jwifSb2HfAgSqP_R3ixARPZUH_daqI9et2NtxcQHUbdAiickW-iWmKZS3nBIQEVqwpwe8z0QUDdnGfSABWxoULMaQ9N37z6DWxSdxbqwHmuWi0iU", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1028 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "839cc69a68014f3be31f687d945fae863955ffa9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Op\u00e7\u00e3o Im\u00f3veis", 
+        "reference": "CoQBfAAAAJoXzdCIq3UqIJo_jyccAfTkD4EmWCpI5waoEJ7URpcd5kpoH2uAuMICqwnGrL6g8ZMAnaqwbftYsMCIUX0gwpP4bb1xjsSxCNoAJ_85mjBKrRWDQ4raWODP2DRPvMx9DA24ZE4mI1UuRKu8bYlUYOUQyi0tu9hjPGu2CupCuRKeEhDdCpsRDqFcmMZEynwPlGn5GhTxiQJDf0zKYiQu4bXWKfljuKJyAw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442759, 
+            "lng": -51.962613
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 756 - Maring\u00e1", 
+        "id": "c1bbc792872fd950d4084cdc457788f17e7fa4f2", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Urologia Dr. Valter Sorace e Dr. Darcio Sorace", 
+        "reference": "CqQBmgAAAC1im7DPaZjHdPXNmBkaVH9viAydJlIZUFgrmKus5zcADFYD2p5bNraev_WMA0A4stRIL8ent6-iZQlNGFd5Z4yDni2FnsxAQlKJ-zzKbWZvBahzSDco2rNSGXDNve6O9TvQsFlJKyvXUq4C0MRkb0Pvd0_EeuBC23Cacbu4PmM1nsfXuvh3B0erAZfL-sJFDxlCCSx5UQzlOL7MiybXiVISENLjlrK2wy6iTooNCns53kMaFFp4vU0VLO-_W-gff78Ok487f_kx", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7052716f3f695846ecf2de0264ca72cf876e86ef", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "AJB", 
+        "reference": "CnRiAAAAFM2BHKFQiX8NBki5Hig9KT92sMNmEFb87vFdGaQFdFLiS5zjESxvdhT3Ifd6sDRqsyMKCBPdqRFi9cMxdIInHZsjBqDuC5AdhqVxi_gZpdFMHt1LLmyAUkn927XrzGL3gExRmBqFCApPKZb5YctdthIQN9I18wVh-PJYoY6oIZcB-xoUkNjdR_MYyScHC9Zd_dZpo03vXEY", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 1358 - Maring\u00e1", 
+        "id": "f716ce5afaee9e79606ee0045e2b2e6f97a7be0e", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condominio Residencial Portal Verde", 
+        "reference": "CpQBggAAAM6EPeVKXaUP6_CXew8cA-2JpgeybxxOmZv4QucolLII3QGemEglSkScBodoV1ZeUktTXW7_kPHK0_E1Rxzd5RankaeqUQCCTwhsEKkJrKF3CnDyv8nQM_Kghrnf1InUFBNbllp0_Ng0kJD6e6UGMdz1zWeABN-dpESJxtYyLIv-uodSugdbIOuFF1iS5M6m7RIQtxP1uCCI-d6VBB-iqH_OABoUjIu6ac-LaSivScuZ0FrDPE74Y8Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 638 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "6173dc4d2dbf8eabe03b1f0e1fe2fc9951f75ad9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Psicologia Adriana C Bavelloni", 
+        "reference": "CpQBiAAAAOXfB5RD9F53qOdZYPpX4wKcciE0oLooZ6swHL_g_FEkaA4WeAgqQdkjPDo7otoOwFdgmhbMpr6Np1XnfC-_FA4DXhwY9W4YFiilHJKQa3EEPOmG4ifZkJJgEsUDie9cUmUHoQkOMWToHL_DyVKA8ytMmRzdSGhAKS5OxxcbrQq3FCGrR2LxJqNtyEQDKck5GBIQhCSi07nvXfCUAi33yEvLJBoUu8jvmdODDq_OZl2aEZU6reHLy7g", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 62 - Conjunto Hab Inocente Vila Nov, Maring\u00e1", 
+        "id": "7a4a316826a6403e1ac7e4290b27ad709c766517", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Condom\u00ednio Karrapicho", 
+        "reference": "CoQBdQAAAGOex6srCL2m6ZX4E0d1GNqNJurv4fUVrTaPkfERjxtkpKddKo-2Jier0mv77Gtm1SbC7yaVK-qPO9ZzNxzmjBh0OHsebhHR3ETGsuRsgU1bj_HEwmHyuTZC03iaN8vt9KkRK1TptvAAP52TDqqvUivHyREwPUf_i5ssSj9af8zSEhBOF2CHxXQtMrhlX8ekHDGmGhSuvVsi8whF-wh7oRCuGDURVJT81w", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "293cfbc728209f4306266a455e2c1be99c513e5e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cilson Pinheiro de Moraes", 
+        "reference": "CoQBeAAAACcMJjswRXoDsGWCKp2FIzk6Se-579wvFIWpZL9sc1cbdlvXwC9Id5AjP3LAzJzvAhleAOMrXK-kKobesW3RD1SCSes1noThfzOvl5lgQB5dlyhtEmdIoCcAX_AuSpnSsvWLK08nbI16anC9EJGbUJsduabGKemN0QhmvMlj1m0JEhAESbhayqYK-wgyQq1L3bJHGhSNPiqIem7F7p5aoiEm6NcB1GMy9g", 
+        "geometry": {
+          "location": {
+            "lat": -23.441971, 
+            "lng": -51.960085
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 605 - Zona 05, Maring\u00e1", 
+        "id": "2f8fe6bceb11add784705b44f16264aadd37e5d2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jud Nicolau", 
+        "reference": "CnRqAAAARiAVkgjlzwxInGA7CYdvBaMDwHRpm2lt51ayhno15daDPPZJ-pzdYtJ_MGrj5i6wol23hN6ox4axJpleMa4wQhrgJUEo1SIhK9D88V9OjhnFcFv_YiqGUz1GyhIYS-VRCvuyFiemJ7Rh0DJKygeNmxIQKc8O8WyswSyNj7uKlDKsJRoUwsOvwzwkdlN7Gle10nl8Y6YyE5s", 
+        "geometry": {
+          "location": {
+            "lat": -23.439884, 
+            "lng": -51.960697
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 394 - Zona 05, Maring\u00e1", 
+        "id": "6f0c597dbaa71849feb80fc3bf7de244f97ac16b", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Paladar Restaurante e Pizzaria", 
+        "reference": "CoQBfAAAAAiqa94dTEo9REDRzbCzb75UIzXlUfc1EwlFt8Nhxn978syz_aUFybHoaIciPs0izCXRl21-gtChN5HEjc-Fc6MsGcuVtf7nrY2ZacB_eGf8P77zK4XyAh8psx9Vs6xYmDUVpR7NlRsER5vG23zTmegOjcaojrtxEKKKcbpy4g2aEhBujQ-S0pwee2dZq79-XmudGhSQmduASY_IKxOze7fLGmimXPX_Bw", 
+        "geometry": {
+          "location": {
+            "lat": -23.442894, 
+            "lng": -51.960112
+          }
+        }, 
+        "vicinity": "Rua das Cam\u00e9lias, 6 - Maring\u00e1", 
+        "id": "82344b4f39ce5a5fe66148754eaf6ff710f6c798", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA0kn4q84nukehS49HnxV3OFmVdH8iNmA5ePtsmThelzWfcA1DcuAvF_0Sl0IBHRZps7pgwjSfJEwd2kcWsLE49yDdugWAwv12nASwBOBOyGbFCzwQHDZErAO1ZrXZVlzz7GAXf3hS0gIto5qxGR3L3xIQsKJQO9ovmDVLA6wnLaU-WhoUajeRRkcGQPpXvtmnOZ5gMSeAt3U", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRuAAAAM67JqHOF637hzs1Was2op9QKHRm7JR0aKuqtrxV48Sr1y6WB1w7i6gj_wJbzCDK-NIxGzaOmxnd7FcWmms1dxkLukYGQ5LeckAXN9kMzZV2A8y8hXDJR-7tl-aO_dABQEJgQVm43tRtDQLJA2oCrbhIQeUBqSpgkjpec_XC1Jjy9dRoU9g1UIwQrtlQ7Tjkz6eLTBo6upjc", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAFNevcBtnZlSM-3a5sCnytENbZIQG1ZzAUzbzH7v3kwiL43AXZu1GhZ7PuaMvE0w9C1ep-_wy4Ev3n0OvQU-5Be-66HZhsKGCLEe8NeQf_yRy94DO5KT0okDWGpr4--gwo6cRP-rZek5uUBIMM8U-HBIQsq_onqD9hyj31CRE5iiUaxoUfIgLUTDFdS08i6HPH_S16a4ib-M", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRvAAAAamIigCkOW6YenDTp8kVlNO-uktTwqqhhiOJPwtGwlqsyPMr3pFzDK1SfWN3UxSzBGu4Mb2DsobzTbud82chC1wGn1m6XEDFXhWgypF7gqFssp0v4JSdLFAwskwtZVps9O2ovfZwJtRgteBRnQ1uq3RIQToTbEmcMv6jVMH1yBXFVABoU1iwRFFYDFyHNoaOOJQ1JDE3yrZk", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA1mFTKii9suxjgNL3IaBVdszSpEP4oS41YTWU8YXfi5BYs4HiHyO8icGLFYU_coJo26CwbtyxrPmM6sRxs4V34WTTKYX5DGqbYA0ILXAV9mvngKk2hIEIDhiYu9r3KDFh7VO0bUwjHR4X62Fz8uOKCBIQYof91ja11sU0ffv89BQnpxoUe7Cy946m9TsFiqHuwmOgdMGueyQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRvAAAAKB0ZJFt9WMd3hztWnrXgvyd8tDCnWlOtq9k1tNQ8_j8hPUuGKj0b555cuu-d-pubUNEPwU179jKNuFqQIoyg3HRcQAjvVoIEHi0W0d8tiIi7-8dAbuRG2Rll3JNOc268RwsP6Gt8HJ18fUNiQfM3NhIQxNBMvbw-9LrKYwwA5QSMchoUnlHCzca3lgnhx_XDAeDqVHD6WcQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAO4i2iWD7ChIu1z9xlgQFWxvFEhKu3F98zE1zwNgfo-9-NJYvW0IssCuLNrM9ZXJs84ukntgwqrdUUlwhhfbccL6qQPr5MGqVBX2Xezex3Krryk_cfODpG89VMTMeItQPRySc47sy5__Df5VTgXhKOhIQP-9-MBs6ll6o5tMZFsPm9xoUvlq0HzpAs-VhMx7H3xUpcAsbizc", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRuAAAAI1EPz4BH_NwMfSN_JCj5s9k20OVBgqHn2fqpX5wS_bpm8l-zmObMTZyP9TWhZZWg1sYgPBlZqLjY6bLpuCrusyTvsRA_57-pxTyVmGxR9FV2-Ifa-kjo9EdkU2gVfxkfQhSKKRgH6DutfI4fvqYmQhIQrKsY0lS-g-nIlEMG9YJZRRoU1nQDXDoxKsrZQKAbCBj2_SRXPYc", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Sociedade M\u00e9dica de Maring\u00e1", 
+        "reference": "CoQBewAAAOd4m6WbzERnA02jDGSBAfMJB30t4Oh-iwbky9Yne3AO0G3xprXeK_z8J_fp0KugZ3zd86GHyPOmiklJXC0HNKBoIR2AgwUFV0rWxhmsxNHENvHuiGeeal5BqIm92j9X_NnEIuHuWYGrfqc4SZTstVgcbEq8jMb8CPjZUA2TlU77EhCK5pP9dfQOeLG_Hx64gtgRGhQyX3Oq08XPdw_50HDBq-XxtxUiQw", 
+        "geometry": {
+          "location": {
+            "lat": -23.437084, 
+            "lng": -51.962961
+          }
+        }, 
+        "vicinity": "Rua Imburana, 176 \u2013 Zona 05 Maring\u00e1 \u2013 PR / CEP 87060-290, Maring\u00e1", 
+        "id": "3ae4b6715c1a70b67432f4ab78a8b021cbe93fda", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Delegacia Regional", 
+        "reference": "CnRvAAAA4Qrwc621NfnrSuPnx3CWlwCIUw4TCNghM7olNfo-fi2uIyY83kgnXjX0DWPV614lGcl2aRXW8pktfkG4uAZ735-lDhYnnCRIjLsWeN0xoH470zfv30jyhrHzD_4eCUp8oAc3RiBX4LQ9zoO6eUiGSBIQiHKbxvLCBvQjqV1npTQdjxoUsZ9IaGqiuOm8p390ouuxt0xwZGE", 
+        "geometry": {
+          "location": {
+            "lat": -23.436835, 
+            "lng": -51.963687
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "51b37c1cb0d1ea9662e4cb246ee82e9f5eaa3506", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "UP - Personal Training", 
+        "reference": "CoQBcwAAAPyI_HFVPSIDYhBfmaAXGDJ87iFufhZFGPVQpfd10yCPWBtY55wkLNCx8bmEzGr3XD7CLcpEruk6GCL7mfZJUC5kM6ZohMNvkJH9aUpNWJOCn5Sb1Fi0tZYLrpvPJCIeBJ_HXvjogVEbM1crSksTXL493Rn47Lr7Od6bIdC4V97LEhAnkr3jMb2NgmUWMdwcw5M2GhRi5IWmqqXnKy_ttVAVzwuW3dfo-Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.439151, 
+            "lng": -51.963152
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 479 - Zona 40, Maring\u00e1", 
+        "id": "3f624acbae4fd92dd34d1706a4693e4e269329d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Sindicato dos M\u00e9dicos de Maring\u00e1", 
+        "reference": "CoQBfwAAAIfTSvkofv7stMnQ1l6nA0ww2AWmBAmqFtfvP2Gl29YglvRTyT8vs-cGj6krQ7I7Vrbucs4h7LQsi5PWzdJ-U-wtvw1ADTzrSiioVMdQtULfxwxGPyNBXPBpUD8mVQvtOzXw3zvLxZDmyom1VAyKz-LxuPxb6u9s0JuLLZurJEVcEhCIue2KMHGYsyWm1coyZvPWGhT3hudI01Qus9H8jzL2rqL3k2cVsw", 
+        "geometry": {
+          "location": {
+            "lat": -23.436754, 
+            "lng": -51.962966
+          }
+        }, 
+        "vicinity": "Rua Imburana, 176 - Zona 05, Maring\u00e1", 
+        "id": "2ce5b3796c61212ee32098e5bc3b6623dfcb9f3d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "4our Solutions Ltda", 
+        "reference": "CoQBcQAAAJUtZm5MU5GWxaccFVCKZ5SHkNF-D0GVlUzneufI26WAGe3zCMhGuLpT8yTFUpJOQIhvOq3B8Xq5DIgd3hPHz7ctPZ-HsClYUTs5ejrAkUXOpgyWJoAFZFNHVB6u56VOZVCqPSWzbHcftCeTls7uF1AmpgvDEES-_v5cv8PKD0DdEhBrmojs_7e-GcBmRFwR4uYnGhR6OMHdGQAHp2mjk8C8SKbaNjVMKw", 
+        "geometry": {
+          "location": {
+            "lat": -23.439361, 
+            "lng": -51.963162
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 479 - Zona 40, Maring\u00e1", 
+        "id": "189c60c6103fe29a7298e0581f922793c4a27828", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ergo Design Maring\u00e1", 
+        "reference": "CoQBcQAAALAMcTia5qOwACgleYnH5ZF4p7KVsbuyWZUHUZcgPh6jReTdKcvC1XPBHP-fN8axj11eNjen8I7UtGk2c6myL78dMR8G7FzkehO0kILOU60tYkaOw7o0zyL49NGcEIAKSc_QLxBD5wXT_VnCY17MoNVpVA8nGhuDb7LQ789qT9OgEhBvK8deoPEWsNfE2TeHeDUoGhR2sjo-RwBasBfcbikm2oW2gzztRg", 
+        "geometry": {
+          "location": {
+            "lat": -23.437344, 
+            "lng": -51.963306
+          }
+        }, 
+        "vicinity": "Rua dos Pinheiros, 219 - Zona 40, Maring\u00e1", 
+        "id": "34a3a08373cc1933c0798b7fd06a6c67b8e16e06", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Minha Empresa :O", 
+        "reference": "CnRtAAAAr_wZUbYbreytGapqrODm9CbxRF-qKT9BccJ5OwQC_WAlV5plwCj2UfpZQsM86cNChjgqncF_PT-QXaCyhVCCxWK7pMZtcBIfzAtc5zN8qxymlbE7BQmYKwtG1P7rnDt6qfswrVHyYrdwTDQK6_gX_BIQ37b30e_ZCvD-WZP4pSkDqhoUTvCzn5CDTXrsNVjTBFOE2apggeM", 
+        "geometry": {
+          "location": {
+            "lat": -23.43724, 
+            "lng": -51.96352
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 265 - Zona 40, Maring\u00e1", 
+        "id": "5a22a18b79625d5f50409df55e98003cf324f075", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAv5g1QyGv6djTbLeZhJPZmfnfQmO1W-2Tz_iT4OJNisHHJc5SJ7HPEjeSxiQQsVJ1uYKI83dByGL7SVvBa9OveHeXxVCHKwX07kHJBw1_i7hBcMcSl02wraWWp_B4Tw5YP1Y5SzUQ4fOsqhcmFgR6tBIQKagHJ7doQS5j4YCrlOLNRBoUgaCR7nGa409aDk6GJ875XJiqYWQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 40", 
+        "reference": "CnRvAAAAO1YrFatPekOP8vvd1k6BpWnHciJgzJGYi3tnVHowfs6awc2VSHn3eXi4UorK2SEMUOdALsIzVVn9iTvL07GTDDjvBsimiCj0BfljNjyHmEfT6tEJpHIGKL4p0LhCzbPD5aWnCzrjAH9VCrpVcsnENRIQIWvukJgMOofZA_kjfFNkIhoUEE_hHTwpi5sIedEhpCQEGN9H5DM", 
+        "geometry": {
+          "location": {
+            "lat": -23.4420665, 
+            "lng": -51.9659538
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4310908, 
+              "lng": -51.9549459
+            }, 
+            "southwest": {
+              "lat": -23.44757, 
+              "lng": -51.975123
+            }
+          }
+        }, 
+        "vicinity": "Zona 40", 
+        "id": "358483acb08454aa1cd98d96809da5787e9dfe84", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Centro Cardiologia", 
+        "reference": "CnRwAAAA_YGob34_0uYwku0B9NU_UsHWUXAg_2sPIK2rFWcc_3p3MXTCPwTPfdqLzUBl7jiOTzaUVRhQvrYbxkSFPYq4Zyn10qO2_ihQin0hAgk7K_wnf9cezho-vUqqTztsOpS9QgONjbGwSicwfyQDIly9hhIQOPzMqini1XB2TxjBX7bxBRoUOWQ23ZmIlG6scVocsuR_WqrOVzQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.43863, 
+            "lng": -51.961598
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "JD das Na\u00e7\u00f5es, R. Ol\u00edmpio Totti, 192 - Zona 20, Maring\u00e1", 
+        "id": "22e18946cc61da3da32e68c3f961e0ace8c6fde5", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "UP - Personal Training", 
+        "reference": "CoQBdAAAAASzON01TQ2oIxoImBJbNAH83g6qYAt1CPz8uTd9y63FqSv-VnzY0Ihjvi0lBSKrCl53kHMhajdA42nNcImCgLHyXoYzN1Q2PbXGPChIaWiPgjtx-Wg9_c__zmdR45PFiwcyu1eCuc8QZTFQjrq40x6EQfTxyA_l4-qpTCgvHNmGEhDqfta_LqrZa1_K8XOs25cbGhSxvuRU0AnXJAVgu8zyGPub2Xr4Bw", 
+        "geometry": {
+          "location": {
+            "lat": -23.439151, 
+            "lng": -51.963152
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 479 - Zona 40, Maring\u00e1", 
+        "id": "3f624acbae4fd92dd34d1706a4693e4e269329d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "4our Solutions Ltda", 
+        "reference": "CoQBcgAAAE4YwteZikqABqlFRz6JVMijyVJqVp9BAz-DuqgqqGY1rI3saaVNewpVmr1NJYXal4i2JImTiJNovtXsTNiBM7AxRGx09SqcB8CQ4NIT7Or5zhiKqmWH8EW2593xc1UFFlO6B-YpgxuL-P7XVt09Epaoh70mvfyqzd3XKcBW-UgiEhAuN6jzNYItVoHhIqfXepILGhQ-UbtegyoK-hDKgItXT3duFvj_6w", 
+        "geometry": {
+          "location": {
+            "lat": -23.439361, 
+            "lng": -51.963162
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 479 - Zona 40, Maring\u00e1", 
+        "id": "189c60c6103fe29a7298e0581f922793c4a27828", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ergo Design Maring\u00e1", 
+        "reference": "CoQBcgAAAJEJnIVV4DqBsVhGSVVq5T05SCgRGGOTygwiPrKTVsDSYewfwqaisQP9fE0rLNh8L9V7kc898yJOZ_VXjE6CrTjIcf6PKQXlbaClhZMvtC070BoMN3af83Cnc42CNvSKuog_g5dzr_9etN20AZtCCvwV1K0q1ahJWw00CYltN5krEhABvtd2w4hkzGFsK-C8rpPfGhS9AaXRypxWiXX4eDiA4zB0U8v7Gw", 
+        "geometry": {
+          "location": {
+            "lat": -23.437344, 
+            "lng": -51.963306
+          }
+        }, 
+        "vicinity": "Rua dos Pinheiros, 219 - Zona 40, Maring\u00e1", 
+        "id": "34a3a08373cc1933c0798b7fd06a6c67b8e16e06", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Minha Empresa :O", 
+        "reference": "CnRuAAAAgt1xwbKwZelNtOwR5A94xjKVntEz5qpN_m0OUcSYCw19FMZ1g6ymWFAhS61bV0n87s6eTqC8T_SRCm5vl6gLzYhc43C2iGsbelph66iWFMHmTpEt7Ul8o95ONFfQf4BMV_14XgdKK-GZdAHP2hIgxxIQmpaaRl6GyKfIjJzgb3J8TRoUgkPNl94lq2x3K3JYDOquVYi3bi4", 
+        "geometry": {
+          "location": {
+            "lat": -23.43724, 
+            "lng": -51.96352
+          }
+        }, 
+        "vicinity": "Rua das Azal\u00e9ias, 265 - Zona 40, Maring\u00e1", 
+        "id": "5a22a18b79625d5f50409df55e98003cf324f075", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 05", 
+        "reference": "CnRvAAAAMo8z3Nu7lJqTGwU5CSKyg6cd7_wNEQKxqQr0pii78mV8v4tAb2WTzUqKkth7Kg243hlnHaZspwLBJnXaad_moeiUzJ8CegdOBKFImVhFLF2PYQ3DLgkbcVxvWAwT4t6InMPAtRCBcm6QkKhp8G64DxIQTeWtTCBwfm7iX7KoyPr7HxoUsBQYhQueLaz2tN54CULU6gEjI7g", 
+        "geometry": {
+          "location": {
+            "lat": -23.4304884, 
+            "lng": -51.9606621
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.421536, 
+              "lng": -51.9520248
+            }, 
+            "southwest": {
+              "lat": -23.437768, 
+              "lng": -51.9734369
+            }
+          }
+        }, 
+        "vicinity": "Zona 05", 
+        "id": "9a8144aef501323445a6071b2fadb072a1a373b1", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

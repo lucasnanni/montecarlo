@@ -1,0 +1,3326 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdwAAAPrKzBWXlZ5cMmuawiagFac_t6EXJ4QvNyqKUVoRveT_bUc_nI5z1DxrnWdFU8r7H-kgGmNAyc_xoJoeoQRPkVQPLkdV3rH4jp40JjRNYa3EqqDCCAqKDocp2vndWdvEqdbThIQolhgLTzqA1tNPxPtccOaUgbzkvahMp4rMrurVEhD2rBNbic9z6AUY6Qu-Ia1fGhQo9Ud4R1cEd65LWBRAJ12CvHFPkA", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "INOX EQUIPAMENTOS ALPHA", 
+        "reference": "CoQBdgAAAAQnbipf9Ki_5409Py4Bu0GaQ-5Hx1-Im8MfSrIP85y6cxukGsonaWqU6IyjOExdqpeHGpX3UiIbee--p-X_8SPMZBsA67k6ivSDVs6PtuEhV4sp3u-7NrJhoCCXMypKzIWh7OuOCk2pM6bev7Ri3zrolW1DBdmwKc1cwvHz7TiTEhDsNf0p0B2NaZ_Ygb2OAxOmGhSbjhhKdHV_NmKO-ur8HiIT_UIZxw", 
+        "geometry": {
+          "location": {
+            "lat": -23.404819, 
+            "lng": -51.914612
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 429 - Zona 24, Maring\u00e1", 
+        "id": "1e8e21b873d986d3a0ef68db81e4402ed237f2d9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Geromed Comercio de Produtos M\u00e9dicos", 
+        "reference": "CpQBgwAAAJHLqO_rpLUC45VZVTNKZE4lqgMyGfoZDKwkirEkHzDQg0aQPE4Lo64aebOxos2wpH5Y58xAtsxaWUBls0lueKNID2yyi-z6L0Y-tYDfoRlUNUd9D_rzWiUt55shu--2nbsB6uuqFTbK56hDqfjr9fD-IG55PPlcvXLm0t6DrQuMKemt58nlg6GBUc3Ao56M6BIQ7Fcr8-fEFZN1S8PWJQ8NYhoUzqq6cuWDgo96_r4Duxj39It1h78", 
+        "geometry": {
+          "location": {
+            "lat": -23.404185, 
+            "lng": -51.912759
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1480 - Zona 24, Maring\u00e1", 
+        "id": "68a270f9d3ecd9ec1a766fda8335271d4571290b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Docethel", 
+        "reference": "CnRmAAAA37LvtqrEIFBKwQadTS5zmQsY1sfvuLPnNSUbjj_JB-4fmr7mx4PWqUd4MNzdhBZHW1jxiYEnilYXPh1hnIzIDaOkXZIc5W0ROk5xRwQqTbtRGV7u4wtxMC0DrDjI53hbrs-r3D16xZ-rLCHo47WbDxIQoLv9kFicMGKcGLoqCql8NBoURc61mrZ-i6D4pKe7AKrZXV-bk_4", 
+        "geometry": {
+          "location": {
+            "lat": -23.406534, 
+            "lng": -51.914942
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 232 - Jardim Alvorada, Maring\u00e1", 
+        "id": "04c9d8eda4724073002bbfab3265780519ac7d23", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "By R\u00f4 Artes e Decora\u00e7\u00f5es", 
+        "reference": "CoQBeQAAAMf_EeXfqyzklEp341Qh9B6sCG555TAobiWeqib37Iwqcj6XAhFEW2EQ9u7EZzT18qgSzXyb6T_AjuU1Z_DAy7rgQ9xCQmpmN_VlBo5kfFDpgWAWpSa_5g_9-UelCITKWMdio8hgkMhDrgqviNbJzAxOHVgCtYHQGrhz7JF-o81KEhAT59jsc_oYJVuxK3hFZQz5GhSphI663_elnBOtezlHvBSZTYF3EQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.407775, 
+            "lng": -51.915441
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 134 - Zona 24, Maring\u00e1", 
+        "id": "22c16818cd02bfc42e3182830501afe89963d807", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cantinho da Beleza", 
+        "reference": "CoQBcQAAAHgwELgqGb8mURjV9iIJuoONwdY9EnzJNpc5ZL7eltWFwSXRdVkhBV5V551TnnqKDXeqzIoJ2Jg1AROLGyjCVh9brgTf9mCdFlMBSdoY51Ni2ymSv1IIJBgdbEvTcomoQ8OQNBdz93seYOckSWGJPiuFiF1oL-D7mlWFKQRu5Y9GEhAwS3Nct2iZLKkpmS2OiwLwGhSOoWX6yPAjvfDVShVAZqe2ZJAb0A", 
+        "geometry": {
+          "location": {
+            "lat": -23.406634, 
+            "lng": -51.914981
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 220 - Jardim Alvorada, Maring\u00e1", 
+        "id": "3619d60f379dbf72659873aae44050223076e23c", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "P\u00e3o de Quiejo", 
+        "reference": "CnRsAAAAzVFz_Y9GIkfxVkeWcPE_sSXD1yDkuvqsZy2pvdc_1Cwoqp9DzK4J0vCAe8ApEs9S3w7zOFKGcgtb5vwe8COAT7Dd0nX-_Esi2UQ7h-RVioKWrggGOMzDwacDFR8wBRhK82n87mKsgRb6CbZ1jj8mURIQ3DfOqtxpTh2dGxsxzjI4TRoUqKqjL44PFoEFpTFAJ7lxdmT4tjY", 
+        "geometry": {
+          "location": {
+            "lat": -23.404408, 
+            "lng": -51.914071
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 508 - Jardim Alvorada, Maring\u00e1", 
+        "id": "324d370a5ee42e4718f963f73cb113b12d96fbb7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Candombl\u00e9 Ile Ax\u00e9 Oya", 
+        "reference": "CoQBdQAAAGETdi1g9vbilN6AR3H6S4yTjVYR6_p0Fx9lCWnsR8fcxrHHY-DWK37T68FaCA9I8znDsBtzJNjjrOX1NlXpuV_Niv0fbUEkh8TSt1Ss6o4mYeAM6RzTFzYZZ8WntdxYbokTC9U6U9HN4VPRBwZbhHkPyihruLyg2uaiTL5f1bFIEhDHID-bKndu4ufEKvosGpwoGhTbtMpZoeEw0BQVaS6zm5ptWPrD2A", 
+        "geometry": {
+          "location": {
+            "lat": -23.407332, 
+            "lng": -51.913452
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 230 - Maring\u00e1", 
+        "id": "73fc640b4044e3583128e4e1feea6f584062f444", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Golden Chips", 
+        "reference": "CnRrAAAAu7a78UnAIZad_KIjOXPNdoNhCV_5v1791gFUh59RiJZ-zAIAdykHpvlo9r0rMaz9DxSZeVGY4hKs9M5bZCRIkpLNsXlELORzXNuK7FIpnKYFmIyDKb72YQwveNIoNnwe74mZRAVQem4ysPmoczBg3xIQWDt3xvZEJjWuKg1g-TYe4RoUwFtdaYovHzv3wwIUfJAMmagjo38", 
+        "geometry": {
+          "location": {
+            "lat": -23.404873, 
+            "lng": -51.914633
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 421 - Jardim Alvorada, Maring\u00e1", 
+        "id": "5975e6c5542e053dbeda4b392d1c67a083b5bc26", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Injectope\u00e7as", 
+        "reference": "CnRrAAAA4B6t-Xq66bAstO5PmxfhIbP6lJREVjvk4qYqKmiPPLSLEs2pvBNf4D0pquqeUFoHJ-ZRgp0gvEpUDAtQiiMm8xBV4jUeGdwEjFgysGSleORyHF6mz3tCq_mT0dMC02c7KpFDV37b0PH--WL2mZ0_5hIQqExZy_ZPdxVYJwA9xEJJ6hoUyW5WbG1q5ZLwRocQYGbrTeoZ-2U", 
+        "geometry": {
+          "location": {
+            "lat": -23.406884, 
+            "lng": -51.915432
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 155 - Jardim Alvorada, Maring\u00e1", 
+        "id": "b408a2a19119309eb039fa487f034a6f9b35671c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "PERSILLUX DECOR PERSIANAS E PAPEL DE PAREDE", 
+        "reference": "CpQBigAAAGurduhM4b5RxRjOQ19pS7SWJN-oeV3eS7i4phbG063aT9vhcR8tNgX7ry0dCuFBY96bHkipJSKVAZej0Mp985FCXDN6htXH6Ro12abuYn78lOAGcdKcho5YSXZBVvwbG7Q-yzrID3GKX_0ehnV_AdHY6zSpXoaRtV1I_tg6nq1kKUa0O6ZSnmfhUlyk0-qBMhIQGKgjvptqFyPOJAP2FF2-WxoUPGUmm384ZNPX8JsRV84_YWr224M", 
+        "geometry": {
+          "location": {
+            "lat": -23.404558, 
+            "lng": -51.914134
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 488 - Zona 24, Maring\u00e1", 
+        "id": "d6c726e1e8010ee91ac4b69244c0630c7885d7e2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J M Mendes e Mendes", 
+        "reference": "CoQBcgAAAFUhN_glxMJ-vuJzJLLyl-PvRk0qQN3jp_BtNZZKRDAc-VC972w7v5sursbgu8nu1rv0GPeHkbBjcmOKSstcRul1VKUlXwWvca5keaKCLbhPNw0lVMYQsq-zCckRNW7xuGvErSh06BwVTWNzAWqOrcCojkx_omTNPhmAr_-1O1pZEhANhyULQgnbPyXmLF1C-AcAGhRWfZG-Jsv5npSHu92EjBzX8_1LCw", 
+        "geometry": {
+          "location": {
+            "lat": -23.40675, 
+            "lng": -51.915388
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 181 - Maring\u00e1", 
+        "id": "d61012f84b27cd2ef5fdcb951314c961cb1f2867", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Studio Pr\u00f3line", 
+        "reference": "CnRuAAAAszEHw59sqsYEsrN3KmsiY0to-HSLBiovRryT6d7e-ze8NOnS4ht-7OTnxyJRBnDn1xbNybzKZLgSM86-NPA9RlvfOwFBKkbvxbAI6Dmlr0ecE91qJmND-uZ-C3L7y_FhD7soqBcsHaj9dimkIEQ61hIQ0zCWg9GCt8PqB2U5_qsvNxoUSxA4w8ft4HFDxGx5q_QHgDLAwkI", 
+        "geometry": {
+          "location": {
+            "lat": -23.407614, 
+            "lng": -51.915363
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 134 - Zona 24, Maring\u00e1", 
+        "id": "4f391e2ed4001bc757dab5146246f5c5ebcb94ac", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Crm Instala\u00e7\u00f5es El\u00e9tricas", 
+        "reference": "CoQBewAAAH-Iy67aBXIAXTKoOwfGFIrmCiaio4jQtnCaEPadN37MXWA2IXa2ZJRczW7heh68K2dKQ7QMQzy3-6PrlILOG48L5Ys2qEwrhTG5-mq4lLrhzp5AwCsuLiyaYhj4vdfYAiEBnojUhcizuypKLROC2Qh3ej5-oa-LBQM7Ty9afYWiEhCNuuOJfJ4SC9AnxNze3lmxGhRqJq6_aLTmWNeXiomnoHc717YoSw", 
+        "geometry": {
+          "location": {
+            "lat": -23.406708, 
+            "lng": -51.91501
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 208 - Alvorada, Maring\u00e1", 
+        "id": "eb3508f80a1ca156a72e5692f1161cf6d6cbfa20", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Oficina Mec\u00e2nica Motor Forte", 
+        "reference": "CoQBfAAAAAvcnXmTxadLqoo9Dx2nkallALQcnI_9eptlFbTm2o2cIUcq21GkvgfAv35Uw7u4u9PIfS27N8lmRWDlbvNeV7eZCyT2U0NzHhlSTFpK9QXJnp0v3eYWDjthtRNUELwjCQCjJfIeRhBHmGGj3RiqroJhtO2TL1g7peVRO5l7Y29fEhA5YA0vbeLdiaFSx5x57YsLGhQMqtvdbnjFMNsZBDR1cDZ0lXSmlw", 
+        "geometry": {
+          "location": {
+            "lat": -23.405548, 
+            "lng": -51.914548
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 392 - Maring\u00e1", 
+        "id": "24e75625f29656cde43eb430c6626c17adbb49a0", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "White Paper do Brasil", 
+        "reference": "CoQBcwAAAHljKUYJEkYUKe7bibg8k3VKubFjNb8HQbSJ7d9VxdFx4t0ORmNyIWan9q_t1IWzLqJEtdOdXLBofnqefDuEL3E7Un2TGlriHZY9csa6Hb249pAe1x_lXFs_rnGpruTq8lXuRTs6RHIMxFJCP_B1QppVi0UhuWqOEqDgPTj4tnckEhAeVOxTynbaPVgRidKwnlFNGhS--dgtiYQHSdH6iyuYvLVZm8maWw", 
+        "geometry": {
+          "location": {
+            "lat": -23.404093, 
+            "lng": -51.913031
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1450 - Maring\u00e1", 
+        "id": "fd9d0a5d92682cb484701ba4f71d428d90946e1f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dog\u00e3o do Jo\u00e3o", 
+        "reference": "CnRtAAAArfJs15KoRQfRya_LpLALrRLlQZ3y8Pmqy4yBdhZxXeVHd7yjkeqOQqt9UWGSYMNOcUKbRJIipL9cGMa2hmD5pyR03kZgu-EJTaH7lsCTZZlxd6z5ET-DRErmIrQY3lSstxsDjoc0Da8wK_ZYkilLjhIQ1NSu74ZR8gLHYyELg_3BxxoUTBGgN5RfoEtAKIh8Z5oOnNmNLE8", 
+        "geometry": {
+          "location": {
+            "lat": -23.407861, 
+            "lng": -51.915477
+          }
+        }, 
+        "vicinity": "R. Colombia, Maring\u00e1", 
+        "id": "177362323ee40cb4cfdf5102653dbc4150cce876", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Maria C Oliveira", 
+        "reference": "CnRuAAAAoIDky1RZwM2v9L0Ir4zLLw5qoqqlNyFQPgyfN64Rq0p8EzB_3pZF9TK90gntnZ7_ylYPe1n5WTU87UU_1Aj8oxHTTa-w-pbVEoiBL3MTxbxoMTg0sEgr88viisK8nhqKeH_ZE7dfVASBpX5aZMiy-BIQUP7DK5DY4ARMnKT5CCRXghoU01ziMuXkIFG9NE7q-qALXCUz2BA", 
+        "geometry": {
+          "location": {
+            "lat": -23.403929, 
+            "lng": -51.913878
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 566 - Maring\u00e1", 
+        "id": "5b9979952f25fdb7e2082f40372930e139e2643a", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRvAAAA2KXWF26cfsOFE4gowogeeZmo_6HAIw6CXD2WYSNmqMLgSWsJI3p5Bju6PoVRaZAWGdo9QtEOnyux9L8hWgHfGn_IQuyDKCYrAejroByfcT62JJ4M2AF3Cl5cieRtiI5rUVOTulPKzbOCSSLqBEnoKBIQ_D55ju-TxVwK7ASzt4ZoKxoU89kTiGme4yvzXbgAzQ308VjK3Eg", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAyd4T1N8ndJCxUeOAV-CIrjTwwz16ij8K8HtrYFjbXxPQz8yXaYYWgvLBNpWAtqAUekeMnzqtq6pNvOzsiPT3fGVtyP7xjmS3q5VhUrdEEwYSEIdAuvmP6htllnAHWYY_i1YaFESrQ0Z0S6Gh0ZrERP55auRrI_xG", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 23", 
+        "reference": "CnRvAAAAY9s_toGfjjyhgTd-EwX8mQWrU4A_VjugNVULfwqUgKrNApvwITpcoicmYBe3dkIRNz4VuT0uoHrxqZoEsvH-1HPyWR2YaCUqpKPpLADI-dAKl2Tc7U_yMyC4CSJapFOFSiWIp53nf0kXJo88LdvpYRIQ8B2KjjtvfKhkOijZVmvmixoUr7qQ_IVLWlTi_1VmoBzIcZbKCi8", 
+        "geometry": {
+          "location": {
+            "lat": -23.4134945, 
+            "lng": -51.9143772
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.406491, 
+              "lng": -51.89883740000001
+            }, 
+            "southwest": {
+              "lat": -23.4214891, 
+              "lng": -51.9256956
+            }
+          }
+        }, 
+        "vicinity": "Zona 23", 
+        "id": "aa36652cce0fcc220e44532e46f5d5d7f301df5a", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Col\u00e9gio Estadual Duque de Caxias", 
+        "reference": "CoQBgAAAAEtzK7XfrjUGwo2Wr7kTRIXk2pA2bbER17egGS862eLY-e8EWGegFP6KF_TGWmILZ4yipzMGQhqQbB--CasywKK8Mnewjndj7wGok6lZEqrPjH1kVx_Aq59TxY5gTLOX3xZ1JXqfqNULq5uVusMWkoZmJaqKLbeLIaLqoF526jJcEhAHKuq4FarrtyGcpT4F6s3eGhTkXgF2xzK34oLCZVLPfoMwgz95Kw", 
+        "geometry": {
+          "location": {
+            "lat": -23.404016, 
+            "lng": -51.920065
+          }
+        }, 
+        "vicinity": "Rua Marechal Mascarenhas de Moraes, 925 - Maring\u00e1", 
+        "id": "ee2e380feb89c93f15c1f7f62ecfbe97508b6475", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jardim alvorada", 
+        "reference": "CnRuAAAA9g_Y72pa63XcGdBYEYkFWWdrUfHVknR6JotwaImhRo3PdYWK2zYegpWmxont-1KhZI6WdgyBMHbnGOLoQ8KY6YgjAOasn008hQWOQ6tjI75f3dJHUYeKxiFV_2T2gyH6R7mpwebV2-CTK682ZE-1oRIQNOh377niWnbrON0ihumldRoUoKIQ8vbK0t3cqR-Y_6bY0i5zu1o", 
+        "geometry": {
+          "location": {
+            "lat": -23.406418, 
+            "lng": -51.918782
+          }
+        }, 
+        "vicinity": "Rua Evaristo da Veiga, 1425 - Maring\u00e1", 
+        "id": "2d96f908ed70d7a5e77e8a61276740d1df76268f", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "SellToner Atacado", 
+        "reference": "CnRvAAAAr5poBtLdYQUJnxjUdcgp-VOIwywPmtulyDpcYDL3Eq-rMcN2qOF1Dh9AHmvhUwCgrX6q5uHIDtvScSpkeTKkRh_NCbfZQKi_wrLB22uh1BDwHos77pxo_ZGXFagEI-31CbbZFxpUP_jiaes991lSvhIQFNb5CkNY3fkcraXR9-KrixoUydpBkqH5ub7hDVWz2BPsyy-oQ7o", 
+        "geometry": {
+          "location": {
+            "lat": -23.407349, 
+            "lng": -51.918245
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota - Zona 24, Maring\u00e1", 
+        "id": "54411ea98b722d4970e716272b55df08b26d3536", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1 Bombas Hidr\u00e1ulicas", 
+        "reference": "CoQBegAAAHOIqqKwJMMwdEyESwQw5oamHJqiUKAFSp1f9QfBtWI34km7MWO-hZ_8D5VPILnNMjp2EJmvWaZK8PmtCiuA9324iKzhYW1svGayQioJpzHJGCM7Kx1v-84BF5Y3dj8YGFrh-qMgpluaxH84XxPH739TfkiSZvK5puDXlWGGyYXLEhAVVTswjfYyWrloWjjTVSCXGhQOQ_TKRL8agWNseoXc0Q56dJT1pA", 
+        "geometry": {
+          "location": {
+            "lat": -23.40762, 
+            "lng": -51.917714
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 438 - Jardim Alvorada, Maring\u00e1", 
+        "id": "df8df309410b8a6ddb22ff4b290106888a881caa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "PAPA-L\u00c9GUAS COLETAS E ENTREGAS LTDA", 
+        "reference": "CpQBgwAAAOm_G0ngZtwL7xeDShSHmIvP6B4IErQYnd9gA39vf_jIfBxvsu5kkcEmLoS1wGYyUj-z-apn_aWKXtrC31CQH7N1nY5i2xmNhP9CYvAxcttIPd9ekzIG3x3447c-cbh-k7FeL_gV-S8HeBENR-sKHZv2w1vvw_29Gt2u9Wj8zpJCMWZlOIWhrme5EaG8b5R9axIQIfiX0uBwtGKLSymk3bSi9RoUj47wxgypbXa4CosJJwUIthFFRDY", 
+        "geometry": {
+          "location": {
+            "lat": -23.407696, 
+            "lng": -51.918538
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Buenos Aires, 471 - Zona 24, Maring\u00e1", 
+        "id": "5f2e8e6be34b70026da6ce07df5f302abf1cea2d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Artillee Cria\u00e7\u00f5es", 
+        "reference": "CoQBcgAAAFnFp63LX1blclu0Pm_PZ0vB5R045sv07pNEhk_MupAlNRvUigbYyIXcTfbkDG-w3ht-8fSSxIii93Hu0FZhFm3tOjVmo8tGRn7-wUUQJkeRDw5X7oBcOEPEFVk7qp70u97A07fLF8_8Hq0HI8dVPt8L4TOy7ke4a-Y_49Wmsob-EhBlgRoQoT6zs7eaKG7uObHmGhRvzOKhYHAEhfv4t_9UvzD_EjQXyA", 
+        "geometry": {
+          "location": {
+            "lat": -23.406406, 
+            "lng": -51.91688
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 196 - Jardim Alvorada, Maring\u00e1", 
+        "id": "94dad2e44cea1c43523ee30d85ee577def999229", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Funilaria do D\u00e1rio", 
+        "reference": "CoQBcQAAAMHrz2D9VdBvbosP9fRopzBa7V7CDkLCO_lNf6kK32WAd-4MSphzwRiwCfxSGLP8cMQAp16d_cCFVU45N7aZjjNRjP5i8_kPmtZF0GE9PB61qpsqEOueCCh4FmMQvozhydAE3OI70YRTpR0QmwsY91y3xv3hoYJkBGpwugu05F7-EhCulgmq70sYqX0TE_rKVjRCGhTP7spB81Fu4A3iJ_84-jbHoOc0ew", 
+        "geometry": {
+          "location": {
+            "lat": -23.407044, 
+            "lng": -51.918994
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 327 - Jardim Alvorada, Maring\u00e1", 
+        "id": "eb5b56a60014e1e5876d359782da14b0dddca24c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jennifer Cria\u00e7\u00f5es em Couro", 
+        "reference": "CoQBegAAAHszD0uw8vu-tQJMrZcDltY7CMSBUQN75ucGTm4RddB7mAZFLeMqrk5x7p1HNEurSIYSCK-NNi5R_-xPQR3Wi6m2f7X29nsA5THRXIoagqFy9lE1qbsd7tJZOU666XMMlpzd2mP9c9QoafKj9MInZ6QeL_PLKL4FlNEtK_dMTCgaEhCTNBigvjvebgSTBSYjBXbjGhR0gqQlMbB1k62ayiTOhqC3mKYZVg", 
+        "geometry": {
+          "location": {
+            "lat": -23.406307, 
+            "lng": -51.916838
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 208 - Maring\u00e1", 
+        "id": "05bcbb23cdc4424ef4ffca215a043f624a1ae4dd", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Fabbrica de sonhos fantasias", 
+        "reference": "CoQBewAAAKhOBZuPv8VGqzsf2P0LrJGfbiggYLeWz0b3a1LU340JUlAcvlUWmlefcxxZg5xPdEWVILn3eJ0__EmtTtwdS3bc2rZzSWta7la7Mx-yWuiIToBQE614Mcrn-xvtBVZ3IVKvuv6IN3se3gq-f6is-Pt-WIYcfv_88F_JKxUccs7QEhD9oBJaIihxhDy18mt0MMAoGhRCguALEIeUKoJ5FikXju35urZbYA", 
+        "geometry": {
+          "location": {
+            "lat": -23.407428, 
+            "lng": -51.918869
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 71 - Zona 24, Maring\u00e1", 
+        "id": "9f707ff29447bf433b5e4f0b941c7806344b16c5", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J Stamparia", 
+        "reference": "CnRpAAAAHOH3fiYM6M8bIPkkYyMwzLVU4a15zbf4JUs2Gf-kMWbFGsuUZ3yz8Y_z2FL-x21rLqTtKyIzFr7IJaCuIQX3UVq6UU8rcQ9FBqXBaU2CMYSONY1YKbDg2eNkTdoJIZ0eU5qdKvrfM02Si0jXmw1cfxIQpvaoRSl229Gg6gEKaI2oVhoUEP9f5xpO0NB-ad5Gu9083WS_pGs", 
+        "geometry": {
+          "location": {
+            "lat": -23.407356, 
+            "lng": -51.917432
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 355 - Jardim Alvorada, Maring\u00e1", 
+        "id": "461f03ac3827608b9f2df7dce3ee2e5dd38d6a0e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Robiel Ind\u00fastria e Com de Auto Pe\u00e7as", 
+        "reference": "CpQBhAAAAEPTvEz0g6dVKOCKKr8gjLdBLQ73iD7QVUh1ESMykxgZKBTxo0uHwN_p-GnQr0a9iU25H9gO0ZCNEAaIriYKGoIlEiXvD0ckdFO8b-8XJbIlY5F5nNY1Fv6sBd8f8XjOgODTOrp_U8CpGg1FCpK7-jhMYZiAFIrEJxP3QiY71QnI1CkomZf7EJAHAB93QusafBIQ5tTOXkCDALY2uswP1dvGnxoUkObikI8tguTvva58dZ3F36eQRjM", 
+        "geometry": {
+          "location": {
+            "lat": -23.407349, 
+            "lng": -51.918245
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 2711 - Maring\u00e1", 
+        "id": "5d2fb17c52a0b2287d33a75c88ccb4b87f9f009b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ferramentas Gerais Com\u00e9rcio e Importa\u00e7\u00e3o", 
+        "reference": "CpQBiQAAADWuTavO2ViMM1IgPAp6LbyH8Lps_dAyGzuWwXlkSV_m7grtH3NY1rZk4dZQVRMpUGf5PYWdIogHwCWDmU1j1HeuJQPT3I3SFOdsedIGLsDJzjuUHzGqZicrLJFx1O7i6GaYRGNWu_ZbIcONtKHElmLK6Na0DJGnd7IrvJHPid0KxowakSrMsp5SEu1c2PLZkRIQlkGuGO3rdH979FzQlTWjzhoUi5sdPHzCV63FI7xyHGu6F1sOwAU", 
+        "geometry": {
+          "location": {
+            "lat": -23.406819, 
+            "lng": -51.917057
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 146 - Maring\u00e1", 
+        "id": "ce94215b1063aab6c3de565936e867c179b9af6d", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica de Fisioterapia e Reabilita\u00e7\u00e3o Vida", 
+        "reference": "CpQBjAAAAAJar8hI75N94TQgEclqLV3fYVoKgB6gr5Yr7ewPmCfxaoEsjHWsRWESnti9a_-nTTCB4auYuN5RKDxxvirr4DHiDUuqaIUiIePu7Y2PKQD1OQSHh_itwxf1X39KxL-RXLA066477GKzpuQkLU47thHVhQ7Z8-KijAC_2i-oeBiTqxNeJuk4ZpMk4mocw_0ySxIQJIBahVwW-v6kQpQR8whJ-RoUpAoYg0HYJ88SIRUJHskvnjXvE4U", 
+        "geometry": {
+          "location": {
+            "lat": -23.404294, 
+            "lng": -51.919529
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Mal Mascarenhas de Moraes, 1006, Nova Esperan\u00e7a", 
+        "id": "1a301789194e0ebe6bd3e511ab3ba372ee265727", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A e J Estamparia", 
+        "reference": "CnRvAAAAav43bO0puCkR_NCttWAVGxBnFh7XHk7R3tQftDx4cGG3q1w0_9XlbaXp6ywdo6GjAdwEi8DJudLs92iVX_dYU_O3-yOp0sk5oikTaYENSJgbFBJPuXTDkGl-lyIODe8Nhg46OxYzXRuW06MsHEypMRIQPsHDhCB3slXWdciKYz2KixoUf-tnkn6nxPKP1M6iJxTexMPbFm8", 
+        "geometry": {
+          "location": {
+            "lat": -23.407356, 
+            "lng": -51.917432
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 355 - Maring\u00e1", 
+        "id": "668f3ab03c1e1c9f7ef0be62a216b10b65d23402", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Piaget Centro de Educa\u00e7\u00e3o Infantil", 
+        "reference": "CpQBggAAAGCZnrZvHtJmneCRBHPjGGnVTGiD9rEYPJJfWlcpIq4twZ4kBhARI-5y52cFhCEtck6pTKjJerjTkEsRNqC5TI3CfSbfV0MJVjP16xBn0Ek3PgQSop2d5mgKQhZ-Usmgy1nA2XriqqOonyBMG92SXrwHynbvLiacncp80N_Z_6xsya7Ntucf3YxVMYk6_VO7uBIQSnO19jPz8JivNHdcxoy3gxoUGI4JLw9LezSqX8NsXmHnZ7hruIk", 
+        "geometry": {
+          "location": {
+            "lat": -23.406418, 
+            "lng": -51.918782
+          }
+        }, 
+        "vicinity": "Rua Evaristo da Veiga, 1425 - Jardim Alvorada, Maring\u00e1", 
+        "id": "e9a9a8260e9a7a84de2193e4ef381a0478b44e98", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Rodoboy", 
+        "reference": "CnRmAAAAvka6ZKktwOon6Dv7wMIImxGF9UGASSZz-8mtzk-YEKXx1B_CeluEWnt2yFp7PP7i_KmswNF2u-_tG48yjl_MZ6_TwwQMu-65Bi9ggy7rtS5wTnhHe0Ohtai_qmYzztbtd5L-vm3ojUde9QcqnAgqkhIQzjkfwpAiumDdDL-G4mge-RoUYkr0NGEFkJpeOAmzbmJTdwxw7qg", 
+        "geometry": {
+          "location": {
+            "lat": -23.405007, 
+            "lng": -51.917183
+          }
+        }, 
+        "vicinity": "Rua Marechal Mascarenhas de Moraes, 1243 - Maring\u00e1", 
+        "id": "5d714a21351129550367f2ca88879d34c5b3dad4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dorival Peres Gon\u00e7alves", 
+        "reference": "CoQBdwAAAK5iIS8h75XIn3N9NFHrHcXXB1jwOISznYrUTNq8InlEMz8gJ4xHGvbWBwyEqBfoWKTPkKFx_ME6vU3SJPLsoqKkXUDgi_FRUjLHt3YK7PEeNPQ_FfD-8YJtTXt03zmx8ovOyRMoz7vb5vhFDf2bCducFnx1Q9gu0qDX9YlRSOkMEhBhYs_mIB0JVmqd_aCnsbN9GhR6_u7F3xUoTyd-8sqsomqNsR0EWA", 
+        "geometry": {
+          "location": {
+            "lat": -23.407636, 
+            "lng": -51.917615
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 458 - Maring\u00e1", 
+        "id": "3d73e794298d123cd6c82b62f28e25c8b1c75123", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Caxias C E Duque de E Fund Medio", 
+        "reference": "CoQBfgAAADKoRKiL_h9yzrClfhxO6YThuVPpz3jv_SH1NVCzINa4DgQXUoRXGOCtrwEycZ5x7ukc5FICGIwZxSAg3ZIVO5WiJ_BbnDu_1QzGfR_rUn14cVvGRZgN0gqNZrRiKjo5aeGgLmohHFAqsZlCghjERiaMqxS6xlML2f8L48_g1azuEhDWW5_6PJ9KPi9B1Sliz6uMGhTyTgsOs3Dlfth3fgAw8RM1EPjWRQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.404339, 
+            "lng": -51.919676
+          }
+        }, 
+        "vicinity": "Rua Marechal Mascarenhas de Moraes, 00925 - Jardim Alvorada, Maring\u00e1", 
+        "id": "53ee1a8c2232a6d0e3a262f8913650b6185710b8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vila Morangueira", 
+        "reference": "CoQBeAAAAAT19e2xv1ceQ1eKQexAxqdyZ2jy2N-Q3AiZAtI-qgFRjfksyYmfrGGWl0TyK3BbWP5PWTvCtFjbuq82uJvUm790C_8YmWL1cx15Gg7nhVRHOX6izZk9vXFAzAIsX5gOia4FNlT2k8HCdoSf9GNI3tUMy1PdfGG-T50Yhv2Nw336EhBNvz5sBxrbKid3kpOFByFoGhTDuJOS7ktg-pN-eO97UvnKIRgdtg", 
+        "geometry": {
+          "location": {
+            "lat": -23.4168902, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.406708, 
+              "lng": -51.900302
+            }, 
+            "southwest": {
+              "lat": -23.4256061, 
+              "lng": -51.923497
+            }
+          }
+        }, 
+        "vicinity": "Vila Morangueira", 
+        "id": "c03b9e0cca230ba36dc2a22842e8f7412e857f18", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAApaupJTRUczTh2OS-3HylckRZG8-GmR-8Kxvm_TAp_5tgKhTT50K8jB_gzZD1ZxNE2C5KNoGrM4wQ8OO8ZEsifuvn5m2EQavBfDLubPjDDwMSECuFWvN7lsdZfR_xRm5NGp0aFFJno7lJWZ1HRpfOZmRY12oVLgLq", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdwAAAIrz0w9sEC0X9tfjqame5sRrOOy1R1TUrH-ZWUfkd-De2JyyLBLdEyMKTcjolG0156vIwonVdHnQTA87YzNaFaAdSMj5eUoeAf3cJ5w5Dwtwv8nLEVfxrUj2SKhBXT1-PuJHNNxL_STPy026thohGj1PKqqdQeWLqCYuRV4TLeRDEhDFrONQSIei0-klVrTbYaJ3GhTMk9SIHEhkj3GqWbzzfTAB0TKYmA", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "PLAY GAME MARINGA", 
+        "reference": "CnRwAAAAQvtbK_dM5I614ljkloyztATXNXxqMfGsfwTleBzGr9MQ1HO48LUgLPyFz08fIuP52d7Dob3i11MEBcqw_iLblXrWO8kYNjxb3jOVqEKX65Zov9j6jzESZDNRl19z53J7ud5r6cakJCTO2fdOGipX8RIQkIn4OnuI24jhmQB_fxFL7hoU9ibpv3WnNvY_6CmIt0Glzrmq4NA", 
+        "geometry": {
+          "location": {
+            "lat": -23.402548, 
+            "lng": -51.916558
+          }
+        }, 
+        "vicinity": "Av.dr.alexande Rasgulaeff, N\u00ba 1069, Jd.alvorada, Maring\u00e1", 
+        "id": "20521813932eeeef867cd186f19790f9fbc2d71a", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Casa de Carnes Gl\u00f3ria", 
+        "reference": "CoQBdAAAAO__wkaSu9ihRu027ESStf7fjbttSur7uDa3qKbzWJqEOk9nIvl1QzkpDeiTzZHFMU6vvS6KUU-GfpZs9Ku0sA7YPNlqOASR2WzDMNym8zSpmYGc-Bx9Qelx9KcjbWnlbPHE-k0841yEMM5Tys4VVVDaXUd8bzgbObatwvUgCiNIEhASLSb2Nc5RDiikLq-Zd_toGhTrivi1ak2ltT5o8vl6HsVK8pRxpw", 
+        "geometry": {
+          "location": {
+            "lat": -23.402878, 
+            "lng": -51.916592
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1070 - Zona 24, Maring\u00e1", 
+        "id": "7d485da5c81ffe4c76380ed30a282ba50081fb4c", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia Santa L\u00facia", 
+        "reference": "CoQBdAAAAHEJ87b8TXESW_0fsa9QXATE9woTGSqD1cjSOTSlY6wNHcFqnibjqGhDsiGCtWw3QyXhfrX5Wu8KpmbX86jGhOEb0mJe0Ip4Y4pF3nvfykio2DfGg5S0boed9oAKbMLpheQSMQE4pQWL6zFCk7U14eVYlPl1RqaPvwL5d9UjgdFoEhBZP4AdrNYHNMFwtoxzYyKFGhSl1l7E3V4xdhNuDaf-7Op_wlI8UQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400966, 
+            "lng": -51.913024
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 903 - Jardim Alvorada, Maring\u00e1", 
+        "id": "9006aba0a363849b9ad6d034c6c169aaa666dc6a", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pizzaria Calor e Ver\u00e3o", 
+        "reference": "CoQBdgAAADk-fgTyAL7-QZgc0K0AKHqOBaeTzlLLGQekF4cY9QvmS3lo3BO6iPyqMiSLrJpC3u-DqtETvMwnoZm-TKJawk0bKITTETRh9SSlDL9PnoZRkGnhTQCgYGzNBuB6yvynaDHUcaPo7D1kALbMYbtd1q6l3p2_PTqGBhQz3LweEPekEhDNU0iOQMVeyTHLCR28GBaOGhQ1BmYPpwKH6GPaVHqL1sx708qgNg", 
+        "geometry": {
+          "location": {
+            "lat": -23.402848, 
+            "lng": -51.916682
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1060 - Maring\u00e1", 
+        "id": "4bf5c140d890c12dae88e7755413d26d19e725b4", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Capri Ateli\u00ea", 
+        "reference": "CnRsAAAAIthMCKbAmycKl8KM_WZmL9Jy8Cq8AmJYnytG9bbG81tOwQTBmSq6zVIzCgk50V_MQKlCVxUaa7FHBVUgfXh0r1a9iodpOKr6NwgzSSabFBdw_eolnxjNkqS0AB9mYs0u6pkERdeGxPQhQ5v0a6TWJRIQyGiExU8Jdw7KB0L5JP_NjBoUn7ub89Bp_sQF1kCa4rfqdq0bv9s", 
+        "geometry": {
+          "location": {
+            "lat": -23.402786, 
+            "lng": -51.915943
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1139 - Zona 24, Maring\u00e1", 
+        "id": "22c0682ffdcbaaa2a7167b10eed8847ac5c04b6f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panificadora P\u00e3o Doce", 
+        "reference": "CoQBdAAAAJXKK4vhQC65FmkJp-DDsljhwNuzQKnjFw5dvUbL3ga6MYUGkaLnWC-ED0gQkXUtmWeYY4airliWN7P1m1a5oSeRi9O12_1ozfTefRH0Gbi8i_e7qmsQ9qhGepTRr-LNZwA4uM5ANUpsDw4qbOEhlPO_sVZCjFXdLuGSUWa64ojbEhAaC6jtgzg36oa_tdQNwZGQGhT22nIIQVItzNTtJKGxvtG17VFXWQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.401298, 
+            "lng": -51.913158
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 863 - Maring\u00e1", 
+        "id": "d9060a45bc1ef5d2b05792ed86f6fd083ae475fe", 
+        "types": [
+          "bakery", 
+          "store", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Congrega\u00e7\u00e3o Crist\u00e3 no Brasil", 
+        "reference": "CoQBfQAAAJwX1J4jefp8EDYzHoozH3IKO535bxL_5s5IScFLYFVkgIeeMppwsOzRsXmpIwTbZDWH4_XFt5zJ1RqR935o6VzEE31xt5o6yygYmc37LSCnzB_M-NQZTUKBNn1RWX7RcP1PFFOhxcuChPexv7rRRhrb_quQAxrVBt1c4TL0tg90EhA50VWtNaQPHYJ7BPhuW2d_GhQ0G5wFl9nvuPtQzv7Fd5b7_4HXlw", 
+        "geometry": {
+          "location": {
+            "lat": -23.40217, 
+            "lng": -51.915948
+          }
+        }, 
+        "vicinity": "Rua Mato Grosso, 1190 - Maring\u00e1", 
+        "id": "6552610a07f293e0a18c269bebc0c29e2e993bcc", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Supermercado S\u00e3o Marcos", 
+        "reference": "CoQBdgAAAPHG8QT59jvwLn2SwnYTWkSKJJ3Ktw7HkpUnWicLbrBps1bGIDBRednfDZc6yCkcpuBmRDWfyeC26jlmQK8XMYAho5mSNBRb2-9LK2bvKjgfI4Bz1MXfJLjywBkff1Y1jOvM7z57IcAOvY98paFNDBDyrtmXaxSHC9V4o3Mfde7_EhC7beY2n4WNfvB95uCS4EE6GhS0J4-Nvk5X35R1wga7SFuaH11bIA", 
+        "geometry": {
+          "location": {
+            "lat": -23.403156, 
+            "lng": -51.915775
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1160 - Maring\u00e1", 
+        "id": "a115e4ac46974094eaac9c2e5c7d6264987b8692", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Aqu\u00e1rius Lan House", 
+        "reference": "CoQBcgAAALGK8kmF89Y_tDQQeYg2e645t4oGHqQIVOk6bp8gaXRfjuP5MHMnbhWZfvcfOkYyhKb33RHJyfL8ob4cp2Bh2ec4IOCkRExqYfVrsRUsPh1yP5GRX_u299AL5Og5P9qI_70lz2dQ7PTBc3_0xJhMKB-RyZedJoSCaBvljZ8F2qdMEhA2zgyucxClzr2bMCi9U-5MGhSFTI_YoDnF9O8C9SCtEOL45U3S2g", 
+        "geometry": {
+          "location": {
+            "lat": -23.403278, 
+            "lng": -51.914466
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1297 - Zona 24, Maring\u00e1", 
+        "id": "27366dc8986d5d7c275d3b2ea32e780676bcce07", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "100%Pe\u00e7as E Acess\u00f3rios", 
+        "reference": "CoQBdwAAANRlJstPEEUcwggtp1EOgR_oTC4IaN9Fv-Z8ml4vwUto8IkTP9w8hxGC8AaVOWvpNmwnTJUdp299Sxwte-gD6LabxxiUuHVUHNZcWWUu4z-gct-GYN0MhDHvCfyTa7z8phfX0Stp1nVUxzCRjqISQosOm1wVJ-AXUfHtG5MFnqCvEhCPVx4ekAzz26mJ-dprJd2NGhRB0qBcB0IjIUS32tFYcYwrxYTjhg", 
+        "geometry": {
+          "location": {
+            "lat": -23.40099, 
+            "lng": -51.912953
+          }
+        }, 
+        "vicinity": "Avenida ademar bornia 1399 Maring\u00e1 - PR 87033-230", 
+        "id": "21cab35ffd83b495f19ce0627aa38b029fab0c2d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Renda extra sem precisar indicar para ganhar", 
+        "reference": "CpQBigAAABTAcnp1vMjEQkn4vnEXB0pcbeLU-wZDqLwSWSisBjYvwIXgkfScG_4ZRFFc6YnvpTSOIXaJF0-L1DlRJB-Jb2Averat4MVaErckgWac4JXBXQbTsv-3ncD9APvlJt5dl1t5sN7pDORd1Ns7I3G5ly_nEEIIbpqo-BXqAlQDufUlITAQRY5iqEYEBnghOsAUDBIQMIYXqo_T8Y-PkiN0el5iGxoUGsIEyEA64IPua4PqGgFpOFXYwqU", 
+        "geometry": {
+          "location": {
+            "lat": -23.400966, 
+            "lng": -51.913024
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 903 - Maring\u00e1", 
+        "id": "a1a3030fd8d31747c3beaa2528774abe4a942ce8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Construing\u00e1 Pisos Granitina e Korodur", 
+        "reference": "CpQBhQAAALO-sHYBhEcvWzqWe4GMR5_X5q9asJKyyFP3OSmUTNiYf9TdA6ha9qDi4O6T0zZQ_1_dZJCjv-8ZZYMAPqSZ3g4A6_c7GtLYF4PLw8Hywj5xkDwomhGVX9VVXCsMIC3hq_tMcw2Hbxt5gq81KPS-EfkH7MsGrh8ANb1vtCjrRNemZUyx0BpMwnLFRE99_RLPBxIQUcpcZjQ8OxRYRKUVO_qrqhoU08-E9nnJs8Gk2t5IEF79Xs1Gt5Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.403547, 
+            "lng": -51.915756
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 544 - Jardim Alvorada, Maring\u00e1", 
+        "id": "e53e6b84b2be1f6784e199f091f6137988bd6687", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Motociclo", 
+        "reference": "CnRnAAAANIEFdwlxbRyKjrxwwR3QizXsCty6uvbx9sk4s-awfPhgPDdGHzCMJ4NPZRSa36breIfTHKTsWdCwrX6LmUZ82k3UfL8xuHoyzia8eQBYertKi7L708QweSmrYCyemqQDW-4WZyP6U8v-ai1yQpuS1hIQrd_9ChtXlD6JGSWiPRD65hoUkPI8PfMOqERulxv-C6yzP8cPnlU", 
+        "geometry": {
+          "location": {
+            "lat": -23.40059, 
+            "lng": -51.912518
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 962 - Jardim Alvorada, Maring\u00e1", 
+        "id": "e8c5e76d34dbd49ca0fd979efcee7b9d4e39c0f0", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1 Fogos e Pesca", 
+        "reference": "CoQBdQAAAGDPwUreJJT8piI8E0B78__90pV50WOcESdIMpeICyr6dNKd84Px5xLkgR_xE3Tt1obrjVG0LZGSehse56_K15O4QP_o_XofOGNTRgJ_GfmVhXhiRGYO8c6AgsOFU_CGokSq1ayxELk2CTuQ3uJXkqGJRfuFYnkRqx0Tn9Y_1dFVEhBHoGmxrKYXmOEDSkpXfuTIGhTh7NmqxYt8GbETbOgx1-f9U7cduA", 
+        "geometry": {
+          "location": {
+            "lat": -23.402376, 
+            "lng": -51.913583
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 727 - Jardim Alvorada, Maring\u00e1", 
+        "id": "c0d14e8ac76b9750317adcc0c97d63d0dc6451d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Bazar Bandeirantes", 
+        "reference": "CoQBcQAAAM6lf2wbwQX3c6qCRvQ92oUjGVf6eDhmr5UUPtxAXjZSSDsAW8lyRdr18KGPLhYoKd3KYPzGTjIQjQZJQluAe-yrlFnEkjMBN3AruG8roRETkSrefU2nLl_vS6Z5RkXRYLEZ4W64btcBvOjBAAjPnF4n__yS4a9s2UzioSGzlnmQEhBZQkwheBgtlHEx0GICX0FdGhTbCaEI4LA7nfzfW9-aU6eSrBBBvw", 
+        "geometry": {
+          "location": {
+            "lat": -23.40298, 
+            "lng": -51.915378
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1197 - Maring\u00e1", 
+        "id": "d81a525227f1d37ae8aee8ff85b919d84d0c0f2c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Artiplan Divis\u00f3rias", 
+        "reference": "CoQBcgAAAJZ3dcQIXDyOHIz54RdpkkKdz7Nr9k0bm6wZdLk81Q1IYuvGHhdikV-FLl5T_Ss9Yq6X52JJoJxbjped-vVhpbU1_HbbZTl4ajDITl3aGP2G8L20VJOAp3B73q8ioyXzupqbEXT3UjJZvQrBIH93waVqT9WCagYeWgN-qDwH1cwHEhCotuqcicIqI9xd2j6gFGCtGhRSxRAm2IEq3c_uXW5KdEcwvjLYwA", 
+        "geometry": {
+          "location": {
+            "lat": -23.402313, 
+            "lng": -51.914956
+          }
+        }, 
+        "vicinity": "Rua Mato Grosso, 1283 - Jardim Alvorada, Maring\u00e1", 
+        "id": "2d35abf6e607e36390533fbf975650c70ffc23c9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia Miura", 
+        "reference": "CnRtAAAAP-MFa8C4SDPSpd1SZYswPGF1W6LHmykYWG_eB0ontqcZdrjr7_lg78ZK0pNJ1bnlsd6MVq4KTVuSteUUFZX474UFI9uqzyrMdN33WEfIhlE3s4bpSpbhnQg6WjvpLHEgADDkvp5Sq728Pbmkp2nQjhIQLQZea9XIan9p9mkVY-BglxoUELC9MdcZ3P--c07SIhw4d7M4WTE", 
+        "geometry": {
+          "location": {
+            "lat": -23.401979, 
+            "lng": -51.913081
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 792 - Jardim Alvorada, Maring\u00e1", 
+        "id": "eb835074f59551cead35d5198cf012ab8a26bc67", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Lava Sof\u00e1 Impermeabiliza\u00e7\u00e3o Brisa", 
+        "reference": "CpQBggAAAJsWNk61FWFv-4aZlBVdGQZfBjy57yKVTCquL3wfdMnKYApbUUvsz511sSUy4aDlJwYrSVUDk1SbHrdZSrEKtNfvgTsvtxLTew2rmIz-t3jTzlQ6Z8wedk_1DhkIpw4hJFJidyRqLMuKXOGtHO-5cIfxRDZR9U7q2rKufkxSJmDy-Jm_ikV-uIjt7dGt4FPSQhIQrGYSWANgYtpeErUDwDkkfRoUf9JjOeQexOkdpitjtT-yzpe8r9o", 
+        "geometry": {
+          "location": {
+            "lat": -23.402837, 
+            "lng": -51.915801
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1149 - Maring\u00e1", 
+        "id": "89a400cbecbc2a5d5321d21ede7a4228bb0cd795", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRvAAAAETkGNbFEg_NFhhmCmXTq24fAqXUsUp-Kw7WH3x_4IMgvqzLnWdPKB73lOwjmHBvR7VCiqnSlZCrDYB_nWxO9Nh9cb6K1AKLXkrr-f0vwfRWwSORzrA2zdH7QMUQd3vCi6uO0YcnMdo2O3dNti_wZJxIQs9Xqpme9awOiv-UA8eYwNBoUhDSrt3fdAeQREagTDF3HKPX9X_E", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAA-DdHPyw08n_zkwvuvtOrx6bLNdl5VkRdSDrxKLw0VVQ00YwTaFdm76SgiLFWXbfA7sFTfBQ38E2_gq45nDOfFWeRzvZ6sgx5d-PfFKdinTMSEMHy5kgc3CqSqge98k6l138aFH_bXjOP4IkDu5f51j4_H-u5nND1", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 23", 
+        "reference": "CnRvAAAAGy_e7-Z7qVwIPWKc2DiI1ZKnUB9vLps6lTqvm96nFGcqpOiddZFXwxtMEgHlmH9Lx7rllKUyWn4khM04Wuyh8G7SOMg1SclEU4Ht0FbWGMNFyBBxq02qe8kU5wGRF55svKbg4Nz6HdopD6OmkfE6oBIQWoqQzDOUOQYQnY8qPDirUxoU4lAhpxEOSLOgF_SyXGtwbTSY-2Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.4134945, 
+            "lng": -51.9143772
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.406491, 
+              "lng": -51.89883740000001
+            }, 
+            "southwest": {
+              "lat": -23.4214891, 
+              "lng": -51.9256956
+            }
+          }
+        }, 
+        "vicinity": "Zona 23", 
+        "id": "aa36652cce0fcc220e44532e46f5d5d7f301df5a", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "INOX EQUIPAMENTOS ALPHA", 
+        "reference": "CoQBdgAAABjOdTwnItrTb9rV67MH4699CKDWTWNWBHxxDag7nDkzMCzLQ5eAZdwTjeUl3UJKGI0vgIc3nsbyUsvIE6jp6bvirQDgg6BO5ItSGzz3TNfqZ8pk7ph881Az-lWJdfvm-cp1mpx7zUeTpCbnfa3BHKmO3xlYdj16oXvstmW16oSAEhD6kMtQvUb_h7q5kReV0exoGhSvocfG5E5Gqe9pCmYNPSz1nL0A5A", 
+        "geometry": {
+          "location": {
+            "lat": -23.404819, 
+            "lng": -51.914612
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 429 - Zona 24, Maring\u00e1", 
+        "id": "1e8e21b873d986d3a0ef68db81e4402ed237f2d9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Docethel", 
+        "reference": "CnRmAAAANbPm9okeOh62ygXFhx-uLSQl5jVKEKMEjcwMB916_OnFEixmYyYRwGtiKJpuvXcOiN_Zt3NzbV8XqjIjI1k5VSCGksUd9RMhbv7w5eK7bUsXmM4vApyAmGnGXlojQFaBJvU4bfhJvarConTNecM2CxIQ6sAK4RMTTSJxQdokt9bxoxoUCuzfWIgRWFNzJsBdL1NzOx02H0A", 
+        "geometry": {
+          "location": {
+            "lat": -23.406534, 
+            "lng": -51.914942
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 232 - Jardim Alvorada, Maring\u00e1", 
+        "id": "04c9d8eda4724073002bbfab3265780519ac7d23", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1 Bombas Hidr\u00e1ulicas", 
+        "reference": "CoQBegAAALq5Cy52IF7Q4arZiabKX3f-_LI_0TAUX9g0ZamSi3iVtf8jX9ShIf6gcjTM6G_cuKF1l-IxHlAlKiqmbvb2VC05Qn3XwVz89ys-xPhihnN6rGARep6wObrl3JVrelhcHrmwgflTb-OX2fT6nMLnqA_CBTd3jXyeGWfHsyVNNQQTEhCmi9mZ8t1Zbd3-CErgj0icGhTqeBNFyvU7-Y__rYlw07IB5Dm_tA", 
+        "geometry": {
+          "location": {
+            "lat": -23.40762, 
+            "lng": -51.917714
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 438 - Jardim Alvorada, Maring\u00e1", 
+        "id": "df8df309410b8a6ddb22ff4b290106888a881caa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Artillee Cria\u00e7\u00f5es", 
+        "reference": "CoQBcgAAAGqrusqzeYcBkCAF0xo0AFVhn8KWlPBGC-69Dhfnwumv-UCeq1usDeithdtpQfnslSxCe75Khzb0dP3pNDcL5dspuUaopNWLOevWVauIP-B7JsBmD0SlpywehvGLCN8Gc7WmOabdu7u7uhdCJdiBBUhk_iHHcaUbW8-5cEfm-w4_EhCEd-wfS01GGfARQXer2jz7GhQSKCRrXRFyjRXn1dNbShbMdKAbEQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.406406, 
+            "lng": -51.91688
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 196 - Jardim Alvorada, Maring\u00e1", 
+        "id": "94dad2e44cea1c43523ee30d85ee577def999229", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "By R\u00f4 Artes e Decora\u00e7\u00f5es", 
+        "reference": "CoQBeQAAAIHZQyO3VxcGvHx7Z2fhJ7AvtRX0v46GtqTfLBBkp90cRex6Bu13GKXRVu0X84HUwV3Zny6uTc0xDUOS00IwOBSSBc3n6b_cAOKcWCVTLLhnwN5d2q_TdIdjswuq9Zud-kIlTelYO21Y1ESDtlwrdXS_B_kuN8vmv5sCviWiKX9VEhAEA5iLkzoms3aq4u6WEVSyGhQ-BA2zySnOi_EkyL9iBBpXpgpCXA", 
+        "geometry": {
+          "location": {
+            "lat": -23.407775, 
+            "lng": -51.915441
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 134 - Zona 24, Maring\u00e1", 
+        "id": "22c16818cd02bfc42e3182830501afe89963d807", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cantinho da Beleza", 
+        "reference": "CoQBcQAAAKGlLlt1m5hVzGiZ0-0BHgWw-pu6HkEBoe9v2etW_D15Hs2jW7zRwHpdCuWs79fdXlzsdX3tJd0tDhc5u9-TrhEGAcJRyRETZXC1uJStgDy-hJsL2ikAGvoRZQQDhNXYf1BagAih2K19Mx3ME4ObjBL17DbMweyxR7AnN5jjO4NBEhCb7lHfFsWzEnDKaC_ZHQsfGhRm02W4rzPruZn149xjrplj_NB3cQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.406634, 
+            "lng": -51.914981
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 220 - Jardim Alvorada, Maring\u00e1", 
+        "id": "3619d60f379dbf72659873aae44050223076e23c", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "P\u00e3o de Quiejo", 
+        "reference": "CnRsAAAAIZw0NijSA7zd_c6MgcETBD22Pp14rHX3nN4KP8bJ6S87ShK5Lr3YrUR9mglQ8V-qhElX3T8nFyxq3GzQlCqUWy6janE1N-3yC5qwHrPl0NS8hBsfEZVEmSSRnXlp50GX1_8-XaaW39d84ZrEtoMMaRIQBSeE1e519lPxBJOh0u5V5xoUDlDa_w0RoM8txn-4LTnnK0_uuiw", 
+        "geometry": {
+          "location": {
+            "lat": -23.404408, 
+            "lng": -51.914071
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 508 - Jardim Alvorada, Maring\u00e1", 
+        "id": "324d370a5ee42e4718f963f73cb113b12d96fbb7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jennifer Cria\u00e7\u00f5es em Couro", 
+        "reference": "CoQBegAAACJCUGry-g15d8_1WGU0EMgZQ6qr6h_sQOspz9o0KXebN7qKta95RwDTUQULb2mhHBo-3LP5dP8YhmBJk00wbSZhwsLBNnx7W4XnmZ9xQDmR6rxf3s5XO4El4wJQ7F20kGB6D8704fV46FceHAJpEfPBF2r7VrzL8-G4fPY3tkkxEhBmmCMw44PYvZwQW7lpbFaaGhSve-dZXGirkSDBDGLfG5qByifeSQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.406307, 
+            "lng": -51.916838
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 208 - Maring\u00e1", 
+        "id": "05bcbb23cdc4424ef4ffca215a043f624a1ae4dd", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Candombl\u00e9 Ile Ax\u00e9 Oya", 
+        "reference": "CoQBdQAAACl5IWEblcUckGhegs82RaE9cD2xbWG_N1FaL4PTCP36-mAWRTircim1nsf-GATowVWcNH_D47uO0p1k7xMHplQeM7mSvRvlzITWD3_qhFRP_O1QjMYp7GqlF04BZgQxVhKsq2nAVqCWg2bqah-g1D9B2FhWJWOH374u44V6f_NbEhBDdiogzCqG0fjnovV7HFasGhSRwuehxgaZVdi1gowCMCjynL8NlA", 
+        "geometry": {
+          "location": {
+            "lat": -23.407332, 
+            "lng": -51.913452
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 230 - Maring\u00e1", 
+        "id": "73fc640b4044e3583128e4e1feea6f584062f444", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J Stamparia", 
+        "reference": "CnRpAAAAvCEQZ8_3fsd1e9cuSkFAtDWN7UvGIUQXk_T3EdsOv61XyX_MmVooF2PulktN4uF7CWAyAZY34oapKVEwdlpKwjgrcs7x4zRbUJP15mu5F9aTzBr7zUZ0iEBcT7WJtty0xqdnqkEo9tE5DpT5HSABpxIQj_YDHIOo43ucL8q9qvnWlBoUqInAy5MxoD376iuBm_d27Np75PU", 
+        "geometry": {
+          "location": {
+            "lat": -23.407356, 
+            "lng": -51.917432
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 355 - Jardim Alvorada, Maring\u00e1", 
+        "id": "461f03ac3827608b9f2df7dce3ee2e5dd38d6a0e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Golden Chips", 
+        "reference": "CnRrAAAA4h9eIpmm02G1iEUeM7KPs17C9U1PhkNsswBNecGuJ3a_kqqPJ_8LwQ_8NvfmFoXy0lHaxOCMgJhUPeaTabJa2FpEcNovvrQcBog46pp5_rPnAf-LyTZ3DR-ban3unRo9CVsAC2qZNXsPSmJwEKWnqBIQF7miL2FDj4ygFkmlzZIfrRoUrmItuTBDwSMSU_AHyd5etOViQZg", 
+        "geometry": {
+          "location": {
+            "lat": -23.404873, 
+            "lng": -51.914633
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 421 - Jardim Alvorada, Maring\u00e1", 
+        "id": "5975e6c5542e053dbeda4b392d1c67a083b5bc26", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Injectope\u00e7as", 
+        "reference": "CnRrAAAAqjbmBQXAaSA_ZTG4E2iSy9M79ChYXzpOBvq4QuWO17YxnEQ_Nws14sMaDD8qR2UQreLbGzqCTPIAEmq-drDqJI1eRhKug3R2XAsS5IoDvfV-HlXrSlJilpPgllHR2CoNYdpqRB8xDnTqVN9TcET-KRIQ3Sow1Rj_HD3JvKzceFUauhoUt_BTZMPn1k2Y_JRdGl6uDVm89B0", 
+        "geometry": {
+          "location": {
+            "lat": -23.406884, 
+            "lng": -51.915432
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 155 - Jardim Alvorada, Maring\u00e1", 
+        "id": "b408a2a19119309eb039fa487f034a6f9b35671c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ferramentas Gerais Com\u00e9rcio e Importa\u00e7\u00e3o", 
+        "reference": "CpQBiQAAADkeZVQIzsdD3MPa3w79rttu8NiE-HmQWZLR8RlHx1nIG7ZrSwZEtMwJwyU1Qmt1Oz58TQJwNDJaBNpEGXXMHsgfG1ZjwoM7IEpPPk8skAf8JJe4MRa1cILpm7AAca4BO7YHHazCacGKAuH9PgN3VvdVG9wiFJJo3YXGFWsZEIvAim-jJfJzC3gs69fG6WYUhBIQVU593NMuRDZa2a73zqVkMhoUEjZtWmgnCBz1waW0r57jq6WEArY", 
+        "geometry": {
+          "location": {
+            "lat": -23.406819, 
+            "lng": -51.917057
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 146 - Maring\u00e1", 
+        "id": "ce94215b1063aab6c3de565936e867c179b9af6d", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "PERSILLUX DECOR PERSIANAS E PAPEL DE PAREDE", 
+        "reference": "CpQBigAAAExfQU3kKARoTV6U1AYJ0K2c98DZGp0Hzrm1QxP2-_Q55JNIrcG397lOt1jt6pbzh56ZyL9g9LCURHOflIcNbeUESOb8-muwMC60YJi-aEIXEMlM8oXKGjZv3d-Zi0DhFBn_TnPLe_I13fVymBuBL9IwyVF5LRNYJqwjig3329fSzZmclKg6BmUhldLkVth9mhIQtJPbkj4sEgNu15aKNqxKohoUxShNNKjP4tqiRAaJHI6vHUu_ze0", 
+        "geometry": {
+          "location": {
+            "lat": -23.404558, 
+            "lng": -51.914134
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 488 - Zona 24, Maring\u00e1", 
+        "id": "d6c726e1e8010ee91ac4b69244c0630c7885d7e2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J M Mendes e Mendes", 
+        "reference": "CoQBcgAAAGyYr69NWFKzFMKhS3dX6qNcJIxiUC-QP-chjhuaibfhEDvFPMv2Adbs4rE8CmPOSSee6KDdUDZIlvkM9fgKb_k7lTRALPT08UvUsCviSJ7-GDC1wTsU72ZcGKd-gR5DAYShsiLZIBvZZCZ0zrIBpez0DObKG2Dfk2_JC40qEyaMEhAyVvzorvd4ri-jqkkkaARnGhTHSE8HYSo0VCqbfWTxtVr8qqGMrg", 
+        "geometry": {
+          "location": {
+            "lat": -23.40675, 
+            "lng": -51.915388
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 181 - Maring\u00e1", 
+        "id": "d61012f84b27cd2ef5fdcb951314c961cb1f2867", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Studio Pr\u00f3line", 
+        "reference": "CnRuAAAAmy2MDJKuKHg3wfEXWRcPXoGr8YZf3qj5r034ydWS67Ro3hg40kSKTTh7434pGLXx3eMth8KIcw3IeGQu9WwujTHiTfELc7WJtOzqY-vIsPk65uQy1xNtRu4O5CIx1xWzdOaX6tepgtumBzYzLbdB4RIQhxC3VDA-cjJeMZyvtICX7hoU-USX4fVPCvKxoVidNKP1CMdmHBE", 
+        "geometry": {
+          "location": {
+            "lat": -23.407614, 
+            "lng": -51.915363
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 134 - Zona 24, Maring\u00e1", 
+        "id": "4f391e2ed4001bc757dab5146246f5c5ebcb94ac", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A e J Estamparia", 
+        "reference": "CnRvAAAAKiiSBeHviZrQBk0Aq1oLFQ4Po7jf-qHQ81Gn-x6SM0rGt7niRYyGgQZ6oFiHC293K7WeOQFu8vBi4n-iDTFpuYLefus0Uxii9jDbFA1UsBNLh6HNkd528K9TZ1TEnJNHqvegOGttq7ukrXzdgNpX0BIQZVxO_nVxHY73RKB9y9_rABoUSj-3U1j0db7jw5u6sc4O2Uy9Elo", 
+        "geometry": {
+          "location": {
+            "lat": -23.407356, 
+            "lng": -51.917432
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 355 - Maring\u00e1", 
+        "id": "668f3ab03c1e1c9f7ef0be62a216b10b65d23402", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Crm Instala\u00e7\u00f5es El\u00e9tricas", 
+        "reference": "CoQBewAAAGFhhP0HOzV3GsjBUzrh5UW_Fslm2z-qqKiWRNjv5plTSIOVsS7Jn6Wl9NegeuRIpevR4OS3QYzrxfKeClnaVSl3A88CfWKoA9cB7yz399Ott3VvxzxdN3ljvv9sYP21F6dxf4c-SiLzdCzqEiL_iSX45dUC5maDEitW5zHFT2RZEhCrMpbsICiC-_T0z-WVn6TEGhQkfVA2tG7WNwCUHzHigXaHgdKR3w", 
+        "geometry": {
+          "location": {
+            "lat": -23.406708, 
+            "lng": -51.91501
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 208 - Alvorada, Maring\u00e1", 
+        "id": "eb3508f80a1ca156a72e5692f1161cf6d6cbfa20", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vila Morangueira", 
+        "reference": "CoQBeAAAAAP9lOtKpecUq8y0l906VH-BDZa1ttdko0cfF550t0x4nVuM8kbyxUxeXLRg6Q96nnvo_XVdsrizgpoLeTTWlrxFDRBVWSZNL3dT8uQcl0UcgoKF9jFwKwS8ZmdkrxQ9H0uMyDeXbpTa4zHyquqY9KZTjP1rSnN_RAc88y-iHkK8EhAxv0arj_rWM4KgB_KCVw2tGhQN0-6y7XRgxIPk0_1Gmr-UwKDVoA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4168902, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.406708, 
+              "lng": -51.900302
+            }, 
+            "southwest": {
+              "lat": -23.4256061, 
+              "lng": -51.923497
+            }
+          }
+        }, 
+        "vicinity": "Vila Morangueira", 
+        "id": "c03b9e0cca230ba36dc2a22842e8f7412e857f18", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAmeG6VkVFv5h_FMocjWiXsVkqUijDJME0cmd4Vb1cJmPKxWCsCuEMyy3fFo8EijpNhu-nhiNnSlSt7MfVLUir6Arms3YO7uEg0dgpFIkbmAASEFx5AZP_6uYHnoOYn0cy5wUaFBSL77Hl-pFpqzhpx4gNV5xPfczA", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdgAAAO20d9TO869VECoKiAH6XtSRMxnQCvPIEHpRpju5W68QwdZPynIV9qYD5XuTM-vIzd9cyw8sfhEke1l9tSrHLmpTD3OhAbpUSqUsSyMMGbLv4_8-XT5E9NLVDNdPaHmzXeQxvsHqGSgQ_L2WggIlc9IBVo-dbbjG-3FtHdC85tnWEhAc5EajuzZdj9p7GD_3Q_vHGhQFkFe-Gv_tEznHM7a0YIji0e2HJA", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Col\u00e9gio Estadual Duque de Caxias", 
+        "reference": "CoQBfwAAAKSz-fkItsT9fUE5jRoyQcQ60pTU0oLEYBA3W5G1W4NEJeA3eXRHKiv2rYu-tvBvqyXd4ihCL2CH2e7wwIIvcH0_ZR8rMr_O14Dsztq8-3uRjjlUs3NZmkxZ7lboG0c8xZsYFHWnYkV-jKXIG_G4NvDMYN1EPL0Yl4R-Pnj-grg9EhAECAnpiaE7ZMiZr9e0pI2cGhRNhbAqXoRpnur50qOK6Uj_CqaerA", 
+        "geometry": {
+          "location": {
+            "lat": -23.404016, 
+            "lng": -51.920065
+          }
+        }, 
+        "vicinity": "Rua Marechal Mascarenhas de Moraes, 925 - Maring\u00e1", 
+        "id": "ee2e380feb89c93f15c1f7f62ecfbe97508b6475", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Escrit\u00f3rio Cont\u00e1bil Gralha Azul", 
+        "reference": "CoQBfgAAAGwff2tfWlPb-mG05Lz7KwRssGkqeKLlVSgZnJspg2O-RL33FoFxaLnDL_-7_7fP8X0Vfg_C_9BA1OktK9gf-WK1etNlSvVYHgsdiIoQgaO3bzYIVLV8YlWfU0Wz3UArOgxL6-FXcEC1_92cfS2exDFWHE0t9FKuShMX8PQb720NEhALbPrHzywbXiTZDsrHf29jGhRXz_tqV7wtIZz_1ioyqS5Z7DDnow", 
+        "geometry": {
+          "location": {
+            "lat": -23.404191, 
+            "lng": -51.921439
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av. Pedro Taques n.\u00ba 2016, Sala 102, Jardim Alvorada, Maring\u00e1", 
+        "id": "8ff2d186070dd62c44c4b99ce21746db025aea12", 
+        "types": [
+          "accounting", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eliana Noivas", 
+        "reference": "CnRqAAAAMwd-MNRjkmrfRXc4mKnR5dpcDLEGWxW3FgglndWQauXkIlS3EaffVsvNys1PzCaSgE5r3R2b0X-bkBfqvIoz4sKqhRoSkpuowi5jWBLhs2k06UEgjgH5Me3k4xu8g16a8i3PgNhxYaUPLY_EQmlp4xIQu81v_JvvErmJwRwrGCmqBhoUlsc-U2Hvwj3-cchtpLM2sxOgeeo", 
+        "geometry": {
+          "location": {
+            "lat": -23.405512, 
+            "lng": -51.921953
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Jardim Alvorada, Avenida Pedro Taques, 1864 - Zona 24, Maring\u00e1", 
+        "id": "ffd3836a787b1a4b2531fbf0b724f8ec8fc3b709", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "R\u00e1dio Atalaia de Maring\u00e1", 
+        "reference": "CoQBeAAAAIxUwYFqddrfZm0Y297oviygVbkd1EIX1Kb1VmhKlWa9Rw1SSS6ELKZxYv-S_8Lt9cpI-4n6leFK-RGAj_Th7eUZZg7SxKeFpxmiSGIGKaMONvH4wvKSb04OXPA6IPfh4M9Ftai4TOWxtFXfEWL-vxF5nOLOZidKLdNi5fAkQC4XEhCx9wM8VjJH6mBxgtDwOZlyGhTJCedkplUqBjDNoJKzenu1Jfh4FA", 
+        "geometry": {
+          "location": {
+            "lat": -23.405682, 
+            "lng": -51.922019
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 1864 - Maring\u00e1", 
+        "id": "cb918d0182975a6738a916cf22b70a414d13de93", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Am\u00e9rica V\u00eddeo", 
+        "reference": "CnRtAAAAlsjJYGt8cdTkSgVe0ScjXkvE1qQarH1NY2vW5Runy8iDW8eTfgDnRnyv-AMZz_MWBdv6tHinOhjL39nyUd6W0VKW1Sga4YNyVJGrFTFSQd6flzWwlIDBQ_eP478Kow8WRrJjCENqkOZho4Stz1P96RIQOjdCuzC3RJiLu9C-zbbPRxoU-KK56MVTkY-yC7n-Gm3OMpFACPM", 
+        "geometry": {
+          "location": {
+            "lat": -23.402718, 
+            "lng": -51.921258
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2185 - Maring\u00e1", 
+        "id": "c49f249faeadc44e5074105718b1b04304ff4721", 
+        "types": [
+          "movie_rental", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jardim alvorada", 
+        "reference": "CnRtAAAAtsUYfBjA62Xue3qlfWkDi4WWFvvfk3_WVfgvOcHrNA0Y2ddD3geAghOSlBs-yw--UT0KVxbaOue42xYsb4I39FwS64fAPTS9jzg_D7a7war1DCGoM49MXqMmvOWxaIigS3hXTKqVYS7ZZV6Pm2O-fBIQm30z8xIktkBsY9liG2qopBoUB6NvTSxfge0kM-EPeXtve_XAXB4", 
+        "geometry": {
+          "location": {
+            "lat": -23.406418, 
+            "lng": -51.918782
+          }
+        }, 
+        "vicinity": "Rua Evaristo da Veiga, 1425 - Maring\u00e1", 
+        "id": "2d96f908ed70d7a5e77e8a61276740d1df76268f", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Escrit\u00f3rio Cont\u00e1bil Farroupilha", 
+        "reference": "CoQBfgAAANmaEfVI0_axM_13y1Kb9IUwY1fmv5apPdLJj_bDqElbglFljnRmlpLKNADHfHjgYouG9IlqV4yHPy7hhHUk5zlrHj_pLAaApZYAEhbezCPuLvysxFZWksyvjlg79z7ojsesuGefLwm9HxyyX6NgU60IUIHPncwU_VSUSCri52lEEhBM8WzRaovltky14I8XFFvXGhRgNdqOBK4CiWbo0wAk2Nbw8anF1Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.403104, 
+            "lng": -51.921312
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2135 - Zona 24, Maring\u00e1", 
+        "id": "136027ebd7f881c75e5cc52ae7c53127eb89385d", 
+        "types": [
+          "accounting", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Alvorada Mudan\u00e7as", 
+        "reference": "CnRvAAAACTsKfGs02KaPSNZ4jrtFQSHSWLcxa5YwQc7GmFQITpGyMmmRGbjccWbrVA328q5swq4ykBTLdBYS5IHjQMfS53fxaExZOOpal7TZ5arVsZJUJBwv35Yo-SJ2vJ78EEHiajLEaE2RVIv1EPBVISX4bhIQhCOw2Xrn6PiYVBTn4Iy7SBoU1H1h4zG9GPLI99t7vtJvLiYiLhU", 
+        "geometry": {
+          "location": {
+            "lat": -23.406708, 
+            "lng": -51.922093
+          }
+        }, 
+        "vicinity": "Rua Buenos Aires, 118 - Vila Morangueira, Maring\u00e1", 
+        "id": "289fa302d6820e3b9a5d1e81096d3990a5fd6529", 
+        "types": [
+          "storage", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Loja Alvorada", 
+        "reference": "CnRqAAAAcUrCSzrUG2pxdHXC7i8X2eHNuV-wJVlfEUViejKTO-ILrPt_XeUWb-c0udy-11YxDROZBoxzqkRkKwwJnsMWi7V4MLgXbmDRtfkaaLDOSRFQbEhPdPynvraxu1sEje1Fv0YQKkOsmUalz0akqiPRFxIQgfyPGqyrRxXXkIks0agneBoU2KlqWf5OfwMZiNnFdkHuNnpONCw", 
+        "geometry": {
+          "location": {
+            "lat": -23.40255, 
+            "lng": -51.920756
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2238 - Jardim Alvorada, Maring\u00e1", 
+        "id": "8a7db5eabcf3e0525b9797f43fd469ddf6e6c2e1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Br Brindes", 
+        "reference": "CnRnAAAAf0ORTrKXNJIiXRYceUuxI4DkLHmyZZ1p7dYS06TyXCezIw8ZpmhOdcvlQ5ourn-Cz-gnBRHjKqjNI8iayzGK-744EAhROt2il3N3aX6hwQrSyMfLyF_Zriq6TquIsn6WnKmNEc_V0_lsLyPsJdqJeRIQf0TWjXoPLN_Uk1Ic9elxPxoUo9AjB9uu6lF6v40hfP46Sl-wRIk", 
+        "geometry": {
+          "location": {
+            "lat": -23.402885, 
+            "lng": -51.921326
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2165 - Jardim Alvorada, Maring\u00e1", 
+        "id": "62f65e3449cb881036727d90c24d7ad813878a9b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cias Nossa", 
+        "reference": "CnRuAAAAl3rb3ViZv7IJ0QvjlROCztRidx1w8Y7g1U2dmyzHQxuUrzp9SXo2snyL-9AL4mt6G49-BBgNsDgXkeAJs6KeS2dNcjZ9UzFCldKPlKmNM7E4-Jh47clZhDJEwnFcfbUZIqxFhmA3GAIXt2sPfBfGLhIQPNhGadnZ0kziVp7vuPGNzBoUuQ4Df5q4qXDRRE14roYZqfahCNA", 
+        "geometry": {
+          "location": {
+            "lat": -23.404142, 
+            "lng": -51.921836
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2015 - Maring\u00e1", 
+        "id": "f1725087d554c463d7536b015eee93ee97becf12", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A\u00e7ougue Feir\u00e3o de Carnes Alvorada", 
+        "reference": "CoQBgAAAAJrO2N1KMjgMqH-KrqDYOePmzK2N3yzVlLeq0jBGcg7hoU7cYqZLkNuBlrFklPxY2WsN55bktCbJs9ELEbOtEiV4yjARlGZZOct14sIEfiet5XdETC9twxSmPVU9rFeb_TDxVLpVjF0dwf01gDt3MstvBUS5G3fcd9X5KTA1_IRBEhDGrBliZtH88I0M-_0DyvEdGhTzHhv8GwY_wtuZpnEnTejULNGLKA", 
+        "geometry": {
+          "location": {
+            "lat": -23.405077, 
+            "lng": -51.921782
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 1936 - Jardim Alvorada, Maring\u00e1", 
+        "id": "105e49ed82dacf18234bf7be05f4ed681490dfe6", 
+        "types": [
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica Alvorada- Nutri\u00e7\u00e3o Dra Renata G. Silva", 
+        "reference": "CqQBkwAAANAvRxBC9HhxBT6vdQ_cn9CJ-PNhjzPKa7NfR_Ji_D985ZcQtttM25H3utqRDgs_hFB9-w6pZCmhxx3_yqidwTSp2l2Zr251D6Di1iVoz80NjHiCvNLgA2sDwZunX_CZJFaqXDa2S4xOb87bLI4SuAlJY-L0pW_LKGhceFkSOkYdxcwlWEHKTAUSadpJP1QcyAAFUOsTrRMO_goJL9AlAPgSEDfUqzhEO4JrzWEHg9gKnoIaFLRgCFHI_NRdSZniH3VJo4GPi0VF", 
+        "geometry": {
+          "location": {
+            "lat": -23.403346, 
+            "lng": -51.917542
+          }
+        }, 
+        "vicinity": "Rua Evaristo da Veiga, 1789 - Maring\u00e1", 
+        "id": "7ee831e115b256e3d58146c90774384b262df0bb", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cinderela Cal\u00e7ados", 
+        "reference": "CnRwAAAA_3EgSCOHjjEttsO-g7hglj5LeLIGfmRrbGJ1jKDDG_0DGZTAM5Cvd_I9HHswIwFHf2aMTlXcslcf27KZ_XwGAOt9YTlfVBotMW5KpQ9ciBCjgE8ioVp1Mv7r527lidV1SSVWBIJFoqUlHSlO9SHPhhIQ7x4Jwb_tR8XtrlAVMzGj2hoUc0x7ehnJAYcGIl6v8wvTkkMOvkg", 
+        "geometry": {
+          "location": {
+            "lat": -23.402634, 
+            "lng": -51.92079
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2228 - Jardim Alvorada, Maring\u00e1", 
+        "id": "57ef43b84e788d97ecce36cc1f21e857263f1803", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Sacoman Atacado e Varejo", 
+        "reference": "CoQBdgAAAK2LCtbs-YdJjaGz5D2-hAD5o-hRDochXhaPh78n9pY5vC0nmw-S5QsXQygqKQthxiiTV4UtXstHvIM2Db2lFA6Fsp6BUJzG8Te2i3ibGWYYLXuKPnBrctzZsQggyNuo3ODeidBZ4rRoZpU3Gcncbq5MdPtqOmv-Gz1OUcPOWBHFEhDMqOYO5EX_NlRbWJrqjDoJGhQ1HRe1zdYD0Q8NAavI6DJXsB9veA", 
+        "geometry": {
+          "location": {
+            "lat": -23.404682, 
+            "lng": -51.922048
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 1951 - Jardim Alvorada, Maring\u00e1", 
+        "id": "67cbd4752e7a201720582314e1515130858f3c75", 
+        "types": [
+          "home_goods_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica Veterin\u00e1rio Meu Amig\u00e3o", 
+        "reference": "CoQBfwAAAC6KsCqj6DanMJpzxRYGZtT2jjW1cgqYfA_5sWoSU1oWq2vJ5wZzDdkDUuaOwVsxf5_Fj8z2wcCwmdQFvF_rEguUDB0ze1It9WLLuC0EMY1da2A_jDerALUWSxXYQJCJxVgn82CFqYTNQ9PT-ckvTF4oitPdIlgz1f3xLmqw6phNEhDa0-SstMJc9z6VYjFneAKyGhT9Q3v0cyo7USkkHtTwL9UIDWrLGw", 
+        "geometry": {
+          "location": {
+            "lat": -23.404993, 
+            "lng": -51.921748
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 1946 - Jardim Alvorada, Maring\u00e1", 
+        "id": "cdd287e00cbde9b6c5b3b16a93e79352c1893f30", 
+        "types": [
+          "veterinary_care", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Impormix Esportes", 
+        "reference": "CnRuAAAADj2ShfHt4iLWXqVHaaqtcQKXJNo9nCSfB9ysLMPQeDNuc4hqihLOlFHzTLkjfCT9E46iOfdsFkgQe1WUWus2tQBGSV_0hC0o9bJ-hSJfVXQIAhfoE5Or_EeJ3RDDQqtSpUSy2UyF8oVxJPKMmX_ZrhIQgGaz_2WEUWe483vA8Y_DSRoUu2gxQBwVWDrcvEc7r6nTgZIhJ_I", 
+        "geometry": {
+          "location": {
+            "lat": -23.404598, 
+            "lng": -51.922015
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 1961 - Jardim Alvorada, Maring\u00e1", 
+        "id": "f29cca2caca6e8043523d0b337d46c2520c8583f", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Av\u00edcola Duas Pontas", 
+        "reference": "CoQBcgAAAJ4zLY1TC1ck4scx92s-sdfbg_iaELYEJ9n3BJdMlumTMciqX70py1UpwmiNY8rOvVsQDbVq6mM5hKQE163ozrifJYfz_l3m0MUcXOkj5n9IahE4oHv7-GUhTtwS9hAhyqhU_j8Jk9j8vnD-L74nJ7qXWeAHaejFXnxOjNCKhv1fEhAcCyzXtP4wmnEPsZP98QXuGhS2u_13Y-iZE2o-8INblK_DzlCMUQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.405345, 
+            "lng": -51.921888
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 1904 - Jardim Alvorada, Maring\u00e1", 
+        "id": "8ce3d947e8a6210eb87d6eaaacace412c77874de", 
+        "types": [
+          "pet_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAAxB7gLTssWfbKILQkwr2oxeCHi1vD5UekVE8VMqRac3MKyg3xixOVPVJnSpZiqsELjA84dXfdrzTEBmEucUVRjoZcdZtefeoyn65kb91igbR5E4c6bGPXiKoUXKZ_kKR_fGKy439Ca5e4ptp3ph5Y7RIQHx6q6MkzFOI9h9qTslOiBRoUlSwrhqlH5vlJOHdbUVxT7M8Y8LM", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 23", 
+        "reference": "CnRuAAAArYAh5aO37bkrkx364PWT27tXS2x2Dn3xcIhHGCCE9C5zwsgV_tbYKBOkOIMEVg-MXU_OrE_jCzu-Zl2E-4ntNAH4_kFiT8y6TKpKYevqpBWZRDjDo7POa_cLdbptw9_qxXLo9imUNrGA3SbAjX2hLBIQ-X3zumuuOws98o_jPyG_YhoU7xkenCHSH35C8HxibuVcMNP6_Us", 
+        "geometry": {
+          "location": {
+            "lat": -23.4134945, 
+            "lng": -51.9143772
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.406491, 
+              "lng": -51.89883740000001
+            }, 
+            "southwest": {
+              "lat": -23.4214891, 
+              "lng": -51.9256956
+            }
+          }
+        }, 
+        "vicinity": "Zona 23", 
+        "id": "aa36652cce0fcc220e44532e46f5d5d7f301df5a", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Assics", 
+        "reference": "CnRkAAAAgp2EmYyMhJqQH3g1i2tOQbFtbBuTrZuz-cJmUem3ZehKP-QIVKFsO4kRIY0Dl5i6iSLDvg7O7ugVWz5M_sBjXm0WlGN8y9u0gxvOODCynitUOBJRFDvZWIUqhIJ1TQXqSfOp_hOCciOcv15m66yQzBIQ-PvzRJyE6gGa191472YOTRoUrFqcpgZ4Qbizz5n5M8UG1jjCqZM", 
+        "geometry": {
+          "location": {
+            "lat": -23.406341, 
+            "lng": -51.909399
+          }
+        }, 
+        "vicinity": "Rua Piona. Am\u00e9lia Vieira da Silva C\u00e9sar, 1083 - Maring\u00e1", 
+        "id": "13e5ab9c74c44adac9d3e3e781b2a4a14df3ddcb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Madeireira Burac\u00e3o", 
+        "reference": "CnRwAAAAS_SYRzJsasuWMlcH5YfikzHkW13sGbS4Zr42OzzOk2bIOLZaCFOcTVPSE1gGO0mDTVexMx7VZm20zJflmvzPdul-vzP6DMLp_REp2Gq8GaboYQsyNTjefm3xbBC79KGzZcjEkt491ooOj0jyfI6HghIQ4c_RGwMMXmFm3EYFEh05EhoU2h6fcIJ9T11RsZDu5ds71fxNL2Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.409638, 
+            "lng": -51.913206
+          }
+        }, 
+        "vicinity": "Rua La Paz, 179 - Vila Morangueira, Maring\u00e1", 
+        "id": "24a00adf793a7435e7285a242eff745006bfa150", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Candombl\u00e9 Ile Ax\u00e9 Oya", 
+        "reference": "CoQBdAAAAEENXj95ZhjqE9w99-d48f1LP9wXLEPDundLFSEqQNFPp0uP61JLFxKqDgvao83FliS6_qLLb4SM0m39iFXQ2kaKriUCi4_cxITE3-qa-r3v9yNnpuot8VhnmQyKyQcsx_ocML5nXSmQ9GcmNua5YHr48BbAu4sL7y_EHZknx36ZEhDMZsrEl-Yxl6DOkrqgRMaRGhSMsY3ey-0xlA_Hxfe3PPGw2W-ppg", 
+        "geometry": {
+          "location": {
+            "lat": -23.407332, 
+            "lng": -51.913452
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 230 - Maring\u00e1", 
+        "id": "73fc640b4044e3583128e4e1feea6f584062f444", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Telemensagem Mensageiros da Paz", 
+        "reference": "CoQBfQAAAIZnEpeVp9sKGv6eHN3OuM0ZQ6UcD2TDlbrjg_f3r00p9X4WE5UsPzl52RxZL3xOmPjCebO4BgQCcQyWO4pYS2Z-VNoJCeQe4SiSYu2Dh_sXnZqAmjASViuljQuogKm8plcuLlUWXX00ejp_lg24RppyYcbFd0FueMAGOdQidW_aEhCoZq-f4NvvGQVn2I51dzg7GhSReGZto1srMBcoZ9mlJ_Q_KRRT-Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.407166, 
+            "lng": -51.909372
+          }
+        }, 
+        "vicinity": "Rua Bar\u00e3o de Parna\u00edba, 137 - Maring\u00e1", 
+        "id": "90dbe2e1ecac66629e001944680572673357dff7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jorge Moraski", 
+        "reference": "CnRrAAAAJuB7oZgKrCf_EEaGMClDKhNiJ8GYCmoaWeMgKt1Ket501ViP1_VtC3P6fiVwQ1QMvSuKCxVoUkD9fjBDBxXuifeDY9ho7Sk4ocxZHVOP5Dp0DguQH7-3ZySz32ht0Vj_Jq8csLpxDlAGcRfAQooJYBIQy0Fx5FaPCe31pGJ-i6GmNxoUsV3KIRvJYtac4PkSaA2rGAp9X_o", 
+        "geometry": {
+          "location": {
+            "lat": -23.409555, 
+            "lng": -51.913359
+          }
+        }, 
+        "vicinity": "Rua La Paz, 161 - Maring\u00e1", 
+        "id": "5aed9c99760f6f62bb92cd8947baf1132af27543", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Galv\u00e3o, Sidney D", 
+        "reference": "CnRvAAAAbgGLn-prM7FZWqAjYYzCpJ5I9Pb2BcHmy6fs5_MYNoWK4HDNQOBTRHA7f3pldJYvqTUtyNOo6fxxcteluhOLHqtnANA6oS_bHv7HK1A33VsLq9haOH_GU9mbwbBLtHRVUnsrZbCQl3Iu85p21-Sb_BIQH_K1qzkBjtScxNljv_91nBoUENglvBEwTDg4BATHO8ndkgI3PBM", 
+        "geometry": {
+          "location": {
+            "lat": -23.407963, 
+            "lng": -51.910514
+          }
+        }, 
+        "vicinity": "Rua Vinte e Oito de Junho, 124 - Maring\u00e1", 
+        "id": "b17ca3a71f62eec1fa99c45ea3930d152b2d44c9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "INGAVED - DISTRIBUIDORA DE PE\u00c7AS HIDRAULICAS.", 
+        "reference": "CpQBjQAAACgFdYbCzgx4BDQJ9AARPrds8oB4lenBJxL5Xa0m4JFdU3mwEOMQmJh8CeeDLfUvFk4E8ZcZ5eQhyKyWLAIik0tpf4-OPigGy5zmc5lrO8RoN2WwtFMiSbSZPw7mspLNLPRPjRe0_Teb0qPn-KpEj_nA0aHoUCckgnvNEZ_rONUliyx9euOTwPKNYkI8KPoD9xIQxd4O4GSeBGGiRh6DHt0kLBoU6W-4LktI3bR20fzZuKerlDozBbM", 
+        "geometry": {
+          "location": {
+            "lat": -23.409378, 
+            "lng": -51.913836
+          }
+        }, 
+        "vicinity": "R. La Paz, 4 - Zona 37, Maringa", 
+        "id": "0667aaa20eec37380a277cb11bd24f6b2428846e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vila Morangueira", 
+        "reference": "CoQBdwAAANE--n8lSVEw_pkeMpo75rE_rWYoossnYLieGkAiri-ZocwiQVjRPoMqzKN7AM9CfrYGstKfNAhL7kwLrTcwbf8Z-oB7g7WMWXr3V5OZqTdfefm3anAXZWq-z24dLY7FpDvZ66Qq45ZAKZjLyqm--2DMd5VnA5GK46mCkueAjKGREhD6hFb8z_eMBOF2Na09zQCSGhQ7ImQFt9GvElmXuTzp54gwTlPN7w", 
+        "geometry": {
+          "location": {
+            "lat": -23.4168902, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.406708, 
+              "lng": -51.900302
+            }, 
+            "southwest": {
+              "lat": -23.4256061, 
+              "lng": -51.923497
+            }
+          }
+        }, 
+        "vicinity": "Vila Morangueira", 
+        "id": "c03b9e0cca230ba36dc2a22842e8f7412e857f18", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAAzQwTiGiyd1ehe-UTEE8IIvTDf_eTH09dHNWE_2fN3ljCOKYl1-kroV3iWDpZr9blScfKC8fdWTPKoQgka8fO6gxkpIa3gSw1Wf_V_zb08YIpcb9spVWST5BTIxHcdfEGFz93LOrAbOmlCqRw7b-1DxIQqNSUHuzGXwR5JdEzDctMWRoULndAZU8WdMRT6rzi7a2y9c_PV6E", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Assics", 
+        "reference": "CnRkAAAARYX6fubH4i5uNqKysyBngeydwsPl1fVXpUa0QuPxwXSmwqTiqFYpOFCoDUFLKa8EcYnzTdlLRQP6glYo-U0amV9BykDbN9qZ-i3rRkMaKGymvDyBsvBta9_nDASWoCS6aye-grmspk44Raf6WqGUCxIQ5IAXa91j3ikWJUmI8MK9iRoUiiSm31fC5xSbMvfN18EseFyQegw", 
+        "geometry": {
+          "location": {
+            "lat": -23.406341, 
+            "lng": -51.909399
+          }
+        }, 
+        "vicinity": "Rua Piona. Am\u00e9lia Vieira da Silva C\u00e9sar, 1083 - Maring\u00e1", 
+        "id": "13e5ab9c74c44adac9d3e3e781b2a4a14df3ddcb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Madeireira Burac\u00e3o", 
+        "reference": "CnRwAAAA_bmR8jBXTerO7OmJl5bVZU1slpFrr8wBWXQSCs1qBW01TvCtHccKZtlH3sqbq67OLBo3WIppTdr3a-YG9DN-STz3LxGSKv0yiJphISbp2ls7dFmnnZNds6BUOgcXRK0OtN21Z3lUdNtfPT6STFaQpxIQ8hajolK9_qhnm8vubtxVSBoUAjOYUifduIHEEvb9njVmoTdw6Bk", 
+        "geometry": {
+          "location": {
+            "lat": -23.409638, 
+            "lng": -51.913206
+          }
+        }, 
+        "vicinity": "Rua La Paz, 179 - Vila Morangueira, Maring\u00e1", 
+        "id": "24a00adf793a7435e7285a242eff745006bfa150", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Candombl\u00e9 Ile Ax\u00e9 Oya", 
+        "reference": "CoQBdAAAAMNPyE5Vx73h4UuH-iFqh5uRGsMN7YXQvgIO2-AnwhYW7igECdVFSCsfx8EWatLpLnMj6kc-cn1b7Xv9Jev-w6_4qKxlCAkoRRqNlfd8uMxDPlMirKeq8OlkpZo2KU-V5jdXKEfPuQ40pT1MgtoutPjfFLOHL4dwNq5e5aQdj1koEhDhDZY3H5JzZFXYCcbxEtwaGhQtjt4Hls9ys2dKxggYz7OZml3Hyw", 
+        "geometry": {
+          "location": {
+            "lat": -23.407332, 
+            "lng": -51.913452
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 230 - Maring\u00e1", 
+        "id": "73fc640b4044e3583128e4e1feea6f584062f444", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Telemensagem Mensageiros da Paz", 
+        "reference": "CoQBfQAAADO73AFD5VSyHt1UtCZyBUCooSGZYS-61aqLMYtTGa_YIREhRqqbqthbEAGugZX3n09awxpfRl9FYH23ZGgEZB1A_7YVXlY4lw92D4ib96hi-VPBQS-aG83Nlt1-S9F1Z1NPU79S76O82NyOzMkObMXYq2z3LfUjlVa-gkAwyxXFEhCwh9gWbsw9b-HlW9rVj87DGhQh2P-HWK04E_s7aHhb_dJEfwwVPQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.407166, 
+            "lng": -51.909372
+          }
+        }, 
+        "vicinity": "Rua Bar\u00e3o de Parna\u00edba, 137 - Maring\u00e1", 
+        "id": "90dbe2e1ecac66629e001944680572673357dff7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jorge Moraski", 
+        "reference": "CnRrAAAA6FWY-RbMMm9Sq8JNC542WsUrzwsSvJtWtwhuvyy2MaZsaVTly1e9Al3bJU6yi2gjmXT7QO-SxcR-y9uwI3p3WnlTRwN9jFpC5Ry7ozCGPrKE1gVe40Jt6SqGg0C43yfyZzyklIQ1Q8R0As8OSnE6WRIQTKMiNOgVgB_QpBjNuj0JqhoUG6lngulDf1yN0zNpjaSXLjgqfqU", 
+        "geometry": {
+          "location": {
+            "lat": -23.409555, 
+            "lng": -51.913359
+          }
+        }, 
+        "vicinity": "Rua La Paz, 161 - Maring\u00e1", 
+        "id": "5aed9c99760f6f62bb92cd8947baf1132af27543", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Galv\u00e3o, Sidney D", 
+        "reference": "CnRvAAAAn33SnkdMxEDmXrzqoBoGdUwRKkH-3GUyF8jcYmXLbYbOQVxtpkWdlJ27Pvk5IzCI1om6qZKR9wkt8T8nYjbw9zcTRSw3j8k1fjnDdmXuizLyUHPmlOjReGH_1NPWVu7y7w3DK1cEahRdOk3cmtbxuBIQ5gvlyXyK2RBRVjP9J5VwlRoUUsZdZSlKW9HG9vFGGqvG2EbhvCo", 
+        "geometry": {
+          "location": {
+            "lat": -23.407963, 
+            "lng": -51.910514
+          }
+        }, 
+        "vicinity": "Rua Vinte e Oito de Junho, 124 - Maring\u00e1", 
+        "id": "b17ca3a71f62eec1fa99c45ea3930d152b2d44c9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "INGAVED - DISTRIBUIDORA DE PE\u00c7AS HIDRAULICAS.", 
+        "reference": "CpQBjQAAAICpvtuV6pP55uI70SQ_4wYi5eFYOFqmsLF3Q-1ubSi5BjuvDy-eUdrLccdrvdLn1jjl6pTNzjba5a9yv5JXAWV6_Jz5Ni0eu2A3iONedUM2OB61-hr_ktnC_YnLXTtFTng3Blxt0ZwT__90sE-O12Fe6U1zZaEqVaqi7JTl12JRbskQ1EjK5XQkbqQpvu2bahIQVrVvg9FJ83V8qVD8LDF6lhoUEYgfMvzVZL9TvRAAs0kTTn2g3T4", 
+        "geometry": {
+          "location": {
+            "lat": -23.409378, 
+            "lng": -51.913836
+          }
+        }, 
+        "vicinity": "R. La Paz, 4 - Zona 37, Maringa", 
+        "id": "0667aaa20eec37380a277cb11bd24f6b2428846e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAhRvjp8M9LTd7P-mulblJ9jsbE4gTia4jwKsL0EW_Z6ggaTuvIqUv-ZjF8_A-yn18DzGbc3gmjw5o025xkrGQQ12hPUxY6ZQjrVOS_I84M-5a2RwhkDfUAoS9Gv22auBvRN1-8gKPv-njNuZxwAPSUBIQohq3FuBSkXDafSuw63YfRhoUydh0zgZKhgC6B5Wiw0XFXDj7CYU", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAY1btAlggFWbPeRBu2aVEVxE2petxqO1b0ISOaaRarcnSyH5HZUELPQEo5PdXPJJZfv7esqLUWNjzWFNG1ZvVfVG32q-_afjhAQp9xdSfVE0SEIh_7LHF1UCRZPsSAq0jDsIaFNFCSNmJrnlM8cvtI3spxQWH7NkJ", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdgAAAIbHEZTq8FLPiPlr8zEgwFk9uz6vZpyAERf6b93BCEHADOhZ11fQzlp6Z1d_3nPNtOVyVjwoDW26SJMlAO9D-nA1B4ts4DADl_-OuU8BFLynpfQQUi1PY9qTQr2-sfgyvXsTG8I89_FYedBrmbIMATU5G_IP_pbaiu5pQuWV3lJXEhCrdolXLmwSGzPeJE4Ojy_6GhREgsfgqot2Ubg5te8A3dZYGE971w", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "INOX EQUIPAMENTOS ALPHA", 
+        "reference": "CoQBdQAAAKaQ7--8ouVj9jFY4BtPPqtvSl_UII1a6aS1c8RiMHlA1q5_6KEAW5MmMmgmVIVq63LL8vCt503tRFqZffBcykYJ8W_ViiJfmUc3oWHvyHzzjf9GPAOMsR0NpHaN_edPfXO8vJUASe3r_iau1BQ3c1QxO5IFLTIX2WFwp6PZhPzNEhAIAg7ZPpGJAR4lnxdVR4r3GhQNEiyQMOLBJ6ZIOto1eWx1j3Mq2w", 
+        "geometry": {
+          "location": {
+            "lat": -23.404819, 
+            "lng": -51.914612
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 429 - Zona 24, Maring\u00e1", 
+        "id": "1e8e21b873d986d3a0ef68db81e4402ed237f2d9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Docethel", 
+        "reference": "CnRlAAAA5Pp8aA0DegECcMK10DHhJBXfcZr_F6jLP0Pon_LNlLexdARyyFbJwY7tAj81fNIl9trXCrhBVMoxNw2PV7MsxeBS3r26LpVd1c3_jk9X-JfICZSUuCaYO3grIBYVINavK4DeImJGa1MA3N8hVV4JwBIQWEIyX-SU4y3MAUhgVwc2TxoU0ph_ByHckPTT2HnSnzTPft6FNg8", 
+        "geometry": {
+          "location": {
+            "lat": -23.406534, 
+            "lng": -51.914942
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 232 - Jardim Alvorada, Maring\u00e1", 
+        "id": "04c9d8eda4724073002bbfab3265780519ac7d23", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1 Bombas Hidr\u00e1ulicas", 
+        "reference": "CoQBeQAAAKYsk7Q0wkiuZOQkM1ftvL7shvMrox5pfQJskVsYIB55CPA-qMeREX2_BR_Rd22oJjR7DVlhkJhSczfoK2x2uzG9ho5F0SQ08DBcxDNrpxhr6J8ue9GrrFMZgbTvzm5tN6fGS7-vYytw8YSQfDLSSZMhhOjFw7TOsIFL3kdd6pM8EhCnCJjmRZsuc_S8CuHxtCDQGhRntAlyq1NYIXszwVY73iihiGUeKA", 
+        "geometry": {
+          "location": {
+            "lat": -23.40762, 
+            "lng": -51.917714
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 438 - Jardim Alvorada, Maring\u00e1", 
+        "id": "df8df309410b8a6ddb22ff4b290106888a881caa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Artillee Cria\u00e7\u00f5es", 
+        "reference": "CoQBcQAAAGDD-QTCq2E9v13vEbQwSFnvsOLoLeEGrxHgqTkqDtphTXsR104EQgdOK4mtET8TnyY_e9exT-qS5iAcvmucjNIpREx_SVAu93CR4W7yXyP7uoYngrqbqt6WsJKUliCm07mZ0-JPEWyO5rglpBqMAsbb2N5RsQmHHbsun2g9k3WoEhCHHSzJp-Gcq2w0lMBOlZO-GhTz1SRqlQYmumVRt7SjzwXrd2-fdw", 
+        "geometry": {
+          "location": {
+            "lat": -23.406406, 
+            "lng": -51.91688
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 196 - Jardim Alvorada, Maring\u00e1", 
+        "id": "94dad2e44cea1c43523ee30d85ee577def999229", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "By R\u00f4 Artes e Decora\u00e7\u00f5es", 
+        "reference": "CoQBeAAAACxpmfcNSw-AWmdqhMljRTE5JrGom1msto1pMLMFKOWA6xCbMhlww-XluSbU6dygQo39gsTT4cGRGr0eSGqiI6_FovrStU6KZlAJWa7YiVNAGDyRue-yfYsfoba3OmVEobintNmf5PYQ8RPt05iwRSYQE9XedsWpxfRmDDyS6xSJEhAfRCgEGqzdSBzZ2ivuSUzwGhRyMw5Ws314ppI5FVtIuOhQuGwjBQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.407775, 
+            "lng": -51.915441
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 134 - Zona 24, Maring\u00e1", 
+        "id": "22c16818cd02bfc42e3182830501afe89963d807", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cantinho da Beleza", 
+        "reference": "CnRwAAAACEYrT8UmScoYRCkF9UZO8TGAeF8ftqtlDotEhSPA7OuoDFphI4T9Pskko8F2Lt4uCSWnpnbl3nou0cp3PnZcnk8ZHFwB59fkRSXjU6XU_vUwMSm906XI6RtKphqtbRPI05egwuoCv1Az6C55FGsDNhIQV9OlUbw-lxYQR7xd7Eh8cxoUTWYcr_xhJKBNUq9bo6FwvLIASJU", 
+        "geometry": {
+          "location": {
+            "lat": -23.406634, 
+            "lng": -51.914981
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 220 - Jardim Alvorada, Maring\u00e1", 
+        "id": "3619d60f379dbf72659873aae44050223076e23c", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "P\u00e3o de Quiejo", 
+        "reference": "CnRrAAAAIli0nISvRG0U-v-zfBEgv9A52AhMS-60ztpjQ3yfdqWNs3Xy8eYSWfOR5BGNximTaSgNVJCALI05il_Y6pcruBp1GNGmupTA44nR0fA_qk8dptPQTSspExQRdXEMMQvQUDNbdid1EvQ3-Y3ViEgIKhIQOTAhLlrbMeJ1aiRl0y3ruhoUoJe1YvoAnFD0sFsAWx3QCCAGcJc", 
+        "geometry": {
+          "location": {
+            "lat": -23.404408, 
+            "lng": -51.914071
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 508 - Jardim Alvorada, Maring\u00e1", 
+        "id": "324d370a5ee42e4718f963f73cb113b12d96fbb7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Arantes Uniformes e Confec\u00e7\u00f5es Ltda", 
+        "reference": "CpQBgwAAAIfer6yanX-nTVGdN1i28BDUf8BBDOEiGZHixgAGDIYukPUWFiuThhzu0yPUvjFXWrCKZgIzS_8uOWaGCAKcIncLHK5SkWhhGwyq9BY7wGFKZhSAm4TOl62d0IGQq26k-y386RjavOHPP2KYhyRYnnFzEBIULUQ4PluCVP6om_Tm4C7ShBIdAhkfKR8jn8k7nhIQYfZq-iapdWcNYZditt1vmRoUZkRCU3sVyBFrOfK0mhAq3_Zxdao", 
+        "geometry": {
+          "location": {
+            "lat": -23.408591, 
+            "lng": -51.916134
+          }
+        }, 
+        "vicinity": "Rua Montevid\u00e9u, 849 - Vl Marangueira, Maring\u00e1", 
+        "id": "6d20cafa0c440fa721b5b514d08ea265173c2314", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Jennifer Cria\u00e7\u00f5es em Couro", 
+        "reference": "CoQBeQAAALDabc6Z8KkgS1gOaCrM7UCKdkhPxMoYQPCAnOvTVaB0GKFeD1iWnErtpAex-JAt5Dr194BspPLOkLXC74bjGQ2qQJGB9M3nRaQZ4R8pRuk_LAvw2bIOQR6zhwOZsSPM2mWrhYMUJsSIU8BtVdFobkaTOM-pqNvaLXXW5FeC1Ps1EhD5ec3q8LTFW0KiC9a_CDnkGhRN4fABOhPWn4HhqfCoF5uTBZL3pQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.406307, 
+            "lng": -51.916838
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 208 - Maring\u00e1", 
+        "id": "05bcbb23cdc4424ef4ffca215a043f624a1ae4dd", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Candombl\u00e9 Ile Ax\u00e9 Oya", 
+        "reference": "CoQBdAAAANuZge1GLWijJtDUbB47K0YxonUa0pJTP-fk8aqpgk5j3GYv3jRlApIaJlqNaitDqtytHohV8PXQ6TyObEbzMSzGONpEFAVZSPb0aXwcVTDaOC4XEVBiFnzjqGFcZveTVhOOXLV6J0bpAjJdf-fvFaf25lOwb3n5MgpzLtfxRMOREhAZSNj1xtkvQTtW4Y5Zn3EiGhRIk8fYve8Hg6htgBYuY80h9xBNkA", 
+        "geometry": {
+          "location": {
+            "lat": -23.407332, 
+            "lng": -51.913452
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 230 - Maring\u00e1", 
+        "id": "73fc640b4044e3583128e4e1feea6f584062f444", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J Stamparia", 
+        "reference": "CnRoAAAA6rED6cGq16fm059a3tNIlMYhXo_vHbaN_ySZlHX5YgU_xLNYf-sKLtRmhF5iMWMtxIzj6GMQScWzIqIsqph4PuAmB1y6ty-xdI7n3d_WXhHeqeKVtaHECpoz-mpDabjPiCOgH4lyb1GikkfFy-5cVBIQuiL_nUn9XKa5KUxC4r5vrxoUPYZgsEBMbdZIjCXcTGwxVr8pvCw", 
+        "geometry": {
+          "location": {
+            "lat": -23.407356, 
+            "lng": -51.917432
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 355 - Jardim Alvorada, Maring\u00e1", 
+        "id": "461f03ac3827608b9f2df7dce3ee2e5dd38d6a0e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Golden Chips", 
+        "reference": "CnRqAAAAdsvAxSU5paW9rVqPT_qToWOcIjmxR5b3JiNDTUbVze9Pumv8Lxu3ds9wvqRJ714koR95CDCj_WiaQApJE_4SdnU8atdspy6aiNBUNVkHu4GbN4qSzvaYmOwiof4amG-zrtJNgrknY-iPju46bjgNNBIQOof8KBIBkTIuKpv7ZLxLMBoU3ypPaBiBIgu7QN5kpwUJN7Hp8XA", 
+        "geometry": {
+          "location": {
+            "lat": -23.404873, 
+            "lng": -51.914633
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 421 - Jardim Alvorada, Maring\u00e1", 
+        "id": "5975e6c5542e053dbeda4b392d1c67a083b5bc26", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Injectope\u00e7as", 
+        "reference": "CnRqAAAATwKSHehUzXbMQ1FiHSa_s6uzykMmtRN2j3FxVwBivT5S1nO2tXQRjOPCpYpqta6H1jdomlkuq9nLAqE_173rbEFaWtTJwX5ZFGafvJUFBlCEvfze1tthPWVREh4TQA05wxOIY69aAJXn_KCjXy0t4BIQhCAaq5zW8OKI5qAZjpXBMRoUgSJ7NwTmbqKj9rdfL6-d5xds6EY", 
+        "geometry": {
+          "location": {
+            "lat": -23.406884, 
+            "lng": -51.915432
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 155 - Jardim Alvorada, Maring\u00e1", 
+        "id": "b408a2a19119309eb039fa487f034a6f9b35671c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ferramentas Gerais Com\u00e9rcio e Importa\u00e7\u00e3o", 
+        "reference": "CpQBiAAAADO8ciaNvuW60kA7IXC2FfwMAxGH7ohfmg11wthLNWpmUGUTyE2dKyUSSMdGz6QsQ1n7tfUkUXckVNLkxbFAuo5GUKScY6oaBECxXGK1b6cBuoji77hokpNNunZ8XOmw9-D79sTW9JNsUu4ppIqkMSkxWqopC1-bXNncCKnQDluU0Ylmq5s6F_qDgD7Vv-C-AxIQGDJOlQC1br3ye97j4OicXBoUOAPK8miSuVxPAzC6lH2j6VkAWgk", 
+        "geometry": {
+          "location": {
+            "lat": -23.406819, 
+            "lng": -51.917057
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 146 - Maring\u00e1", 
+        "id": "ce94215b1063aab6c3de565936e867c179b9af6d", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "PERSILLUX DECOR PERSIANAS E PAPEL DE PAREDE", 
+        "reference": "CpQBiQAAAIj37X4VwIUgqSR9k9yV3yWkZooyo6CtH0v-B9QKpVpif__iegVHrhUgRoRCnT3bfYuzQH_uCsfeiOp389vy6GpMDMEi9L_v_dsPbX7eVCijs4ii-Aks2J2I8e52pIapCIEYX6oSj16OYX5DYdcJPnML2ZtWFx9lIXShzu6f0MdPrQC1iKJ5mebVSlbXowNS0hIQpKBXCPbd7XUamNv08oR8-xoUsWrJ5lVhFREspIM812nlR1zszKE", 
+        "geometry": {
+          "location": {
+            "lat": -23.404558, 
+            "lng": -51.914134
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 488 - Zona 24, Maring\u00e1", 
+        "id": "d6c726e1e8010ee91ac4b69244c0630c7885d7e2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "J M Mendes e Mendes", 
+        "reference": "CoQBcQAAACQpmNddLrtG4WPDTZ0Getp4j3nLzphWL1969H2YUs-z4C_4rqc5giiaHaIhl8iXAlJAUtYOO5tnnCs9lF9nGqXsC1gzhsqj6DEsZTRuyevre1TjCt5liFuglbYifp07Uf9jDpKnhcJu5y4OzvsGjXgmuVmoYNP04lzCvWg2skBnEhA-uZB31MkLjIu5b7FeOekuGhSdqbTRwlE52iLqWfpODbY9iBz5xQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.40675, 
+            "lng": -51.915388
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 181 - Maring\u00e1", 
+        "id": "d61012f84b27cd2ef5fdcb951314c961cb1f2867", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Studio Pr\u00f3line", 
+        "reference": "CnRtAAAAvDKCzXK18Mthz7XVk1CJGQnDF2QPd3yXvg5M1vkMuvaPcybh0O45GpFhKlpeTQkkW7svC_ttLbfVdq1P0uySz51lgIccu8nQIZO_rNN_qJWd-7XCMm9MncQfWc12xFF9avogCUlUhRbjvhMXorTCrxIQopdOR7o0BaBaiStVBFCukBoUrzVgcz-YAOmBsJFha_bDR8shgeI", 
+        "geometry": {
+          "location": {
+            "lat": -23.407614, 
+            "lng": -51.915363
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 134 - Zona 24, Maring\u00e1", 
+        "id": "4f391e2ed4001bc757dab5146246f5c5ebcb94ac", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A e J Estamparia", 
+        "reference": "CnRuAAAAuDO8P18G8eH6AH4nMl2JppPnf9hR2LdRvhHh8KLaldkwyeXxXNMUebUBOWGGB1LXQKynvSJPjCz1Aw2WEWvhL6YCsZ-M57SIiRexem8g_nyaIVZYznLnSVHQNzvh7gq1toyDWbXmrQTEb_9AUJ7FKBIQioEg-NW-ohh0k7SEhHbDCRoUtT1e3_9LepQTE3Id_WscjNvBANI", 
+        "geometry": {
+          "location": {
+            "lat": -23.407356, 
+            "lng": -51.917432
+          }
+        }, 
+        "vicinity": "Avenida Jinroku Kubota, 355 - Maring\u00e1", 
+        "id": "668f3ab03c1e1c9f7ef0be62a216b10b65d23402", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAA6uJUYwXYctzKxgZfd-kjrRyti4B3p2obrQrRpsDriAYqgBGLf9xsudwS1kVbP5mCOzaX_1Q5mKHEABrfoIZkKcOfDaetfvZ5ucsvLfsM2rolqq4Yksv5o-C82i74YpEkwVTSUVlACBO5r5aZ6e4QwhIQLYX0kbTXplV6Vu5cUvbuSRoUkRNc-yiFwLo-WCHWcMqP7zTUa58", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAA2Lu2pTMhgT6jK25470A6blMZAFbDoJELcPzeJIgfdUps7Aj5Yk1h-9RrNSNoulk_zgxw2J9QPYU6SNHaymFRIntSpltjcufBL2kzPPfPv5oSEOOdfbvmtgNhb2KYoXwiBSEaFNZ-4sUJdBnGQX_c7qFWtMJaL3rx", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdgAAAF-31_73j6adsntoRLqGBLH9OcgaS6MRKLlYCXVcTBcTxjYCrrl92mUedO80ebQACgJHrXll5yy26pnRK1qQhIen6XpQTrNgXUOwvSoYSvkLzxh4mSTRjaiH3fn49Uag7IH70nQO7zJh1o_lDJbranlprpy0oJ0iVHKAHfuHPioGEhA8BKI2VuE5Gvn33p6E6wuuGhTZ13zgsls969hxUrnFvEMfEuCnPw", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "PLAY GAME MARINGA", 
+        "reference": "CnRvAAAAWsZkdGZTpyKzUUQz38mYZCZr_pcd21lFIJQBDcb4ZsqpUDPFRMoBXtlQAQA0pv09gjz6Q1Bfdd5zq9AmgWCwn-Fh_pOZII5iRGAeAanKXRLhNFEpe8u4WFwbMbuklxknd-KO0i1vEVV6fBcOayNKhhIQD9BhIPhUXNtjwjPpgl0duBoUaNEG7kbdEfjRB81dFcLcQfvwzx0", 
+        "geometry": {
+          "location": {
+            "lat": -23.402548, 
+            "lng": -51.916558
+          }
+        }, 
+        "vicinity": "Av.dr.alexande Rasgulaeff, N\u00ba 1069, Jd.alvorada, Maring\u00e1", 
+        "id": "20521813932eeeef867cd186f19790f9fbc2d71a", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Igreja Adventista do 7\u00ba Dia", 
+        "reference": "CoQBeQAAAIWxv10m-kUCgrX4Prm-qK-c1Wx2aqBuNf_13KEaATUfPNfZPqsEgo0UN2e92vNxJRi_u37qGdJRG_PcpMnSCsZk6IKDhx3g5VKU-pdUaUm84twdJJ-WtQO6WJ1OnODjbriI12g_usm39ZMk6oMnE1wy4tgqWVKCJd0IpnTsifZ1EhBSxkdSp7XwaBS_Jx5d5WaLGhQCO_NVLGbGJ1epWz_lGGD5QgqY-g", 
+        "geometry": {
+          "location": {
+            "lat": -23.401211, 
+            "lng": -51.918734
+          }
+        }, 
+        "vicinity": "Rua Mato Grosso, 852 - Zona 24, Maring\u00e1", 
+        "id": "6d801fe6bc9a0da86ab01ff0df9eb3dc4e13f5e0", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Casa de Carnes Gl\u00f3ria", 
+        "reference": "CoQBcwAAABSc6GMDSu8RD57QQOs_SobL-KBPjlLsQICSvAu3KPeqKTXEWcdE8DKraJpSV3wckjVthPsGA41j_la0So3wkkLLgp0n0bHbXh108rylE4bf0v2MzAXsRTYrQwKs4LeBsRZc0Ip3NrzWIHoOHyhUNasP4uOLksxK82A0g80UQkA9EhAp3GHc0TBoWxWMeGwEZ8ciGhRxO3StayRX2OjUeWgFeDyYp7Q5HQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.402878, 
+            "lng": -51.916592
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1070 - Zona 24, Maring\u00e1", 
+        "id": "7d485da5c81ffe4c76380ed30a282ba50081fb4c", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pizzaria Calor e Ver\u00e3o", 
+        "reference": "CoQBdQAAAEjVU0eQ2IESCngbN2oy343ea6JjUUYxfV9mrkoPE0J3HLfZ48V5eslZW091wyVCMmCsCCz62UQziHgV09rt4zfJ74JsU-5DRT9htpqtkWndgvBx5wSt8ELDWuiHgfKjDRwW9tNEhFkrDwVfMqLbAEjYtUmb6Rn4SWdaelhv2XyoEhArBiKc3rcEcrMRD-yuGRjoGhSuMVAzp4skoES-rBDjZiI0J-L6qg", 
+        "geometry": {
+          "location": {
+            "lat": -23.402848, 
+            "lng": -51.916682
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1060 - Maring\u00e1", 
+        "id": "4bf5c140d890c12dae88e7755413d26d19e725b4", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Capri Ateli\u00ea", 
+        "reference": "CnRrAAAAPHLUkt0gr0W1ObOcifxRa0mB4Ute62xWxqMahHVAK1FGlh8IV1EWeQaV4k-vVakW_NKlHCiZCSVmqcmJ9HzQqYepAd7HURI8w9XgBZ8Ib4b6BORu_zVFMQNlgGdSSAkPm7yyT3GExWbg6wRprFcrUhIQWtHBsKSv-Ck3pdu26WmyuBoUWzwlyqTo1Zzhkil1nAOGFhj-6po", 
+        "geometry": {
+          "location": {
+            "lat": -23.402786, 
+            "lng": -51.915943
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1139 - Zona 24, Maring\u00e1", 
+        "id": "22c0682ffdcbaaa2a7167b10eed8847ac5c04b6f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Congrega\u00e7\u00e3o Crist\u00e3 no Brasil", 
+        "reference": "CoQBfAAAAJI7d4_xN8ANagX0ARt-w-oPl0kmTzaBfgmPvfTHeUp1B8v9PQO99IyMJ_j8pohJTWhdvmzL-0BULaXlkk93ROLUK9GavVw7_YZzIHB-Mbau43Nnp1kUepg8aM5rKgdU31K7SOMOR9DryDantExtXN8osRY3Q2ULz_aeb2pz589xEhAp3xnzf9O5Jt-t2ykow96KGhQ5lrqWf8fPilM2tCYQFA-t-tR9kw", 
+        "geometry": {
+          "location": {
+            "lat": -23.40217, 
+            "lng": -51.915948
+          }
+        }, 
+        "vicinity": "Rua Mato Grosso, 1190 - Maring\u00e1", 
+        "id": "6552610a07f293e0a18c269bebc0c29e2e993bcc", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Supermercado S\u00e3o Marcos", 
+        "reference": "CoQBdQAAAKdO7jac14FWIUHexDHPC022FSbWoXpIb14gmhvHCKcNLIJLK7xa6b7DcOJO85i6VaKpMR3ajG6r-vl8ca6zIIC6bBabdSUwaBehJdkrbiNBmVbU8aOdB3pNKwdY6yUB4hU5gBiJBhI9Jc94YVGvX-2gBNzWT42UvnBcKZ_tq6MGEhDJ0pb-K83U3Sz_JnjehE4CGhS-PKoxTPa9w5-WVJm2iSand6evcw", 
+        "geometry": {
+          "location": {
+            "lat": -23.403156, 
+            "lng": -51.915775
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1160 - Maring\u00e1", 
+        "id": "a115e4ac46974094eaac9c2e5c7d6264987b8692", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "ALVORADA INFORMATICA", 
+        "reference": "CoQBcQAAAHkyDQrjW4J1McHyYOjfj1czUUq7ZL33GCV-SgEF6zU_1k7f_zgsXgj8LYAFKir__3S2Eju3SyLP5XgKWTscsiA5K0yw7mluluHlwitsxQdamzPY869MHeGAywl8c-lbbHVEgf4Y7_d8FBBnHFLfVinIZNEwJh15TegopOaoU9MQEhD-7iR6q5RxDm4KQkeK0MiUGhTm6RKjCIgms7BF6n2lcK2X5NeccA", 
+        "geometry": {
+          "location": {
+            "lat": -23.401926, 
+            "lng": -51.919332
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 764 - Zona 24, Maring\u00e1", 
+        "id": "72250eb6b537acd298d44063647388bbd7261e04", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "INOX EQUIPAMENTOS ALPHA", 
+        "reference": "CoQBdQAAAN2l5JBKDAPQCFUC4SJrFDXxpwR7jk0AKSe1WWiEJEKZEXs_pqKIYMWifIIEK96bjb5Fr2mz2CuhHhCQtAzBrrjfSiocnLUyVdri3fLPjlnm_MWKjo4F0wOpw_MJuN6meXV26UdOVL81t-EGU1y5fUm0LDmsv2IxadtOLPCcNkjkEhCZ2zF93jIBjZ9rNrKvm_5pGhSiVi6B0MJjRBEAQX7fJ_E-YA4Bcg", 
+        "geometry": {
+          "location": {
+            "lat": -23.404819, 
+            "lng": -51.914612
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 429 - Zona 24, Maring\u00e1", 
+        "id": "1e8e21b873d986d3a0ef68db81e4402ed237f2d9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica Alvorada- Nutri\u00e7\u00e3o Dra Renata G. Silva", 
+        "reference": "CqQBkwAAAMdM9mfSeU8_pR0zqsSMH4FLXO9yz-myTG6hK6FjqaJfCIeUklc2_GYSo59cs39T7LgJTB-ypvo-1YMxQL1SPcY_fpxjri1_MbXFGXSElyZD84bZsx84NcRkOFQeGtv_OIeuZYjunhYzYJgIglBmlNxGPp_bnzbghhuMns12CRlwVvlkExMWEWWFRWyuSlQj2xCUSTSnHwnvmdCEniohZ6gSEGWLNv5INklQS5LETgL14kYaFL0LSpzwLcdiBQxidxdx14R90iYZ", 
+        "geometry": {
+          "location": {
+            "lat": -23.403346, 
+            "lng": -51.917542
+          }
+        }, 
+        "vicinity": "Rua Evaristo da Veiga, 1789 - Maring\u00e1", 
+        "id": "7ee831e115b256e3d58146c90774384b262df0bb", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Gr\u00e1fica Tropical", 
+        "reference": "CnRvAAAAEmGtUTjXmiv4KkPNFj8Y7AtHhQgd2_BmsRFZZLPQLisUEJw9Un8YIVxaePksfmKePW-gEmf-7V7C7N-6cV0ycvtHeFbQoAnGZjhA3A5grT6ETWQA1B3_7fVPlz7s75bG8LAkCJheOAL0TpPPLS_kcRIQ6bOcGR-lGMb4CY2hDtgZ5RoUIcxWOq2siFf7P2e6xc8OxpusjEo", 
+        "geometry": {
+          "location": {
+            "lat": -23.402437, 
+            "lng": -51.91789
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 936 - Zona 24, Maring\u00e1", 
+        "id": "5fc8549ac91f28fc7bdd8f87e0d3c196e835f32a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ana Julia Emb", 
+        "reference": "CnRqAAAA8w7ZRPUEXVPZdTGUUlp93reEidpu6JErZ1wfMTk4Wa-XJhxdAXZrofQx4208KZVKvduJ5Ki7fNAyJFeZgQ-J0F8XRXWqKO5Vw4MuLbT0fPNU2VomyfaVMGaXC0wVVEnSKN5ob7SgogsrH8wv9W4OXBIQJneqrak3tK-69rvJExeFtBoU85c21KArJ_pXE3s-NrWjFVZ0i_g", 
+        "geometry": {
+          "location": {
+            "lat": -23.402423, 
+            "lng": -51.917651
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av. Dr. Alexandre Rasgulaeff, 956 - Zona 24, Maring\u00e1", 
+        "id": "3ff698db3ac7cbc49058df413dddccdb1f4f836b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Motor 100", 
+        "reference": "CnRmAAAAjInLItxsNCb4ZoMrKRHgBQF-2UfCZvOOJ7AS8pjuLj3jyB0dODXxZluRIT2qZnQDTgx-0Ly1sU8bL9UpmR2-i5oLsAhNSqRafBN48HqJPwQ5lcfyvqU8Y4AuzzNSy7cFHzEIAzNrWISOJtDMhl5EHhIQPYljLJIfMlQx-WBYqrADxxoUXVSRN1JVV_pVtjHTTZ8779ZBxT4", 
+        "geometry": {
+          "location": {
+            "lat": -23.402043, 
+            "lng": -51.918206
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 895 - Zona 24, Maring\u00e1", 
+        "id": "2b3ef5e31a55345bde6df4124763a9ca6b46a2ca", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "M\u00f3veis Alvorada", 
+        "reference": "CnRtAAAA09WUiylyncJAB2-nAVmD3Empn0ouD9HF6eg6rfA7XshsavWrEcfY0JBSgt3Sm2K9HGR_0dtJxM1BNF1uojqna5tkXptjsvvtsJgeuP_Ap3ZDJqUaSarQzXTgIBX5dJ3lUUfG_iEwkOdaIBzDjimc9RIQqrPKwJquMaOeBbpi50qbrBoUCMl4OlMwrvdXSmkN2dcPzrrIniI", 
+        "geometry": {
+          "location": {
+            "lat": -23.402183, 
+            "lng": -51.917675
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 935 - Maring\u00e1", 
+        "id": "11da06df803f78cee4055b874fd72362a181a2ca", 
+        "types": [
+          "furniture_store", 
+          "general_contractor", 
+          "home_goods_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Construing\u00e1 Pisos Granitina e Korodur", 
+        "reference": "CpQBhAAAAGumG9JBszQ-z-tkhRx1MwGhHPgsEueEwP2C2lkO84TzP00bQ0IBqF_8RsS3czAlpPqtQYDK1t7f6-UE4uhR917AwNy-roXW6OIjJZPtzYagcP_BFNgMv8Db5AFEWILGYASviXuWFUedK519xpwUDMCkMKmnXA0asLKBPVwBauV55GsdmyRldnNapqeGr1DgaRIQbbH5FxM2L9pAPuTsCR66nxoUNnBhq7ie4uan8J8k-m_6L-STQcM", 
+        "geometry": {
+          "location": {
+            "lat": -23.403547, 
+            "lng": -51.915756
+          }
+        }, 
+        "vicinity": "Rua Uruguai, 544 - Jardim Alvorada, Maring\u00e1", 
+        "id": "e53e6b84b2be1f6784e199f091f6137988bd6687", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Estofados Para\u00edso", 
+        "reference": "CnRvAAAAKaF7wOn0Rd6VO1fCL7-5ipEVpwUzM0Lf3Ut5BlAdmc9c2-jt_Jz6eWkME9U33L21-GFHF8DQuYy_fH3SRkteZdwWGRRE5X3skB9J5ATWo9mq97Jm-xqj1qhcsIbfrlxbsVooS2ySaL1TcjXPYcPDkhIQRuUE9mRJ7SukUSXADmXRAxoUV11QUwtHAArv5fww3d4MKFITYuY", 
+        "geometry": {
+          "location": {
+            "lat": -23.402276, 
+            "lng": -51.917403
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 965 - Maring\u00e1", 
+        "id": "3dd7fd1a722a325097b6c947745dc15f4583b785", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eletro KVA Materiais e Instala\u00e7\u00f5es El\u00e9tricas", 
+        "reference": "CpQBjgAAAExafcEOb_gARgZUOAVtLo86s_c43aXTuCy1kn2DVikF1prX9eeCJ-Nbdjh9RGXMOz5CFNxV33MrI74kbO_emE69uCrwjbO67RHucAy_Gr09SQ6t5bjYl_okGkrG3lAx2kO44t4ILXPAlLbuDB32pnI6UIWulze17a5pfZfbBVBLIS-AMeI6ZEfaRk1ZfvtdSRIQan38TEOmR1DHxrVVJ5UVXxoUYhUJVFe_IwsFTRVo4n66xCnN9xc", 
+        "geometry": {
+          "location": {
+            "lat": -23.40231, 
+            "lng": -51.918264
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 886 - Maring\u00e1", 
+        "id": "b9c7defea3379078e461f8bfef809a1871486232", 
+        "types": [
+          "electrician", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disfortil Fogos", 
+        "reference": "CnRtAAAATSSIudwcxZ2ly6mZ7ToK1Hbx2YQgFv5K9CgLQjNaFwbLBIs8Ib9IQ1BjiTHWcrhTdB5Sm_1GKTZbkFd_TocvN0dRxTlQ59R3Gx_bbYcZ_RMMDd4VAJg3FtCsvOeBKiqD9m5svlc1tPCvr9Zowy6olxIQf-K9IoExy3ORQErGssesBBoU1LySLjfTefAQ2jpBM1zX4PqggVA", 
+        "geometry": {
+          "location": {
+            "lat": -23.401763, 
+            "lng": -51.918892
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 785 - Maring\u00e1", 
+        "id": "20e497dd3b73576656013b945f5bc4ae1ae2c51c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAAdbfgWzFhNHji43UaRovk3VDgfXIcsuH-C1JweE4MOYZsM6hKgSxMJddr2xRnyW5pmjCFhCUb6knGFJFt7dY6K7nutk9digggLMXhjQF8-jfVTdSreq1EtTDvGyb84zV8twkRrH6LoCqvD0muvpaeMhIQTSfMoAm5dKQoDSX9kRbwoxoUgYrYU26QbOd9q6S3sypeHwODwsU", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAdhAl_s_djIi0F-pJFaSRrDKUnaiyw7wCsZo-RA1DsCNUgH2MZJerCBHxvLAdQSPleQfVe8UGyej19-AfvtpHFLwx6h3zc6ntsIen9-NWvecSEN689AmUzepk2RPgApou4AYaFAtz0fzKUbZnYZLCaYErhfkMZ5zy", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdgAAAAndBWhXOSPqDcBEgA6TyM0zSEGO3d_Kvw_rjvXgjZ_m3vxQy29fQJpCIR-ISrqQe72djAcQMgNnv8voJuAt_vcxMGf8NANgVXNSAT3eN81YC7OpovEpooYFJmhGJWExFSdqArPBJtRBqSIclJvuTp2BGlrrEI7Ft5-5yEz-LJKLEhCxQbVPD3-X9YNznvu55CaBGhRivPAHbtVvkaE0zaSdnFeE4t7Bgg", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "PLAY GAME MARINGA", 
+        "reference": "CnRvAAAA5pwoD73bDtprE7zEZywhG2uIYTKOsdIJlrxfBS1KOG1G_dUHi6pnQOHBkiu5duruF3AmByJxuqr16m30_RXhExJfhEJv2sNuKeRJSvJt6RisYznA0T2-nHDv5zsb4_7po9ca3dcjqo_-FPmbWMVGnxIQrtGYClxW_n54t5BlOm4k9RoU-EShguoN_JM27RdqgoMBs9obkdU", 
+        "geometry": {
+          "location": {
+            "lat": -23.402548, 
+            "lng": -51.916558
+          }
+        }, 
+        "vicinity": "Av.dr.alexande Rasgulaeff, N\u00ba 1069, Jd.alvorada, Maring\u00e1", 
+        "id": "20521813932eeeef867cd186f19790f9fbc2d71a", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Col\u00e9gio Estadual Duque de Caxias", 
+        "reference": "CoQBfwAAAIKiDdinvZO_Yn10-iITQMF6Xt3XxcU1xCxAEWNcLtbmHmXr1n7OrOQwgZgY0sURtbaKuVm-O9OQTni5NGsxcsoVZ46_iNc3q7eq28K3u1_fsUuGyouao4khYaNWj6hh2XgWi63xNHQjth4C3IZO4-MG-3RDhBgFUMVc730PAitTEhD7R3BW2HfntMJZxOEU4jCBGhSK80Ix1CG52mv-JGYDM-50MLPN9Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.404016, 
+            "lng": -51.920065
+          }
+        }, 
+        "vicinity": "Rua Marechal Mascarenhas de Moraes, 925 - Maring\u00e1", 
+        "id": "ee2e380feb89c93f15c1f7f62ecfbe97508b6475", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Casa de Carnes Gl\u00f3ria", 
+        "reference": "CoQBcwAAABlVd_q1NZdtP3L908HlGR0benxYQX71tLXwFynRfEWx869g1hG1s8V-LNGLwURoAFu59DqGgKqkzVDPfS3e3Y1TYxzMUaqm3oGhwyPCjtULbeNXnNVi0SOTcWbe4ZCVpcUFTUbAiKYM1S-VZYpKf7NQ0vQyYMgYuLwgGl0UTRb-EhB-gfIb_uL62Ka96GQwmTzPGhTPxHt9F4iq0ZuEy6bgkbt06MXYzQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.402878, 
+            "lng": -51.916592
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1070 - Zona 24, Maring\u00e1", 
+        "id": "7d485da5c81ffe4c76380ed30a282ba50081fb4c", 
+        "types": [
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pizzaria Calor e Ver\u00e3o", 
+        "reference": "CoQBdQAAAEKjtzpc5I7CUuVQS7bS8ILUX38QaReZJvJwWy5yRg2uIagEYEbKLbJrVTC0Gicq66-tH6w1XpRFXCWT-7_TEldEvoKaN_W4S4bx7UTU1k1eAHFweMGFoE95KfGiT3-zcd2-GpAxN77wZjXgnrJjgaJGNf5QJp5esejcW0McIeI2EhDE9AgC8n1Ljdusf_xVVEYyGhQMu3mEljC25u-mSJ8Ov9tvI6mDzQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.402848, 
+            "lng": -51.916682
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 1060 - Maring\u00e1", 
+        "id": "4bf5c140d890c12dae88e7755413d26d19e725b4", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Procomp Escola de Inform\u00e1tica", 
+        "reference": "CoQBfAAAAOrPwe2aTVOCO4BPZZeFM7xQp-s7SbVJAFunoYVFf7jDwuwatJ5c6pTLr1IYkIT53XflFMF-O2s2jjQNHqVcbknvS5Ht38ZRoXmAIcFYCkhu0NgxRl60LjUcO2Fhk3dsyp9T0vPM2-w2LhoFtInBAIEDsOs04OrdBMNWuma1yyzlEhBCY24lnTgqyPR60C61PCSGGhS659Z5gNkGYD9s7QsqbvTZ52RdXA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4023, 
+            "lng": -51.921088
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2235 - Maring\u00e1", 
+        "id": "c3c1ca8570a22bf99f8fabe3c8f5f6b8416f7ff9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Loja Alvorada", 
+        "reference": "CnRqAAAA0mQ6MoGWF2eRuscWxc1WgxRpBs9sjxb2jQsJRfnrWD2GqVUHT-UHzbu1POQ222q0Wj8l3e7CwaXUtmCtk4NtD3SlcrmVeBl1MDug1znRBy3OHRv4Vt-kwoTtFn9zqlhYv1ujdFDH_G7r1ExW4tMGmhIQFD8gkoKutTA74FyD4e5DvBoU8OgdZjSn3wZwW2mnhe1rjuvpP6M", 
+        "geometry": {
+          "location": {
+            "lat": -23.40255, 
+            "lng": -51.920756
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2238 - Jardim Alvorada, Maring\u00e1", 
+        "id": "8a7db5eabcf3e0525b9797f43fd469ddf6e6c2e1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "ALVORADA INFORMATICA", 
+        "reference": "CoQBcQAAAJg0iuEqNnGOavmKXG1iivf2efoKIJF2NVoB6MM5V0tG2GkLskO_naefMllGZdTU6lU1oZ6p-ng5KElOQZSG82XOaNr13zEg7ExPllgNAE5hxvn6CDeTapuS6XuouKXaITeKWJ7zmVRGLWyFOof4TKZUkaFqI8XMTDBajBO_8ZZQEhDKrZoI4srrmnDT-d_HeKK-GhQJhaa_y_DktWRYMqPaRYDsJ-1ziQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.401926, 
+            "lng": -51.919332
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 764 - Zona 24, Maring\u00e1", 
+        "id": "72250eb6b537acd298d44063647388bbd7261e04", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "EDI MUSIC Cursos Musicais", 
+        "reference": "CoQBdgAAAOC6wzCbMeq8dz0OQxchoWgsGlZChAIIr9YRjuYEW9-VFa-w6kbrkPpZcAvHU970Z0OLZW_p2zbxY_GiqNkjnbjpmKZMj7crVQ-Aq-3j6OXgQmxt1JZ6SRBWvV6quwzpMFG9hjgxA1HrGOvRwY2bjXwUNcYCgi9ZpU0WO48Tz34hEhC4vSMT5GI6vUeIsi6ILOwxGhQf91azgNcPS2TQ4mVVFcEMkm6OKg", 
+        "geometry": {
+          "location": {
+            "lat": -23.402382, 
+            "lng": -51.919839
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Alameda Ney Aminthas Barros Braga, 520 - Zona 24, Maring\u00e1", 
+        "id": "13f40901ece5742431bbb2bc8a3fdcc9b8c771c4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Amarelo Manga Modas", 
+        "reference": "CoQBcQAAAE0nK9oPmk9jabBEPAz43SxH5vT3sqT2mfd383isjHOQ70_y5uIguxGp1eMiEY2YZlHRWNmMGg2WzWx7CZsVWJ351GCjwapnKiSnwrKCP6bKFWJz1-lNY2q6GgVGIMZMCcfJOa332xhwBLzsUeCo7QBql-b0i-YXKegbD898nHn7EhBrkxFQ-J8KngPQZ-3FmMsRGhTTNExIzct5r-XbCCUcEp7xmma8hQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.402302, 
+            "lng": -51.920985
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2235 - Zona 24, Maring\u00e1", 
+        "id": "9c56bea54b234e8de5969785646422b1900232d9", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Policl\u00ednica Alvorada- Nutri\u00e7\u00e3o Dra Renata G. Silva", 
+        "reference": "CqQBkwAAAILnR4377CDTZqm73jVyZSakWsjoeUn5-UGKnAPUBwp4KkW5X2AkObWC8B2uYWoPnimMARFEKkNh9kPo3eZrBgFZhuUnLjyVTtwUFVu8yAL4b1YdJdwlwku0-7tY13F7vmIGZb4lEZBJqZRkkCHO78Xw-0_UVbkGcVT-M3-Wl5-G5MYeTKBgZKuCT5dK9dp_g7TJvi_Qk-L9G9W7g3X-yu4SEBE0lc9VlifFhrYBlHGKUq0aFLyZiyRuZZq93GEdzLQZOUM_PJDn", 
+        "geometry": {
+          "location": {
+            "lat": -23.403346, 
+            "lng": -51.917542
+          }
+        }, 
+        "vicinity": "Rua Evaristo da Veiga, 1789 - Maring\u00e1", 
+        "id": "7ee831e115b256e3d58146c90774384b262df0bb", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cinderela Cal\u00e7ados", 
+        "reference": "CnRwAAAAOzMWTGgCa7T9NCYc3b_srk72gnozw88myjjCBsPLAdkUdNaUFb0WJr9lSVAWI9QE_9QHQcWiTFHqhgwC66nmc9vOa50yY3xEtclzg6GDJoHIsOc_QNY5JGrT-EyqYD4ZidERvoE4AMQW05yQYYNeYxIQs4vvFRAKYlVfhzdLsnzhtRoUAY7bLs-oDvZhq8rxB0sc5yH6HJk", 
+        "geometry": {
+          "location": {
+            "lat": -23.402634, 
+            "lng": -51.92079
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2228 - Jardim Alvorada, Maring\u00e1", 
+        "id": "57ef43b84e788d97ecce36cc1f21e857263f1803", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Gr\u00e1fica Tropical", 
+        "reference": "CnRvAAAArBE9-f7pOUS5cIII9uTpu_pX-7a0V-YzSZ2xGj75_cq7BMlxOKm3nJqZciQZPzNg0hEmHNNHUpI2A8AKMatiUTTh-j3TyXIb4YIGdchfLR0jpRFQFOpgWT4iHQFM3-owmBcgMrEoolHBeGBip17bKBIQPs5QP1eIPagT6T3oK-NIZBoUBtc_sGZNJYo0MLBVH5FGr-uNEK0", 
+        "geometry": {
+          "location": {
+            "lat": -23.402437, 
+            "lng": -51.91789
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 936 - Zona 24, Maring\u00e1", 
+        "id": "5fc8549ac91f28fc7bdd8f87e0d3c196e835f32a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ana Julia Emb", 
+        "reference": "CnRqAAAAUdKUZ_S-LS6N795HAk1WTY9b1Hs2mwWXyuUV3XYhVUNOI5o__wcKUNEB0VyyAuvFVEtbsr_eAyk1n7FqlPwbsNyIAfh1Axs5gojfjBqkqFPYrknafj-z-6thIQK3DvS9mLKqI05zFPP-2nsUeuGtmRIQw2FUrZ963VhrbLfiFZcS3hoUDmbEkuYpcTavihQ129TRbF6Y7c8", 
+        "geometry": {
+          "location": {
+            "lat": -23.402423, 
+            "lng": -51.917651
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av. Dr. Alexandre Rasgulaeff, 956 - Zona 24, Maring\u00e1", 
+        "id": "3ff698db3ac7cbc49058df413dddccdb1f4f836b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Motor 100", 
+        "reference": "CnRmAAAAmAHh08Jd99HokR0HjFO95Pl5t36WGow3ObVR3DddKZWLmDdiGtGi0GP8Dcaxm5ReTx20z10hdARSR1JwlqOfba9dWWNNBtmAT5AotulwySzLP6sz9PU4gb0ueZqUA7B24IBxFgpxz82V0J-O8fVU-xIQ9z-fXhm9CpsHO8UmRmfQrBoU1ecM5N1PypojWswN_kQ-R4V6rlQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.402043, 
+            "lng": -51.918206
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 895 - Zona 24, Maring\u00e1", 
+        "id": "2b3ef5e31a55345bde6df4124763a9ca6b46a2ca", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "M\u00f3veis Alvorada", 
+        "reference": "CnRtAAAAZ7spVc8XH9BnaAKQwTb74TPwccjp2ihGVgq-vC7RQKF-1UbpaUDJfMP4zl80svak_4Qm6niVzd6-duFZ4KR3aqP8KTdgw_r9pqU50lpwDTuFbLgzcjBobAu9EJrvWHv7BiWve91QPidXHdHFLZmWWBIQGWrG6k5zbEy-m794s8XR3RoUCh7fqiMgZBXC42LF6NU_3GAmyOU", 
+        "geometry": {
+          "location": {
+            "lat": -23.402183, 
+            "lng": -51.917675
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 935 - Maring\u00e1", 
+        "id": "11da06df803f78cee4055b874fd72362a181a2ca", 
+        "types": [
+          "furniture_store", 
+          "general_contractor", 
+          "home_goods_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "X3 Radiologia Odontol\u00f3gica", 
+        "reference": "CoQBeQAAAI4bZnq_HW44q8NIW-RTTCSdVV1oRWAL43OEQ6DVXPKg6StpfCW-041Vtx0Ek6VLbLX-3z6Xawcq51TJ0BHTewxJ7oMAV1cnXy3_3DpxueQWxHX3j8ediPrTZQkkrbKdaDzcr1ZlCyBJz88wATuoRVyJ0Qzw8ASfWP4WnSH_0iHUEhD38zo9ShyirrOd5H1nkf-TGhS4xGbEyxLuKQIZRWnv2t05GlHtwQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.403302, 
+            "lng": -51.921061
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 2148 - Maring\u00e1", 
+        "id": "cd6efe45c0688b23e18ad1fe114ee24a657b1dfc", 
+        "types": [
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Estofados Para\u00edso", 
+        "reference": "CnRvAAAAx2DP97iuu-hLGXG0MCNEbh_gvvCF1LpDL3ieBwX2EtPDTO_AXMidCSA2-kLo9PWkO_OFhk3cDsyX0StKxfb5M4yupnpoPWB-DAMgw2JVCUqltE-5PP5WKlWKhBAuPvkFog8IyP70TtaxMkMQGnzXOBIQPbE3qjhLfAvuH4b9pGSrwBoUsx6g-l4ajk-BtaemMEiRWbKkeaE", 
+        "geometry": {
+          "location": {
+            "lat": -23.402276, 
+            "lng": -51.917403
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 965 - Maring\u00e1", 
+        "id": "3dd7fd1a722a325097b6c947745dc15f4583b785", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eletro KVA Materiais e Instala\u00e7\u00f5es El\u00e9tricas", 
+        "reference": "CpQBjgAAAEs3H4jKOhvmXeQ4hNmIS8Ipwu13DjFHy0GLCPyMGOmVTyJ2gljnyDo7wEaaFZirpT23Q2AMaRZWJZJrq6uVMiAAt6Lo94n4wWBSDENrpIQfolgQ0c9i5uKu8BzxtsIK2VW83_EGNHdw40FxceMC1gVzVZVi_JFrZMDt85_gDmbpfkvmTSMoHT9SzdJJcm_YIxIQYqPqiluvYYJG3iI3Z-31HhoU_q73e0rETDZS3zZc5GYo1ehmEMU", 
+        "geometry": {
+          "location": {
+            "lat": -23.40231, 
+            "lng": -51.918264
+          }
+        }, 
+        "vicinity": "Avenida Doutor Alexandre Rasgulaeff, 886 - Maring\u00e1", 
+        "id": "b9c7defea3379078e461f8bfef809a1871486232", 
+        "types": [
+          "electrician", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAAcshq7jlOKrfrnsX5_VHIQ8p0FBq6cesaDm1PC7R_BPFXm7XLhTUQNBahfoe2mBtLcHYkSuMK4QiQwaZ_Mi0VMWdqAfKnvoxIEweWAqiF0xgeA74h6ue7fmwF_S5W4ri74OuDJDPRs1Dbw7Rj6cPfKRIQujZaBSdKUxINTwfG_6zDPhoUqbyJD8clIWMgAYVtW-lxdyaB9TU", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

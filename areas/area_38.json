@@ -1,0 +1,1090 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAIgQgQwTKAnSKAMQGFsaVgM9ESZje-CZR6v9be_ROlz8_tys8JnWjsp1swRIOuIvkZZIwaIirKSOrTaXjizlgWohSivdEArxVo7IQvtqgWaKEH3pnYZSAj22kc43ItlXHRV8-wqGdEU6RbEqxlbHz5BIQahoTQdYVRIF-ZRi5JzUNLhoUFkNQOboRCn87PBIT_Wnz960y96Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Via Romanos Atacado", 
+        "reference": "CoQBcgAAAFxiqRs_mZDzLHhkgGSSf43jE7g2eJRXaiR4UZ7NeuPriX6vdvW-uQcr3U3I8s24IBD97X9INNtOZu3meRnKJ_0pHBaZz7WpV4Dj6HsXzb7zZo5cbyoTPInrHJYqx1CZ2zYyAQW1xSuL23osfxYmvROuoiqyZr3eR159XjmSFf4wEhDPuk5GVersYX5B4MvWGNiLGhSNtnu1dxOg8FhrZFoHCmFuQ4965g", 
+        "geometry": {
+          "location": {
+            "lat": -23.465244, 
+            "lng": -51.99342
+          }
+        }, 
+        "vicinity": "Rod PR 317, km 06 - Shopping Avenida Fashion, loja 218 87065-005, Maring\u00e1", 
+        "id": "c81618fd163e022d00425da7ef7ad900a5cdde0b", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Brigida Fios", 
+        "reference": "CnRrAAAARPDZvTOg_j4se8R1VWBR18MGbXvMJ_bOfsEjqYfSVBfrsrCTUCN4_sodzFGiO26x5pUJmkpCxkIGPfE2DbJFaBIzPIIrtRQ02VMWwgrm6qvuX3TsJ7aPQ6XUEH1DTa12sZJDO0J3hyBxWO4PMNsvthIQt9vuk5g61d_Sg4Rpt42F9BoU8XHye22MBHf0G68DV8bHITIbWLU", 
+        "geometry": {
+          "location": {
+            "lat": -23.465765, 
+            "lng": -51.994686
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rodovia PR 317 Km 6, 5693, Maring\u00e1", 
+        "id": "8755e710ad244abf9b92414284b7ad58253eb371", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ch\u00e3o de Areia - Loja Maring\u00e1", 
+        "reference": "CoQBfQAAACIhqtNJh1gIB0JSTbRRjRd5z4Y46YNlXrptqlJqEcy5nVMIbg47QXxjMNNZ6RVnYG_Z7_d13sBe6GsNJDmvUqicDNu10b9mqKySBvmi9b9mTBVVVEb-ybFb2TWfvBN2JpdaYdgKbPvdts0rLd1D6GnlsJXKHzysFv-1nHuPnoqlEhAF4xHhtW2XZfiqb6VkbH9uGhRVWngZs_zB7GeK2tNlkZoWMsq49w", 
+        "geometry": {
+          "location": {
+            "lat": -23.465347, 
+            "lng": -51.991842
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "PR 317 - KM 06, Maring\u00e1", 
+        "id": "91f570576fee6b306ddb8fc044b9cf7bae95731a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAgRpyJ4ovVlXAdPgJZ9A35bP708aT61tupgZHRv1P8hVxBSjhrDN5ye7GMgnZJWo2X5mZmjPYJb1GQWax75ZsLlopGR6hagqpaUB_T-SDSatww-3-nZq2Vjv8UK1xGd6VJ8tkc6pZEW4dBA4bjwK_oxIQe7koHveobaTKkr8pH0mh1RoUj72lRqONttdTwU-LCBR2ZeWC7LI", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAA234ns5kcxBV4KPhwRIzzDXARUNhz42tmUayl-GTENidgmJwkmFmS1UzL9Dd4J_L2nvOCStbPtbrcevLbWTwZ4240tGgynwGs1jn7qsKdlpvduABc7CGPV_kyUy3eep-A_wHlZCqlnEwpwEmlmGto9hIQu56QwhCkR2UXozTQyFPihxoUxa0fN7WYIT9SEV0o5GthyTLr_Ho", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAwKSzUZeTZMCLJ_0BK45NLSTfDPycXGHcck04hOdrYIU12HqBPJZZ1N313AVcvjiJXoD6-9D6HawIHiUDYpImaOVzOOOb2972icgpTIY1c_l5ZBTQqEGx0EdPg7_6_I8skSWVFiM1W2y_xkhu-fq1MBIQ7QNxF1RqV0Gtkb2NZu3c7BoUO0ospuGisgHFZqkaji7Q7La7SPY", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAVzgcHxDPs36uWJ4Icgfg1pLRnvdvQGBCEn4qZw7py-O24zHR9IHD2piDAnVS0nYZfv0ry69sryCcu2o7PuJ5XWBsdgeuHUb41kO6whrB5SJT4VrnC5kFFADadGPv0ZYaPw_H4yJ69KhrH2bieE1DaBIQGkGJKypULSFx0BTMPcJx5RoUzXi8XuDkUguz2uzTU9UewbatWUk", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Shopping Vest Sul", 
+        "reference": "CnRvAAAAKCSUeDhlsRs1AC3bZpb4YFPDsvo21DBY2iTY-ronYtPvTHwfPA9_ywv54_JQmHBJN6CeRkA3CHYIZ9GTTesclnmSTR4PjYmycxfRrNA2afhXr7kuQxGcnZco9udvlJTs850UhqusKyuP1Tf0IL_AFBIQvNsOVuOz3sacMlEmAYB6kxoU2kWsnuxrYtdknqaRRVDvm_lErxo", 
+        "geometry": {
+          "location": {
+            "lat": -23.466592, 
+            "lng": -51.993999
+          }
+        }, 
+        "vicinity": "Rod PR 317 - Km 06, Maring\u00e1", 
+        "id": "3cb096d520caac945cd40cd15a644b64247eb4d4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Via Romanos Atacado", 
+        "reference": "CoQBcgAAACTkyLoEmLmXV-VSifcbk1HdyVk3FBj5N2_QtUena8VCZbO5umbA-tkism6PrQJp-DKBz9RiHtiRj2TafoGyWlaNTTDbFImmzb1VCdsvoiuB3lr5g6XASJ5F1pkYh_W9j1kVkfKgkBHqPCG0v3x5_C3cErVDlrJqvXyELbrdRjdCEhC4k0iqIxY05-H2XRyyeSLZGhSfSqpp0Iq_hPX4fA0oL6VgZvKtUA", 
+        "geometry": {
+          "location": {
+            "lat": -23.465244, 
+            "lng": -51.99342
+          }
+        }, 
+        "vicinity": "Rod PR 317, km 06 - Shopping Avenida Fashion, loja 218 87065-005, Maring\u00e1", 
+        "id": "c81618fd163e022d00425da7ef7ad900a5cdde0b", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Brigida Fios", 
+        "reference": "CnRrAAAASZ2oOhDElHsoTj7IgETX_a6j-Q4M9pVLc0cpBDw_OWZT8u_UOrXS4AaIXbfYfaRFFktvFMxYlw-aTOaf3HeZKvwmQeL-3qv2tQkoh8siTs4WrkzLk1neozr8rQE4OQX6WnWGM1Uo12wVKrQjyOk4zRIQ3LI54stdGfg6Gop_DQrgvxoUg-Npiko3e3aUIgS3AEHirVJ-1C8", 
+        "geometry": {
+          "location": {
+            "lat": -23.465765, 
+            "lng": -51.994686
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rodovia PR 317 Km 6, 5693, Maring\u00e1", 
+        "id": "8755e710ad244abf9b92414284b7ad58253eb371", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Paran\u00e1 Faz a Moda", 
+        "reference": "CnRwAAAAKTresnUUZyOeC7XYEMrs0eWsWeti8hNA_8lgFTO_dYz5xyfffHcdQDFqsvPocN3fYzXLPrinFVZdB1Nb7AMzEEoUKIvXYerxXUTHqjYivPAYlbcgTjCDr2K-Y45vmrAt88hjMXGQ5kgrbb0f8CA9ChIQij60RAP80tWftgCfNZZISRoUnCuuCL8J-6SsZrr6zZa0dx3DTH0", 
+        "geometry": {
+          "location": {
+            "lat": -23.466749, 
+            "lng": -51.993822
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rod. Pr 317 km 06 - Sub solo Shop. Vest Sul, Maring\u00e1", 
+        "id": "677066bd28f86c6747e774ed0e030e679465bebc", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ch\u00e3o de Areia - Loja Maring\u00e1", 
+        "reference": "CoQBfQAAAKKKxJQeRLKITBiyceAqd6oFZ1NuBZ6KTGKak96iC4ypEDDaYgJnZtnGb3_gVc8NytMdv6ho41baacadJPT1AL3xyRgcvh_vX5wOWol_X_x0EEHIAtLwyhwSyCd3ntcVAnCibNLhgtz0T_AyCzFa0fsugYJbME3VmZV2AC298kPaEhCc_hP3SweGYH-GyBp4L6QUGhRggsycOUDyvaXkuUUuUyrGS9GgRg", 
+        "geometry": {
+          "location": {
+            "lat": -23.465347, 
+            "lng": -51.991842
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "PR 317 - KM 06, Maring\u00e1", 
+        "id": "91f570576fee6b306ddb8fc044b9cf7bae95731a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Klausid Confec\u00e7\u00f5es (Atacado)", 
+        "reference": "CoQBfQAAANsgmSHVDVSlITN1RDWFT59Ed05KsCcmKpn9ik0R_sfKvccZZFCO_LlmRwHgcgeU2k8zso5yjelaKItmgmdxdhJTZX9pZ0CYibMBdMV_v26qCZKgODpwCEin1u7FmTI7ym9tkaa-T1_uNmBJtEfRFGnvJFs6UDGFNvxgo1RpJZQEEhCmsXjIMUv_hxVSFyGLuMIjGhQfkklLWjhXkc2vLjZzYsLc6a41PQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.466892, 
+            "lng": -51.993286
+          }
+        }, 
+        "vicinity": "Rodovia PR 317, Km 06, Sa\u00edda para Campo Mour\u00e3o, Maring\u00e1", 
+        "id": "26f292998aec000972d03c5ce1fd46cb8185cf37", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA5gXTeALScuFWpv5jLTvRF6diebQC1oDHe8yqu1RRo0i2yy4ZiowjFsUqSWVSAUn4VIpK6SfugirdM3ZCTazIp9YP-vw4CA-kHZbfiNu11pialcemH3I_FGU_h688V4cTPY4WVnEngpYvzWEt62pdPRIQCe1zzDwM8N1VCeAdzEYAyRoU5JVT1OeddgSGEMdrNdHJ1Iw-5kE", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAA5JX2T7foz_lxhrugyklNLQX8Lt8mvJkR3gEnPWnJbXMfP82xHxM_ld1aj6OU1vwyLzB0ERxm1nmOkCBYVRtTgJH3MrdPVzBt0YGlcCA1417RX80V6zvtxuwbsEOJDPUymb5w0M5pR9-XxC-aziybPBIQRE5o3vqipcpY6Hy8l4701RoUaX0dml7n0_j1hVJhrvZJ_KHvseM", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Via Romanos Atacado", 
+        "reference": "CoQBcgAAAKGe6yZgEdpVqGhDF2qhl1wfQL8ofE70cs8eK2EJldKsdsZ9p6pQc-xn2oTwFwNoMd0uXfDUjYL3_xCrv6xjcJhxNzDZq2AGx04qGbCtYJB5X_JtkY4PfMwbwMoCt9CjUdsZEvL_oZKu-2Lz2JZl1wg-HC9vKmljilzFr2MarMOoEhBzQLXF9iDhBuFTtU575kZpGhSw8UcYMJYjLMc21DgfQnK4hq933g", 
+        "geometry": {
+          "location": {
+            "lat": -23.465244, 
+            "lng": -51.99342
+          }
+        }, 
+        "vicinity": "Rod PR 317, km 06 - Shopping Avenida Fashion, loja 218 87065-005, Maring\u00e1", 
+        "id": "c81618fd163e022d00425da7ef7ad900a5cdde0b", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Brigida Fios", 
+        "reference": "CnRrAAAAvAFANDupKVpwmuEwk7Nf8f0t3gD-amxO5VyD7kqX1-98z0SqoTJS0P3jx2RzRhPioYspOAPH_AnqQhuO-pAFGChGTi66broNf9JMkpd0YkSGwBECMgUyYEXyf-6MZVk25CMUGdHe7ohZ2zUfZL_NDRIQp0af-dLnBWEoD27anhgS5BoUcVZkGX6Wu-iSwj-zTefgVxc1DWM", 
+        "geometry": {
+          "location": {
+            "lat": -23.465765, 
+            "lng": -51.994686
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rodovia PR 317 Km 6, 5693, Maring\u00e1", 
+        "id": "8755e710ad244abf9b92414284b7ad58253eb371", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAf_we759lnS-NduH5EZEwixZnNOjM9Df8S_Gl3Au9wfbWuxY3upH6RUuxJmjfIkOl9LVKanRQC5e4FbuyvgniGN8Okrp1RU0IZtPzriwrpEydeNQgs2F7G93T6EWlLE-07B5zGnQYOiU5256rAKU-KhIQKxEOm9OKKKmUXd8LiYI49RoUP8pL0oqPtXJgs2wmgpCavWTgtYc", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 45", 
+        "reference": "CnRuAAAADnpaB6LXN2zRRnM2aUBIgXpzlDFchO9p_WBkXepQmiWbjNmziSPo2HW6MW5RkBdgjBgVS3n0apTOn9bOWkl23WmOw0scpYTN_ffFH-fWoL9y9U-JMM4esUjNyu1ea6UQi-Pu3ZC3drDlDoJCYnrVghIQHBRX-23izUr6huMd_ZWE3hoUljkJcOo9WQYsV48haFObvYucHV8", 
+        "geometry": {
+          "location": {
+            "lat": -23.460949, 
+            "lng": -52.0056547
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4452577, 
+              "lng": -51.98511999999999
+            }, 
+            "southwest": {
+              "lat": -23.477603, 
+              "lng": -52.0272444
+            }
+          }
+        }, 
+        "vicinity": "Zona 45", 
+        "id": "dd5d3c6efa5317ecc96741040d57c983d8561906", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 47", 
+        "reference": "CnRuAAAAAXW_qK38bWRdae_mJ0Unh_Gu9tW2eTtFXgjkIB9NJz778zC2usbM2J_R1rJ-i-941pbEl64DynjzjRuXAFoTcRE65Lhn18G_zTD0h8ZOtVZ75Zi7ZKYcR79MgNeZA5qBPoS4BSDW79hZQt1EZRnwJBIQvpzyX1cxY4K5P5go7Rq9_BoU2TPUVy3pM7uM8cDQKoNzRGKodMU", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAA9ccPBx40iyXqrUcVb_-YgDtKq9nnp2968pbAUWLyXRcWnFvEgR3konrahu-z3zTJo0Rf-aZdiczVs0pVA-9Gzsb1W2CymoPxFnxomaWjX-uIb1b_OP5iV-FI3MLNNHM_sHeQAoVWmQM83Je0lJ03bRIQlCh_cBZsL3RRTXltJZc1ahoURMGSg3RzoatKA9BPjke02c0lBtU", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Shopping de Cal\u00e7ados", 
+        "reference": "CoQBcwAAALJPwWk4BgOAsE1AYyQSIMWCpecCFdrxC-q6aSMTEnruQ7a5RrSB4J7hUWQSl5WxYKCPNoDyPnuz7BEHmHXINCkX9GEeN8e-ymlx8qyZ4jtzGEIfDtuy1czMAQbOl0cOVQpHtYvOWIKhNiJ6lukAGYnK53_ou8e5iKzAjtkWTAuFEhAtla4MK4H-Nm7p8dq0DVeyGhSmFKWiuPKISfJ7tMSCLuL45lmJtg", 
+        "geometry": {
+          "location": {
+            "lat": -23.457508, 
+            "lng": -51.989767
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Rodovia PR 317, Km 4,5, N\u00ba 4829 - Parque Industrial - 87065-005 - Sa\u00edda para Campo Mour\u00e3o, ao lado da Redebras., Maring\u00e1", 
+        "id": "542ffd1074ac1213e85dd66829e780eeb5121e7a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "IMPERATIVA TRANSPORTES LTDA", 
+        "reference": "CoQBegAAAPuTXljhmfHnLUrXlC5DdSnWfCL2NVrqeMGS9Jx-qUCOt20HsYgyOsA4oHoz1k8kJGdOb7UYocrwyoUHLt0HFutyvB8WTft-sWVjoebmgAvQB9yowmDq8ann4__AKZtrd0oWjCtcoIZGv9BUvSaOFQxGa8oQ7PL68m3TwKRyPsvAEhA6Lyk8rfTsPkY28uE9QCChGhRKGM8KSomqnLCy4IKC2JdPGfg1mg", 
+        "geometry": {
+          "location": {
+            "lat": -23.458374, 
+            "lng": -51.990457
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Pr 217 - km 05 - Sl 61 - Saida p/ C. Mour\u00e3o, Maring\u00e1", 
+        "id": "2125678fe461d1ddae1bc6c977119ff74aa8eaa1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAUb9hCJ8VDIe3HYb8A3HGhIhXlwzDoJhfcJytexmEI69Th5aUNm2cQLTNfcN7oasMDa6ddyFARC3WhAQ6zx5pfNmMPtBjSJH2WmiGgY6Kvc6wK6vD7TstG3PZN3WX4ZexfhYKUz9L-yce5paL_WWFjBIQse0TY9QTtT0cwbVSOUpw-hoUsecU3CTFG_DGMQWSKC4HqbdoWWg", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAlNRLCVzEJX2weUf03TS4rJLLeAcoKgJWkkaThSO7_L20ZrOM0Hk79EBIJL6rvljVJxL5gsDOPzgAbCfPquqSdvtbeS5TfuNHtbQJTPowBDUP6C7cnY4YctX0TfIpgj69QdY8x1D9fDHRJ-TkSH5uExIQANd6XxeKRZzeyUwXYmwPVBoUXswNZj9r9Dd9P86IJ_mBSsV1E5Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAteWs0ekCYevsQ6CL1V9Ufdq0XNjJFumZr693_-2LOm_7Qwq2HOV304XcOPqdJx7IDz5L_0cX4xXx1pTryUoQTq4wCoWaXxFg0KS1AcxKf8M36Kd0aboPwXqFxYddkTUJJZZG1ONsX5eknT9GN7ElrxIQx6XoBgMxmIcA6ArykSpsSBoUGstQaWoQGHlm5iHhQ-bK8ZqEeFU", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAADoe1f4BhY9fX5h8lTXLutxnIqxF8ypJh489s5CUhi4ZQDiijeJHX8eUbaSOMa8ZClzAFQcMh2xLgnkti-ciVxn8G0-mbVjNyS0QefLKDOqdMxy4E7t84WL4-NbYsRNuf_mS9vC9GWlpAUYaqgsszNBIQ7XHh5rzBIQGxBm9UlxAS3xoUQklETciPSYBuECpKXvSsXVWm7FQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Shopping Vest Sul", 
+        "reference": "CnRvAAAAJ_BDsmRoacVx9WbKe1esiXN0BNCOHnr_5_CqbE4JJTFfASz2DmyN4W5zlOAFakQaYMlXTvYaPx176rVONN_Oa_UUCmdvV3XtBQyT9dwpQwakUzAqzJcf1hLR9asjAWFOL_rbQYXFffBJf84grSY78xIQltHsGgE4tE9UwvJJ9LeFaxoUZJ2NxanZ70EJjYFS5WyO4g2HdG0", 
+        "geometry": {
+          "location": {
+            "lat": -23.466592, 
+            "lng": -51.993999
+          }
+        }, 
+        "vicinity": "Rod PR 317 - Km 06, Maring\u00e1", 
+        "id": "3cb096d520caac945cd40cd15a644b64247eb4d4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Via Romanos Atacado", 
+        "reference": "CoQBcgAAAD3k4CZo8BU2JlJQi9zss-l_BKboBBzSco0TZdNdABVda3OvT7_PGSpqh6liL8rjV4rJUkw2BYSkBRzoKKtai_V74TLVxCXXVlNzkIOD3RKtzgJ4MSZdXUcetULo80Fn_0XqKvcVtQ4Ldk-snQOEqKPL3Ug7IrBE-QHqdttvgareEhCwiFuA8zd2AXVPCsXVe4JoGhRoBKuRMuw_q1KJCIE4d7PXSD0n5w", 
+        "geometry": {
+          "location": {
+            "lat": -23.465244, 
+            "lng": -51.99342
+          }
+        }, 
+        "vicinity": "Rod PR 317, km 06 - Shopping Avenida Fashion, loja 218 87065-005, Maring\u00e1", 
+        "id": "c81618fd163e022d00425da7ef7ad900a5cdde0b", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Brigida Fios", 
+        "reference": "CnRrAAAAV6GFl9D2LKGx2iMehvXUKO-3NPb72qH2sZOyPV1AEoW374Amux11h44RKoN-OqRV33gTzAQgS9tj3wJSXFix9alFqfZMCBr0Ece-YaeH8LahL1j8YSuyELH3dzqIcVk_-OVK-tJIiZyOcYi3LwuZsBIQJC6nqLEA6IsJjtMzHuj4SBoUfWhtXVE7r4MlgxhIrI4fsnDfkD8", 
+        "geometry": {
+          "location": {
+            "lat": -23.465765, 
+            "lng": -51.994686
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rodovia PR 317 Km 6, 5693, Maring\u00e1", 
+        "id": "8755e710ad244abf9b92414284b7ad58253eb371", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Paran\u00e1 Faz a Moda", 
+        "reference": "CnRwAAAAl1EJuriPtxoDBjPNA4YDc8p8ti1upAF20ptrfI7Am1LNcnYMZwvmZtDTL_G2v586wtsIVmCKLmt0KHz9E3kbAorfGG2bAMiH2To_Nc7q02TE31fZ2t7S7PIx52a2dQ3QewTJjcanFNtQz6SKi9cq1hIQnQogLtAF8rTOZ4isO7c7uhoUkVZzfRyJQGTWotlI2w0hyqasZdw", 
+        "geometry": {
+          "location": {
+            "lat": -23.466749, 
+            "lng": -51.993822
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rod. Pr 317 km 06 - Sub solo Shop. Vest Sul, Maring\u00e1", 
+        "id": "677066bd28f86c6747e774ed0e030e679465bebc", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Klausid Confec\u00e7\u00f5es (Atacado)", 
+        "reference": "CoQBfQAAAIzpDx0QwNtHnthVU4ABZ_pLXb_TBKAVcw7lIgh9tgB8c53LbvTiYehg-fivKG0EIigDd-qX090CN5MVDVrAQVpGxweDLQ5qOvAMczdf764AMS_uk6OMNoDMRymg4kiDUtJ4bELPCorCVpA9C-iUzBhZSZS6Uud99Sgs5uE1S7FkEhBXFzxrxE_zFXWntdaNUcjDGhS4f9UMw_hmiHfyskYGXn8t-xrt8A", 
+        "geometry": {
+          "location": {
+            "lat": -23.466892, 
+            "lng": -51.993286
+          }
+        }, 
+        "vicinity": "Rodovia PR 317, Km 06, Sa\u00edda para Campo Mour\u00e3o, Maring\u00e1", 
+        "id": "26f292998aec000972d03c5ce1fd46cb8185cf37", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Hydranet Telem\u00e1tica e Inform\u00e1tica", 
+        "reference": "CpQBggAAAEwW46yH5htMTcWeJIg-TjEG65mInDupY2i-3tW7TkWa9dEMPmdG4iiDwp_b9tOfz-28Bd25HA1-bQEyiFusVmihDvk5p6RVaECePM_Dx3VjxAfeObgqk7qKa83WoiZcIXEUGxFCFWXLUOvu3xI34SWTt_tdThlPV_vUEpGE3dySuj5dhGR2ETlJGwGk7j7E4RIQo2l3yWDBChrTSr-c5baNDxoUQzgsKb6MEQgQ46WqUoDiXnojH1U", 
+        "geometry": {
+          "location": {
+            "lat": -23.463504, 
+            "lng": -51.997508
+          }
+        }, 
+        "vicinity": "Estrada S\u00e3o Luiz, 50 - Maring\u00e1", 
+        "id": "158fcc6ef6d6163d02dc47601645caf0e9f6f8bd", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAARJOmdzHQUOVzHaei1FLHv2sckfnfqrhUxJSllVxR9YZtThFDm5drs7q7avliRQwLxr_Uow1jjRfhovEqcj0IWayiHJw1mOyOwImGaBTI4KSqNNeuZk4tJiD94lfx1q3XkRUSDssoez-4bDSdYhwkjRIQ1Jzb69PjjgT_bEyvmrtXTxoUevsI03HDG-G8S4pytdTVkQhphzw", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAVhcIs1PH38dUEmE_O4dBhJS_DcIWv9lOWPlraNim4MVGdw3WxOEdNIm8MJMKvtLctHFmPncpm6rlE0GwMUMPgFU2zKX84RAOV2-YgjBR0l-U0MpVDxC44C3dN2-cjtgUQgO8PAPbiNfFHAw0flliVBIQ1M20-bD8vQH0kzhK958pdxoU82EF6b0MNqUieqY3mcdQv_N2SNw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Shopping Vest Sul", 
+        "reference": "CnRvAAAA0q0V_SRy0-HqJyeW819rasYjb_lBKl_KdyQUkmuE975ZtTwEZJEUpURvtr62sQNJAwyQV9Nwr7YPDeleV7Kh12jkHi1ErR2tMg7HIfy18BD3OYKi-Oon8K1j22mY-ScbdaxHM4BggVkmj5WE2_wPCRIQTxsCT7tcrh4I_BELLScxnxoUnthcmr7U5MSFY-cGSUFzKEM-qTM", 
+        "geometry": {
+          "location": {
+            "lat": -23.466592, 
+            "lng": -51.993999
+          }
+        }, 
+        "vicinity": "Rod PR 317 - Km 06, Maring\u00e1", 
+        "id": "3cb096d520caac945cd40cd15a644b64247eb4d4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Via Romanos Atacado", 
+        "reference": "CoQBcgAAAIBjleIfOuVRr_qco_LTy0DsYNhMlPKjPVGJwwYJhH5UkLwIfAdaiirrT2vNa6RTk7_TVGi4_patAAYtRN5qCPwWGojbKKSodDfD8dzcYU_Yxz-5_3TsZWPQDyMloU4SUXmlFwShXihLiVJySfPSSf9DYIx-yN1FtguWeIwaEyBiEhA6_U8USwDU_1qLGymEo4D2GhQI_98TEgVQdN_NbefuGnpiK9stSw", 
+        "geometry": {
+          "location": {
+            "lat": -23.465244, 
+            "lng": -51.99342
+          }
+        }, 
+        "vicinity": "Rod PR 317, km 06 - Shopping Avenida Fashion, loja 218 87065-005, Maring\u00e1", 
+        "id": "c81618fd163e022d00425da7ef7ad900a5cdde0b", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Brigida Fios", 
+        "reference": "CnRrAAAASp6bTMbBXEzs1QHx2p5ed4AyC8fOn6VISl5OJcpOweAob00DBqoXbHRu9bKP8b93nrhu-Hrz2C2Vp2ndN8dgjEPxgWxkXnQZ-3JZc0_9t_5M_ieFAbdrbwDfhPA3n9HoBdBf4KbUBreFYVIHD2_5FRIQC8aQ2TnIFxXRghtM0mKzFBoURyXS-JfZRBoqusBE3Dc5NsoSodY", 
+        "geometry": {
+          "location": {
+            "lat": -23.465765, 
+            "lng": -51.994686
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rodovia PR 317 Km 6, 5693, Maring\u00e1", 
+        "id": "8755e710ad244abf9b92414284b7ad58253eb371", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Paran\u00e1 Faz a Moda", 
+        "reference": "CnRwAAAAgRda8X55TdfN3flmCaP92VEkjBMt_yrEkRIiJFxd4NhRc1pKGPp79W9vc031iQj8vHmjvoe8oX8wbiqCu1yuPGPG00mfIearEPaWpdbeGkwVQ4-QJ15H3qww4bMLstMBO80Qtnw9XmOSU80vP3BarhIQ-srGtwTlNiLtBLjs0syUfxoUUElTNal48KlMCaMAqe-XmBLxmMQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.466749, 
+            "lng": -51.993822
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rod. Pr 317 km 06 - Sub solo Shop. Vest Sul, Maring\u00e1", 
+        "id": "677066bd28f86c6747e774ed0e030e679465bebc", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Klausid Confec\u00e7\u00f5es (Atacado)", 
+        "reference": "CoQBfQAAAH9ZI9SaE40gufuIaEDfsp-D9STijZjSlVLvTt-JS3KMgniSFKFI-97JkSUTZ_Uup1n6alrL746qi_PPiyggDuO0gK7aG3ODRQ7wVFeR-vAWsIdT-GzHK7SzJin4xSxjFC9MSyDpGYFbwsML_3qVY7XMh7PPkuf94188z5GUB7p6EhAA_M3BWVWeBsG3RqC2iph3GhR4ZcoW6uw8_gI4NxslYWHWTq5tNg", 
+        "geometry": {
+          "location": {
+            "lat": -23.466892, 
+            "lng": -51.993286
+          }
+        }, 
+        "vicinity": "Rodovia PR 317, Km 06, Sa\u00edda para Campo Mour\u00e3o, Maring\u00e1", 
+        "id": "26f292998aec000972d03c5ce1fd46cb8185cf37", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cavalheri Batata & Cebola", 
+        "reference": "CoQBdwAAAI3zTrjq6slfetCseoX4o9E6xo1DM-vAxUNlQP_N4pjpD0VO_WiodH_OxfeG3yLXAcDPQa0bIzCYKJVmrSEkviOG4ufanEGiZS57qe_fXoLI0Dp3z3aEcQL4g_gpSGHIKReiCeYvlM33nXrxItvAtcm5F2UxF3D8b8Jil_MGPwzsEhCarfol23Fk3B0_dP3WPQ8EGhQqRVgKvCH7Vhwq7vjm_A5j6aLumA", 
+        "geometry": {
+          "location": {
+            "lat": -23.468058, 
+            "lng": -51.997025
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "PR 317 km 6,5 CEASA Maring\u00e1 Pavilh\u00e3o A Box 32, Maring\u00e1", 
+        "id": "c4d4f4dc2f4dc2cda2dcc6cb0e30bdf5cf85a1f7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAtU3DHWi0rwN9D8f28byNcE3AIhjlIaL6scnDtb1ovTUGh3pLLHqr8Sxf7ntQZZuqkKirL5IGgo-A9RDar7eh50MAH7Yal5tcNo59zc9RnUk-eV0EZ5IuhfVZOKMiNNCB7oL3JmJuu6Xpa0MjaMrzBxIQGRkOWCkFmxu2ALBfezD_cRoUUwXho5925PRJZQHQ9JTptYwHKQk", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 47", 
+        "reference": "CnRvAAAAI2eoG3zOSD7yTAIqXAlvFcqOnOv7F6meJ1KG2DUYx7ZFArKq2FqCIEovwAckM8uoJhZW_guQ8ecflSCiAClLwPCsRYOmWwDHiGzLkq2g-hl_CQ2wY_g-gGmqNh6Lc7k3mQQrhklXTQo_BDUVlhtx5xIQzgwyC5fLwJGI6zwq90sUYxoU4IQ7Aw0S2BqxzZwF68GYZDSWz5c", 
+        "geometry": {
+          "location": {
+            "lat": -23.4632137, 
+            "lng": -51.9871247
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4409569, 
+              "lng": -51.968842
+            }, 
+            "southwest": {
+              "lat": -23.4903961, 
+              "lng": -52.0092763
+            }
+          }
+        }, 
+        "vicinity": "Zona 47", 
+        "id": "24c2c98daa6776c2ef73bf1d6a4c9f565109d71b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Via Romanos Atacado", 
+        "reference": "CoQBcgAAAOzDEU5l-0roq3kvk91zNU5x1M1p5YDm7-CRZFuveJj2qfKl1-JSDJAnxscCLCGgpxDYZ6HlZDjex4EZkJCfEEDXOlLrCu3xLOR7ELRv5xGqMWV3dXWrCWR5JlZboTBSWlKQsAus8dtJCt6tMMEjE-fjRzWNxZsYr_J6PMxH_io7EhARn5JvESjIXSlRRH82axFkGhQPwgqct7UyW7hKrSS-knu4zeSLfA", 
+        "geometry": {
+          "location": {
+            "lat": -23.465244, 
+            "lng": -51.99342
+          }
+        }, 
+        "vicinity": "Rod PR 317, km 06 - Shopping Avenida Fashion, loja 218 87065-005, Maring\u00e1", 
+        "id": "c81618fd163e022d00425da7ef7ad900a5cdde0b", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Ch\u00e3o de Areia - Loja Maring\u00e1", 
+        "reference": "CoQBfQAAAClHdQ7Dw7euWW_Gn_JsdOhcJX8JlEe8TiwXcJdOk4lgnTI27CQiWHccdxYPBmzRnVJG98xTzdMq1kH41W-X0HxjRiDaKUYLyKK47Cn3bIqu_wyhQaMGvORvveh0ERsgb75xFmN11xPk-3H9j2vQL4lzRTKmIzHriWD1AzUIURcvEhARo4Opfsxc_FGLES2IrGf5GhSQjh3MJDEXeoXzUHVrXHlH2DsnIA", 
+        "geometry": {
+          "location": {
+            "lat": -23.465347, 
+            "lng": -51.991842
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "PR 317 - KM 06, Maring\u00e1", 
+        "id": "91f570576fee6b306ddb8fc044b9cf7bae95731a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAH_ZNDzJHgI56ehc9-nN7ZYX8qrEb8rEbn_s1nTzBwO-rs9_la3w3OVR_4m6rd2Sxc_AJYkpxrBfZFIholnRYahH1qyjmSERmVWkdWm50Civlq9yCTm7IT_Ev5yvmTFf6iFvPilvGeMhjPFh24mWmDBIQvWuwbsA0fqiBy6zfmt8bqxoU1GfvPz6FW5z3HoOARadpCNe3PMU", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

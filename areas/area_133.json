@@ -1,0 +1,3899 @@
+[
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAwM8wEg3ASujmXqEK6UpJLiHU1AKwZu5VJQXT02NOkjixOVqjTeo_OL3h8hbV9jJqxbAXU0VAVeW8yV5lMl5hSyYmeg11PrI9P5YKo1T1UeYSEF7YqZXZ_fQlRkDK9XnvOKcaFOWEFDDuBihPmA0SGIiU4tk_Ha3W", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 01", 
+        "reference": "CnRvAAAAgTLLOs6I5BGm-7zrdutWCKQ5rOI6Kph5vNvbLYezZFGC5jqIwWub6IqaFCl_LfXCEIM7OjS1wQY2wkGAyEhi8tl7zqPYp1COuW5n0CQP24Emk7O2ctEF-56iHrgK7xBHzXovvxQas6mZgCzfUd-N7BIQXd2jSw6ONez0JRnQkJ1XhRoUWQkOrcXQ-GXZrNtHmETew7iyNWs", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 4.5, 
+        "name": "Shopping Avenida Center", 
+        "reference": "CoQBdgAAAEQ78WEcs-8UPRHBFeSzKKxk_1efjHwHlG9QdcVD2cGAG-g5qIHrLfaRuE_mwCDLp4IrJsTsN6Yqd9YNNl7EVE_dyHdxxPl2YbwFVbudFVvt6_q2D2INjSitm2hbKRcQan6N6SHJ2iGctVwhTp603gF-xgGCuYeb2DHj99RpwgQeEhBw9zAyKX0Ay1aiMIld-Pn3GhTGqgc0TrDw1S2vSGyLy7ZxeUeu3g", 
+        "geometry": {
+          "location": {
+            "lat": -23.419544, 
+            "lng": -51.932862
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo - Maring\u00e1", 
+        "id": "0bcf379a942812c73b5fd5bec82d06f25c477168", 
+        "types": [
+          "shopping_mall", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Polishop - Shopping Maring\u00e1 Park", 
+        "reference": "CoQBfwAAANSrAOHq_wCs63kOH6UP8K51xXJ5C1tG7uUWeEZmv9cpRBtvzvehD1BP-PLvg46vjNGM3hz1shVEP65mMlfU2qwHaVoEFknN839uuqzibt7rZ373LYSNNgDY4QeXe08R5OgDDzQo41RuWBECw8h_KCcyqQniECk1Gjcz7qpYJNQSEhA8IfrAqOXbx_jL0cGvbsbgGhTIVScEHUmO8smpyb5jlz7iPmRN0w", 
+        "geometry": {
+          "location": {
+            "lat": -23.422674, 
+            "lng": -51.932972
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Paulo, 120, Maring\u00e1", 
+        "id": "134c62bb80170e6d4ee23753e0c90fab9814416c", 
+        "types": [
+          "shopping_mall", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 4.2, 
+        "name": "Cine Avenida", 
+        "reference": "CnRqAAAA3GWb4Sz9DNauxBG0lrb7Q81FVdZX8AXqfn1IAhc89onpkgU43LT7OrFl4dPAKabU9dHoxumOMFJ1QgjPKyN2zpj4LkZHcSmAb1BSSMDsUCGOfdvhH9W5X0YFBap5gv0sSE1baQ0h5ILRI340jVE8EBIQbEHCWOArxdrVdeeT1AAiwBoUCdkOgxQbOLg172Wm-EpRuBdxACI", 
+        "geometry": {
+          "location": {
+            "lat": -23.419797, 
+            "lng": -51.932615
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 3094, Zona 2 - Maring\u00e1", 
+        "id": "9329206de29f7ae1c167340accb55994e8305012", 
+        "types": [
+          "movie_theater", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png"
+      }, 
+      {
+        "rating": 4.6, 
+        "name": "Joalheria Big Ben", 
+        "reference": "CnRwAAAA_mf2ZDm_9-Y4p1x42o2_88u9boXBCyUuEcR_mJfH9TolDDMvCSw53rU-_3tlopmzxpMbtb7B5YlwqO-ssovJPvAHMPzZk5hRwwDxRIVrOGB8WRQ1HqEYM5LbdSO6_qM0lsUFp6W7eB-aUbnSPnKCaRIQ3gjzGAYWgr1z4bl_71ha2RoUyyRw805KLby4sVvcCrFg7zXxvgc", 
+        "geometry": {
+          "location": {
+            "lat": -23.422676, 
+            "lng": -51.932897
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 120 - Zona 01, Maring\u00e1", 
+        "id": "92eca3a0ef34050f09fdf68934e4c2a0892cb432", 
+        "types": [
+          "shopping_mall", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Lojas Americanas", 
+        "reference": "CnRuAAAAEr2tQSPJHsymDt9AZjp-_yyLzcWlL7lyCgz8L9Z9mq4wzAR5TJQZmYTIM6RPUFh9p_dxMUdyNMFEOpR4gLG-ABsKLOnY6G8MMzbaQKdlLmkdO8wSNS-9irivkyXB43Z3NzK1QR5ewGnJWaa0Wgd1uhIQmZFx9iH8qehaRZg4fWHp0xoU9pkn-Xzq2mFTczs_NYfEDPvLWnM", 
+        "geometry": {
+          "location": {
+            "lat": -23.421462, 
+            "lng": -51.932716
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3171 - Zona 01, Maring\u00e1", 
+        "id": "75cba9269ff99cb2c804edadbf418cdd73cc47b1", 
+        "types": [
+          "department_store", 
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "rating": 4.5, 
+        "name": "Faculdade Metropolitana de Maring\u00e1", 
+        "reference": "CpQBggAAACJYUDv0hGznAK-qrI3-uJE5X7mpxQYtx0rl03-OB9DQEZLL_vBW32KBVsBNx1tJvm9wqgMQglpeMWWGtEE513ckWpu8jVaPqQXCpAPNlRXdaQmwQ3xtvZ6ByVRxirJPL-1DU4r0yYD2TGP8ft-euPZTXzrR97XRYYr563vxmayLz3FzDqa7o8YuDBVpwB-xMRIQcrZ37oBCzkTRvmk6spv3ABoUIdErvOCMdp-S6H9NqE0cYe_s8B8", 
+        "geometry": {
+          "location": {
+            "lat": -23.41991, 
+            "lng": -51.930077
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2854 - Centro Maring\u00e1 - PR 87013-160, Brasil", 
+        "id": "3b721ce9bbc389c7d0c7d37690420eba8bb725a9", 
+        "types": [
+          "university", 
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png"
+      }, 
+      {
+        "name": "Mercadorama", 
+        "reference": "CnRpAAAAuLczNORIpKbixH72kuZoiLSuyJfWaBg1VYOzRZh6kfil-cWtGbhnqOKuDakB6hYznzxhI3xmaHXTfbEwCYXMm0oSzLTXgyj-qWqC4Vbe3T2prElUriqOpaE10l3f5i4fftSJy1ZuJ4m20oHSxvk04RIQBfgO25yrQkpJkN42oig95xoUBGIjqzOFnH5U7YsHOVDkL2SQ3NM", 
+        "geometry": {
+          "location": {
+            "lat": -23.423365, 
+            "lng": -51.932903
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 42 - Centro, Maring\u00e1", 
+        "id": "6dfc86ba178751c2a834a4b35202857c00452d06", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Cidade Verde", 
+        "reference": "CoQBdwAAAEbhw538QCLKcTmY1Lbb5e0RU013r7SZJ5iR2w8gbXuPm1IU16JucLki3OWozoHBhzQUwlXYGf8VzVf7lmpY3Z27zF7ljY2hjlfI7G6SEN_BMM4PZFc-9sfr2LyWODNWSYUJf9DNfjGg0bQmmwqubJnoY5w7KISqZ65CrnFnLvZLEhDCq5OBcEZuv3jSywCoGd1GGhQprtQ93OQT5DROU6huZr0vZvt1Hw", 
+        "geometry": {
+          "location": {
+            "lat": -23.422856, 
+            "lng": -51.931678
+          }
+        }, 
+        "vicinity": "R. Neo Alves Martins, 1812 - Zona 01, Maring\u00e1 - PR, 87013-070", 
+        "id": "35175fb40a0d85b6a655ffb56ef397506986cdc5", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ri Happy", 
+        "reference": "CnRnAAAA841V_oOEFUK8bqnVfYAcHZB7pEpZDVrIpAWD9fZetkZiRswKyLJz2uMCcv-kN8jFSjMeNCtocpfxAZzMUfKMd6dpnq44sZn6z7gCrKhH3NLp3B7laC6m67aM0whDzf3EYym-intthpF37KXR71Xx-hIQ_w5n3Z8jhTaiUIk_BEG3dxoUFc05tE9l8h2FS64nQUh-IWaRLEM", 
+        "geometry": {
+          "location": {
+            "lat": -23.419797, 
+            "lng": -51.932616
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 3094, Centro - Maring\u00e1", 
+        "id": "c5eca42cb32d598468e66e2eac40897bb6854108", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 4.3, 
+        "name": "Pizzaria La G\u00f4ndola", 
+        "reference": "CoQBcwAAAP1nx-4tl0MpAluagnA7oX_I08vIdNOKtnHbcmvP0JOsd9Go5oQWER82M5oueXgQMcuWfCQ5hQ6k4FaJI37PZVIGdTHzQyfn9VPyy3PFTJJMTvQb8AWUY8a5tHYThOt5uji5d4jFUCx2Bre821Ho4blhRhJtducQAiqJRVr6fhEOEhDC8hhyPN84uNQbcNCt6jpjGhQnUZCHkB97vO4JYoc-wTewZkXfFg", 
+        "geometry": {
+          "location": {
+            "lat": -23.422906, 
+            "lng": -51.934474
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2087 - Maring\u00e1", 
+        "id": "80397167fd4a951e73ce4800dfb588cd2b55d1eb", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Banco Bradesco S/A", 
+        "reference": "CnRwAAAAy4RWudrPr4JKfdOOF3tOhlU5fgaQ90qiOY3SVgz6F1WizBRhgPvLm3VczI6lxQSxbtymtzYQ-J-b2exOvJMpTEvKzmSr7OPGM_pI_EK5xOByW7GiPldZo5FAeP_bjOCT5ipBQBSy2qZegOIZQ6PvBBIQmZhXs4hSr126w_Mjx7W8FBoUYgznDQeBOkB8vcnH01KYCRVc8KI", 
+        "geometry": {
+          "location": {
+            "lat": -23.420804, 
+            "lng": -51.932801
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3150 - Capibaribe, Maring\u00e1", 
+        "id": "c7f90f2497473a15972078b0b37080a25b2eb7b5", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Bazar Shopping M", 
+        "reference": "CnRvAAAAJT9QGALv-yqIIa8mi3tFE5AW0H8iYDoylQVFnonc5eYf17zwTaeonay__zJqAkfQXv9USPDHCO_12PN-teEGCabJlsl67pjhCOe1zsFPGt5jpc5SzdlcE3hjZeJBkb_pNR-27fKYwIBYt18GM7VOfBIQOu4Zgm7KJkspA-wcZ6rBpBoUWYFLAYDvVoNtyBWVpuuU4_YItWY", 
+        "geometry": {
+          "location": {
+            "lat": -23.419843, 
+            "lng": -51.933678
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 62 - Zona 01, Maring\u00e1", 
+        "id": "66f8b886fdb00738b108bac566ff5251a2e74149", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Lojas Colombo", 
+        "reference": "CnRsAAAA5f8IsaLujn22rvCegpUlw_TAqqI5QiDNwVCDRDvc0wvCwtKK94G_2fs1eLCDOGrza-dUtCMDrcmSf355adaRT9Jwhfn5TQ7Cjyy6fOate1RLM_v8iWD0MW8LrTGPfuScDT_aHQOrwcW_WWEelpdS-hIQ6nGthjUmZn1CIDcRU_n1QRoUf7mNFLtKIERr97lRuC3A33wuUI0", 
+        "geometry": {
+          "location": {
+            "lat": -23.420861, 
+            "lng": -51.93375
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3252 - Centro, Maring\u00e1", 
+        "id": "bd199ec57d9915075a37f33a876276543c8241eb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Job Center", 
+        "reference": "CnRoAAAAg5KN_kVHovs0KsN2V4Eu-KsKONCkjyp4OSfCJFuTZpIBvImYvv0OWp0EDxNxYL8jZUmC0GcvKPRRG6gbpHaktzAUvqVY5a1a3bMJcFRwQCUe6dESHUSiztybw4NFFFtM2ZmnIE0WVqmSavY8cALlthIQzXrnDKO6GA0u5CLY2rVH0RoUzwjm06_thheu6gqhhLZJl5Ep7To", 
+        "geometry": {
+          "location": {
+            "lat": -23.422729, 
+            "lng": -51.934174
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2074 - Zona 01, Maring\u00e1", 
+        "id": "1d7c9a8cc9d1114f523ed1919e75f56dc62736a0", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia S\u00e3o Paulo", 
+        "reference": "CoQBcwAAAI68v__Q9QGVY8r9-4MEGQes0dahou61sFNyNZ7ssaxf7t8wqPdQwIPJ_1MTIk42NowB8DsZU8CtvP3-aIbX0biP7tO7zMxV7alO_t0J1O68l0_SNsMJ4f8o8sloeXhi3zUQiOUyF1DoP9YPcSTUMIzK2rw6GUdpvQoF1WwzAapkEhBiPrF6XJklwqT4Epa_Cm17GhT3CYuXgOVRM2W349LR--CwLnABeA", 
+        "geometry": {
+          "location": {
+            "lat": -23.421103, 
+            "lng": -51.93375
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3241 - Maring\u00e1", 
+        "id": "7ef6b9c5698ef936c0bd2a845e92ac02b937922c", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "DIAS BIKE & MOTO", 
+        "reference": "CnRvAAAA5JGWqsEaffoPMotMASlB4vAtFBZFGopF2NmvrzhH2C5SsCPzcBsQEUIFmd4QcvCjfWhnpVOtt5fjOuoErtoW11rV5T3tYdg_vfPGGyNM_K3ZX5vG2FYt3PYgHeXYixE-igCNctLH2Juu5M4xtm7UWhIQdGZkrZNeI1BMC7mW_eRE3BoU7xh4_aYf9S18ZTP8tu0bpXA6YTA", 
+        "geometry": {
+          "location": {
+            "lat": -23.420091, 
+            "lng": -51.931286
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2979 - Centro, Maring\u00e1", 
+        "id": "fbc8aa29c21cdad9345f6463481b665293ab19eb", 
+        "types": [
+          "bicycle_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 4.0, 
+        "name": "Pizzaria e Restaurante Mill\u00e3o", 
+        "reference": "CoQBfQAAAFkRAra38P8BVFILZpZbx5famjqiosFZCAlFmVvyrMkQwkCdAKmqVaoM_cImoUPk1ka09HfO4-6IrzVeFJSLWjXkUSJOKc-Om_herzrojjcDwDI97Jv4S3Y7hBGtuTTzzGN-R6MCvl0_yCuuvTybYIQJRRjlhZWWJNj4CiLjiLG3EhDFHMK36unHse8kuwK0ri7lGhTo6m9OHuDaWgVmICiLJzz5OMapWQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.41956, 
+            "lng": -51.933208
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 453 - Zona 01, Maring\u00e1", 
+        "id": "865052057be4e4b16a5cb05ed407e0810a7fe60e", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Wizard Maring\u00e1", 
+        "reference": "CnRtAAAAZVGLW0SPMMPljkK8tPvYwh7pYEGazo7BIMP-B0R41cP0mDTjEU_zPw2hSuE2E6piDSrEKDWeW7ZwUE-gLoISEFTy0-eRFDDb_1HziTR6vVTuI3r_4SDPP_1pH8H7wDpwweXPtXcqiDutVrJ1dBLKHxIQiK1DK9SC76ryQbvKqr5uZRoUTiwbfS5WEWoM8woV9boF9Gdy_Mo", 
+        "geometry": {
+          "location": {
+            "lat": -23.422726, 
+            "lng": -51.934487
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2100 - Zona 03, Maring\u00e1", 
+        "id": "8456bdc17ad4d52bbc41955e29cb5f6b62c25ab3", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 09", 
+        "reference": "CnRvAAAAf76LUu9VGCCcca_45BYRyM4gXF6qRBEmowDS3pF8fPHuXThg-bassV3NwkHWUM8_-XIVWkmYwAhiKc-KNJ3Y52Nzu1bDSGRxM98_8nJqnnHTH6nviBz25wFyab-DzuiuuqsXdonbTTJ67WbRwM320hIQA_ESMMumW_qHYqWMJWhPthoU5S0XL4MGKi31wjQxUDfS3Zc6Nz8", 
+        "geometry": {
+          "location": {
+            "lat": -23.417965, 
+            "lng": -51.9322262
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.415662, 
+              "lng": -51.9105375
+            }, 
+            "southwest": {
+              "lat": -23.4259612, 
+              "lng": -51.9543347
+            }
+          }
+        }, 
+        "vicinity": "Zona 09", 
+        "id": "7284bd507b5dd6bfe2c889b14ad307bf79179dff", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAMQ59tdSyf8UXtvW5bMDUjU3hggqfv9cS2Ylv4494jU9GTfGohn_6cfoOFU9EE9QMKf1gFzZe1Heo1c0UIJGLH5zWtqcwdssVO1WSluTFLawSEGtMFgBAYCknpxhE4alUGJ0aFKP8v7GVGekMiz0JRULfno1zw5d-", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Est\u00e1dio Willie Davids", 
+        "reference": "CoQBfgAAAPVMskQOReM0bXbog_zJcuEFRQOREpFtZzm4lPrKzACW6uzRd_dv-Nf8zMh3eAc1dPIQbXr1chXG3XDDN_lfs8EdU8HUAUbFkhVtIwYmtwlAjL40FAGhcd7qs09xUTxiiuhNu44Rpxha90gfR37aLDJqoOfaqEFNQ9KNYoXJkZOIEhAkYYMkIYCHdLozFWFO6vBhGhSL6H0aDIJMvhnx5hfdL8T3Xam0fA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4144432, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.412916, 
+              "lng": -51.9366646
+            }, 
+            "southwest": {
+              "lat": -23.4156136, 
+              "lng": -51.9395292
+            }
+          }
+        }, 
+        "vicinity": "Zona 07", 
+        "id": "f9a5bd24b24bf26561ff36abb6a4450cc0c07253", 
+        "types": [
+          "stadium", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png"
+      }, 
+      {
+        "name": "Novo Centro", 
+        "reference": "CoQBcwAAAMYE-gU4-i2qQBQuRje-P6Y4J08WYYnqaW2mDMlUTwwqsbhCCi0CtTE7sPuck1lbdvTjNMtl1GxHuHKeI_FlS-iKLrow0Vi-BnOBMB8CfSNWeZsXTSiAV7x-FrlwPTD7hAEactXmYPKI2wAb0UrODoiLqXJhR-IHHqQmDmForDxWEhAtxt1e9bN-bX2YVpSifqE3GhSTvJTrE7hQZ1Y0xelOwmEwh7b4tQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4194757, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4159091, 
+              "lng": -51.935066
+            }, 
+            "southwest": {
+              "lat": -23.4239321, 
+              "lng": -51.9430111
+            }
+          }
+        }, 
+        "vicinity": "Novo Centro", 
+        "id": "ba7d65acda1ade5c852489a4a236c81685295f7f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 5.0, 
+        "name": "Imobili\u00e1ria Op\u00e7\u00e3o Im\u00f3veis", 
+        "reference": "CoQBewAAABeJ5g7-mLoq1VUYTpBP-voQdX6QWwvr3B6amjrAHJ6c_PIk3JQ2EAXRdGc01RqjymQuv_ZwFLHifsuWhx3kAR5N2IZvmB2H7gCCZPGV-g2cLiCInJknCbFLKcUQReg0_tEjsCS3fkmX_bLVWRWXX0nfYwk93xbjLetpQqWTsRK6EhAyfMrL6xuJGwrYph-Gl04QGhQn0G5bY4unqIa_SB6yK43XtIf_dg", 
+        "geometry": {
+          "location": {
+            "lat": -23.415585, 
+            "lng": -51.936532
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Prudente de Morais, 346 - Zona 07, Maring\u00e1", 
+        "id": "062cc74e478a93581ffb0ca00f3af299fe03a32e", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Syma Inform\u00e1tica", 
+        "reference": "CnRvAAAA3aOexw185qaFBC31aYUGDGC7jUFTdaBNNXDr0BdQ33McWVOraUFb253GY2iQ-wzSokIWZ3vvm-n6yC263KOflw1MNnOknfDDtqIbjzuNbpoET43MNpkLx5a5O9TTGtleguVVx870AG7ooLcCEE8k4xIQiX3wCEx9_mGrmQgZzDDmIRoUwhIHb4v897GC0rdbLwpz1CfKwkM", 
+        "geometry": {
+          "location": {
+            "lat": -23.417043, 
+            "lng": -51.939732
+          }
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 672 - Zona 07, Maring\u00e1", 
+        "id": "0cbe9d29ac5e42f73ba2e0adb7e8e5a1182d3585", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Compubr\u00e1s Computadores e Perif\u00e9ricos", 
+        "reference": "CpQBhAAAAMBEgTpyfcFCQsjVCiM8-8bt2Pq5ZR0b0NQonuewdw3mt1sWxBNW5LKLkHfuW0yf5urkl9Onlmicy59uH7BPLMUzukO8fubupG6fHWdbyQ8v58S8iIcm7zWLy66j7ziJh_WmRwsBesynTgZpAiiGQGkNE1YiHPVXREd7gFuBduH_JK_4zvy8qviN04h9frZtdRIQ1GpARmo7eEVFTD1EjNgHghoUe6j_5FMBY2z0YnU-l62eOCHWZw4", 
+        "geometry": {
+          "location": {
+            "lat": -23.417154, 
+            "lng": -51.937793
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 532 - Zona 09, Maring\u00e1", 
+        "id": "2a2a80f54398160040513188d5ac179c7ccb3b69", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Agil Im\u00f3veis", 
+        "reference": "CnRrAAAA69pKVwgAT5vvnVLvFATYOeVIriUkLYYF-H8myZpZLqbsPZmSb0WNv11Zi_mKCOwJzbh82qszV6DE-c8BFlr3Jl-A9rbaykXi9DUxsDu7OGf1RzaSuBpVS6ACcRlRH-KuDjwYpBsm58wJsO34IODzmRIQDKxyxwkypPBUa2luZKKIJRoURO4EXApxYMzWPcDdD4gylq-KqMc", 
+        "geometry": {
+          "location": {
+            "lat": -23.415604, 
+            "lng": -51.940027
+          }
+        }, 
+        "vicinity": "Avenida Prudente de Morais, 690 - Zona 07, Maring\u00e1", 
+        "id": "d86ddd2670b9e2e916bf83fa0ddd965fd9d79c80", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "R4 / Teracom - Provedor Internet", 
+        "reference": "CoQBfwAAAElZp422JBtayNmy5gVj15nZHigyE5iklOsrd_79Polh9-dglVKP-n0OthMjKyzuHYn2Qm2YRNNEzRd7VHwVaURkWdQ4NOcfTVLHQs-rNJH7bPV5wndrAyYck8k1hnKx83pnfxH8hvF_uLaQqybnJpoTYXyjFIMWw9Xj8sHL3lvCEhDsfOq3_fRRRKSL5bIZVODeGhQw188oLGwE2FoWEC87NNPjGCglxQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.417415, 
+            "lng": -51.939516
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 882 - Zona 01, Maring\u00e1", 
+        "id": "a843047a46929498e1f6ab9d94113e920f6e2d35", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Id Brasil", 
+        "reference": "CnRoAAAAQuDVfpdOmgMUbbDDrRxgvl5xCNaat151beKdbbzwD8hlQOTwVgbVPDtWZQYnIShrK5eNL_T-R6HCzUr-MD5b456cx0TmaC2WJoO_mdBhlmk4mXZC1wESbOysM3nR1L8l2hGvxJy0pBjc-9PyTAtetBIQzS2AlyrvG7QhLm9I5_GZpxoUBSTJJCive3wdTmzegXhhlILBkYM", 
+        "geometry": {
+          "location": {
+            "lat": -23.417415, 
+            "lng": -51.939516
+          }
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 882 - Zona 01, Maring\u00e1", 
+        "id": "709cf51f1bee2c20d1b0003726294e247ca59539", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Col\u00e9gio Universit\u00e1rio Maring\u00e1", 
+        "reference": "CoQBfgAAALlYL3sZUWBo6YAA14jJUzu-scHya0iwOBFuEhndnqIc5MvCz-nic95YyLBYRnGXzEXC2WGX-VQwYYOeeZ7WifZZN0bazTZm1mMIpiO5o8DxCDxc2yUYannVodmA-qYxlfEz8s3pCMZJMEJOgyLvJ0KUWyXW2E316bS3OKJ6TeoLEhCEud8JqiTQpCmY0un2iUeLGhSl-a7_uBQYsUxFxsUOYp1N_Eu78Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.415909, 
+            "lng": -51.940289
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Moraes, 735 - Novo Centro -, Avenida Prudente de Morais - Maring\u00e1", 
+        "id": "169a40bc18f3e9504f234ae70ae2fba17be89470", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "ANTENAS MARINGA - SKY", 
+        "reference": "CoQBdAAAALsfi5rZi52Swmj7HH4nb3UxmsFaxl8De3iuhUGPtuvMi-B8g61BopsBJ8eywICxtRBiIFhmkYscwLDyRRlio51gQuc8ng393btMz8tZJCRarD0J6VmwhwOhAGIfiW8EsyPsn8sAEw6pT3zg0AkoXgbCDksHwly0f5slr412xhB-EhBRd-rnhWNpqObOJR3BwlaUGhSmV6Flc27pWAbo-sKu9M3f1HNgGw", 
+        "geometry": {
+          "location": {
+            "lat": -23.416993, 
+            "lng": -51.936409
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Herval, 944 - Zona 09, Maring\u00e1", 
+        "id": "cf0f3a591a4ff46cb5017c5efc9c78ac4208bb39", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Priori Curso Avan\u00e7ados", 
+        "reference": "CoQBdQAAACfJHNRoaoBkRXDTITSuM2Qs28fbZQL8YM_f9Y8xqjv4-fpsyXIrbC6cSwnOrSYZhQQ9LqdoYc2-Ope9ebFxX613KNbuPIqfrF3ZDS5LDj1u57yFmwr5rgTLT006OV4_xtWxSVUt-CRoX5R5eetSAg6lPYlL7anDTsgSHlYy3ehkEhDotXzAqy_pgYesZuSHWya7GhTAdRaZFMVrXMv1KqqZ3chvOg9DlA", 
+        "geometry": {
+          "location": {
+            "lat": -23.417076, 
+            "lng": -51.938084
+          }
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 512 - Zona 07, Maring\u00e1", 
+        "id": "52c6f8a75e71aa69017a8deffb0bea855a382f1a", 
+        "types": [
+          "university", 
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png"
+      }, 
+      {
+        "name": "Est\u00e9tica Academia", 
+        "reference": "CoQBcQAAAMx2wBk3SQ0Q2SOikknqwWEotFpaoJzwDOeJVqzhefAYkDkYU7HwrCuhiI4gxsDSIFixJhdfeJ0N27dhNQGQbHvnKXeautilw7wJdcleIJSk8XwiQanYhdeALnJchB30YsNsSYMO6oVTMiQ6txbB57LZLYLfCl9Upx5AQftez39XEhBUEh2ars_GR06NxLmdL3PqGhTb-kVXWLZpA-QOzSF3eBDTDkph9g", 
+        "geometry": {
+          "location": {
+            "lat": -23.416844, 
+            "lng": -51.936731
+          }
+        }, 
+        "vicinity": "Avenida Herval, 951 - Zona 07, Maring\u00e1", 
+        "id": "620a00e8365643b46539f40fde8270efb0f3fa65", 
+        "types": [
+          "gym", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png"
+      }, 
+      {
+        "name": "Soet P\u00f3s Gradua\u00e7\u00e3o", 
+        "reference": "CoQBcwAAANrUr4DDo7I-qROrF3XkL2X8Gd3DxDI0S3XEFQaJh2UFIbGPX50KqXx4aSXkkGdDgE1pT0b8kTYQLbBPXTYgMLrCoYwBYCK8LmGbppt9wnVCFD8ww3G5EaOxAs5my7VJ79ZJ9S-LzSOary97KXMFwL7kwtYw4rV9H0H1TjhA9o0EEhDrisQCOsJRs4jBO1BB--5QGhR_W9EUYs22nAVHZVroJNbbYrZL4g", 
+        "geometry": {
+          "location": {
+            "lat": -23.417415, 
+            "lng": -51.939516
+          }
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 882 - Zona 01, Maring\u00e1", 
+        "id": "861b3c9488dad90ebce57d27ea9b91e3f6546047", 
+        "types": [
+          "university", 
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png"
+      }, 
+      {
+        "name": "Funda\u00e7\u00e3o \u00cdsis Bruder", 
+        "reference": "CoQBdQAAABOa3cMlS_MTEuhrpdZAP25cRrLdQiYIxf6rOXim1zB5eiS1kE1DbhwF_v80FNkMUJZT6IMGKEIkomN83rsHT24sAo8Pa_IYtHOFjbKcOqUCU2idvT1wyJNWovpjHPirvlYX90Dh2nSZhqFL3kD7D-3t9dbAEmuzgk4Q7IVCU8pUEhDLELRnDx_M4gw5zbNrXfp-GhRXoTj6SdZWnriDZk6GJgOijh23Ew", 
+        "geometry": {
+          "location": {
+            "lat": -23.417684, 
+            "lng": -51.939562
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "CEP, Avenida Duque de Caxias, 882 - Zona 01, Maring\u00e1", 
+        "id": "2b9d8deac1d0300d7827f0005b436acae961bf87", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "FCV - Faculdade Cidade Verde", 
+        "reference": "CoQBegAAALF8Kdbr-WHXz5vM26lVRmNrPi4dy2oumDJgpBPT198RouiaZ3BQ6GUV-QQApa4oJSC0fC-nuF_SggNIMaYdRMugYwy478Fl84NLAV2tjvpNd6iMy-NFElQVPq3Jxz3cPKjtgFvlsJgRenr2DI9dYsZU18ouMNvzUefkDYOHdD5QEhAp8HHZjwvhzyi2DobcyRSLGhSK5bklsYRW754kQrCu07KOg-aoag", 
+        "geometry": {
+          "location": {
+            "lat": -23.418045, 
+            "lng": -51.939475
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Hor\u00e1cio Raccanello Filho, 5950, Maring\u00e1", 
+        "id": "faa91181f725d8b8a46b420584086c68f19ecc40", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "COREN-Conselho Regional de Enfermagem do Paran\u00e1", 
+        "reference": "CpQBjwAAAGSd9zA8Gih5wR91LINyb56S_kyA6xNel4FlNQDfRFxpqlA7MIlzee6M1A_Cn25Y7-cMFI5B_FTnksndlCL70NJQDVfYjeKKysFx8ktvWyiZRzOZON_QrQnbD7Gzneby2yJSpk-sI5DbTD-s4O9Yy-h3Wr5IjiSuQeulLjZkcXtE8-h0DOg6AMESSEcMEVRBihIQd4mGL9KHtoTccuznjclr2BoUlJBhdLfclWFvNn1yvqFQYO0A0W4", 
+        "geometry": {
+          "location": {
+            "lat": -23.417074, 
+            "lng": -51.936495
+          }
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 362 - Maring\u00e1", 
+        "id": "96b6ebdfa3bbf11e6d69084dc0ea00633419e419", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Inform\u00e1tica Publisoft", 
+        "reference": "CoQBdQAAAOAmtcXdWw0Gm6V89Tkjuys5z_skkAyi7kOZS7YIyPbds_cyEm6lNQTMTkA0R5R_GuRvrvYr1BIz0gW2R7uNbNhVTidugePmJ8JTHBcEXSIAQLhbZRFX-zARv7m7z8aIHInMnuJXkJWB6oH6T_XrbW0P7uw8kZLLkx1M2FN6JjONEhAFApsFAsuuVxpCwUal-r7CGhSFx243f8EDAhKCijTBE_Sj8qh8BQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.417043, 
+            "lng": -51.939732
+          }
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 672 - Zona 07, Maring\u00e1", 
+        "id": "06a56c5e884eb6d232b3726cc05b1af45ee8510a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "TecnoSpeed", 
+        "reference": "CnRoAAAAJ6qaUwETlOMXQ2s4P_3ZQDRHq0nxlo-TZXm4cBSy27JvGJQ9w4_S_fxZDBmMf8_-x6-67zkaWf4Mwp5bkCblazWO_f3N1DKj4SPs4W0A5mN0QjGr376iJ0aAs0CxaylC0B0v2HOGTlnbff9hpyUzeBIQIcs2OodRw4bn3PJPKInwkBoUU5sTxEOPAvqLErTkSy2ZCkEdYK0", 
+        "geometry": {
+          "location": {
+            "lat": -23.417425, 
+            "lng": -51.939517
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 882 - Zona 01, Maring\u00e1", 
+        "id": "a7b8c03a13420f9c945708c6b07e5854ee46c3af", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Tribunal Regional Eleitoral do Paran\u00e1", 
+        "reference": "CpQBhQAAAL7uxhw9RyKHENA4Z3Bq_sO_GAXsGUvMc_ptrT0pGoVRtPkl0qGavjO6aJhdYWIN7YBydgSGoEz78CKcyQWzKbEd8pd1KdafnsNdI1ZbVwijb4UOWYCAhBcp6ImhYYx9KrtF9KlheWLzrLZyqCbDCS76pEggYBzqDFNBDQVrwDfkRu8tb_2RxtRayjNAAS6o6RIQl5Gk0c8T3o2Ga8JsQoxXyBoULHwqRkzJQyQ2H4m8klsi25rkAjA", 
+        "geometry": {
+          "location": {
+            "lat": -23.416778, 
+            "lng": -51.93641
+          }
+        }, 
+        "vicinity": "Avenida Herval, 968 - Maring\u00e1", 
+        "id": "7f5ac9dfb4cc9f2c8f219dd30f78bceb94321444", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 01", 
+        "reference": "CnRvAAAA2il1yb1mikGAa8ueYjswaa0HwVkfcU_D3VTvcZdnkDlaO-iAx4HHAYRZ8gQk_qIH4hPMyKoitp6kz9P1qXLcE35_Bb6lMo0w6D5aopoCTWAZVTHE055XVkk4swKcl0u0YK2d2a5ypfS0p_MRDiobahIQxczG66OBIClxSCRlwYFT3hoUzPvs6vn-73kQseAi0eKux-sMUZ0", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAY3J5ktgf72-O0NBaxCP9rH04g3gz4STIdMxfRJRO0HCjzwUcNZ2DR4uwqnnGoFQGDCQjsMvwcckQJqcWtJ-1JgD7xCg8-DuBfHxNMJizj_4SEAe_VJXvzcrcoeNINEGCemcaFCUnik0B5tMOSdfXC53fFDZlXQu_", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Parque do Ing\u00e1", 
+        "reference": "CoQBdwAAADsBEatdMNgesyakn6iyNWfnu7JbdyxDeW9DfrbUpZDGL21IvK1kJKmnSabP46k_SJwerVdbXriep1Enr8k_Kn6fC3-q42C-Gc0Wi2OcXyKIUDcIJC7UK8HCzcLf0M7-WljGgAjKrjcuUOKU5VgBID7sMQJnr1icqoXyYojGIZLMEhCO6ELKPM7zepuLTPk8ApCyGhT-uhyRFA072do7nMGna57_ppnQlw", 
+        "geometry": {
+          "location": {
+            "lat": -23.426896, 
+            "lng": -51.92825939999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.422977, 
+              "lng": -51.9247515
+            }, 
+            "southwest": {
+              "lat": -23.4332431, 
+              "lng": -51.93303969999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 02", 
+        "id": "f8475c4c106bac33eb5500857230530122c255bf", 
+        "types": [
+          "park", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 01", 
+        "reference": "CnRvAAAAAE07V38VTs6n5ik33cKB9M_OKynuRK9w27HECLCpsuk_sfzNuqukJG5kErsH97Z3Kr3xxvUXrftiX4qM1WG9Bc_nkMZBitb-lkOV3KfPtx7X6nd_SXxynsMZYPd5woHObW5f-Yhz364BvFNf4xJFmxIQv8Kw9Jzz4kSSHscEUHTXixoUFVFwwYG2vkyExtG9fROYdwvMFhI", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Cidade Verde", 
+        "reference": "CoQBdwAAANSXAyQlbXyCoXIlUIBnnuJH9OGbi66ABokOGmWjB3LZBg2kIq9YGGg5HviEQcV2PvcYCOwIyMguw6kKrdON6xi1Vx_hFbfewZfgWxQ9MWu-Rc9hhVVaC4jIKXeIla4a98s4X8xFd-I0RRvSgzV-98Oyo74fyb1XjBTxfZo2qOoGEhA6QnbjAgOKRubIZAJO27BvGhQAzN40tItvv6OY88IJBcYcXKBLTw", 
+        "geometry": {
+          "location": {
+            "lat": -23.422856, 
+            "lng": -51.931678
+          }
+        }, 
+        "vicinity": "R. Neo Alves Martins, 1812 - Zona 01, Maring\u00e1 - PR, 87013-070", 
+        "id": "35175fb40a0d85b6a655ffb56ef397506986cdc5", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Casa do Construtor - Aluguel de Equipamentos", 
+        "reference": "CpQBigAAAAIF9Xpl5YQv0td9OSCBNPe9QJoWh4fLcGX1zXl3pWuUHuyIjxlvU2IBZpXHwmv2BxNGmxQe6wMPYcf-NOc2tvcQcfVZCgWMLGcfgOzLVG64ICbmYeU_h8oJlNoTZlMXOkJRh_Mc-WDj7V0qQq2_bXIkbZsoYCoXQuWR-9Oh43uOMvGWEHJ8JnuIn5Y-KBZcPxIQIPTnwTetahj3C8ASTDZhSBoUXkPyMhyQJm05MkR6RLaXBTCoSvk", 
+        "geometry": {
+          "location": {
+            "lat": -23.420608, 
+            "lng": -51.927758
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2615 - Zona 09, Maring\u00e1", 
+        "id": "195aa646e4ca9c87770f39375b02ee1b3f241512", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panificadora Holandesa", 
+        "reference": "CoQBdAAAALM72WttHEdohZy-W8lkXYZs7c0NzwBIrpk1E10pN4guzM37sszF_YAFaVM0TAAwsTDwEkRDqFO9VkCY2WbQktC6Ug7_rO84gHsAKrh4nQ2HTH9H5xzlWRQUX4HOQ75v6Tu6TV27ZKyZGyolENEdbNw3w6tifUUO6-l_lJ650p8wEhByz3CSd7rLFxqnUkBFjWt6GhStgu1pquk9RNF9gZxGazxbMAN3gA", 
+        "geometry": {
+          "location": {
+            "lat": -23.420868, 
+            "lng": -51.930084
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 2886 - Zona 01, Maring\u00e1", 
+        "id": "51529b9c74df815a3c79d237fb9a5b0a0621e3d8", 
+        "types": [
+          "bakery", 
+          "store", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Construtora Casa Verde", 
+        "reference": "CoQBdQAAAMpc7Pf2ii4IvChq3-7QGur1Tf26jt9Te5UhD-NAaLP9W3iwC3sZLtlFvREqz126F0fmQuGarKhiYoQqkpYQtF1wAx7xs9WCqFUXvXb7lvYHF308if9XL5uV5jQ3QghgJH3Hza_LQsE1sTe_RDTsYSVV-xhXTEJ0cZbeol-t8zp8EhBp-hR0F_JndgYwcfgvrJB-GhQMK9H21D2V6e-48F2VePRj-f4RGg", 
+        "geometry": {
+          "location": {
+            "lat": -23.422787, 
+            "lng": -51.931653
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 1812 - Zona 03, Maring\u00e1", 
+        "id": "562650c0667f5ae0f68f6eef01beae900c101596", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Seno Im\u00f3veis", 
+        "reference": "CnRrAAAAYvne8Xkkjgk63g7eSiIn2HK0KWCHhKaLH3y5m-s-M3xgU12rSJ98pz9CctMa6sYg18Ve7xTf3Ie0oP-SvSuAL-XM57CTwmXV6Vcy5vm6btP6evkb4P93SyyFVr3Opa8jUMbZTBFt2LrNDc-DKbdvghIQAuR454jeku7SnNE9f71hFRoUy19Hc8HfbWbqHSRlMn9_idCavVA", 
+        "geometry": {
+          "location": {
+            "lat": -23.422042, 
+            "lng": -51.930929
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Santos Dumont, 1827 - Zona 01, Maring\u00e1", 
+        "id": "687e9c551905fee84f5403566e16bdd4d4f6b0a6", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cine Bar e Lanchonete", 
+        "reference": "CoQBdAAAALdXc__Mz9l7r8aj9cDhgb0g61g8sZBLTNXZ3hC-sKO3Jm7eazSkzFylm8PmqkHaJkpGUjsLdNfXRUsBrSL4yBhPWr9ls_50ts3D82kv1w9UVJwcGYkiBoFfShTfgAh7641VQ7IQhT7Dz4XdDt0xhf6X9qtvWAm2KZgxNieMZYvaEhCTggBIAdy5RfguoKhL_5s9GhQyW2qdBSjdARS0GnIOB3nAbGv4lQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.421134, 
+            "lng": -51.9301
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 2837 - Zona 01, Maring\u00e1", 
+        "id": "8756ac42650ffbb03e1c9138725eb0dad8a8f8b4", 
+        "types": [
+          "bar", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png"
+      }, 
+      {
+        "rating": 4.5, 
+        "name": "Floricultura Orqu\u00eddea", 
+        "reference": "CoQBdAAAAOHaVNUJ_P2Q-yJ3QJi1Pz1mC7GzZMg79FJMNg_TI4i2QmtGZSG-dVfxRADHbhUxJyKsbln4tZC_Qzl8XSC25plfpJB6qNbJ2c2sE95WVUDYgv7DfUaGsM5tC2Rg2BLnbxzUGuvjXxRnHNOyUF4DhCsGkElSHUce38WLp906reOzEhB5gblSGQmRErDciLqqYR9QGhQO8dwPFaa3tQs7L2RetvHuA9RIhw", 
+        "geometry": {
+          "location": {
+            "lat": -23.422034, 
+            "lng": -51.931453
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 1887 - Zona 01, Maring\u00e1", 
+        "id": "fc4bb6e1b0c52dd6f55eddb00790d58eee9a7e88", 
+        "types": [
+          "florist", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Promotos Pe\u00e7as e Acess\u00f3rios para Motos", 
+        "reference": "CpQBhgAAAJmaPM1f-tTx61XQ3j3khG2ULP09rBcKHqEFD0hj5DY63MmsEMoah4NudZiMCRtPLcl-BAA0YTO7KC53wq5DIB7HYkCERpktD-Q6hOnB8li6MBXuknBqwL9lym3BAxrxnQCBRKZAXYqnig7wwwwsevCvbfacJrA8deL6lInP8ZXMgYhdYZdCZj-Fqfhc_cSzwRIQ_fSskf6kdWpqQ5s-2T3ovhoUl3DDzryLbPTOqW-9a8WO7YjbI6A", 
+        "geometry": {
+          "location": {
+            "lat": -23.421868, 
+            "lng": -51.928225
+          }
+        }, 
+        "vicinity": "Avenida Laguna, 25 - Zona 01, Maring\u00e1", 
+        "id": "a20708471b6478ab4f8a1ac54939ae5def53347c", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Long Life", 
+        "reference": "CnRoAAAAKi5iiHOIDvkJcdwO2UvHRBmcPWQgQICoGZ-P4SKOMStW7uDWZiU7_uDTKOZclm0-D4BuS8ueQVtiOBRnjcaBoc_Uvt5WUp1PgsQCWb33WuP4MSNxvq2VlvR8RsCUZT199OjnhQTZVKDcA7lPzVEjYxIQFmQl6YR9uYWOd0yn1bZwghoUYUgqiStNfNFi3zSmciUe2IVtsPM", 
+        "geometry": {
+          "location": {
+            "lat": -23.421144, 
+            "lng": -51.927926
+          }
+        }, 
+        "vicinity": "Pra\u00e7a Rocha Pombo, 16 - Zona 01, Maring\u00e1", 
+        "id": "ac659662514dee7d3759b4f7d18e21e3643708f7", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Escola Shen Zhen de Arte e Cultura Oriental - Kung Fu Maring\u00e1, Origami Maring\u00e1", 
+        "reference": "CrQBrwAAAF601ThJqv9yAkAOwUr_9H_jUj8mrXoDZl6lnSc1WJVa8OIP-MmFE5JKRkvUKzjV5pBJWQniTY4pvM4pHaGRmSX0xNncInlP2lB3SkMEuYyuWZMyLO_buSvpMiFlr_VpB8G1vnLaXtE8gAfBgMQ5gMa3mH1gbW5jgAKYjYtpt3mr2tvzuQYHDZOnCAuu--tyiGk14MOaRMZ6lbd33ns4xswxXN6S76C_RRLokvpxFc7dEhBVUwStUppGC9emSo2XIKFSGhSn9YRCzrO7cJdap3tXNLKHDAJvDw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4208, 
+            "lng": -51.932041
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 3080 - Zona 01, Maring\u00e1", 
+        "id": "54fdee6c7b517e33b1d4e29a3d257bdd69687b53", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Meber Shop", 
+        "reference": "CnRoAAAA96unBfxU4oIRb2revG7rxh2Bnmi1aVw6qj9crtsL0vfEpckyCvUviNbkdE43CjoV_mt5Y1986R9GHnNO93WrLs7DVBSjuB1Elphxa9Crt8SUUEBdGB-i1AuZrXDT1C8lQhmH7Qwvjd7lXNIqJZ5NrhIQFFqpiacD8AfVVU0R1fI4hBoUn_5hdroAa43DdOOoZKsc62EoiWw", 
+        "geometry": {
+          "location": {
+            "lat": -23.420794, 
+            "lng": -51.928956
+          }
+        }, 
+        "vicinity": "Pra\u00e7a Rocha Pombo, 124 - Zona 01, Maring\u00e1", 
+        "id": "51758e3acab11a7d3bb52e3ac4ff710099f8ddbe", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pipiui Moda Infantil", 
+        "reference": "CoQBcgAAAC7D6sFToaaXfiywNFO2Xf-jnrzSnUbCVijpm9IC8cQLAFXTr1K598fMRxAi59BRDYnFjW2AUkE1P6Gh5Pxqbpph32A9Gq82bxXfy5gM50aUZft-mEeOYuyw49L3_Ipimxgd8FoOR_5rOSQiKSCPLMG5amAkc0yAjqiIxA1n6cMXEhD5tkjS_7-Rk0Hpo1ygZwa-GhTyYUk-3RDpqPi9KJxpgueL6PXcLw", 
+        "geometry": {
+          "location": {
+            "lat": -23.420811, 
+            "lng": -51.93111
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 2974 - Maring\u00e1", 
+        "id": "6c48ca9133dba1c6f52d75c593e5039972afd880", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Lavanderia 5\u00e0Sec", 
+        "reference": "CnRwAAAAX6eSdWCC4ilFp26kfwn_iNEskSPfsYgBe2yvWCSzJB8ta9U1eG_n0dBG7mMOvA93Ol6urI5oisCJThuHWn-0RX2bRYzO938lIGR8qE3d1ZW-zCQ0YMirPNxF7wal21g4w8ORZfcYZ3-eFjSmC9I0ShIQCft3lUETflOPa-UtAVmsahoU_PM_HhoHNGiFE3iBlrkOcnXOr0M", 
+        "geometry": {
+          "location": {
+            "lat": -23.42305, 
+            "lng": -51.928687
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 1524 - Zona 01, Maring\u00e1", 
+        "id": "abfb3327da52e3dc92a343e78ffdd0d9c29679f4", 
+        "types": [
+          "laundry", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Floricultura Yohana", 
+        "reference": "CoQBcQAAABjXJHd5IjXaqniYdWGEYS2nNkGcaYSNX73RhU0IxNMQg-z5QP7a1A7Z-GHE7gPSc89eBQUJG9_xnH0UiMtA_IDsl398_EmCviPUeAhJFs7bSIg0zidvKY5lkv_Irz34sMD88O1LhHObK9WR_GuMdd3ZgUw5AIF2FMYCgOQj8uHqEhClgGUVWU-_k3MVfIBjBWptGhRGbz1Owkrhf20mgl-Pae_AXRwa1A", 
+        "geometry": {
+          "location": {
+            "lat": -23.422073, 
+            "lng": -51.929853
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 1731 - Zona 01, Maring\u00e1", 
+        "id": "033b04c3cb617fd97b91e527f9b9ec6a7f7ededf", 
+        "types": [
+          "florist", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Entre nos Bordados Computadorizados", 
+        "reference": "CpQBgQAAANO6r8XdGHJFpqprfxRsq4iRRpUdv_vTYBkjfcvDZgkVuPdArwghbyyH1cy7UtgMiDAkG3GwmLHP6SbXRy-eC_C_HtgsqLotgUdEdyIc9Hq1t9qJlhk_X4lxc0aoSVvWDQGdntRgMP0fduIgNZPrDV1f3H2nTQvPsMWVGpjp_0vHVeMFgFXAdvY6Ido7tFVr1BIQ2S4xKrhLG7L8kqGwPAnJ0xoUO-HIEccRXXcwlCzhzMXo2YVQIEw", 
+        "geometry": {
+          "location": {
+            "lat": -23.421864, 
+            "lng": -51.930284
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 1802 - Zona 01, Maring\u00e1", 
+        "id": "c2b91d94f171f5c07f7ceaabf3c88a1ceac76c9c", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Seriart", 
+        "reference": "CnRmAAAAnTXQ-n8mSqX4mgMCZsHrMFaElnqU-zxN1KZRvCfM4xpHdVD3wnnMo1sVB-7QjvUewrHqzPakdbHZtRI1xgyHedAOOdYRR0Rz9DvSE657MULDw9ecNVDnGtOS-PH3TUwASFx5efuX5ZaF3A1P0wvakRIQuDA2IEfl_IhtRkcXbGkV7xoU3-b_1sB8JWZSZCw--4jhuhnMraY", 
+        "geometry": {
+          "location": {
+            "lat": -23.424032, 
+            "lng": -51.927772
+          }
+        }, 
+        "vicinity": "Avenida Laguna, 245 - Zona 03, Maring\u00e1", 
+        "id": "c45fa797652d502b60bb9c9bddd47d6ee1473810", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Magnani Imoveis Ltda", 
+        "reference": "CoQBcgAAANrxgP_WH1B0Q9X9ik3wuIYO-QYMwSXGv_t3UE0JtrNNgMF3Upr0RTWPWLijqT_HaXu9xn8LDkw6T2m4KyPnSEPurQNArRlc1L_8UjOBbFK7W4FamQUfRRCw5ykkw-T7E70geegb76OD9Sh3RShlPMfsFfh4EYxBli4aWC37LrDYEhC_JeBOA4vMQeaYyvYfYXl5GhRT7rLOU1KxSz4CQ5caciXvglYM6g", 
+        "geometry": {
+          "location": {
+            "lat": -23.421892, 
+            "lng": -51.928557
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Laguna, 20 - Zona 01, Maring\u00e1", 
+        "id": "f2767155a546b027daecf83406cdb44426742607", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 03", 
+        "reference": "CnRvAAAAgWATF0NkvT2c8I-eIPsPta84lwo9RGvaUReeqzPhNYpWN6UtP-qY2yHm_e6I1Ng6acvODVuSAJZuWuGrx5gDne__2FGP6YpEU7Fxe7Nt7IOZq14PTUJm-q6LbrMwDcDU2WjhFyTduSIMB2DhoZtCQBIQBuEtjbY-WuMwSUZ5n5TPShoUTWlz4z9BOTk_qmEI9yvL69t-qlg", 
+        "geometry": {
+          "location": {
+            "lat": -23.4258246, 
+            "lng": -51.9223095
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.420315, 
+              "lng": -51.9118456
+            }, 
+            "southwest": {
+              "lat": -23.4320461, 
+              "lng": -51.9290307
+            }
+          }
+        }, 
+        "vicinity": "Zona 03", 
+        "id": "f3569c17d7366d3a3f258b168ab2f4b58e2c21af", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAiR9lAe5d7ae4OxsmPsZOLy1pbMpclXb8zwZRJS3jFJsktZsRZh3wMHWa2ALE55J34XIidTddI9W99Mt00Ayp7OJbff2HBysnUlfgWfUDQnkSEBZUNCGJ6asybXJHOrc6vYYaFBMIYVDYkymhXGk4YgBeI7-E-gHN", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Novo Centro", 
+        "reference": "CoQBcwAAAGFeGS0Q_qOLfISvvVHUAMI1qs7KsQ2InZ1NjT-qsubXaNQO2HMequUpN90_-m4pDseRKBT7lrcKF7FlW6jaNdKQDiuRLhNfZRFKxj03WFpxowj0FhOU0_Jti9kgxi74bbQ3zCTR17OsWlCsxiynIDNGw5IKyi-HUcztJLcehNl5EhDVB8YokjnhrCFGm6BAljtkGhS63UPVT7L_q-Vm67E7Mz5BpnypZQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4194757, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4159091, 
+              "lng": -51.935066
+            }, 
+            "southwest": {
+              "lat": -23.4239321, 
+              "lng": -51.9430111
+            }
+          }
+        }, 
+        "vicinity": "Novo Centro", 
+        "id": "ba7d65acda1ade5c852489a4a236c81685295f7f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 3.9, 
+        "name": "Hotel Metr\u00f3pole Bristol", 
+        "reference": "CoQBdgAAAJvincw5kiBeX-717zyNxkTnUvX3pZ-HufaVM4rXC_eLSayNtMyaaWi2DnWvdq7OBLOgl4aw0LgmeE_3eWHXBSUfmN7IECpAw6g9QlBbH6uU2WYF0rYoKSI9G3ycm_CVn7tTEkj68wjiaN5isJNwuepg_NZZC5mwPU_-qFdVrRacEhC8zALwskER4l84U5aXN6bJGhTLO6x9sHGIMgnmNlfiO2gBVxOU7A", 
+        "geometry": {
+          "location": {
+            "lat": -23.423682, 
+            "lng": -51.9371
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 462 - Zona 01, Maring\u00e1", 
+        "id": "bada16a2fb2e33ae71b2c6249de235283dc7c612", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Hotel Cidade Verde", 
+        "reference": "CnRwAAAAV7dYpjx104XDklfcp14se_12thPaFtzfvGjzLsXpihtZLldbQVwwO_uRCjAwvzAeI_ftXRKIPDAstPmDCAgYXfGYufyZ26u3i-jgKazA-HcI1O_nEWeovQOfRPtIo-WFWdO2TkSbVRinr7vav8k3FhIQHTnqC9gR0TIs5P8k5s1lRBoUYDUqKZqh-FomN3v1HD0-5wT207c", 
+        "geometry": {
+          "location": {
+            "lat": -23.421789, 
+            "lng": -51.937439
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2516 - Maring\u00e1", 
+        "id": "e213bd3897eb51c1df0617d5cdb57ba8200fc0a8", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Cinesystem Cinemas", 
+        "reference": "CnRwAAAAXQ5bAePNZrw4ImW-PjbaYqyeW4DaIVn-6cGRUjyM97vFZuy8-si03BQPk_l6qwpE3IokYHs1xaIdcUPDU3NTU8phrtIClimhkx-D3MDN1xnUY5BoIM4Ms4x1MEHV8UsOSeK7-9o438Q1kAWrQg93ZBIQa6XCAaVsELtkrtb0DJI7ahoULkoF9wvJiJAyNPTGnuhVAs5V018", 
+        "geometry": {
+          "location": {
+            "lat": -23.421299, 
+            "lng": -51.937902
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 266 - Zona 01, Maring\u00e1", 
+        "id": "91cd4d76c710a62026128c4f00b803a0bbd27a5c", 
+        "types": [
+          "movie_theater", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png"
+      }, 
+      {
+        "name": "Hotel Golden Ing\u00e1", 
+        "reference": "CnRwAAAAsTh7id67VgKK0APXkSzMXI_18cg7AtEqGwFX2DgRoYdQUiMv2JGq1VAOu_7f_xnueUEYyKkCqz36iyT74cY65zetoREoVobhyEONeueydS1Mb0Igyrl_ttm8R6HNZotF4bNLuPenQPTQh44AScsm6hIQafYazvyYQkpuLxlofH3akxoUzOrnMtpCKcXJAoqRlbvXivII-_M", 
+        "geometry": {
+          "location": {
+            "lat": -23.422689, 
+            "lng": -51.937186
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2398 - Maring\u00e1", 
+        "id": "fe4703a836b63004c59ace682beebe80021f4b9b", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Prefeitura Municipal de Maring\u00e1", 
+        "reference": "CoQBfgAAAPkeHPJVgMaosEfWi-_fpmeYPtajaYrD7b4i7kcdGFte6pNJBucuN1dapwbKsWIvHZTPpe0-70Q_6hMK3Ii9E5742QnYnWzQ-n7rVl6q-bhDTT_1IeAWBD8Q1xDqsh7clTak_zkKa7b0HTlkdCXt4qfnZmZAK_vJcbXOXvNkgzsxEhD8o2imLwYom25Im_TIktpiGhShFt69NAcmIPukYB4hcer54y3CIQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.423855, 
+            "lng": -51.93967
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 701 - Maring\u00e1", 
+        "id": "9557894a84fee94ec01d505a440ec79dbd71a4ec", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 4.1, 
+        "name": "Restaurante Casar\u00e3o da XV", 
+        "reference": "CoQBeQAAAFXp-sxK97xQx4sfgqqgcZgwl0vzZYZR0ItkBsf8dHwH_pN_4h4VPJpLAczvB7sSV1iPHrYrH_JlDFdRytzeQcg3Tg0anlLSv9Zq111xHPmZAZdDjODH75P-QpNbLy7ktha93Ecnr7aAWhaHHeHo_g3BdoP3M-IOb6lr0j1LepUxEhCAGDv7uly_pVmOf9Q3iS8hGhT9sQEK12QugOuCoNdwKRPpyHVQTw", 
+        "geometry": {
+          "location": {
+            "lat": -23.423589, 
+            "lng": -51.937352
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 492 - Zona 01, Maring\u00e1", 
+        "id": "39b21031c331e393a7380a8e08091a97b461b4fa", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Casas Pernambucanas", 
+        "reference": "CoQBcQAAAHuO0DUxEuM07Yx-nR85ZTzw9qbsFSudEdd-o-l7mv-KA9tWLmMRsfOkOm_WBDvQIZTYUL_CfPk-Ve2woITcpxRZaCZU7iHiHVToEo7t16uVw6T48f4VYIQ5S5q0AeInzCQocXD1X1GQ-WmkCEowU9m4A-Ao3V7S3pg-0cFpfJSuEhA3cd7oxm8Ay_L-BAjKytMLGhTLQV5hNbBglTF0YZcNCencq_DLeA", 
+        "geometry": {
+          "location": {
+            "lat": -23.420726, 
+            "lng": -51.940382
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 3916, Centro - Maring\u00e1", 
+        "id": "e86f114564ce832460652d3995664a0a227b3364", 
+        "types": [
+          "home_goods_store", 
+          "department_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "R\u00e1dio Maring\u00e1 FM", 
+        "reference": "CoQBcQAAANjNDhS94PL4njYxDWRfFqagytUxNYJa1SNoMZLBlq0pMBBQkXrtfOmH1dTAHzp5fgp70LZxv7Zhu0bhfAS_ag2taXHeOx6FD1WDp8b0YuIFm_JwGNB43iUCmOfqxTFmOSbOqQQuUS8Yum0cATuJm_a631lzUEPZS5lraeQVA6JMEhBfi-QPx-HVx-CSN4RoHP-jGhQOoKYlRQ0WtMQXcZbJ0Jf4btt2QQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.421299, 
+            "lng": -51.937902
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 266 - Zona 01, Maring\u00e1", 
+        "id": "1f356af7a1ed7181cfee9bfcfd61077cc08fb9a2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 4.3, 
+        "name": "Marco's Boutique de P\u00e3o", 
+        "reference": "CoQBdwAAAF_I4vApOsiAg3GmlZ9gcvetVcGs2Fpm7WDt_cqKMBvVrlmYaJkRkXa1pj6stSgaeUy9g-kd4pUBrGJLhZSmeYOAJfBzlZktgLCDlTXErytd5_UAoaeU3ILBDB9KYe0tu2QvdpLjbaPxjEa-QdEl0H_im_DhSN46b7b5fLcdcNNjEhB7EABF5qFqtUFHqchS9bUTGhT4xpZvFH13GO49AXwtzgMVNbuo_g", 
+        "geometry": {
+          "location": {
+            "lat": -23.423845, 
+            "lng": -51.940787
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 803 - Zona 01, Maring\u00e1", 
+        "id": "aa8b7d6ab401ca8abef99a94a81b0426c3b7f504", 
+        "types": [
+          "bakery", 
+          "store", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cias Nissei", 
+        "reference": "CnRwAAAA8qSVe23PDusPB9lE2aJBc7RB6k9x63y4EZ2QYYoauXoys57_PTdXb_lFQ-maptqbniFxz6NZPslG94Qs5l1QbX4k5WEPwi1nblq20wCj6iG81MBdUcRd6jRSCAFg5CXVkvkhIO5uYZ0o0X_gtcTmxBIQIAMs65DRUrdPcarCv1fmZBoUberffTxAPUPZDqoG-2IuSFeV_VM", 
+        "geometry": {
+          "location": {
+            "lat": -23.421087, 
+            "lng": -51.936234
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3505 - Zona 01, Maring\u00e1", 
+        "id": "ae01fc5ca2fe5781fe22f53d9c60e272ba1c97b7", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Receita Federal - CAC Maring\u00e1", 
+        "reference": "CoQBfQAAAGc_GfSsMT_NQfTuyw0P0_hE3zSrQtyoCydRqe71zCd42W1LkEnPgXUo0C4pQLvCgEn1oTYalX98nZ88AfMgt3Rj6NkaK5OlETXZtncQIiLBs6LG2iWEMNGBulw_LD8O02zDJpkzUkmorC4F6fvgUhxYOiHk3dL66Z3DWkY7tuAoEhAc_PO7TxEz60U83dkYeZ6ZGhQLXxK4xfeWnYkRQZps6K0xOnpHYQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.423872, 
+            "lng": -51.937243
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 527, Centro - Maring\u00e1", 
+        "id": "ab24e8548fb9eddb2d52279db39c71dc4ec1e027", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Banco Ita\u00fa S/A", 
+        "reference": "CnRtAAAAN4FUZ7-5jcHiq6Ilf0A6r2gMoOUbi9kOab3EAQL5NBnCDgDomMxLDen8QQ6sPfOMLSaF1RRPkBRkQOhA04OUDPLvdDm0lo-5jZCgG6GfRN_B37WqfTAEUmM1Eg8j9-qxRhDF0Et1KV6PTbieDWbLrhIQbShoAaSwq3V8utgLf05-ehoU0WnSq9SYqCVa-i_PUJHgvnUygWA", 
+        "geometry": {
+          "location": {
+            "lat": -23.421956, 
+            "lng": -51.939481
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2727 - Maring\u00e1", 
+        "id": "55b0e1671003a791e70b50200dc3fe405de13b0e", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Omni Financeira", 
+        "reference": "CnRuAAAA2lY0DBYc2x0EB_575ylR-ifZmBcN86TMu85TDYzHbRglnkpwbF2askQ7PeCsqz2TdlO_kz9l6puREV4aktN4ScDV64HplGaEIDJr2wD7YRybbCEUx5PB_VihmURPiA2f2XHU0EmFMY3C7554g-7tphIQHx-xs1oVVM8QGbP4tN_w5BoUHi7OSn_KEtLDmaMDa-C7gmA7M5M", 
+        "geometry": {
+          "location": {
+            "lat": -23.423139, 
+            "lng": -51.940134
+          }
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 275 - Maring\u00e1", 
+        "id": "f3eeef509a13189ddadae37f49a97c592e1a557c", 
+        "types": [
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Edi\u00e7\u00f5es Paulinas", 
+        "reference": "CoQBcQAAAPzJVd8woATxG-CxfWNxyEOwG2DuMgEbvCJrHURHcCmVRXXeIPbRmiGZtXxitkqG3PxYZjE-aCA7lYb2DsaHp5e8ok8rujG3WCUOOr4Cr1W5QHlrv15KS4jwQkOsoOntBLqmHSmJNbnUU3EODXLiWrf0FKnEotuVdOqi5xJ40G53EhAyiILNLMLW5kcX3QKxv1hvGhSPHL9DTFI9PGDtpNva5GLLLH4y6A", 
+        "geometry": {
+          "location": {
+            "lat": -23.421206, 
+            "lng": -51.937899
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 276 - Zona 01, Maring\u00e1", 
+        "id": "5462960193e8d9502473e43b34e6f05c4a87b4d5", 
+        "types": [
+          "book_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Centro T\u00e9cnico Paran\u00e1 Cursos Profissionalizantes", 
+        "reference": "CqQBkQAAALNmtWA1NxscUyX2tkJuJ5L5Qv2Yt5Z8CSgwZGXneAdrqzEQTng0uwHJAaUoKEVNYx8EneOaMnzpZxcijb3yNb3uOABI-DGRldftWG8R86d3_n9_kdzPcyrKDQp8bLj5706VtWNHmZrewDVEo1t9JxxzWXuFuPtBzze-OEY16Y5HniyftfdLKXd7PIMNtlL_0bObFiLic0BAI-etDTlCwM8SEA62_aEZY7WqCyer7XUQEtcaFBG4weAYu4n3LcAInCRt9-Hso_mD", 
+        "geometry": {
+          "location": {
+            "lat": -23.422471, 
+            "lng": -51.940125
+          }
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 351 - Centro, Maring\u00e1", 
+        "id": "035a7ce1e0a2dbfafee24b784091b02aa76a2a0c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cart\u00f3rio Fratti 4\u00b0 Of\u00edcio de Notas", 
+        "reference": "CpQBhAAAAPJPDqN6EgG0iCMoeQx7I39H7GUGz6JLZHldKNt5vFjXA67lhAjBVuruTZRAfiqEouk6pFKChlU2xImJ9nXJmhrb0UDdbPACKg6JBlaQ4FakDWxI8d65YiDBPVMzr2OC2183cDdXAw7SKobilM8-09MVQG15gdvAlv5qWTBKEz1f64-QeA8cjgXCGjFNrK3VmxIQbrk8kqf0LhT7drIW9LXhCxoU94k6EoUPkld5kd4INu3NjWmBdQQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.423588, 
+            "lng": -51.93742
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 500 - Zona 01, Maring\u00e1", 
+        "id": "d77be6a91cf5e8f52dacb2b7a7dd92f8cb09db2b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Nobre Cabeleireiros", 
+        "reference": "CoQBcQAAAI-2gTWfRkiWY2t3hO80YONoLONiRxEX0Q-qqkdxRb0rJ7kXQORySFIeCIjRFPlj-otPD6n3l24sykxpHyhJR_vgryz03co3s-bAMj1QKIYiirhORA3_7U-HikmNiBrBpvS7jge7MruhcXrsgq15pYcsV6ySyFpeu6bYBq0Re95uEhBEG1kId_WVPRrusknBVnRYGhR2_pYyhiF-G5cWWJ7bNyrPSN4ynQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.422883, 
+            "lng": -51.936333
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2275 - Zona 03, Maring\u00e1", 
+        "id": "eb91389a40b27ba429b76586041d96eda19f593e", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cias Nissei", 
+        "reference": "CnRvAAAA1y7F8YhMV3-eXl39dyTrZQXqs_CukAmVpgT9tzLFKjPg8XPCm6mMk2bzNj-wGkkCK7AlX9qqxzk8QrJZ1izYA6H_tS67xPQJzn7oWimAMnRB-Lmt8olUJIoXFrgV0o38fcxv-PVClWTZaXCbd11ZBhIQV5QY1pcIg7vt4-aJAOIs8hoUOj8yKuMSbqYHr_yuG-vYbVyPF9w", 
+        "geometry": {
+          "location": {
+            "lat": -23.42107, 
+            "lng": -51.937684
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3645 - Zona 01, Maring\u00e1", 
+        "id": "4c8a621f0f989e8285b4806a18ae1de560a3c32b", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 01", 
+        "reference": "CnRvAAAAg9lnknWsS9YeJPpLb9g9v0fNK4RD-c_SiCj3le4iGQr-xmP-XO5l6k5aaIxkeCPU2W1IQvFC0RKQSnpIogciIBqotKumMfQsBePuK94g_enUp2Jy2TUqRppTldjny36Ti-dOdDEGHsUIC8B30PQRQRIQtR3rX2qj_wakPqAaNsQQ7xoUx3IzjqKXzdnPgrw4FIDP2gdTEYY", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAGpm4pIIGYL_AQx-fU4wPg6UduwO8P0gjurwpRIA4HbuuocI-bjh2lVKHkt26wUB9FIbRMIuJwrMApKaFEx2jeAA4sTa9xSlnluornkw08rESEKUGXNVwx36RrZ_Y5anzvRoaFPX4G4yMo8hbb-HltBN5lNHBsbP7", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 09", 
+        "reference": "CnRuAAAASql91g9Pu3f7Hwy-dXl2yq__SxMM4bzneulqOaPdXU9wLu5XVGx2S5o0DEEkahlqwhUsvbjdMw13KgsuRf_aV2NGYTmA9dUaI-EmWAmMCAf6TFFKedEpCy_eOzzJquA5QsZz3v_-sxb2bjug9qgENhIQgBKkYe-ygzAVrU2DsqK1ZhoUClN2VPUusXFpGx6HztlBNBUjJwE", 
+        "geometry": {
+          "location": {
+            "lat": -23.417965, 
+            "lng": -51.9322262
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.415662, 
+              "lng": -51.9105375
+            }, 
+            "southwest": {
+              "lat": -23.4259612, 
+              "lng": -51.9543347
+            }
+          }
+        }, 
+        "vicinity": "Zona 09", 
+        "id": "7284bd507b5dd6bfe2c889b14ad307bf79179dff", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Escola Adventista de Maring\u00e1 - Zona 7", 
+        "reference": "CpQBhAAAAIDOZmGKY0tzEom_Q15rkOV7_EjTmCX78CnlV518dyw3h1rUDGjiucZCzBjnlQrVzdiGRrFq7wsUNg97NK3dlo16oPaNzJr4Vx1AOfljDbOW48HRKntskFVxgoAfbQel_4WZsrvuh2Krk2tG2h38q_SnlOaBJhgK6YylU93hpGvfdz9tEcR0LEGcrhb38CDn6hIQnVgGYhBDBMxbLVeOJcyWXBoUofbVpK9BmjvRG89ugWmCV69Smww", 
+        "geometry": {
+          "location": {
+            "lat": -23.415432, 
+            "lng": -51.929052
+          }
+        }, 
+        "vicinity": "Rua Marechal Floriano Peixoto, 768 - Zona 07, Maring\u00e1", 
+        "id": "3e7692bafd54d9a00d76256165b58ec04f330793", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "PNEUMAR Pneus - Ribeiro S/A - Maring\u00e1 I", 
+        "reference": "CpQBhgAAADNLvPMtOTL63I2a7oB-SKQXlfmGMwyEETqu60QadjmVt0_0byh4HJVwpKdm6A8pstHgZMojA8gWH9VOP7LNmfHE5K62a5dz4g2h5OjaIjWGcuVuhJmEQC6LhkVSLzkxqetCTxnw97IDrRnejr1CsK-44Ho1qcJ0rjCsaFAY5geBzQfa426X_162YOzohfruTRIQ-DLgE-We4gF_AxIAVdwMIhoUoqAtOd_fcffHmD7Rah1ypPuR708", 
+        "geometry": {
+          "location": {
+            "lat": -23.415748, 
+            "lng": -51.933081
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 829 - Zona 09, Maring\u00e1", 
+        "id": "b4441829a33d249b478bcbb2f43f7eda81318141", 
+        "types": [
+          "store", 
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Shimizu", 
+        "reference": "CoQBcQAAAN6rNESMmqUfoN41qSDrV6wsXRYa86ImCk8VI26MzewSHvvmAEpWdVTPo1TXGVK4_CT-NPeA_mlMX_u8TO6wMd8IQFJEAiITZ-H5N1YfUUNwbT8gVLJ5iKE4LGoZYJd1_H3tkLKa45C5kn3eme6MjAt9K-PmeEv_7juw1DuTzZyrEhBaPPMCP61Q1iZ2d_jMvIGxGhTDzzjCE_6_iLjDQCl_AlfKMXIZOA", 
+        "geometry": {
+          "location": {
+            "lat": -23.415687, 
+            "lng": -51.933343
+          }
+        }, 
+        "vicinity": "Avenida Prudente de Morais, 30 - Maring\u00e1", 
+        "id": "9c55f09a5d59f4611eedf0e7ca4177bf8df8a7a6", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Blokton Empreendimentos Comerciais", 
+        "reference": "CoQBgAAAANKVdnbN8iln6--AZjQus49cod_VK6idWsFp87knTZzZOwAdcx746glJDRTEeY18oSZDhN2rYr1iBWd3h_15YE2c09JbfWL_AUxCyYyQbNHSGTVrHKQB3einsgDIcqiqVRy5vDDdvcVqyxBnaxLmVvgsM1rzdGhT4drbfIYxzOo7EhBLLjzuIOTIV1iAF18AeSdFGhQFabPs9EFTWjUJBoohj-WkyACvsg", 
+        "geometry": {
+          "location": {
+            "lat": -23.417127, 
+            "lng": -51.933458
+          }
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 50 - Maring\u00e1", 
+        "id": "2541e1d6f69be6086e2911f77fc3bb2562828bb7", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Seicho-no-Ie do Brasil", 
+        "reference": "CoQBcwAAAMaFU8WCwHlmKQX7eQGO7RCrUjt44iT0uzSCTBG3hp7CHCZNHrX_r8lR-7bBcrXAejtBtwk4RghiZdLmnnRALx-fldOphsIKugHYLAk94roEbNZlF1j3DEHhswlLXENEl3AZRwnMqnd7Km-WEjRKtasKu1zqaoffYXGyQZZb22_uEhAbK5SGiirb18g_yrG0rfAVGhQxerGUj5TeEGmSQUCgJDjVdujnsQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.416546, 
+            "lng": -51.928619
+          }
+        }, 
+        "vicinity": "Rua Marechal Deodoro, 611 - Maring\u00e1", 
+        "id": "dd3ab30e462d2ba57ab257b04262f21544305b04", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pinos e Bolas", 
+        "reference": "CnRrAAAAUv91bn7WlrObmGZ3tji1KcdO0PaHBTxn0TM4UD4XrrfkArUuk5MMdvLOQdypTy3xBNkOSdRisYVZd5hlWvjh7CmYmpZQ-VE3pY4MQqffULQbiR7_y5imgaZ7KgP3oEHxkufBBEHAYPQJomFZbyTQ-BIQRrEJo2S-vgUDMegwd3y5-BoUzV3PFijW_aX-nbOm9Ig9r4w65mA", 
+        "geometry": {
+          "location": {
+            "lat": -23.419102, 
+            "lng": -51.932854
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 508 - Zona 01, Maring\u00e1", 
+        "id": "f5ee65a2ea662fe4c5e6155774d659dcd35369e7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Col\u00e9gio Estadual Vital Brasil", 
+        "reference": "CoQBfAAAANZsbKlGFOiyAFAS5zzKAl5pL8H1__gMgwVYm16wuvI_4myO6XoVlVxdUuP9ojLP5fNk62sSZXObkjOPj77oBBTVIULs6VDs0AcdNP4TxTyXlhoKPguiMUmso3DQvMOn40sNKcqIwHGAdkBq8LmR1WWFZvURtBSQe6B7-95jsN82EhCphPORD5xHUztsLTGExwACGhRiZN9QN9OKPbsTT6C9madVmckppw", 
+        "geometry": {
+          "location": {
+            "lat": -23.415757, 
+            "lng": -51.930918
+          }
+        }, 
+        "vicinity": "Rua Marechal Deodoro, 865 - Zona 07, Maring\u00e1", 
+        "id": "b282d00d70539b9ddda17fdd0f4bca19763920e1", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Shimizu Im\u00f3veis", 
+        "reference": "CnRtAAAATrTlKy9odGSGWo4QwMOlFkaUWtjmyL2tH5PaJz3xylT_xXqH4CU5gSHLM_oFzc-h5TyLZ7HsRT_1ifcO9lu2tl7Je31EDZ0Rv6QWJGubqa2mNS7Kn7Kx2FkwqG2ucqCeOEuwwI5K3lhU1fvDVDCuoRIQuQNDVZEc5WL7gAKidXkJwhoUeNs8socbBMK6jDHC64eQMoljYGE", 
+        "geometry": {
+          "location": {
+            "lat": -23.415687, 
+            "lng": -51.933343
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Prudente de Morais, 30 - Zona 07, Maring\u00e1", 
+        "id": "dbf97ca31261db9157a101fe01c675f87ecfb15b", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Par\u00f3quia Divino Esp\u00edrito Santo", 
+        "reference": "CoQBfgAAAJCY8pm1F73Iaxrs_-NJisODZhLkNDBajx07hWa-eyUVyutLtRL7DO57yndVBI8-V3lPNg4UtlocTBxn6fLn3aGtFfUixgpgFGsncs3zWRZ2B0S2gXHtLfcNMRPzi2rltA4o9NC82IEk8CCeYwTea5C8EtHo2dr6mVwOCFleXiZkEhAW0AcdeUh4ZaMgjR-WAtdbGhR-l1GfzbvWBJNEaFnz0Z087tLEAQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.416376, 
+            "lng": -51.928836
+          }
+        }, 
+        "vicinity": "Rua Afonso Pena, 249 - Maring\u00e1", 
+        "id": "5b4b1b52fad009d20d77a51ee1a5b3ed1a9631bb", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Center Films Ltda", 
+        "reference": "CnRuAAAA5Dq03WpbdIxQXya-rXbIPfvU-YE51MVx5XJKk97ObAtuMNzcpXZWdZZpzaJBx8SsKgxwqaVbGevvSJwBiyf93wg7CIwrt_SbKoLWNiKFnIvfJ7WEZXqiqVMxrQU0kLbRBvb75MS1iKZkV59me0s55RIQISbQ_Sr9h5GMvve0XvN3CxoULR47YxAF3XByd0JtUMiTUEkocCg", 
+        "geometry": {
+          "location": {
+            "lat": -23.417286, 
+            "lng": -51.928916
+          }
+        }, 
+        "vicinity": "Avenida Bento Munhoz da Rocha Netto, 421 - Maring\u00e1", 
+        "id": "a36e698e95d7812906a16ab1c601da8a125796b6", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Shogun", 
+        "reference": "CnRkAAAATZZrq9vKvkpHgVtBbQIKJgBInBWyDQNIpBIknTcp4Qz1o1xNiWo9HKAlKCiHnqEMUDpVGtR_8LbwmGVry41ysJftKs1TNtHbPvC0Dx42UFaHQfnlBFjHFlyk_jMmjmjMKLKL5gnEfZOgPSAWS1Xb4BIQhLpaKM5jGXhUmOWzLBUHNBoUh6tZB3VnHdSP0OiHFLZddvqSgUI", 
+        "geometry": {
+          "location": {
+            "lat": -23.416819, 
+            "lng": -51.932185
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av. Bento Munhoz da Rocha Neto, 59 / S. 02, Pr\u00f3ximo ao Shopping Avenida Center e Loja Rudnik., Maring\u00e1", 
+        "id": "dd9f82ac2a438c6b9d08000fa6989bfc92520b34", 
+        "types": [
+          "book_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Power House M3", 
+        "reference": "CnRrAAAATrwzWY7pMclJJdi8RMMeE7BoMZyJrK8AgDc3fPCqxNtTJVgX295lXccVFf4Kd4FAPlMw4lpNjLYYRPUpCCbAEmJiloSSyo2flJCtkt6FI1Yu47yCXhy-gCPZVUvKQ2lDuWk_Dv2xUmZusVImRkwT9RIQ4Ko07_ap1sptZp2skGzzShoU45bQsTeUuAg5KbRocTi9Bi8nTpE", 
+        "geometry": {
+          "location": {
+            "lat": -23.417072, 
+            "lng": -51.930062
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Bento Munhoz da Rocha Netto, 283 - Zona 07, Maring\u00e1", 
+        "id": "26c2df9fc775b9870413de3c159e1c8efb1f3229", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "N\u00facleo Social de Maring\u00e1", 
+        "reference": "CoQBdwAAAFQ_3jP2k62djScCPEAJ3W6GeYu8NNtNmejzTg0O5VWat8_H-V0S-_V4DJKIIbboY_Sp7rd7TGH1OOPP7yBJWxm6PmWV1KUcxaC7YWTqWIzaqca6MNOx2ih2F2w7Glqz2ZXy2HSnWRsoDEw8tuRnQxUxIG9syjGNqtiz3Bn88qiZEhA1_MUflRzZwY3AwNOVuYOLGhRkPCVLk3y0NdDOaGTqeCkvXvZf5w", 
+        "geometry": {
+          "location": {
+            "lat": -23.416043, 
+            "lng": -51.93045
+          }
+        }, 
+        "vicinity": "Rua Bernardino de Campos, 119 - Zona Sete, Maring\u00e1", 
+        "id": "0d04e23fad06e71d5a971e44e0fa0a080281d20d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pizzaria G\u00eanova", 
+        "reference": "CnRtAAAATOFSGLenc9J6iW-7o0hRf8MVfMwUqA0SdSa5eNHsJADbpjOeCJErJ8BNkqtK60MQ4l5VKR3xSA4WCHiiaFIFaRQU7XE5Mx2Ai4ttatdkWORVq7KZLm5jTuu5tgH9UqV3bjOyLWb_wbR1mPkYVZKhRBIQb__9DLQckoktkcdNKJ7TwRoU4gakA3tvwUF9zRuTquO1WT_yO6Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.415438, 
+            "lng": -51.933141
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 891 - Maring\u00e1", 
+        "id": "f3ee69191223917d355bd403953bffe314bb9fb4", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "O Botic\u00e1rio", 
+        "reference": "CnRpAAAARvOtaFJSEIOZ5DCofRBvRgzH_v6kqsO9ZdqGq8HeJ5O8lOm4WzekIg56yMBqG5hKccLwChNKjCSYBI8qKhQwwjcVTHoVw4k-_vCOtKRb5N9NtVyuCFp6TbRHs0nHRZXbbsPsyJ00CeAF93i4u5ToaRIQXa9vvgupJBQ9aKVU1iGQLBoU5Zsp2dwmkFbSv42oTxu7MyVWG9w", 
+        "geometry": {
+          "location": {
+            "lat": -23.419079, 
+            "lng": -51.932929
+          }
+        }, 
+        "vicinity": "Av. S\u00e3o Paulo, 458 - Zona 09, Maring\u00e1", 
+        "id": "bb1f6d58ccb66d357f814468b97e1a584c871669", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Auto Escola Bras\u00edlia", 
+        "reference": "CoQBcgAAABf_gAx-HPq_1IH9LlyDwNAUHVhYqk6xA7RLnrq21Xw-QcM1LCcvdZbhHYUrAE48SwrPQJfTVgHhwIIGO2GbdSYGbWqMmYjUkmXtyEtAJH0PP3EEEmvfPrK1UxaMMx0XfNimkF83a9gauXiQwNf5oc1okj2S5SZsQJ4tG4KBgY9yEhC1gEcXJGz4RUTX7pynEyknGhTbc_2vlFCMjVM6-Lu_anqNMoQLqg", 
+        "geometry": {
+          "location": {
+            "lat": -23.41702, 
+            "lng": -51.93184
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Bento Munhoz da Rocha Netto, 98 - Zona 07, Maring\u00e1", 
+        "id": "0a85a703e844341e6921241a8a3d0f011174f4e6", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "BS2 Internet Ltda", 
+        "reference": "CnRvAAAATmUDdcdS3V7EnsMBI_FmXY4rqU7-e-8JNIxEo60Pe0F8PwC3GrW3ug_11H1RdZ4mWtG4ej2Ze59c1xb6v5p2T6RyS2t80srNUMe7D0YrX1oSAl0wce_NsXTXqx0cmZTKaMGDGpZdCw5Ua3hrlFCXvxIQwfsBxBrNZIigkLTBOGOAqRoUTElVm7PXHQOtjJ0JmLnISsJLAnw", 
+        "geometry": {
+          "location": {
+            "lat": -23.418895, 
+            "lng": -51.933186
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 553 - Zona 01, Maring\u00e1", 
+        "id": "9aa10b332d4f4ce61f9f9db40ac9baf638d79b09", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "L\u00edder Auto Posto", 
+        "reference": "CnRvAAAAQ2K0qStkZp3eLZPBhSwRZhL83qd9QQa5A4Ek0YuXXLobmRbCTMmComM_7ENYvJuMJyJVeDmPblssHItfvEYrrYKHB7BWlmSJzp93_Hzg7kH8wIaSSnQ4iBpt3qpYEyg_tWiS7F9qUsfaBKwfTFs7AhIQ7WOAjn1OMRwZShU34x5RrBoU_S3j8S33EsJrYvH6zZBJuD3Fl8Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.414792, 
+            "lng": -51.932773
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 964 - Maring\u00e1", 
+        "id": "0af14654a55f112bd9b687770707a4a27735ac88", 
+        "types": [
+          "gas_station", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png"
+      }, 
+      {
+        "name": "Zona 07", 
+        "reference": "CnRuAAAA381bX0sD_TggZY6Lvw757-842_nWqA9Q2PKODfpyOKR0fTn_fUtQaCqZ05mJ1QrNCS3rIkPxQr0awAnjRD09gLxELpn5tBrxTQCZ2-afAGPAAdKFpcfj1Quymu18rRmZiekUVmCQdsbH-Ic_T9xV2hIQFVuiZQKZu9hgfzv_GcjDJBoUPSd4pFQy7hMA83opwaaWtcuxqoA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4093479, 
+            "lng": -51.9394994
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3953049, 
+              "lng": -51.9102905
+            }, 
+            "southwest": {
+              "lat": -23.4200642, 
+              "lng": -51.95690159999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 07", 
+        "id": "8d1c34b0d0a9397bff44cc5747d73e7b4099d98a", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAACGvH2JnFsG0oZpEpTYrfnlXTZxgOzzbfy0FYpcqBC7gSipZLm8JWmxl3V5U30M50Dy3MEF2UJpURYMSvFyyv0ZHm-phXuRNMvAOSAHd5ScwSEEcMMQPYa491jTpC7h_Frk0aFJH_vNxdnvvv7AqeAuWUxg2wtXSw", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Novo Centro", 
+        "reference": "CoQBcgAAAGgqMD0ywfDTSgUUwdtcNNDoG9f44wuayi3TBlNUR4qLe7kCfBNNmaJ8xqFPgnTwU53izlnrbzrGLvHcpoVpAGIIhvCuOSLjk2kPkOreAOZF1TgsX8OItNytEXuOHn0pIGziDsVokbG9cEOq8nBvjoNz1agn_lNmeFhf3Ap4_jwNEhCZJ-ufImwP8H3cf0w4a2IMGhRVQmbRWY_SytIlq8oCJ96Pman2AQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4194757, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4159091, 
+              "lng": -51.935066
+            }, 
+            "southwest": {
+              "lat": -23.4239321, 
+              "lng": -51.9430111
+            }
+          }
+        }, 
+        "vicinity": "Novo Centro", 
+        "id": "ba7d65acda1ade5c852489a4a236c81685295f7f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Hotel Cidade Verde", 
+        "reference": "CnRvAAAARZXYPFHgA-p5NmuFI-GK7bmhpiRC6bcJRcQl9oyFSYxOdjswwgFCpI7XzxU-u4LytcxLlG8R_jpxlvevFuy-IM5lWgzliJY-vgSlA7VnpkRyhIR8bI2HyX3-aaSr6td8YUEXAc6EuOWMWJy5K4ROnhIQSnwLbhkc_rFN2fL6qKu0lBoUs-xLa2sGQAXK7hnvPT0y1ZUA6WA", 
+        "geometry": {
+          "location": {
+            "lat": -23.421789, 
+            "lng": -51.937439
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2516 - Maring\u00e1", 
+        "id": "e213bd3897eb51c1df0617d5cdb57ba8200fc0a8", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Cinesystem Cinemas", 
+        "reference": "CnRvAAAATGlJl0JpdcitRYOX5-pdrbkwxDq6y4ZxpHRsOJNIoupNrMGXP3hFqjUbFc7uTD5yJ_xY_mnNuzQaXJroDVN87Bx9WEXi2HAdM4E7celCt61P3GRrsm9XbnETdNelCvmwNQ8ZwebRnUdQ1C_pdqxughIQZgWwUx90HZ127Fy-u0QnaRoUCxGdyJbvrX06cnWK7xROBbrSe8s", 
+        "geometry": {
+          "location": {
+            "lat": -23.421299, 
+            "lng": -51.937902
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 266 - Zona 01, Maring\u00e1", 
+        "id": "91cd4d76c710a62026128c4f00b803a0bbd27a5c", 
+        "types": [
+          "movie_theater", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png"
+      }, 
+      {
+        "name": "Hotel Golden Ing\u00e1", 
+        "reference": "CnRvAAAAXFRuRZqZG1sGVGOqTfeI2BH__ruCP97LjzerAi-KbWUOsof8Me4P4lndCZdxRDL2zgT95TuoOpBjNqZCEBJT92ve6HcYztDHXfLCJK7MIlgNS301QkCei35NsXtKff_0JcU5IJF834DaGdWtuIKNghIQTyHIWqfaspt63N_lrBeoZRoU-cxTyk0L4LeIKwZcU-baJ74tWzA", 
+        "geometry": {
+          "location": {
+            "lat": -23.422689, 
+            "lng": -51.937186
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2398 - Maring\u00e1", 
+        "id": "fe4703a836b63004c59ace682beebe80021f4b9b", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Casas Pernambucanas", 
+        "reference": "CnRwAAAAyisxJtb1N8Ve25CZs-PrrdZs1E-ppW8dyxRqQXqzPOOzG0NayZtPrSQIdLVEcJnTjiibD1t4nsz4i9hwYXWXWmbp5yUnOLCRZLegpm6v3UANatQNhuVWMpasuimHhJgdr2D2nz6JAcus_EeK9jELIBIQJjw5WJ_SGQ_err0Q_HH4FxoUxSGLPxd6gJMIEulMP4eRKxKgdHk", 
+        "geometry": {
+          "location": {
+            "lat": -23.420726, 
+            "lng": -51.940382
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 3916, Centro - Maring\u00e1", 
+        "id": "e86f114564ce832460652d3995664a0a227b3364", 
+        "types": [
+          "home_goods_store", 
+          "department_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "R\u00e1dio Maring\u00e1 FM", 
+        "reference": "CnRwAAAAhHrBDi86g-8bvLv1AfvAWFOaF8x2RR7o3pI8weooz5XOD6lMhCmmafl5NvHd_LAk-tjtucnw2MMtBH1sl-mBv2TjXJIlIt7BrMLK6flilWWc9eFozonTSxsi0lCrvDEYR6A7KKjGV_E4qfnzABZ9rxIQYGrhtQOYFOeyZkEoeTAQxBoUZgDJmVhHAjIIm-3sdn_eK5JVeP0", 
+        "geometry": {
+          "location": {
+            "lat": -23.421299, 
+            "lng": -51.937902
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 266 - Zona 01, Maring\u00e1", 
+        "id": "1f356af7a1ed7181cfee9bfcfd61077cc08fb9a2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 3.4, 
+        "name": "Ag\u00eancia do Trabalhador - Maring\u00e1", 
+        "reference": "CoQBfwAAADWK824WYwTZilyA3rlZGxgP7dqCIbVP620dXEz_oIbwHRPOZ0g49fgFI2YbW3BkGBzolN1IUhBZ42t4DL596cllspk4Zl2BgtGhidOCr7n1RzNLXqMh6ZCIRVEHf4z_Ge2cso-7F-8w5k5vFWpQaqU2y37aDPD9CdEYZTgArlsFEhCIUlF8D7Y-2OewfmoVC7ewGhSUbfl2NIq4ZiexPyMhqqPxTWHm7A", 
+        "geometry": {
+          "location": {
+            "lat": -23.419977, 
+            "lng": -51.939585
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 675, Centro - Maring\u00e1", 
+        "id": "db9954cf0b13d95db676ee16d8e0966e95698850", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cias Nissei", 
+        "reference": "CnRvAAAAkqJvHnj4ZVfpXfTEUqfX0dU3sKP4LFjP6wz-H4FHM6IhQqtqXGGC8_i2GI30l9iMgc93KKPCXlYVg9JuH37A0UnwMT66wupBQLuZJWEA3KQBX4g_QiW3As7RxfG0Iq6NDkYHazxTYRdi0iPgcLPHtxIQ7P29FWo5ibTxIvgFoWhZOhoUdolJAXgbgHoTP8J4eQQ0X3tikds", 
+        "geometry": {
+          "location": {
+            "lat": -23.421087, 
+            "lng": -51.936234
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3505 - Zona 01, Maring\u00e1", 
+        "id": "ae01fc5ca2fe5781fe22f53d9c60e272ba1c97b7", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Terminal Urbano de Maring\u00e1", 
+        "reference": "CoQBeQAAACneMY_iiRUAX4SheCaLHpIGWK4kIptWzWf87pneJgiNnTX1e3e_NVr78fH8XDT8u89-45JmW4IUuUdNDEXRjuWvvicjE8_DqEsV476oIep6oPjgthT6ZSXxZsFG0azwRPYqg2F1AWYur07dLCyiRagPQAf_ODLz3zLYBUMR1paOEhDFLRgEfQhZtyHjvYEu_cOCGhTkFDdFW9oBYotKT2NQLeEWDXrSZA", 
+        "geometry": {
+          "location": {
+            "lat": -23.418903, 
+            "lng": -51.939157
+          }
+        }, 
+        "vicinity": "Avenida Tamandar\u00e9, 630 - Maring\u00e1", 
+        "id": "50dda0d7c22ebbf202b2f4cc0e5d9f98df794a43", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Banco Ita\u00fa S/A", 
+        "reference": "CnRsAAAAuV_9_clSbBK2vXScK_Q_aLmuqNU1CFtsdSVanTwJANqxc0Z5aXYcROmb0wpgb6Ar1Co04itJmAIIMhz0R3jvHzaCnD00VUYA8XAUarCiHiq7giEvBfOOeifm9T6vOIIxoaKTsbRJqmzfWdDYNWG_QxIQcAyVMNwx5gQv_NV2AB66pRoUxYKbF3XCYx1Tu-kB0bah7wPJg1M", 
+        "geometry": {
+          "location": {
+            "lat": -23.421956, 
+            "lng": -51.939481
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2727 - Maring\u00e1", 
+        "id": "55b0e1671003a791e70b50200dc3fe405de13b0e", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Edi\u00e7\u00f5es Paulinas", 
+        "reference": "CnRwAAAAkrkcUXw5wwq_5DHmGBkzuDDU7xnkJ9QKZIZIgRRFc19k4KgehUH9AhnIYFv7VDjbD4wNYSoesp5wcHnV9R3Ey7UhuebQyTkUWdQJVWuhqYUNSdntiz8ZKQNlwR6SvMZU6zLTFFCX_DOFWOZI1G-c1hIQ_lqI5FIQZ8XtNqv11Hd_HRoU4moThpHlWIT8pUPhTC12wjorzQc", 
+        "geometry": {
+          "location": {
+            "lat": -23.421206, 
+            "lng": -51.937899
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 276 - Zona 01, Maring\u00e1", 
+        "id": "5462960193e8d9502473e43b34e6f05c4a87b4d5", 
+        "types": [
+          "book_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Centro T\u00e9cnico Paran\u00e1 Cursos Profissionalizantes", 
+        "reference": "CpQBkAAAABaqzI-1xhF1ZJOAJWthHmHW8Il2oQDO9nXioG6NctywQitXd62myPHqcVXoOoNQ3wAA7z6Ow0m_3siJdlBlE8AdgyLFwRM1JOzHYuomZSQqC12RGQHAXck9wtx3_b8RO3naR2kn3Jl9607ZbDuK9x0vlvXRxd7Gh-lwa-jjEZZqirUe6vVJ6IT_YTXs5zPsORIQXKnFGg3IhAzwz_13xpGiVBoUcPAOpGZT1YlXsshAF7KszwUFw7Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.422471, 
+            "lng": -51.940125
+          }
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 351 - Centro, Maring\u00e1", 
+        "id": "035a7ce1e0a2dbfafee24b784091b02aa76a2a0c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Nobre Cabeleireiros", 
+        "reference": "CnRwAAAArEpmuS0HbVjISqbJvqG78VjU3Pq10AxJxHt9Dvg-a9vnFQIDZScGGQU4WGlq7zyeW0NTWMQPZG56NSg7j8c_a0omp1TqZrxkjcCT_wastLv-V5d_3NXnd9dXnnZ1YWLyGSrMaFcpbvuE6h3KuDtniBIQZzwrirCT7RJdol8nruKk6xoUAxJT8acmgmppHsYu4yBzlovKuds", 
+        "geometry": {
+          "location": {
+            "lat": -23.422883, 
+            "lng": -51.936333
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2275 - Zona 03, Maring\u00e1", 
+        "id": "eb91389a40b27ba429b76586041d96eda19f593e", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cias Nissei", 
+        "reference": "CnRuAAAANSe3i_Ci8ZOd_jHp97ZpCzRQsFRDYHGEWz3iCg2GHFS9RrGcqxRI-Q_GiaGNsKFpV5xA1Z1HIgAQwrpIrdbrSYZugyXBnKymqlAqHW9dlr0gtJsGrITbEfn3nfHSZms3SB6lmoPrViCm4Ja-pOJG4xIQO19FK1PiFH9M-s_DqHfSiRoU16jx3TJFUZROL5S6PFx6TFAEtFc", 
+        "geometry": {
+          "location": {
+            "lat": -23.42107, 
+            "lng": -51.937684
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3645 - Zona 01, Maring\u00e1", 
+        "id": "4c8a621f0f989e8285b4806a18ae1de560a3c32b", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Secretaria Municipal de Educa\u00e7\u00e3o", 
+        "reference": "CoQBgAAAANXYpRyyJRubSBF3HyA2k2WJ2-ywzxMbF_C-UwZCL_4l-dSza2ABzIjjyATXVMWO1PN2WJI1xUtXrGFgu9JHiGvOCKtERNwACKqYfP-l-uLMPDs1hGwz0sRy5FJKCglvpduJpQF8bZAnJ_qb7XEtI-rBaTk2chrNSiLBkD_5u2rpEhCOBAPoX9Tol0kVBjN3lI5WGhSCSvUrzTbSMUn-d9eS5Eow_mgs9Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.419523, 
+            "lng": -51.939751
+          }
+        }, 
+        "vicinity": "Avenida Duque de Caxias, 648 - Maring\u00e1", 
+        "id": "b240974d084cb7ee5cf92a1ab59f822315e7a85f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Musitech Instrumentos Musicais", 
+        "reference": "CoQBewAAAFAhbiw3pqNX6uEHc1IcDKHeqe5fDYUeDx8GDVajm74CLMKVQWumKaEmiXTBoB7K-dKvGdz-11jN6Quj0GYv-8FS0NBlhHDU9pDuMuHG6mQX1vr7MfzA_CT8rlabPchOnw5A2gEN62QSvUBklC6GjBtYzLwl6m2al_hoOhYC6XViEhDd83YuRhzoRhX9H4nD5iQyGhTdojP4qWdwHmLob8RzCR7LkZBeEg", 
+        "geometry": {
+          "location": {
+            "lat": -23.419196, 
+            "lng": -51.936482
+          }
+        }, 
+        "vicinity": "Avenida Herval, 695 - Maring\u00e1", 
+        "id": "84648507339f26d8686ef27760874c03758cbc44", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Imobili\u00e1ria Paiaguas", 
+        "reference": "CoQBcwAAAGVdJ8MTQN6qw_-qD27DMQVRC1DXyI6PoDdAFDcpHBhzDwsQ0IE6eHQGWR7ed2dBE81hK1sLxLJJMnoZCNWS02JjWKyLeV0t9KyrcKWzIgvEKfWkdvBgK05_lpsDda-ojA-qFKP3xJMXs1ABFCaIiVj79x6bZVpnKZ_4MG1w6zpWEhAAfu38BAq7wdYgyqKtCNiIGhQ96ZSK8RdiznXjx0Ux8DB7fXfuQg", 
+        "geometry": {
+          "location": {
+            "lat": -23.422858, 
+            "lng": -51.937846
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2437 - Maring\u00e1", 
+        "id": "01082edce0535651be736a98eed832f7098407e4", 
+        "types": [
+          "real_estate_agency", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "emerago.com", 
+        "reference": "CnRoAAAA4RhEpQhnSgslnjg20sey8mJOx7bVT79vote6yWZT0qe_oGtL5nQwONn-P3LMRn2qHklcrMYjFH0vJpqSj4GZ-fENOarCGudJB1PgtNxrsej4wSzZQ_CevG-WpeA70MhD8AUoiKYFIv7CctoIHEpBPRIQU0LlMDxk8pt_Ps7vtfmDqBoUTU2DoCb-XnvHqkOcQaTXxkqwNHc", 
+        "geometry": {
+          "location": {
+            "lat": -23.422134, 
+            "lng": -51.938364
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 173 - Zona 01, Maring\u00e1", 
+        "id": "232087f36f8c888045a360ffeb354d9b76ba6cca", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Banco Bradesco S/A", 
+        "reference": "CnRwAAAAT1KZb5HnjPCaYWdOqgLy5Bh8I0Qdmq4EdHQYVV9vqi9JaHfO_OfyPtB-h65to3Fnawc8LEUyEjimRDOpfXbifMCavNczI8wyOQKj4M-TSMhgHREacUqUqxSfjPtEMFyiBHAiOhpdfyqYmrV8rESIYBIQea9oN-fwqzw5btVuq9DXRBoU2dXR1OGO2DEJR2aq39x_Wm9AnQg", 
+        "geometry": {
+          "location": {
+            "lat": -23.422649, 
+            "lng": -51.938362
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 115 - Maring\u00e1", 
+        "id": "66aef87021824c7e9fbc1a248b9ca7459c4be99f", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 01", 
+        "reference": "CnRuAAAAekqe6iHoeTDcrOllINtYpo7TtRZmOyChKkCalRDaeuyDPIp9iyyGW0sUkEuhaCkM9H77ovQj-EpZf-B6yPc-Ps_pXBzs9NLD2sNAvht4cTib-5z9JaBmP0ryeOalKu8ZfU4mJe2uoB1i_C0i5DdxaRIQSFsxjI4wbzuxdC5a2VtWRhoUxV0DZJxvX__TVJnH0A1SauUfivo", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAALk_81BRWyuhdlDu0gug7w8iqvLHpc7ydRXzz1rXT9K47Jk-ik2h_RZz15tVcYaEcVdV0J-VJ91eZFf-1hRqPXeib3eIZzOxACaXqQi3KqfsSEN8smIugghHkEqkUIwbrRtMaFGFzic7uwYycHmSK1gwM5q4axnFl", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 09", 
+        "reference": "CnRuAAAANd7ta_FFtPrQjjhzeCe8yz4twT7NObqGvTAohQ7cjs0Z-xjx7w8_UESMF9NhKnXxIp2y68j6C-UdyfnkAwtRligmPz_PB8RTzhEYYFRr8rOF93R9swQif0Ri4ICxmnf9b6okpZUmbkQdMpiBSwUIvBIQgMxvpIbDsb4CqVoQt2ndYBoU8hpjC7kBqCsvULBlNSY8vIYZjUg", 
+        "geometry": {
+          "location": {
+            "lat": -23.417965, 
+            "lng": -51.9322262
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.415662, 
+              "lng": -51.9105375
+            }, 
+            "southwest": {
+              "lat": -23.4259612, 
+              "lng": -51.9543347
+            }
+          }
+        }, 
+        "vicinity": "Zona 09", 
+        "id": "7284bd507b5dd6bfe2c889b14ad307bf79179dff", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 4.5, 
+        "name": "Faculdade Metropolitana de Maring\u00e1", 
+        "reference": "CpQBgQAAACYwu4JD-yl-icEo6JCzB445rZAxy6iFBo4ThNN-1wwzBZE4SpC_05QPzJzk3aJDAknZaJYzKvUk4DfKXFwE9_xHL8lcIKbeHFoTDGPwFzGxRo7RmIoBHI9oYPEIEbcPfIVU-GHVhnbzgONOEDVYWbLsVi6LWrrkuNlqwrs9YxbOO5cImVfD2aDAZkUozTOE2BIQ0oKxHh8QhQsqeZwmdN82JhoUS40O6mGMAQpwabDV_0v8zlVnQwA", 
+        "geometry": {
+          "location": {
+            "lat": -23.41991, 
+            "lng": -51.930077
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2854 - Centro Maring\u00e1 - PR 87013-160, Brasil", 
+        "id": "3b721ce9bbc389c7d0c7d37690420eba8bb725a9", 
+        "types": [
+          "university", 
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png"
+      }, 
+      {
+        "name": "Casa do Construtor - Aluguel de Equipamentos", 
+        "reference": "CpQBiQAAAHwhaLIfH-l1VtDc0z_8kUxmPBLH2wN4u12gdWXnWAhFcHNPdYNGvKR-vUnEPcwqXcYK85qCGYPPHffrCkj1tW1iXPu0-aRRbiUviLQHAIEemiHtkcBUcYQNQoe35GD7z3t3Go3U9s6tJ7jQuk3PSMW9K4rSVzm_UraXyeKa8VEnoQVVKYRdvKLdb76FmKQShhIQAa74H_bAeZiL3nmmsqkOSRoUKKDSYD0IHt__oFeRKL4OjigjEsM", 
+        "geometry": {
+          "location": {
+            "lat": -23.420608, 
+            "lng": -51.927758
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2615 - Zona 09, Maring\u00e1", 
+        "id": "195aa646e4ca9c87770f39375b02ee1b3f241512", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "DIAS BIKE & MOTO", 
+        "reference": "CnRuAAAATUZUqJMn2OgPawU37IC2H2vDwY4JvqsM9XkJuTPPbTKPX_SKpRwWCjhkLq2IGWLbC0poCFqHALrRJlaPQ3vWUEhhJ1RHfPett0powD-Std4uVi6K-UXm0fNcslLXtZjsUPG-wWr5h9kRWbT8JprzuBIQeu7Fit-8yWhsoYfd4Ev7jBoUBkKz-7vgM1TKWbpEsz3qQPYrSDU", 
+        "geometry": {
+          "location": {
+            "lat": -23.420091, 
+            "lng": -51.931286
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2979 - Centro, Maring\u00e1", 
+        "id": "fbc8aa29c21cdad9345f6463481b665293ab19eb", 
+        "types": [
+          "bicycle_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Seicho-no-Ie do Brasil", 
+        "reference": "CoQBcwAAACd1qsIc6P-AZGsK4TMXmSFENKHf8t4tlDOIUTL851lIYcURkKBYqyoW5P4wzT-jJiQ5vSmRlWRWQeV-npjlT58EQhk-3342pwog6yiy45_z8cqC9wHvEpPhT_ciDPg-gtgEn5cJ5ZMKhljw5chynWEwSxIrE_RiCdsnKtlxHAMDEhBfLnGvFDIS06ac9OyNUiVuGhSSt-yrRTRPBVq0HJyZYsI3qt1vAg", 
+        "geometry": {
+          "location": {
+            "lat": -23.416546, 
+            "lng": -51.928619
+          }
+        }, 
+        "vicinity": "Rua Marechal Deodoro, 611 - Maring\u00e1", 
+        "id": "dd3ab30e462d2ba57ab257b04262f21544305b04", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ozoni Clube", 
+        "reference": "CnRoAAAANKMNJR_UU_iEYBuH7lrUt4QSlnOOhiqDehJqMVCoVMLHqhBR-TS6BYaHYtjxPofDS0moQYdMEw1aDZEOIGjpZCVJdqDH1PMHGBV9o2Q4iTsz-Y6M4EbSZ6IVeCQewd6LOoV5mErCOIMgaIrV7WFomhIQvjMmqJNo_-mLkUjViTgZCRoUr0FeC-ls1EMsgCS2-YK7QVrnGnU", 
+        "geometry": {
+          "location": {
+            "lat": -23.419434, 
+            "lng": -51.927957
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 173 - Zona 03, Maring\u00e1", 
+        "id": "af23c717f0f780fc7160198d5d5edc9b3bf7e590", 
+        "types": [
+          "night_club", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png"
+      }, 
+      {
+        "name": "Sabor Trivial", 
+        "reference": "CnRqAAAAIVFAOTgODQAnx5fvJAswrZiPR-39l3nZNTjT9SqFXkTTiJkbTzlSgjdilgAJLiaxsRbA-89y5ydQrX0GTYntbMx7jsC2vrf5J9dkNDiy-81XUGIEao1IR4HmVSSXQLXXRDHYwx4PXfI5NZt42-phNxIQws6n1XCzcamxVZUAk56FWhoUaQ5HX4LlHjDW7RR47FmhXSHqdH4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4198, 
+            "lng": -51.930942
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2928 - Zona 01, Maring\u00e1", 
+        "id": "d1fb62f18ca0ecb1d092154026ffed9c00bb23f3", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Supermercados Cidade Can\u00e7\u00e3o", 
+        "reference": "CoQBegAAACDVhvougghbnsMKjfIP7eLuwVIROe1NgqJClJ9tgo4ePLIwgGSmdDpoZnUMHrLEjSWmH8fLwgFW5XFRAOrGwQ6Js93gAsfy34KJPmlg6CEfFHoSWCJW7yUKILLyo6RyolKMdGxJ7TouFcX6dHbGndAo79mVDkPZDm-fYixj4gVIEhAa_9_R60gEOeL5css1obYwGhQZDBxE0XMPxgRB6wrkDChsqdi9Sg", 
+        "geometry": {
+          "location": {
+            "lat": -23.41864, 
+            "lng": -51.927436
+          }
+        }, 
+        "vicinity": "Avenida Pedro Taques, 294 - Maring\u00e1", 
+        "id": "a5a8de526794d9a61cb9d6ac62923a8a203a8c15", 
+        "types": [
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Sky", 
+        "reference": "CnRhAAAA2N0SWiZVSIilp2UWPZ5I1tNdTZr8JEoAUNUVPO1SGQVya8xieeQBmuoEvtA1_4aec_xPBukc_A9EGQRFSHIeaRkGG1YDjY5YstyEcxCFCiXLB1jrwutGX5r3ZEUAIzngIQkFGbRXbVTv0LWv67LbbhIQPP22hkQcGf1Ul6iia-T9VRoU4EJT-hqu_M8gW_ZglrvrCK8P9Fk", 
+        "geometry": {
+          "location": {
+            "lat": -23.420079, 
+            "lng": -51.931712
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 3023 - Zona 01, Maring\u00e1", 
+        "id": "8c4f137c113203bee8895a1301f46b39799476ff", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panificadora Holandesa", 
+        "reference": "CoQBcwAAAA4lJUPeeZiPAi8B9fqVrBUyhVGVVtAtjEabieCBuAhCZ55MMSl5BwlOk6L50tysYxq1mQnwKYbNX42Mk8vcjpxLUcs9NfQZ6_OKv2oGS3I7IZlNaGaL_vINWmLUxKTpiPZCpAsAk7tpT8xf2kUzyWoMMrqQ2ebxN6XC3PtWQsm3EhA0-FEI3vdMS-GkVPfqlGJiGhSmDEVmRTZ0_MvtDwmju6EY-glWOQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.420868, 
+            "lng": -51.930084
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 2886 - Zona 01, Maring\u00e1", 
+        "id": "51529b9c74df815a3c79d237fb9a5b0a0621e3d8", 
+        "types": [
+          "bakery", 
+          "store", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "ACF Mau\u00e1", 
+        "reference": "CnRnAAAAblvut6Glitybu9ErhBy_ugBj1TH8HKAFswBfbySZCwCBKR6XiC7BlmoetdU6nT_LvzUk1ZVB9c788ysVmTYcJLcg4bps2SadHuTaPYlIwmVA5Je1uNcg0hqr79grsPketCi3Olh9xZLbkh13asjuuBIQxt7mZa0fsvWhD8E7m1TZbhoUQUgGYOdjrYpcGp5xsWk54FUkNLA", 
+        "geometry": {
+          "location": {
+            "lat": -23.42, 
+            "lng": -51.928652
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2694 - Maring\u00e1", 
+        "id": "a7753aeb1a69e176ad079152dfca8ba4133b787e", 
+        "types": [
+          "post_office", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Positech Inform\u00e1tica", 
+        "reference": "CoQBcgAAAMIbef8hZidTCUIOsqZF-ie7SS-Q-EzCLcuYenlNGOIFdnrCszTXa6jv_wpy1IfHukc-HvSDvPBvZGpNkb3K4cQHCZIVimvItYsEgmCvFtPNc84Zg3OM6ixw19MKijm2pFUY5H9cJZtQ-9tVSP9ihnKQyAuiJQdwKuUs5EB_0ZxjEhD9a2tO_1eWEWTIpfEFJiDKGhSXxxjkO6U3VZrAl_gChr9adWCuvA", 
+        "geometry": {
+          "location": {
+            "lat": -23.417622, 
+            "lng": -51.92713
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Pedro Taques, 399 - Zona 07, Maring\u00e1", 
+        "id": "309e852d9251b27ac1616916673554b4e33c05f8", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Center Films Ltda", 
+        "reference": "CnRuAAAAY1Bt34xfZxJ-GpMU4isL-Esrr7o6UO169FRRI297XrEjQWk7kiB7Dxy9rzTd1F8riuneUiA9-mRhNXKUi7BwnaVX4U1OUeUtWyrSCxhOaEiN1slQKlPIJnvNYkUlIsQfGLl9v2vSsgPKRA5886iz3hIQpxF8nSJjLHJMKoGR8TRC7hoU_e11UdzVF-6WeEQnVRet9UC5oKc", 
+        "geometry": {
+          "location": {
+            "lat": -23.417286, 
+            "lng": -51.928916
+          }
+        }, 
+        "vicinity": "Avenida Bento Munhoz da Rocha Netto, 421 - Maring\u00e1", 
+        "id": "a36e698e95d7812906a16ab1c601da8a125796b6", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Power House M3", 
+        "reference": "CnRrAAAAS9C8A7KWbQlA4CDErDbeLXbKvZLJMzTDet_pnanYHjPUBCknccK3tDK7Uu816gMGBjDGIVjJixw24xVyny718nMHguaBT57DHXwj3kv13cQVcmWHUfFfeEdpKVgrhcxNE93tHTWiyWXAeJMASRJq5BIQhqd5heEe0b9nSkjrZGNLRRoUPwDTIqXgqdMPzwH2tUO6ChL7CJM", 
+        "geometry": {
+          "location": {
+            "lat": -23.417072, 
+            "lng": -51.930062
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Bento Munhoz da Rocha Netto, 283 - Zona 07, Maring\u00e1", 
+        "id": "26c2df9fc775b9870413de3c159e1c8efb1f3229", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Meber Shop", 
+        "reference": "CnRnAAAArjAx-dpA1CEXp8VLOF2HwFTnGDpuJZYC4I0Jd9mEgICdHK07DvmxkgU36MMEYAU8Mv9-fFR4m0QjbUZlucivJ_H5iI3SKgh6fHTgsKn4cih-Cq1yvUAts9Ihua6f0ERBhZEBgDF0uK1pNBFScx-OCRIQHf-8IPZJyMMS_gQ9qkk4mRoULqo9HdJ42ayHsNiIktq1ZU7uMCg", 
+        "geometry": {
+          "location": {
+            "lat": -23.420794, 
+            "lng": -51.928956
+          }
+        }, 
+        "vicinity": "Pra\u00e7a Rocha Pombo, 124 - Zona 01, Maring\u00e1", 
+        "id": "51758e3acab11a7d3bb52e3ac4ff710099f8ddbe", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pipiui Moda Infantil", 
+        "reference": "CoQBcQAAACCMuuxDXYTTN8rX3ZggN60fppqbPl6OlJkKyfCvf-DT1MUXs9T7LxcUcNMG37c7UPb_X2SUxoBmxpqEfINNzGfnrxTXyll1opsqeyWduegKt-Jy58PqJlaLhkoOx8JDUKVz1WUtzM-ZL-i1NViIJbgo6z6aXG4FXLxOHI4lRV8REhBKNgAtTDsXSQNK49X_dklOGhQ-7HlzHPvNyNcASLLEWCScuEP0Kw", 
+        "geometry": {
+          "location": {
+            "lat": -23.420811, 
+            "lng": -51.93111
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 2974 - Maring\u00e1", 
+        "id": "6c48ca9133dba1c6f52d75c593e5039972afd880", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Auto Escola Bras\u00edlia", 
+        "reference": "CoQBcgAAANNrYjGW2jYQ8XqKMSq5zxccH1XzWB6b8hUlX0pk7yVgnVbR9n0PFQhPrpiy7DLyBbKdxvQqT-qC0NIxUo12ZRS--5x3IAKryueqlDJGOiNcCvMDDWGYLOwgINDQBPUzu6JI_tL-6ECBtEhyJ_6ZnZ4glEZejKjxNxAMVb8bAyFrEhAriC8_-aPugrJHcy-EhOUdGhS1HoBh5aQkiOZ5iYX_BCok5qrtDQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.41702, 
+            "lng": -51.93184
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Bento Munhoz da Rocha Netto, 98 - Zona 07, Maring\u00e1", 
+        "id": "0a85a703e844341e6921241a8a3d0f011174f4e6", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Microzon Esporte e Eletr\u00f4nica Ltda", 
+        "reference": "CoQBgAAAANbKATXbXD9oXEOlqfqi7BBIfdpDNgCsAR8Lrm46I4Vl8q8rfDGua14JSGF9B5tpbaWpznqogJ2fy2qBhnNvgxczNBfyv_nOeu2unmRfnh2pbyLgFiWe0p5Ljjzqsf1CraTQJm0S3dx_YNKRW75t5zIpS9F8HFKRvGM7ZAcdELD7EhBJsmILgnOKnbJbe0wBK4o2GhQoD9JiDY_xaPH8R4KVLPQzNN1ZCw", 
+        "geometry": {
+          "location": {
+            "lat": -23.420397, 
+            "lng": -51.927256
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2558 - Zona 09, Maring\u00e1", 
+        "id": "e8ca9b749d7f41fe0a707ffea69f14291936866a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Gold Chaves", 
+        "reference": "CnRoAAAApAklceaSaVJQuIM2--ZnmznGNQAKzqj4iAeM8id5i3rh4wN8z8SUQIGLAFuQnNLD9St337gACQvuzwAyrOrQHWZBvDXpwD3MErXtPySyIjXLpBn6sT2dpnGLU94CLJCbJhEkgMPPdYZbjtLRhFiRBBIQIx_Ui09gCRxkHctsCLtmvxoUhjHS23rRYAC1qYIsLSwX-4dYi2E", 
+        "geometry": {
+          "location": {
+            "lat": -23.420239, 
+            "lng": -51.929078
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2749, Zona 7 - Maring\u00e1", 
+        "id": "87d5f4944c3b5116ac07b5e1f65ca01274f52ce1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 07", 
+        "reference": "CnRuAAAAIS4whaFXilxSsLM_NAZ3_aVSYjD1G5K7cDngeChIadv3G_v7W0RGHEsQ6eiJBiYAeS9rWkMN11xZBNPLeIwyz_BDR1SIibXgneFw1CPZe4eqDq4F2jK6nL28bwCuYm0WBTXmo-j3ffvf5ZTp8lJ1_BIQ851HBiQaEJ9jK8T3qM656BoUKmtdc3L-Phlq_sfMZyOMLG-5wRw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4093479, 
+            "lng": -51.9394994
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3953049, 
+              "lng": -51.9102905
+            }, 
+            "southwest": {
+              "lat": -23.4200642, 
+              "lng": -51.95690159999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 07", 
+        "id": "8d1c34b0d0a9397bff44cc5747d73e7b4099d98a", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAA3Bywrs0NlD4JwnSm-vRaBTVAsPRv0xSTeW6_mUIXkLZ09d5HJMfHaByQLuuFKdE44GvqwxCQoxJAmKDGpyxh0hrRgwQ75g8RJszHlUp_a2USECRoLuMuCq8EaabV1nt5bAAaFBPk3rJaTlw4roZHEO302OmtO-nr", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 01", 
+        "reference": "CnRuAAAALjmZeuNmJLQbcdTGhUQpq3Bi0GvkwAFj7O2_5y-oJj5udxXyA2m78MBoTQRuYVJT6pqXZT_7YkG_vVT2xwsMTyGIG9umLeg7H0rGBY3OTCh4HLLoXnGx2xWZhpdmup0mbem98nqf8zvK7Wzw6jv_thIQR_jrH5fK-0Ar5C-rfWdENhoUtBG_hH6IVSfTkZqABRW_8Q26mSw", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 4.5, 
+        "name": "Shopping Avenida Center", 
+        "reference": "CoQBdQAAAHbNQ4aKNKTJM8uKXulxcsZugK0PUDyn7dMehwnGP2MtFa2AdYBJ1YQWGn10WlDhHr2eewQYUnQJ2o4AV0Iu-RkyZ7_E4-5uSEurGsIMLPEJbhcLsWhYUkp-1tHSh2OLJm71Ock_UfMLx9TsoEiSs38xf0fmUVgNy8J5Zz3-1J2zEhBlC2Sv6j0iLLV6QFA7YmfiGhTVxxc6dW8QeMgH2yaxsVAawNKd4Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.419544, 
+            "lng": -51.932862
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo - Maring\u00e1", 
+        "id": "0bcf379a942812c73b5fd5bec82d06f25c477168", 
+        "types": [
+          "shopping_mall", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "rating": 4.2, 
+        "name": "Cine Avenida", 
+        "reference": "CnRpAAAAFHz8G1bcp4hfm8DwpNt3BXOZKa5nBe4g1ibrmhrMKCXMhZwEjfKKzKmt-ALKXCyNr_0EnMm_E2p58phdBpixaYdj3aJCefjq5VzFMp3xW3fEgXTVJoYhaanMrvsaZPHVC0R9HErBK6pgsA6ITndw0xIQZNMvCXyvFmD6VZ-d4IcjdRoUsId7WTcHuZiO5WiiGF1knxPBHDo", 
+        "geometry": {
+          "location": {
+            "lat": -23.419797, 
+            "lng": -51.932615
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 3094, Zona 2 - Maring\u00e1", 
+        "id": "9329206de29f7ae1c167340accb55994e8305012", 
+        "types": [
+          "movie_theater", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png"
+      }, 
+      {
+        "name": "Lojas Americanas", 
+        "reference": "CnRtAAAAdh9QIoMe2Tbq7qz9bbmKHHsPpCUVG4Yic6O07mSelE4tZ9j87Ot_4JyOEeDbWUqak4MzeF5lNCVx97uGc3A-62q2uwQ_u4exneATh_VeFYIaufVHMhpN3R2sWshYD8J_hiJEZMy-2R6v7wYyZI7doRIQ5OWWzJve9YNZwapzWW8EkhoUYwg-cS0DMCQKtUB8lEy7CcIT3-s", 
+        "geometry": {
+          "location": {
+            "lat": -23.421462, 
+            "lng": -51.932716
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3171 - Zona 01, Maring\u00e1", 
+        "id": "75cba9269ff99cb2c804edadbf418cdd73cc47b1", 
+        "types": [
+          "department_store", 
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Hotel Pr\u00edncipe", 
+        "reference": "CnRtAAAAys8VTLw0nwQ3-VXFe7GA23JhgFvJa77UHS7_RIsoWPgOXeaFBN2SFJu5NqE3Qh2MoVGPjlU6IJyZUeHa0yuvYeXAtxlRjaqmB9zpjUUsId1oSDh-1qJUBWawIVI-AczViVswJuexICJNeZ4QCY5erRIQPHDQQI6YQAqkA0RGeJOW6xoU3OXKNWnT_NXHljQRHpENfi85mnA", 
+        "geometry": {
+          "location": {
+            "lat": -23.42017, 
+            "lng": -51.934631
+          }
+        }, 
+        "vicinity": "R. Piratininga, 610 - Zona 01, Maring\u00e1", 
+        "id": "05ac0b1a1c7192f825e85ee20916607b15ac1ab6", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "rating": 4.5, 
+        "name": "Faculdade Metropolitana de Maring\u00e1", 
+        "reference": "CpQBgQAAAJgF8oAYfP02siVqrEAgdCCcTuTgErK0Re_1r4gC9ER0BWwT1UrTWF_bLYngspkibL4mP7L4o_AfNAVZaGMho8nPqDFqu9ZO2pcE1UhVm4e3RsWMcf-KwhzfXU0ETP1aetByNRv2NbkL-5EtN1iAIl2LHplXiHyQItr7r75ixQzwDWcDwvMglQ8fE1E1z8fTXRIQ35VDPlLQAJOl17_wdjMxHhoU0vDkeZ-RLVENNqF4xOT7KSUpHpM", 
+        "geometry": {
+          "location": {
+            "lat": -23.41991, 
+            "lng": -51.930077
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2854 - Centro Maring\u00e1 - PR 87013-160, Brasil", 
+        "id": "3b721ce9bbc389c7d0c7d37690420eba8bb725a9", 
+        "types": [
+          "university", 
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png"
+      }, 
+      {
+        "name": "Ri Happy", 
+        "reference": "CnRmAAAA1LLlsKVF2kwdfZodDeOmjdDOQR2gW5niz5elG_YOA-X62ppjk7CrLRWRmXBS15wbfkZUWkgQDfKWqPhng3_fX6DoXpGgHqCVyKRP9bC89WWUMZafrTEmi2iN-Rsxf3QsRHPgb2q0r1HGgUaOMwsPCRIQ5F_DaRNdoqOaUKXkuDqbhBoUx3w4wFEwCOD8Nl_xtZeHNudyFoE", 
+        "geometry": {
+          "location": {
+            "lat": -23.419797, 
+            "lng": -51.932616
+          }
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 3094, Centro - Maring\u00e1", 
+        "id": "c5eca42cb32d598468e66e2eac40897bb6854108", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Banco Bradesco S/A", 
+        "reference": "CnRvAAAAzdCGwuTHxKIzGnBzb_QowcsF04sedJBWqalAjYPnwcHzI6ft0YyrT8GU2FV4JgB5Mu4mWXtTUfbf0jLGEL34nAzOQJ_DVi5koHha3QhGUWWttBhRJ31BOHE_VHKQmzdZe_BylA2exKsZ4giOklUFjhIQzdY8Eh09YznTh-GuQxJeIBoUO9sjxefnctjEMETy1PGmtRk5MDw", 
+        "geometry": {
+          "location": {
+            "lat": -23.420804, 
+            "lng": -51.932801
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3150 - Capibaribe, Maring\u00e1", 
+        "id": "c7f90f2497473a15972078b0b37080a25b2eb7b5", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Bazar Shopping M", 
+        "reference": "CnRuAAAAiQYQ9bPamfO3bw2PZB28nOnINA1preIgUj49WQL1bH5f3lJhmXNMsNh7grwDA2nhBj0dZZIzXQ1JHbATprvtr3QbFhWEIM1ivLnFIfzr8c0pUaXhcqoQKbMbFXUNyOYruoBO3Ta-khcrmxTdb4n1vxIQNr3LkxZmeZ8Bai21rU3E5BoUaZYvyEKuZ_tL5LOMXA03eaAE870", 
+        "geometry": {
+          "location": {
+            "lat": -23.419843, 
+            "lng": -51.933678
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 62 - Zona 01, Maring\u00e1", 
+        "id": "66f8b886fdb00738b108bac566ff5251a2e74149", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Lojas Colombo", 
+        "reference": "CnRrAAAAtLhlAANSUW13q96KNusczoFADreIPdkOIE941YQbrRpe1yC09_VeHewZgL5C0unSwbzAGVDlZX3LkPAkLSWgtUv5qjtXY3h4lf2NyQQvdNchZOnbp5YnZdMnqily4Mxmk1xA1AY4fHT5BKPTcAEylxIQTK_xdK1r6y9z1c0gHctmghoUMxrDy6zltKq_HSs_MeASKSwB76k", 
+        "geometry": {
+          "location": {
+            "lat": -23.420861, 
+            "lng": -51.93375
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3252 - Centro, Maring\u00e1", 
+        "id": "bd199ec57d9915075a37f33a876276543c8241eb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia S\u00e3o Paulo", 
+        "reference": "CoQBcgAAADZAkoc3PQ7LlM6Rn8zxv1yD1zJ-y4cm1O8Bh8GkXp7XKs-1_57evjsTjqby_gETxtDerYiML0jwmjTxvYoGTB1-GIUc1H81vsErkSafXFv9IS9eK7Cd5YYtDCic9Lpc5X1DDWN75zaxqYAgPfnsOieuUtj0VKKwwxXwqJBfyNwIEhBa_HoSq9gAUHr3bhw4yzZpGhTIDgM25l9Zd67p5_v-fwFLptKOrw", 
+        "geometry": {
+          "location": {
+            "lat": -23.421103, 
+            "lng": -51.93375
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3241 - Maring\u00e1", 
+        "id": "7ef6b9c5698ef936c0bd2a845e92ac02b937922c", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "DIAS BIKE & MOTO", 
+        "reference": "CnRuAAAAFyWFQpBMkJ49uk9RMIiYF7KwMIR6yifLRIky0Vs7zuNlN-xShNCB77bMlE93MAn6_jN7r69lW7YzV2aEQvI4kT1ZHl-Q7RsDZt7DjiDlGFGKlPsiwNp3gHcHmky7elgvkQ99rp5h-B6GxH-ZKzGkfhIQLMsZhDp0xDrLokjxD5bfiBoUIGTgoKm5pQijnN5cMtgawduR-Bo", 
+        "geometry": {
+          "location": {
+            "lat": -23.420091, 
+            "lng": -51.931286
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Mau\u00e1, 2979 - Centro, Maring\u00e1", 
+        "id": "fbc8aa29c21cdad9345f6463481b665293ab19eb", 
+        "types": [
+          "bicycle_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pet Shop da Vivi", 
+        "reference": "CnRtAAAApL03jO-R8drM_iYb4N_8yiQgCnTJW_Cl00OoDiWEbdIu-TFtBJ2ueErMeMCWzNLG0cOkFcSoBnUMIZy7e-QuVNXEac0Wpy9Q7MPSXxeqFhvrHtcj_NY3AMxAjTjdxJekdjpGb5N7-Isx-l9CMuxZmBIQvhubQgCmG-KsPAnkin3YwhoUYRvAoHwAq4WeCwhxFtjEsOE-t2E", 
+        "geometry": {
+          "location": {
+            "lat": -23.421807, 
+            "lng": -51.934743
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Santos Dumont, 2230 - Zona 01, Maring\u00e1", 
+        "id": "4e7f32128ffe681fc1017771902e2172c97ffeaf", 
+        "types": [
+          "pet_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png"
+      }, 
+      {
+        "rating": 4.0, 
+        "name": "Pizzaria e Restaurante Mill\u00e3o", 
+        "reference": "CoQBfAAAACFd-H4dIN7QAKlCGTf7d5J8KIEinrtQ7NH-EYcPOg2O6ZiltBdUOqDoMjbImXw-tGIxLKGlyuGO4rQjMA37aFHubLw7kOzaGAXVd0-8unFr29VMymB34364pbavCgXHf0uAlosqUHZnFWeLCk9Hiltu4MF8xrs3dJu1oBo8ygmBEhBcTUwDij4AfFkf-6PHkJQ5GhSAswetzUExC2KgZuHRDmmlTX2tYA", 
+        "geometry": {
+          "location": {
+            "lat": -23.41956, 
+            "lng": -51.933208
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 453 - Zona 01, Maring\u00e1", 
+        "id": "865052057be4e4b16a5cb05ed407e0810a7fe60e", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Ag\u00eancia de Empregos Free Marketing", 
+        "reference": "CpQBgQAAAFl7wyU_xMPQaF0TC6KQNd1OEFTSzLjZY0zG5H0rOgyW9mGsDP4iyWKOmG1MeUNBNkw7hNR4bMX3tTskHRVLs04yaH56f6kLG4PGIvxsvaxkRyGn7BOW8B9bkWC5uAuLjhwbPO_O8W_KBVlUDiX18AaCTShmTChU_aQ2fqRVQ_HIas45enH3CZqLus4iTTbu1BIQ8pz7DyIZ42iS-iVwVifzExoUnd1l2aYgO3q0TRFoUplwX2lPq_E", 
+        "geometry": {
+          "location": {
+            "lat": -23.420465, 
+            "lng": -51.934637
+          }
+        }, 
+        "vicinity": "Rua Piratininga, 668 - Zona 01, Maring\u00e1", 
+        "id": "fc31547f90aa8f6776c42168efeabad52de790b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "B J Santos", 
+        "reference": "CnRnAAAAuLH7ftng6KS-_IRkGLKSCVWMTFPRiaAi7HFUYtsuA3cmTqG-uMCcfkOtzVYOq37BMi8xRHL8c0YiZaHqwClz8YC3Y3wV3VDAf4l2t8VX4mR0bAnbrfdxZI6gPGCyNGLSSfXXheWqcW2pYPPU1SUOVRIQLv98AquoBfQHMZ_mKvR5LhoUmEyrnztVY0SUlyDNv5ENFJzjNbc", 
+        "geometry": {
+          "location": {
+            "lat": -23.421102, 
+            "lng": -51.934221
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3293 - Maring\u00e1", 
+        "id": "b2f81e7b59d8930ddd9b689d13bb3202031217a7", 
+        "types": [
+          "furniture_store", 
+          "general_contractor", 
+          "home_goods_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Sistemas Cordon", 
+        "reference": "CnRtAAAAJF7qx1RtjdBYQ9X1b_hkVOjKK1vtYjXZBO0roXM5-b8rpdFGvmcWzq5apiU_IWbuYH_s0FyVLZvKQQKFq0L-FW343Mz81jMladFBDJrn3F-lVHlxXpOsugR9lv9y3VjxtZB-7FPn3WIfnav7v22bEBIQY3QX8bKqXVMu6pVmLHUlKRoUGQveIeZYU5ImjZd18kS_O3KF9aI", 
+        "geometry": {
+          "location": {
+            "lat": -23.421814, 
+            "lng": -51.934311
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2166 - Zona 01, Maring\u00e1", 
+        "id": "b927feef5a3cc9b8dcf253b29fd453125f217631", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Cl\u00ednica Corpi - Cirurgia Pl\u00e1stica", 
+        "reference": "CpQBgQAAADsiBzTsX_xmJvrXqZ8vxwvEMAlm-PGBD0ChbOlj9gLi5-KeKrRpHcmZ62yopRKRBHXCPKyvg9UT3FZIb1IKZtjP3qxjfWT3mO6Lu6lqZanmwQJdoXTbo3PiAl3y4o-AWrygcjXmxoOX5rJztN7q88IDe9VQ2hALceK_qw9S0u_PSXa5gYch_MyhXsRBQL1vqxIQq8oDWyF5Y8tEs07hDpXIERoU_rnDdJLqYVxFUE1RHFR6IdgCDl0", 
+        "geometry": {
+          "location": {
+            "lat": -23.422216, 
+            "lng": -51.932888
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 172 - Zona 01, Maring\u00e1", 
+        "id": "6cf4ec547287753fa35dc73f8f08929b81ce387b", 
+        "types": [
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png"
+      }, 
+      {
+        "name": "Pinos e Bolas", 
+        "reference": "CnRrAAAAUAOxAbWhN584XfmFuuZH07RHbujs1IjwfFMDSUL3Bfzr3JvpX5W7_Fn43DrxJncRlOY6ii_WaJ-7tIoziehHUaVxRgGmclC_h-el8682fLJoEKu4Oz72PFAbPYvsQG9coVeaa5O57btGEGVhfKXmthIQab8P5u8BmM_xzTAundKaIRoU5QuNWJS5_x5MJ-9GhLvNuXv29Pw", 
+        "geometry": {
+          "location": {
+            "lat": -23.419102, 
+            "lng": -51.932854
+          }
+        }, 
+        "vicinity": "Avenida S\u00e3o Paulo, 508 - Zona 01, Maring\u00e1", 
+        "id": "f5ee65a2ea662fe4c5e6155774d659dcd35369e7", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 09", 
+        "reference": "CnRuAAAAL5Uvs3-3bnFKFuJ1E7gDv-lcBF2Nb7cpSTizjWcXGsYy6MIusAgoCrZP89dkhSZX0owhAK9Pu0xrtDUHf2IMDx1m15mjWwC4PlWZ931t3uO4rUMZeaObAFWHBBbq2mOHBRFO9thw-A0-xd79sd2c4hIQlqLrhVtiLktUlduDvsThzhoUFd6IngtCnbG7v1g74mkV_SdHKhI", 
+        "geometry": {
+          "location": {
+            "lat": -23.417965, 
+            "lng": -51.9322262
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.415662, 
+              "lng": -51.9105375
+            }, 
+            "southwest": {
+              "lat": -23.4259612, 
+              "lng": -51.9543347
+            }
+          }
+        }, 
+        "vicinity": "Zona 09", 
+        "id": "7284bd507b5dd6bfe2c889b14ad307bf79179dff", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAKSCTKOGXW-pmu5_dMiYd6esbo_4sam2lOvCXOi11YvjqK3_mKssQBRNiHiBUrzf3RHZkMh9tucQedXDgB7XM1HqmH6eYVnKIOwP2mE0SfBMSEEk1CReJBm_s1iDah9oEIeAaFIfI6myPaF8oi8YSEF-7r3vzfhgK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Novo Centro", 
+        "reference": "CoQBcgAAAHkA6sVHcQo2T_YMfga6O0XgfWVGhQUCVASv6x4yWwtv4QhikhR1sqvyQq-MqeHrfe-QPrxGH0IbUHPCKEjVi9N2op26C95sWdNwt_FagGROTbxkD-4iJO7pta4cAN46n96HtRSDUfy1zctmi-KHGMKndi1cpLw6O6NL8Z_yb1zpEhADpmQNtOUo6tm-p_MunqKiGhSJ0zui6PC4__uRGdkaS9Ux3RpFmQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4194757, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4159091, 
+              "lng": -51.935066
+            }, 
+            "southwest": {
+              "lat": -23.4239321, 
+              "lng": -51.9430111
+            }
+          }
+        }, 
+        "vicinity": "Novo Centro", 
+        "id": "ba7d65acda1ade5c852489a4a236c81685295f7f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Super Muffato", 
+        "reference": "CnRrAAAAtvopwKKP3DS34m9EqCZIRZJK5BD6X6vMBAJquq1pjuQjl0dSedLxoe4lNOKIrEBMlBjzYPm0qMqOIxm59FMve4lnMfPq31rgcq-3_7hhm97tymXiUOkv0K0EWDjr4juYE1SK-mmYYnJdz8VwAtdRJBIQrDV86IxgRnT8BIG_-dRBBRoUuaxRBhnOiYgKF8yZehR4M-lHA6Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.416799, 
+            "lng": -51.934495
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho - Centro, Maring\u00e1", 
+        "id": "945bbe85c55094a823425951fec6d5b568d61f85", 
+        "types": [
+          "department_store", 
+          "grocery_or_supermarket", 
+          "food", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Hotel Pr\u00edncipe", 
+        "reference": "CnRtAAAA3-TLaZjD2t2f0u4Cxs0NPINT7jcvAmK1QLFWyBbYkyACXAt_BXnQNQtzmEUBvufsbmcI34Zc72SFzUhsX2sBCXXDXRaKcgXsHe5PS95tauDQ3H_bB2MNpP7yQqxzCwyY2lfhdr8YfOXohg822gvjihIQfKUD2QNBpwukoHbbKrscFhoUI0dlDoXhEjaE92ug4yoAX5ydvXE", 
+        "geometry": {
+          "location": {
+            "lat": -23.42017, 
+            "lng": -51.934631
+          }
+        }, 
+        "vicinity": "R. Piratininga, 610 - Zona 01, Maring\u00e1", 
+        "id": "05ac0b1a1c7192f825e85ee20916607b15ac1ab6", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "rating": 3.8, 
+        "name": "Hotel Ast\u00f3ria", 
+        "reference": "CnRrAAAAwIB7HgFIcIM4t56xoiWoUvfbvUPX9dPtCNwfcxdxvx9bNAyI75ZK8TBMfISkwzh_jW1bF4jJIWA-c4gxbxLsf3FM02cm7mH0RbU67EslYshhLPjCS8QDIDbTanIweLqYnX_9Ju6HtXFD6qArpI8mVhIQoCA6d_f8iL1JUXVzdtxEaxoUNSxUWo1zdAFNvV-tuXJeKydpo9Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.419063, 
+            "lng": -51.935391
+          }
+        }, 
+        "vicinity": "Avenida Tamandar\u00e9, 241 - Zona 01, Maring\u00e1", 
+        "id": "f65fa9ea521674af81f9f816b09c2617acb5fe55", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Hotel Vila Rica Maring\u00e1", 
+        "reference": "CoQBdQAAAI9uWYvvLqwNj7XmDmgvJoq3sxbJGPvN8TsubtcrZ_b5IxK8-DuVGrVGq3xop7MA34fo1tZ8hsQUn2q_Gnel4gnJWmlQYzAS1alRJ5r_MT53a5u8_JcZMfYHjx4izRZIyLi6cXImQBci6qDPA5K0nB0z9bluOmeQxNB1qy5XAYRbEhA99BIFnfThKbhUVOcPa-MmGhT35LRZpVn9WwS2DGtGmm9JWfy1AA", 
+        "geometry": {
+          "location": {
+            "lat": -23.419996, 
+            "lng": -51.935824
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 252 - Zona 01, Maring\u00e1", 
+        "id": "ec0c8ff10c1c8222e8c9fe70913fc3dab1639878", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "rating": 3.3, 
+        "name": "Hotel Touring", 
+        "reference": "CnRrAAAAyEJtiyTNe4Ie_9F1DOnd8s3GOW4ZzFAOtfG1Ze7MuVS8BbI7l0hIUy7zFre1y_f-QA4VfbXnYGzLtAWZrEpgWpMtfThINIZRtCriYYksSfketoCdLoWeKP5E1LQK7p6_KROcFkVqrgvIemX_XOMOZBIQQ-7cpZVuDcPhZRGibU9EWBoUr8zE8ko6CezF6yaX7kwilHz_gN4", 
+        "geometry": {
+          "location": {
+            "lat": -23.419523, 
+            "lng": -51.93619
+          }
+        }, 
+        "vicinity": "Avenida Herval, 670 - Zona 01, Maring\u00e1", 
+        "id": "cf75c0f2aa65087cefa1cb54f1a43a9ec7ddcf99", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Sapiens Col\u00e9gio", 
+        "reference": "CnRuAAAAYNoE2blklZ4zd5Ezv4Xo2HK7hVIRMi6vIbHiJsgOvklcOhx4PBnGZvSYhVAMng9_BQi2o81fwA_Xt5y01-WxXmRG5OWd8oPvb-eRzZV4nyEs6MQFUNHd05A9xvMYinO5DfCvc0cec_gGpIta-1jLihIQwa-XSBaRTxqy45mxHltNXhoUndZxCbUmxOeSudIsErcSDxV6TlI", 
+        "geometry": {
+          "location": {
+            "lat": -23.418026, 
+            "lng": -51.935066
+          }
+        }, 
+        "vicinity": "Rua Piratininga, 879 - Novo Centro, Maring\u00e1", 
+        "id": "935309a44d75a621afa7a1d382aaba305c5bb426", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Compubr\u00e1s Computadores e Perif\u00e9ricos", 
+        "reference": "CpQBgwAAAK6Rv4C7RT34WOfs-UzbZesz0lTEJdKw-07tk-qfrtQxKBM_pbLDWZy58EtpPG4x2g00mCSTqjYy4AF3txnm2ijUVX5WN1w7Qm7P4z847fFULK4v5t_Qi1xHyMInehWiXJLDJ7aHJQhynW7JTQG4Qko9NWXIYQ15lq2hmJ0MbWVSVbmA0HG-VnWjS-kZqDt5RBIQIj65CXzvx0exgQr0KZYyuhoUbTdkwZ6Z54ZN_B1zYvlR0AavrZw", 
+        "geometry": {
+          "location": {
+            "lat": -23.417154, 
+            "lng": -51.937793
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 532 - Zona 09, Maring\u00e1", 
+        "id": "2a2a80f54398160040513188d5ac179c7ccb3b69", 
+        "types": [
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Bazar Shopping M", 
+        "reference": "CnRuAAAANuwUZDRlCrIZBJWbF61Ba1np2O4x94mkPH8pH0ZEW2BsurZ5QjzrCjnZH4Pp24R9OJTHlFmVjhGh0U7uFIPUgqUU0k-NCvT5VH7jjbEDaZEwJTuvN6U4kYeF1Xfniba2H_7Ik-Netcj_OOpnUozJnRIQ9TCmdl4Y8O8Wdkh5hZIg4hoU0zLQdb92B-eEisqSke5YBw7mzFU", 
+        "geometry": {
+          "location": {
+            "lat": -23.419843, 
+            "lng": -51.933678
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 62 - Zona 01, Maring\u00e1", 
+        "id": "66f8b886fdb00738b108bac566ff5251a2e74149", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ag\u00eancia de Empregos Free Marketing", 
+        "reference": "CpQBgQAAAANkUhRoaYSXYLbSc9Je7qUJRZdLg53WwEJ5Zvz6lI5Jin8uEymxZgPX42ggDaNZEfQXejAHNZHm77aeV2UflOJ8YpvqkZy2f-LeDpSw5-lyg6i3yKKo0idLik3_39eAOV_Uz1IKGoOz8UKvIRoEEWOVZNnuf-kN3ISKAEy0FXYN6Q0WA2mrV9cC4KEYIYeCxBIQCU2pKYHUClNc1Y1sdDi5ORoUfb7pdCGc1igUthY-f55ZBSM3qQY", 
+        "geometry": {
+          "location": {
+            "lat": -23.420465, 
+            "lng": -51.934637
+          }
+        }, 
+        "vicinity": "Rua Piratininga, 668 - Zona 01, Maring\u00e1", 
+        "id": "fc31547f90aa8f6776c42168efeabad52de790b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Lojas Mil", 
+        "reference": "CnRnAAAALqfrcnVFgZ0IYt2h1jaMFT5sOLWdxUOeH9XxmiBZUiAOQ7N46JamqCTPjWisEdNZkrd1i3dD5b3S_MN9tUru0CMZN5Ji_uVYFWzpkcF926PR1wBVZlYbPgz_6H6QMqTnrsDmVdP1j2jH-ZIY1fVh9RIQNitxuJgyzR45tjMwj5AVCBoUgUIy26TAE4EqCGSI37PJwmiWFT0", 
+        "geometry": {
+          "location": {
+            "lat": -23.420756, 
+            "lng": -51.9353
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 3400 - Zona 01, Maring\u00e1", 
+        "id": "ce1f4a60a20576ffe3bdf68f719b1cf744af5b75", 
+        "types": [
+          "shoe_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Face a Face", 
+        "reference": "CnRpAAAAfAVtgmolGQGYC47CHSp4nMsS_zyP0Fnjuzam0Rf1yqXH9OcgaC_62vKQMhV-B0Y8gmy4mF4k5vZA4agqzuA1c51TwJXbfjL9qPTJ26_FYTAg8pqUi0bxzZ3WShWgIedQRlODHZTcC0NXf0YAId_H_hIQKZqJVSP2mcvd-8kN7fEixhoUjmzMgD-iNqfylfcq5VqKm8DK6fQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.420754, 
+            "lng": -51.935612
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3434 - Zona 01, Maring\u00e1", 
+        "id": "4f73538983c748c0255487dc2ab0ee95923e2ea1", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Musitech Instrumentos Musicais", 
+        "reference": "CoQBewAAAL_79JXRQtEvyCT7CQaD2FXHSKoaUQdqq4F6eAyVmbou5GJA_Xs6EAz1lfrIbPTf_zDGL1k-Z93un6H9MTmMdTiDUhGvaKkkIXppBm4stSvKNcIC906MFcY4-RsZBrauWtbbYKWx92Cg06gLYTyDyJQUM8x3nrvR7PUxzAiRB8ScEhB6ri7KaEyNEIgKl8SYDu72GhQcOxOvQW6TQoycBDbTjo17G506MQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.419196, 
+            "lng": -51.936482
+          }
+        }, 
+        "vicinity": "Avenida Herval, 695 - Maring\u00e1", 
+        "id": "84648507339f26d8686ef27760874c03758cbc44", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Hotel Elite", 
+        "reference": "CnRpAAAA8lEMDyVZsDzsbMz4jY7ZHH6IDr5-LDBNZxj77EFm6lR1b0GPcDbMzGmoiNjYPkEdJI2yIXq3MbpQA1nzqT_xviNv1r_qrM8so5KE3XqFPA4sc00ANPRHwahHbUAONrHjz3uTFyoDmC5RtMjw7CXM_hIQWg_sl0FjQ5btgaQmgYbxPxoUCpzs-vTLku7HIXCFd1OBrkLxR00", 
+        "geometry": {
+          "location": {
+            "lat": -23.420001, 
+            "lng": -51.935388
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 208 - Zona 01, Maring\u00e1", 
+        "id": "c28fa0dbb0aa3bb3a3bb8328001a2c5ff08ab7fa", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "ANTENAS MARINGA - SKY", 
+        "reference": "CoQBcwAAANe1LbuxS6Q0HGfzQkd4F9Zr3OG1U8D2KQN98XN3qq8uvgJHgrzrwUdhqpmuOEyzOFA2wSD9F8bNMMPuTOGiTDnwZeNFiqumI8fuPgkM6nrVg3JBXAgi5Gym3PPnqHwHvat08xmsjQopyyZdtCQdHdU_YeyuONUsMDplVpVOmlNLEhBc9l_VcUsAhkRyxJN37QqOGhScPnvrzXWZrGtmDid2wrxDxKR_FQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.416993, 
+            "lng": -51.936409
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Herval, 944 - Zona 09, Maring\u00e1", 
+        "id": "cf0f3a591a4ff46cb5017c5efc9c78ac4208bb39", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eletr\u00f4nica GPL", 
+        "reference": "CnRsAAAAK7fxlnRBFyq-qFP6SuEJdI51arM_tfDBggX57laIpNrTuTYDBo0aPoQgv8Oxcdnu6ZdGnKOBoAHBLTzvFcrVpab6IX6d1_9XtFICdbpjKuW6u7bbP4plJ9yC6Cb4cDDLHxG32_lyBfosS78U7N41lBIQiJUmYXJEMdvR1QS_1XaQfRoUDu_fb0FtlsLEwbyzCY4fluv0EHU", 
+        "geometry": {
+          "location": {
+            "lat": -23.419388, 
+            "lng": -51.936182
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Herval, 698 - Zona 01, Maring\u00e1", 
+        "id": "c680c5ef8ad9f01c88b0d32a5ea65408d025be17", 
+        "types": [
+          "car_repair", 
+          "electronics_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png"
+      }, 
+      {
+        "name": "Priori Curso Avan\u00e7ados", 
+        "reference": "CoQBdAAAAEFaJL4P4edjTOD09HBV8bQhx7B3b65HJ356x1nPXMCeCtsEPkc0LzjFz3tBnRI0Fa6vK6Y0B5ut3vhNARANwsttZJzxjuZMOUa80M_WXDTtJ26vXUj6Q-G67yT6bFCLwX63L2bqCKahYv_9GeXK5kOuF51-nHkbUH3SzE4aw1wDEhDMk0Rwpyk5smlshihAnx0yGhSe6YWmx18Dq1jWsd3fM9xcXNGaZw", 
+        "geometry": {
+          "location": {
+            "lat": -23.417076, 
+            "lng": -51.938084
+          }
+        }, 
+        "vicinity": "Avenida Jo\u00e3o Paulino Vieira Filho, 512 - Zona 07, Maring\u00e1", 
+        "id": "52c6f8a75e71aa69017a8deffb0bea855a382f1a", 
+        "types": [
+          "university", 
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png"
+      }, 
+      {
+        "name": "Hotel Cidade Can\u00e7\u00e3o", 
+        "reference": "CoQBcgAAAHv5P5u5S2cB0nA--deaH8YpwWed8iAAYDyH4lW7qsJKm5u0NCcHTQhtUKmlO9hKrO8-B5UiL0VM6aTDwu57A1K3jBNrPiVQl_-xgKGfgYKUhldJwoFelH_dDkkY4LjRPMIBJL8XID9ckIVLTv0XQIyw179WFrTeMdBt_sVUwRqTEhDrLypOqkK_72vCH4qvzeF-GhQwuWag5CVyf1rNoKppIpUHLKqoVg", 
+        "geometry": {
+          "location": {
+            "lat": -23.419802, 
+            "lng": -51.937344
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 409 - Zona 01, Maring\u00e1", 
+        "id": "4276016bf3d6e9d992cef82de4adf74b1bb7cfa6", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Est\u00e9tica Academia", 
+        "reference": "CnRwAAAACtmYL_B8RLjaxKitqghv7waO5lI6Dm6cS-RJxrxZL6sXVB6k2FN0M1GnYyAA5YcQs1eQE3UQVXZhnY4jY2Uw1vRZeRf5JgiIl6fb0-Fu88nGF3QxriRbx8X6_vGIhmWyF3Zy5FKnnWTmO697R3E-iBIQMmPEc3XwX3xIxVHc94RLahoU9A3BaA57vE8XpOQ_RkAGsWfIByg", 
+        "geometry": {
+          "location": {
+            "lat": -23.416844, 
+            "lng": -51.936731
+          }
+        }, 
+        "vicinity": "Avenida Herval, 951 - Zona 07, Maring\u00e1", 
+        "id": "620a00e8365643b46539f40fde8270efb0f3fa65", 
+        "types": [
+          "gym", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png"
+      }, 
+      {
+        "name": "Zona 01", 
+        "reference": "CnRuAAAAPwlPj19QbiipM-Zi7Hvw7oIeQe0z4pGLY7K6wWEnBRQpnyuY0a1u4_tqb5VPHjv19XKamnMbEkxR8fIyFE6qfF1MzXjmIiwpCCyvZ-wXMB3PTd5c3_vJWinypeHgKUXyDHCjMbkRui1Z8_I-oNDGxhIQmLuuipMx2Gv5hjUj1rkojRoUC_Vv-hM3LXO4kJJA3T3K9wN2flU", 
+        "geometry": {
+          "location": {
+            "lat": -23.4202936, 
+            "lng": -51.93817689999999
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4170689, 
+              "lng": -51.9281855
+            }, 
+            "southwest": {
+              "lat": -23.4257361, 
+              "lng": -51.9479467
+            }
+          }
+        }, 
+        "vicinity": "Zona 01", 
+        "id": "3c12d2faa7ff2a8ec3a6b6aef42a095059418d6f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAwQDVIdLkrTr1qkcDP87vF8pfiAnxDEO5DgS6cIc_6bpN0id7yatDxfoDMV8YVUN_AxYXrVxUC-ocY3weFvSxCYLXffZiGIdk05vj3hsjvyESEF02Xn2-B7kQ0NdsiyARKFUaFMRLIy7vJ2Ua3dJ_6dnqAPF12U40", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 50 - Zona Central", 
+        "reference": "CoQBfQAAAGzr6BE6xNKnsy5bRtttMiKn6G6AVRsyigGs1NRXFbM7Z1rfelXRrl6ODin-tO42rExrvISMz8aYmlAzmae71x0c5DbtKNXVrOCPLBg5Bt7-4O5O6ppL1mudOOMQgnmPeqGhpFGXiUV4L7RtK4hnwTnVOdfeePHeHOJe_SWa25P6EhDVINPbWeYn5yO_AYjOrMYXGhRWI4EshoiEcVQ2jFeMoUQSOkGm1g", 
+        "geometry": {
+          "location": {
+            "lat": -23.4257663, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4237629, 
+              "lng": -51.9363477
+            }, 
+            "southwest": {
+              "lat": -23.42756, 
+              "lng": -51.9400467
+            }
+          }
+        }, 
+        "vicinity": "Zona 50 - Zona Central", 
+        "id": "f69643bf48a9f37ed83c40953ffae819aaf65719", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "rating": 3.9, 
+        "name": "Hotel Metr\u00f3pole Bristol", 
+        "reference": "CoQBdQAAAJqtq5Dp4B5ahLLWAmwj-dODsjSJ64jUp9iZ1csRUv6lz3odF6w0dDowCM9oeqXBLrSay7Q7yPHSPw_NVggNVQatqf97ilXCSFI98USpiCghaFdjfOU95Ai5rFiwbJgw7dXIZwolYXHvjmTaA9ag6sDW2T9vli_GMIFGnBcP-z5lEhAeddLl-g1G9F-Ur1GpspcYGhTM8b9jzsSwLHIk2NC2KFMHb5bE0g", 
+        "geometry": {
+          "location": {
+            "lat": -23.423682, 
+            "lng": -51.9371
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 462 - Zona 01, Maring\u00e1", 
+        "id": "bada16a2fb2e33ae71b2c6249de235283dc7c612", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Hotel Cidade Verde", 
+        "reference": "CnRvAAAAI-nk8JBtr1q9qtiTM52fjjGEeWdVB0KuRgAUI5iKN501k9gtR_GV9JtJaziupq4wK3KXb519AAAaI2nnw1MzwhO7VHPllJ3wCulX0CcbA4xaLEysYvwpxwqcVWAP4eW_Ssgm-GyI9rByjb_uj-_ztBIQvyAKwzyh58eSEsNtEqTy6hoUAG2LTQfdbgVOBO1OalxjmRe4qR8", 
+        "geometry": {
+          "location": {
+            "lat": -23.421789, 
+            "lng": -51.937439
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2516 - Maring\u00e1", 
+        "id": "e213bd3897eb51c1df0617d5cdb57ba8200fc0a8", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Cinesystem Cinemas", 
+        "reference": "CnRvAAAAqh_2nsRur0lpJhjOMU8NwpJ_CTaULiixtn0Dm0UONLzhhyHYXbxIeYuevvTXLj8cHrGdZLLdjRNXaV2RmE8ycyTCq0EW814Xm7MAASJXHwWBzy8ytPipdNP6Ic3GHI1t2-dKIglcfUoqRxvriLx5WBIQxi1gA4O9SP63juuVNtnCBRoUdUdpeCWfwiIJe85wsRL_jpXY8uY", 
+        "geometry": {
+          "location": {
+            "lat": -23.421299, 
+            "lng": -51.937902
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 266 - Zona 01, Maring\u00e1", 
+        "id": "91cd4d76c710a62026128c4f00b803a0bbd27a5c", 
+        "types": [
+          "movie_theater", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png"
+      }, 
+      {
+        "name": "Hotel Golden Ing\u00e1", 
+        "reference": "CnRvAAAAyg_OOwEs__-UGOzzMouX0dYnEH7B1CnpNmcOpU-cEVr5Ii4-v2FmSQqRKdultLEWbPgJDZXT9GajaxtkaOXOmT8Aqr7JEcwd9EJnhaE0UX_IcFA9G4e1UuwyJp3AgzgjhoU9v71eArVqszeBdguKQxIQ1FmgxERVsgEPDzTeHQstUxoUoO4dK7XE4Zi52dvWnqjSF4op6jU", 
+        "geometry": {
+          "location": {
+            "lat": -23.422689, 
+            "lng": -51.937186
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2398 - Maring\u00e1", 
+        "id": "fe4703a836b63004c59ace682beebe80021f4b9b", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "Hotel Pr\u00edncipe", 
+        "reference": "CnRtAAAA5hMbneaNwuIUmYp0edvWRzxHpCEzSzKDNG-HbAAFfiMiAeXIanlEL71vgkkil0GTk0tZL9NvzPTd7rXD_g8IpSzeBUMxtqciiHEQsa680EWmjplIRKoZ2RQcZNobL8vWDSukdJteoB8yQuiNT63bNxIQeeBpBjE5wC4w_SIyT8EZAxoUiEoNTnRCUbl6n22aQyp6yYKvyOE", 
+        "geometry": {
+          "location": {
+            "lat": -23.42017, 
+            "lng": -51.934631
+          }
+        }, 
+        "vicinity": "R. Piratininga, 610 - Zona 01, Maring\u00e1", 
+        "id": "05ac0b1a1c7192f825e85ee20916607b15ac1ab6", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "rating": 4.1, 
+        "name": "Restaurante Casar\u00e3o da XV", 
+        "reference": "CoQBeAAAANzkXrMjA5Fbhi_zPfJYf1idklgZNZypD9FSpzEfoTpoLSgCANLz5oZTPaVtBSeYMFjsB0qCCUlblFckl0WQA1A_6k7wK3R3nRSOX7HrWlmzQQiuX92Av87gViIJ-06BHgS8cBedSo_LjUJn6IgUZnuQvYflGNxqRHFwC9rrVXNcEhChjqJc2RXdi9K7qrbRQHPIGhSirAUSrPtG3Jo0viFo_ovBFYXPpw", 
+        "geometry": {
+          "location": {
+            "lat": -23.423589, 
+            "lng": -51.937352
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 492 - Zona 01, Maring\u00e1", 
+        "id": "39b21031c331e393a7380a8e08091a97b461b4fa", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "Hotel Vila Rica Maring\u00e1", 
+        "reference": "CoQBdQAAAPj2eGV2HmByHq64FqU4S0zde-ImQsaQRS8Sz-P5ShR4Os24Fb74MvGNxePgh3of_QmXk2ZtXjL8WvdcLd2p5frkR25HCxHrgjhPyJDgUb_XXTMMKsq-pPBIdn2lW0ak0sItO5Wja9nKxdZZi1R7_4Y2TRP63K-9lzhqVlzVXfBQEhBNgnQxSBP877wNBhqPia63GhR4DjXcXOyXI5AJgErXi2ZoJIWN5w", 
+        "geometry": {
+          "location": {
+            "lat": -23.419996, 
+            "lng": -51.935824
+          }
+        }, 
+        "vicinity": "Rua Joubert de Carvalho, 252 - Zona 01, Maring\u00e1", 
+        "id": "ec0c8ff10c1c8222e8c9fe70913fc3dab1639878", 
+        "types": [
+          "lodging", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      }, 
+      {
+        "name": "R\u00e1dio Maring\u00e1 FM", 
+        "reference": "CnRwAAAA_4u9qk8mP71RD6NNMjxuBI8BWJpYBU2DZTFAi73vqlFk3Ge4lnzHjLINuqvtVGde8rsiTpItMbfoih4-HkMOFnbKQOwqnMEcM57py5izIXqWFDavkA-TR2pqiJwMADhWvV5ztSvSLvp6IdO8utPLBRIQhnQXWaSn__5yjzhkSlphmhoUnvoIUGtxSNJqxgQbsJ6g2LOc-fQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.421299, 
+            "lng": -51.937902
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 266 - Zona 01, Maring\u00e1", 
+        "id": "1f356af7a1ed7181cfee9bfcfd61077cc08fb9a2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Magazine Luiza", 
+        "reference": "CnRsAAAAA1Z0ivYj5DNaZiva3WgLSRR8mYomQLthRfb6vFnY1hn6_87_CGpbU7nAFHzzJ8NcMZVpLiN60OpZghvvkE9s8QROnUdO6gFgXL5VppiSyQifrE1hu2A7YDZ9VKpVHBoQUUrOq7Lx5BlewN4FsCeuDxIQZG0f2VP2PIdeZTV-DG3MyxoUnqn87wKm61FHZqTLOYBTqM9hxMI", 
+        "geometry": {
+          "location": {
+            "lat": -23.421095, 
+            "lng": -51.93529
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Brasil, 3409 - Zona 01, Maring\u00e1", 
+        "id": "3896cc59136a9e968346a6ca926daca27008f2ce", 
+        "types": [
+          "home_goods_store", 
+          "department_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cias Nissei", 
+        "reference": "CnRvAAAAUrRKzSN-RHZuoBlRclSbYfOXRIyPhKGdajeqeHya6VjtLY_wqvBzv3AV-7caB8bUDpFYP23IW4QNBVlz53M-ymd7jbSG7uzyv78vqggZYnt4ZH6tQ6_CE1P_uhPyohVyyl-nRL-Du4J494scrImEjhIQG_Ai31cOOx4CXa-Gv2aE5RoUU4QUSJefPDI1UNOTdWfk3u-kXQk", 
+        "geometry": {
+          "location": {
+            "lat": -23.421087, 
+            "lng": -51.936234
+          }
+        }, 
+        "vicinity": "Avenida Brasil, 3505 - Zona 01, Maring\u00e1", 
+        "id": "ae01fc5ca2fe5781fe22f53d9c60e272ba1c97b7", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Banco do Brasil S/A-Ag Catedral", 
+        "reference": "CoQBfQAAANOW_PAZawX3AsEz7VHYn56OtS8mZSQyN3qwLf0XiRdgUKpwi9gMaTg_NOM4EicbmL6U54bG2NqftjHLUlO0RAze7FfLDu-Byn-GBoLyA_0VzsB150oamK4gv2kUrviZGhMmVc96xCM1iVid67VJOKroZjX9j0GUZ_ShvijntaYDEhC46k_NDFVKhrLbtqg7FqODGhRS69CpG0OvtpMDhvv5r78xYPNu0g", 
+        "geometry": {
+          "location": {
+            "lat": -23.421802, 
+            "lng": -51.93505
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2270 - Maring\u00e1", 
+        "id": "6a1a3686f10ed6cbcce824e19d813127bd99df1a", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Receita Federal - CAC Maring\u00e1", 
+        "reference": "CoQBfAAAABVEqtBuR4JC2GSVKxEiJPEc7pRgq6CXhhYxl1hTzE2EomVMHDJ91pcUAgT1NnZlLyvfx3bxph99dbECJCwgbjOVoiXOd4ZiHcUZ0TU9I8_yoXljTu7epUtpKCHCJx3zpPb4WO7KawieqIL2SECRpudpQ0cUI_hml3LXZFDSDq6LEhDiuvGbzReFz11l7RZQzicNGhQtxLRIT5evic2ZLDvg2itCuT62lg", 
+        "geometry": {
+          "location": {
+            "lat": -23.423872, 
+            "lng": -51.937243
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 527, Centro - Maring\u00e1", 
+        "id": "ab24e8548fb9eddb2d52279db39c71dc4ec1e027", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Banco Ita\u00fa S/A", 
+        "reference": "CnRsAAAATx755jethQoMPVPPrkGABMnD39tPFElpiieATo4iZxRiqDapZVIrfT1tDEKHqjwUJoJ5fHiLmFWlHycU2ko3aJPkE9Wla2u99qTwhg4HhZk8DcCdFTqyVNybqBXntPj5BtFSFW6EP17Pz0OfFGI4SBIQ_uDX0wvg_kT52NUbrLp3ARoUhgBC0Y70WHhOTrpYme5VIEcYq5M", 
+        "geometry": {
+          "location": {
+            "lat": -23.421956, 
+            "lng": -51.939481
+          }
+        }, 
+        "vicinity": "Rua Santos Dumont, 2727 - Maring\u00e1", 
+        "id": "55b0e1671003a791e70b50200dc3fe405de13b0e", 
+        "types": [
+          "bank", 
+          "finance", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Edi\u00e7\u00f5es Paulinas", 
+        "reference": "CnRwAAAAfoQVEofBURUi_M099JTtfM-6IfIxPMNdiY8pAuLi2nLjLZUIvNO5hqmHfyPJACnexcvJtEbIWMIDpG4Yp0rshhQneG8RZUywfLO7oKAyrM1MdZpHIMoEaPvaUKcTJcybxnB5ZtAYpbFjhy2vaV-PVhIQ4grfK-f9YFfugxAidnQizhoU8a73pF8M6Puc_34PEArUGJ7XH2Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.421206, 
+            "lng": -51.937899
+          }
+        }, 
+        "vicinity": "Avenida Get\u00falio Vargas, 276 - Zona 01, Maring\u00e1", 
+        "id": "5462960193e8d9502473e43b34e6f05c4a87b4d5", 
+        "types": [
+          "book_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Pet Shop da Vivi", 
+        "reference": "CnRtAAAA9RiNLN56SKLdXklgdcDd891hXWNE5xn1mkl3foZ7ifGS4ALB9VW5qUOnadausobX0ay2IsCBOInp5OAj0rXP2iqI7sKF4FWo_lSE-9vAeHJAbruzDKe1u5kmvU7agoXLYJ8JVXPMr-PP9imTRs6ZDRIQZ24LG-jgtB4ol0lb_6EgpBoU5FN9tUnVDPv-o-2wRdrE8_NeZqs", 
+        "geometry": {
+          "location": {
+            "lat": -23.421807, 
+            "lng": -51.934743
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Santos Dumont, 2230 - Zona 01, Maring\u00e1", 
+        "id": "4e7f32128ffe681fc1017771902e2172c97ffeaf", 
+        "types": [
+          "pet_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png"
+      }, 
+      {
+        "name": "Cart\u00f3rio Fratti 4\u00b0 Of\u00edcio de Notas", 
+        "reference": "CpQBgwAAAEEF68yRGRcwR224opdUzT6-c44ZMNVE3NnHqYEj7y3QYHKR58ukIyyWd5RRdLRgp9CMR_nNc7GZ-DmQ3pJnG9bK7z3taaXLlAHa_qNg_BkdLGZBFrroVFoF60DLP01UKYdL4RjHVscMzSQek6h6VOaVBrFafIc75vstBUxXGdy5SVuOSqvNEZpsBPcgCLyRgRIQbdoS8SU-RhrZPvJx-U6q0BoU5sBivtsvCXBeFc0DNXnefr09Rls", 
+        "geometry": {
+          "location": {
+            "lat": -23.423588, 
+            "lng": -51.93742
+          }
+        }, 
+        "vicinity": "Avenida Quinze de Novembro, 500 - Zona 01, Maring\u00e1", 
+        "id": "d77be6a91cf5e8f52dacb2b7a7dd92f8cb09db2b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Nobre Cabeleireiros", 
+        "reference": "CnRwAAAAZHefWKtoQXhI3E9_uHTCobzaELzQSOIm_PYM1Xi-Y0bi-eKxPalnEo1YhBvAzjWEQ4PuZhjNj_ec-W3ERJ2Qt6QA4HKcRR0HGgPSHMhPDP65ii2o9TWcRr4TGyqUPDg35wkHf9ynKjlr750RG-PX6xIQHR1D1AsEsJP8S94cNZMMtxoUozg-nzKaWY65xpeWs8VUUWkYfhw", 
+        "geometry": {
+          "location": {
+            "lat": -23.422883, 
+            "lng": -51.936333
+          }
+        }, 
+        "vicinity": "Rua Neo Alves Martins, 2275 - Zona 03, Maring\u00e1", 
+        "id": "eb91389a40b27ba429b76586041d96eda19f593e", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Ag\u00eancia de Empregos Free Marketing", 
+        "reference": "CpQBgQAAAA5Mx6Mik94wYspDM88Oes4UgEBanOhlriMV0kqTg9Rh7bg7VGIU0NVsyojEllHATAcjnbStuBhQXq5fnNjCZSaP6KFnZimh49tZfnwm4ZapTIjT12REB6IMb6iWwQuK64J4q4leckMG5drHRxclOgcWEsJ2sxU_0QyMehT1AsDW-goaqZeabAnLfVzIkglfahIQ_OUuafZAfrFG27Tl8dd5EhoU0qxxb0TtxXd8gfFSxpPPQ88HnOA", 
+        "geometry": {
+          "location": {
+            "lat": -23.420465, 
+            "lng": -51.934637
+          }
+        }, 
+        "vicinity": "Rua Piratininga, 668 - Zona 01, Maring\u00e1", 
+        "id": "fc31547f90aa8f6776c42168efeabad52de790b1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Novo Centro", 
+        "reference": "CoQBcgAAAGChEQl1titmV_rZUCCCllPJdAMaqO2B5ZcSLbTfd15lX4HOhqcvdY5k-2z9Q59gHi9k41ByBnT_tVYMlLpXPtymNe6xmNbNnwFtGDpUMH2yvYJLU-e909gUpcrxQi7Bc9i8O8tQim0iimI5ze7nEYM6K1zj3z-1795SyuMGtvirEhAbIgJWDHnXvNgf-9FprB8vGhTV6L2xDJisnZ0VUVPnHec4VT_lkQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4194757, 
+            "lng": -51.9375157
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.4159091, 
+              "lng": -51.935066
+            }, 
+            "southwest": {
+              "lat": -23.4239321, 
+              "lng": -51.9430111
+            }
+          }
+        }, 
+        "vicinity": "Novo Centro", 
+        "id": "ba7d65acda1ade5c852489a4a236c81685295f7f", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

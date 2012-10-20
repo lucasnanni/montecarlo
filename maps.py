@@ -1,22 +1,11 @@
+# -- coding: utf-8 --
+
 import urllib
 import json
 import random
 import pickle
 
-def persiste_resultado(dados, nome):
-  arq = open(nome,"wb")
-  json.dump(arq)
-  arq.close()
-  
-def persiste_amostras(amostras, nome):
-  arq = open(nome,"wb")
-  pickle.dump(amostras,arq)
-  arq.close()
-
-def obter_resultados(parametros):
-  url = "https://maps.googleapis.com/maps/api/place/search/json?"+urllib.urlencode(parametros)
-  resultado = json.load(urllib.urlopen(url))
-  return resultado
+path = "areas/"
 
 parametros = {
   "key" : "AIzaSyAw6JZsXlV79d9cqrNvjdAa4GRoqlIkP1o",
@@ -24,6 +13,21 @@ parametros = {
   "radius" : "250",
   "sensor" : "false"
 }
+
+def persiste_resultado(dados, nome):
+  arq = open(path+nome,"wb")
+  json.dump(dados,arq,indent=2,encoding="utf-8")
+  arq.close()
+  
+def persiste_amostras(amostras, nome):
+  arq = open(path+nome,"wb")
+  pickle.dump(amostras,arq)
+  arq.close()
+
+def obter_resultados(coordenada):
+  parametros["location"] = "%6f,%6f"%coordenada
+  url = "https://maps.googleapis.com/maps/api/place/search/json?"+urllib.urlencode(parametros)
+  return json.load(urllib.urlopen(url))
 
 areas = []
 min_lati, max_lati = -23.481511, -23.372514
@@ -41,17 +45,19 @@ for i in xrange(quadros):
       ]
     )
 
-namostras = 10
-amostras = []
+num_amostras = 10
+amostras_areas = []
 
 for area in areas:
   lati1,long1 = area[0]
   lati2,long2 = area[1]
-  for i in xrange(namostras):  
+  amostras = []
+  for i in xrange(num_amostras):  
     latitude = random.uniform(lati1,lati2)
     longitude = random.uniform(long1,long2)
     amostras.append((latitude, longitude))
+  amostras_areas.append(amostras)
 
-print len(amostras)
-    
-    
+for i,amostras_area in list(enumerate(amostras_areas))[:]: #[i:j) faixa das areas.
+  dados = map(obter_resultados,amostras_area)
+  persiste_resultado(dados,"area_%i.json"%(i))

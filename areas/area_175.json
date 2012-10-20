@@ -1,0 +1,2887 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Alvorada", 
+        "reference": "CoQBdgAAAGchiNa8rsQDXhnyiy33Mk_VPtqoNsNYEscr856skRPa5U8dDkjVV4_mkda24IplCTjLi3t7e9-q63k6-tRZYGURYLMizROetKmQbLGVnSu8h9KEkG9TgCOWWbJHZQOkGDv6LmeN--BF_A8pZSPtqXcv4wRzJPw3l9yc-3WLNslGEhBj1ZYJ7zWdmKfqcr_xDYiOGhReagxaSqtH932c9cGN6ZU_PZ-Hvg", 
+        "geometry": {
+          "location": {
+            "lat": -23.3932434, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.382843, 
+              "lng": -51.908345
+            }, 
+            "southwest": {
+              "lat": -23.407356, 
+              "lng": -51.92722999999999
+            }
+          }
+        }, 
+        "vicinity": "Jardim Alvorada", 
+        "id": "96414e495d075dd62531b34c270d4d40d1c0b485", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia Farmax", 
+        "reference": "CnRtAAAAqPN4falNy7sXX3fG99Atl0GwYIavXX0MMjs4o_gLhFYthDSv1n3ba64x3Z8HZbCbP8j_BxQPflGx8QjfQYzyx6opLkjuqGzzi4Ro7nhHOgKHiqcFhN1qtSbe2aJEyfQe9KgT4E__EA1XOojcWp8uNhIQy8CoycSSwm4hwIPYdvu9XRoUcD4n-OULuLUh--hmin_esZ3rIZM", 
+        "geometry": {
+          "location": {
+            "lat": -23.394931, 
+            "lng": -51.910627
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 1623 - Jardim Alvorada, Maring\u00e1", 
+        "id": "7809f4a4cad0edfba0d41ead9fe3edb98f461e6b", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Panificadora e Confeitaria Le Crocant", 
+        "reference": "CpQBgwAAAIZzoExStq-awRlrpfS6iPk8y8TAqDWZgucwWCmMHuT0ETHHKfizk6ElyB11JF13YmWiuJf4I3itAs0xKNyIZGYQh09pVqRk3G-PxysHf62N7eM8qdcgPgM_YLBCSHLmahVltddZxoI-LYOf0G1hQfEJIqs32sNLbiL9S6L-mtsRYOkU6frvbJD3Fkvj3FyeVRIQ5ZpRz-qwBKSABTS3lijzmBoU6pekgfYzM9lKZQzv4XtAekFCKZ0", 
+        "geometry": {
+          "location": {
+            "lat": -23.398434, 
+            "lng": -51.910637
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1355 - Maring\u00e1", 
+        "id": "59701e13b9111096d6ce9a39825cde2a0803d501", 
+        "types": [
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disk Entulho Can\u00e7\u00e3o", 
+        "reference": "CoQBcgAAAK6Q7uqm0qlhp388puoWSvxreGh21rxLCgl4XeXK-fBbEBXLF3SBtPHG137uEbaBeXwo1Kq2yONM-hbDnwVtvvwcKWRKqklr1V61v7BkjYjqt6Kp9TaDkhLlOCfJFJvytkxbAhBUNDN-zavsxZYAx-GnKobLYvXqnsxMoQmdC1dkEhA2veT86sMpqCAJqsPnsCBrGhTGveGQmVjbVjqkXotfX5eHCobcww", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "8bf83e3e1f5398fb6184b5bf0b4584ad68e98a52", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Refrigera\u00e7\u00e3o ABM Assist\u00eancia T\u00e9cnica", 
+        "reference": "CpQBhQAAAPTSeGr8DmezuVqDZuA8ocovVq6q7E7VCAFiI6xRr2TZJRXjpSvX8zQTWtdh6xJhZXCPwzUUHsyPBOAAWqvuiRlXgQoz0J4j12s6IxzPFjdRAA_td03pUysmpFTwhA8zxuUd_XkthhF_WZxZ9f4gP1tOO1-3wHyJX2_1aKf8HeboE8DWBdMIXsUPFZvfKAeQOhIQIW-T9YiEnaTeGVsT3WAxhBoU3710QJKGGs-otWzHkpQYsEeku3k", 
+        "geometry": {
+          "location": {
+            "lat": -23.395502, 
+            "lng": -51.90881
+          }
+        }, 
+        "vicinity": "Rua Venezuela, 1321 - Jardim Alvorada, Maring\u00e1", 
+        "id": "26b59097d3dfd078e9163413d03b6ed31973bb32", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pereira, Vanessa G", 
+        "reference": "CnRwAAAAWzKx-csfAPm6nf9x17GyWnTfZ_N_egajdOBdfMge50cDC7V7zC7hHD9NwcIBc8kUZeDn172wyLYF5WL627THaYe-uWd9WWtUnT_tFsNenkDjSncypr6cKqtm6YkcEVNjnGT2DvIG8K1fyUNLMesEHhIQ6DRekozybpW4U_sT3KOr9hoUg_1h2nGFVGWLHo_-ZQRHh8e1YOU", 
+        "geometry": {
+          "location": {
+            "lat": -23.399021, 
+            "lng": -51.909777
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1460 - Maring\u00e1", 
+        "id": "29e83c459dc5e30d33a938c10ae8e7c220b575a4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Espa\u00e7o Moto", 
+        "reference": "CnRqAAAAeF-6Zcrf4Rsjsen7EVRA-H6E5lRMM0PU97rany2Nq7cYRAtd3nFHO9kyaoz9gZMzLGiEQZoKKDbiCf_TYeUyns4GLhuH7VzETcLFc7DdmFYyYcqsxxnRwKhIb_7FHGKOCHumxD5aACb66QbHY3a18hIQ8AVNw3yI9gr_NzoKvC2zThoUHMnNQMbNQXa-Mee7bEQeyjhBl3s", 
+        "geometry": {
+          "location": {
+            "lat": -23.398473, 
+            "lng": -51.910511
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1369 - Maring\u00e1", 
+        "id": "846ed8a240bcac1b18efa01dfb07b30af77522e4", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Manoel Nascimento da Silva", 
+        "reference": "CoQBdwAAAP2W8BNFJlpbjQwGsIIxnRD9_zjC-6XdLe1Pqz-rqLAVvWK8Hiyo2yitLjpskWf7JsEiJw_Q5CVC-DXCJI7IBnKrQSn4ErB1fR7kqsK8k5fwVDz640DnnGANSQE93IoyunVeoad7RlNQuFq9_tzKq7YJ0fxzzjsomztYbxE9V0sjEhAq6dtw2JbvwMzNo-ekccEmGhTXvtmSrDSvWdmP9XCla-ulFvSTcw", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "bf5dd06f74a7a33690ed38e5f3bdc54d42dcba7d", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Londre A\u00e7o Com\u00e9rcio de Ferro e A\u00e7o", 
+        "reference": "CpQBgwAAAL-VhjZNE-Ux6f8i1JOtEGsSMMI-_zeUhyNwhqlSll_eosjh1jTLAVcbkhE5VpYaSsNr3DOQVAOEGKWGH669ubMHvrLSuFVyHeYKURL6xJ2kZ13VVQe9nDRRTXviq6O-0YQcZWVCrwD9aHUTm4NfT5ZTXO1TZC7mnL3YdKwKcUBdGk4R6h7dXoCNiqS34d0fnRIQW_uUL7Me25bpeBRMJ5ULHRoUHaJy1OS8HDDa2_r4uzb6VEtZ-xw", 
+        "geometry": {
+          "location": {
+            "lat": -23.399034, 
+            "lng": -51.909739
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1464 - Maring\u00e1", 
+        "id": "adb42028901efb74e3af823eabc13ee8ea58e0cb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "MasterLan Inform\u00e1tica - Master Lan House. Formata\u00e7\u00e3o e Conserto de Computadores", 
+        "reference": "CrQBsAAAAJsLCiCpcgAu_Wc7acY35TaKVjaN-dv5j-JCB7WBcpCsGde6OqwkS_PF3hrv7ggNxcy_1A_vgpyRgEALIoNdSbYKfowHEW2jOIy5oSeOQ10yGdaO0HiJS7AOsodg6Ono0QRVtvX-__c19sl9I6qwERglNNT19ot23SumM6QJvrQQ3_gncm5NLTJhDNHBw6tW1IzNDtgyASOVivmMQ4bo3lOVCmzU4odt0gpDaQsRIm50EhDDe_3DpB6b9zbawyD79zXVGhQ34xftFhfBCfoqVlm9tIue2XfQJw", 
+        "geometry": {
+          "location": {
+            "lat": -23.394946, 
+            "lng": -51.910633
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 1635 - Zona 24, Maring\u00e1", 
+        "id": "3e0a28827587e717957b37ca037208e6b6b03d3c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Grades Gradecon do Brasil Ind Metal\u00fargica", 
+        "reference": "CpQBhwAAANAItyC7MBpzrnYQkZKCDDDYM53UrN8VxZonOryJu90iFJLw8iMFOpXxeSNicdDqbESPHmncP5Q3aHYtPsQ9rbGZPuWNEE--RmCZmxdNWC6PPM9YDHdC0iuuex3DrqUtVLM6lAfh6bWLujvqJdKnk3uVNc-TpGffUK_j6YLbDN9_znlNDclrkSjDg1BpEoLLQBIQ-fAbuGGnk3IQi-GOs2ITGBoUgKHSrLIkqkIyBKN95Q7hKLFuzRQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "74b340b2814a521556361e518c27de05ec437786", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Ademir Frasson", 
+        "reference": "CnRsAAAACkMNzIVYaFGSkkpjXjW-Gs1v_aBB67EBWfQR15Lk5OOHVo617njkpy4UXVszMNn61VNXiQcM0EkaOPQby6cLjNOX7t-xJkJTgQI31tsktMJ_AFlQq6goToraVT337DrN6MOz2fYzwj-GwwCptFvnYRIQgEEsM4ri4Yq_GSCKpvJGhBoUBO-8te2yOzAuXWC8VXWGvd3QAUo", 
+        "geometry": {
+          "location": {
+            "lat": -23.396025, 
+            "lng": -51.910664
+          }
+        }, 
+        "vicinity": "Avenida Luc\u00edlio de Held, 1500 - Maring\u00e1", 
+        "id": "fed58d96ee3a1a0a767c2c3692ed4df2e914f702", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "G\u00e1s glp G\u00e1s", 
+        "reference": "CnRqAAAA4zztQioZTyxUwEm_RjuDltkQ_bAiCJDH2Oq8G__TYymUQx3GKYVlhNfK0rCPtt63pmG4_S1UQQa9Rlq5SYq-P2hTewUxhxzbzPWoQsgI-ff_bTiWWQRznpYgKxkGCtDCkRRz05cOZd6ZDvMsEQ0IaRIQkm9UvHsQa3j0375ZY-rRshoUPG_f-Va4xx3g0FaU64nZ52e3oAc", 
+        "geometry": {
+          "location": {
+            "lat": -23.398944, 
+            "lng": -51.909111
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1523 - Maring\u00e1", 
+        "id": "d0470580168b94b5dc8b50adb9e189193c426bfd", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disk G\u00e1s", 
+        "reference": "CnRnAAAAq9GTchjQxZahXi9C3iC1K-yzJpgaJNH_XJFbm2esg_LaZu8wTuG7lxug-RDaPEEMRxBd_1Dn8f0Rjx7FponfuKTpIM7DatAW0aKX2TPXh1R8G9QOiGpUb0wywFzsz9Zeq2ACzh49pmcrMeeR2s4zsxIQeDMmNad3M3MiUwEiUZzddBoU3fKnkGGeKDkhPm0fnY2X-l8oQZQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.399178, 
+            "lng": -51.909074
+          }
+        }, 
+        "vicinity": "Rua Chile, 578 - Jardim Alvorada, Maring\u00e1", 
+        "id": "7d24e07391de367eb2c6d66b0636e08fe4625727", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Telemensagem Mensageiros do Amor", 
+        "reference": "CoQBfQAAAFs9GGw2Ogu4JScvCcX5mzwo8_uXs6qqRASwmih4luxAhHlaeP4pvuy2H77vnZl4KAWBtdDrpPnThEhg8oBy5xL-G0ApmBG86mWMVaYhxt50DRwvENE_PmjljYO7Z1FWGgciG3loVP17IjEODDzqXOJyX8aB_5egTzIMkrZ5KjE8EhB3A7OhhZoP0uvFiYqth5LIGhRL81kXK1c5rHEpylUq96RQ2RB-Qw", 
+        "geometry": {
+          "location": {
+            "lat": -23.394922, 
+            "lng": -51.90738
+          }
+        }, 
+        "vicinity": "Rua Chile, 1076 - Jardim Alvorada, Maring\u00e1", 
+        "id": "111d6da52dde2e9281ff29784cb00b854a0fbbaa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dallas Renovadora de Ve\u00edculos", 
+        "reference": "CoQBfAAAAPhwwMRnae9u4KK_r67yYkf3IF6qyfN4BnCtygcZvDQy2oyeRQ8Snu1m7e2Y9uBQpq06Ivrpp8ltLxSY0z5zuumTTWMe-VchaqUc5jTqw1F1Rx98PCS_zxBiO8oWFdAnBUSTJ2tqchr9f3AG7ufbsLIbDpEF8ycBEVsJogMABKJ0EhCpfzmPghv-VwOgPviY1QEXGhSy6ifwNdX-FQWUz6QlpTnQNLhVrg", 
+        "geometry": {
+          "location": {
+            "lat": -23.398936, 
+            "lng": -51.910025
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1434 - Maring\u00e1", 
+        "id": "4dc2f1af829cdd14f7cfc53cac522b78cf763292", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Mudan\u00e7as Vi\u00e7osa", 
+        "reference": "CnRuAAAAfsA2FWECRpWUXP1AIz7D3yntWBn7SQkGFZMnA3gKlUp9FLQJLSA7sZJBDCP41noGdn54ZwOd-jBC_ua4gEY1zxFve41ui8JYnAYRRcNTHku-qdDmjs_f5sWzA7SnjNNKWR9WYBVTAoNrpbeWlbHjVhIQhnnnSJFRwAlGKXMIKXns8RoUYfYyeeP8bGUY5ZjVfze1sMIt3cI", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "65353196a083d1a666ff0483f6152c9963e2593e", 
+        "types": [
+          "storage", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAAfoXPKOjKlvLIkswZHAr0WLSMltWSwKRJTBaapaQ7wrgzkMO_Ejmyycl_4r-BpjVdqdWvcd6UvkLCCGZXr_urH163G1wlrv72dl-OFs7T_yuM0RujEiIT7ZCaG5o0yW-pEdvULo_iNPH14sIRwvX_IhIQycIUy1v8ZtUMdggWQ_yScxoUQ60dBZUyOBqThOcpvO9vqCDSGJU", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAup8EUoECHapblYT9K03CAlXGiFqsO3bbTjN2tIvbfR_reGPd1hT1CKGcWKiC_NEg27pH5TcJIcjAZnp6KFPU7sr641TCFNy_PRR0HT6FNbUSEOigBDRm1Kh6rzIObMXSAyAaFPFDR_IJ-XJv4sy5o0KRRJRZjhL9", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Oasis", 
+        "reference": "CoQBcwAAALyD2O5fq7KXmRnPkEURIr81qRDlR91WwKf4xvLBXV8IXTVdCOglsCjh3NyTWXNscYckdq8T-gn6Wj4QYSItyB-c6IlETdG1IVXeRjqRH0b0tdIlOr8cegE-Xv7eDy2cWskXO5yjRiUOjRYZrOlKHwQPuIqofMy13fzduU9l8ZR1EhALT6Km9LS8ZVbhzELwozjHGhTWDcYK75f4siOsgPqkhkbTvsnuwA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4026102, 
+            "lng": -51.9004979
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.397723, 
+              "lng": -51.8934351
+            }, 
+            "southwest": {
+              "lat": -23.407386, 
+              "lng": -51.9054589
+            }
+          }
+        }, 
+        "vicinity": "Jardim Oasis", 
+        "id": "1e857033021adda3dff74604c616c607158b2f19", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Esta\u00e7\u00e3o Crian\u00e7a e Esta\u00e7\u00e3o Teen", 
+        "reference": "CoQBgAAAAPw9RnDehhH8pn_yxlwmYUnAumm7LdjutKXeyQ2H6rN8r-X5OxQd75Uu8fyTMD9d8svTWWZus7Mgft5HJjG1bCLTXA9i-jtyAoQ7aZtXd-DbZ8cigIQhav-cxl7EQClLIHlH7o48k-BrPdUWzN4Hlrhb5KTUPn6inuNGRNY69vHzEhDBwwNeVx3DJnDlN5aMnYucGhQyRJFBL6VTLP22NlBTDEOUrNjdnA", 
+        "geometry": {
+          "location": {
+            "lat": -23.400811, 
+            "lng": -51.904861
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1994 - Maring\u00e1", 
+        "id": "2b46fd0d75de4680c2a7b0a1c0f35f41e2b79a1e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eterna Magia Telemensagem", 
+        "reference": "CoQBdwAAAGY6yUIE9EboELTmqvmEcCu6lgGg4Wn-SNd_I6fSgK4-kyP-D9DYGa_X-JmPQioJ-vztp8UKry-vaYqJqPiR4BM0wvwuskNzs7M3PBR4gTY2zJ-zfYQHQRV9ZpvSzXGwejc9DetzUJAveTxO-SkPEZl57VL0j02JhRUhmlAapG8OEhAEO3izWxDeNZI0jF1oOkQvGhRlWa6zB1oLBBk2x3VuEBEBh_wgaw", 
+        "geometry": {
+          "location": {
+            "lat": -23.399768, 
+            "lng": -51.902437
+          }
+        }, 
+        "vicinity": "JD O\u00c1SIS, Rua Rio Paragua\u00e7u, 171 - Zona 37, Maring\u00e1", 
+        "id": "1b51c6693b55f7dba150bee3a9d6e243187031d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Nostra Pizza", 
+        "reference": "CnRqAAAA9mFl3lZegbW46IejTO8T739zlqOoTJYU8iab17IbBiQjOX_hcwCh7ZzW7zggQODRXVglzVLFDV-iTEAO8Zn0wwluBIzxSr0KQJVY5ZIUlRLa9sTlP7gpjb4JN-TOy2skLV4k6DCIy8_yOoimYrA3HRIQUtZbrA5elKDfMHKkVRs9VxoUxQTuudnkbqnI64m9-2bC5K7JeD4", 
+        "geometry": {
+          "location": {
+            "lat": -23.401467, 
+            "lng": -51.90345
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2150 - Maring\u00e1", 
+        "id": "ab04726c3e28120857e23a99faac0401c575a973", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "World Formaturas", 
+        "reference": "CnRtAAAAg4ITu18qMLB70siA9AZjPGg9zF5sGopB0sHfh9ynh2uEygMyPV2jurfSFXrUiCrJ9IuYf_iHspwRc9DXEYQBfSbsVmsbGbMBiX1BsfXHUpq80qDQ4S52necC_eOadwBZQnlRboFn5At2qDXScqWPmRIQK-EzKd43MwDY7GylGO9L9RoUGdrSlk8qk11D6jKxmsXjjoC013g", 
+        "geometry": {
+          "location": {
+            "lat": -23.399747, 
+            "lng": -51.902251
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182, Branca Vieira - Maring\u00e1", 
+        "id": "8986114dee272040ba6af7ac736a7e32213b5e28", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Terrapanini Terraplenagem", 
+        "reference": "CoQBdgAAAAv2y-FwCnn76YeCVr14KtphnbTQ80HPRLXmib34PFASWYp1NcD8iETUXEfTVht8zlqmDoGP-pJou7sjbYSMc8TWD0nGqaaT5pjFDef2Q8WPwUC7z6_42TDm29UzFZEIutSpnlaOYKhGXsGPFRPlXaJsA-smmH1CrGH7Dip9rQMpEhArf8Qm6ug4JcCed8ZsrzB3GhTPa9gVL5pXT9c31lYuBT7vn6Zx2g", 
+        "geometry": {
+          "location": {
+            "lat": -23.401427, 
+            "lng": -51.902915
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2161 - Jardim Oasis, Maring\u00e1", 
+        "id": "97457f7e8067d14e4c0a02e88a3475ca0baf7898", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dicafil Com\u00e9rcio de Filtros para Motores", 
+        "reference": "CpQBhgAAAJ3PqlZADOGcMEhsCsf7Lc0ag__GqLublv7DqQPf0VF6YPH3DV8v-7SnrkWLV6srd9vSLqhYTz7z_tDy-ps4eeV-3rRLfHWErL-FxHkT8Hj4_KHlFxJnCanhwvpfvCzb9NsjV4E8t4MBIH9EQKJpvVPc_fZrh8qIUeFxgz5Yqcc7YLYJfClsmLfLX7xaJVOMMxIQVV2ip8BRHgcuHFsbqS0rrxoUJaZi-31JBslLKgwiScRz7BwxrhA", 
+        "geometry": {
+          "location": {
+            "lat": -23.400358, 
+            "lng": -51.905189
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1903 - Jardim Oasis, Maring\u00e1", 
+        "id": "4a93154a5f7132b298f909b4793e71cc70463355", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Max Agropecu\u00e1ria - Pet Shop", 
+        "reference": "CoQBeQAAACIWO_gSbVXnGNnzRhqLuut4QtiCJ0Q8S7yizael01uYYwB7B5ohoFV0lNouCVNluBNvVIXtRVJlhBWXvG0EPk966NM0jqFfEU0n0sUU2OQYKHt7k4n9XoZZJoHcoexMabPh1G40mi7oQhw3eJdAhtsIEHjHjXonaRPtLnmoq9qnEhDUmx6eVq4ts32m4rHegD0zGhRi1S6n8xddAFpVYxK-IRl2_KYq9A", 
+        "geometry": {
+          "location": {
+            "lat": -23.401003, 
+            "lng": -51.904391
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2030-2160 - Zona 37, Maring\u00e1", 
+        "id": "d8c0864429913e1a7d6441716071f4188d52e1ba", 
+        "types": [
+          "pet_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png"
+      }, 
+      {
+        "name": "Luminar Luminosos", 
+        "reference": "CnRvAAAAad1bLYCuu2NW2kA83xmKOkRMKzAX50yP44cB2gETfyLTlw97xaQvdT7eDXJilrG2G9gXkJ4BjRatZRUcqAHbzWkSSFSCQv2Nbp88WgAha7AIwjzwZbhW81aq7ZxlwOynWAYrMWdYSxVUfCsVaH4eZRIQ3ghtAFtAsHMI5lSEIg0IjhoUdGjYulQFBM7eIyV97TnPthpW-RA", 
+        "geometry": {
+          "location": {
+            "lat": -23.401983, 
+            "lng": -51.901959
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2279 - Jardim Oasis, Maring\u00e1", 
+        "id": "0f2580e9727f6c0ed2ec54b33806df26010a92d3", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A Natureza Empacotadora de Condimentos e Cereais", 
+        "reference": "CpQBjgAAALpnHfGkdSZiPnTfC8fUs1bj3vzaCBnyeTVJs0fTQtlynV62AeK-EVPyKcOyruKSQ7CgS1F9K2DDof1JM4XkM9x3x-y1EZ6WF5eKwUhFqa1UU1ryk204GCV8XYQePKnUeaRyQL7rVkAYhfoVLWjSM1QtrL_FhY0DpBCzXne4BPaNGKP5gU3jCM8LWnMZx-LjbhIQxBASGUUjfFGivaCIO84lTxoUX_9Hm0qybGe5rDiPji0EXqxNrUM", 
+        "geometry": {
+          "location": {
+            "lat": -23.40206, 
+            "lng": -51.901827
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2295 - Jardim Oasis, Maring\u00e1", 
+        "id": "c8d0733caf523264fa80b25b9e79e6e80a4d5172", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Thelma e T\u00e2nia", 
+        "reference": "CoQBdwAAAA3VeH1DWAjXgxzQpZ1I8qlHJf3N382637yuiribqPB5akPYnyeHCXlTlNzZfjJXfkt61q0DFBXsMWLvpAZBu6kADIGMHalPQxETdyHLpgTJX7EblF_5F2K8-mvv1gSlBkBzkoFu_sFCDtpy7xW98SMc7hTHeGDdzcjbnoP9XkcPEhC5i-MzGjGlPJ_F07OuQNZzGhTdZuP465oLafAxbT0wMLW1o318oQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400256, 
+            "lng": -51.905459
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1875 - Jardim Oasis, Maring\u00e1", 
+        "id": "06783f10ba71b9c88982c8934c163f21e27dddad", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maria In\u00eaz Barbosa Chichanoski", 
+        "reference": "CoQBfQAAAGOPk-oPOBq9Z0_WgYl2AWDo-MHCL5rWIsXQqWAFQfZzs10LGwpRtuEsZSb49aI3cYTPbULbRDHkYQPVajmHPzP8TxnFgHzKnzHC3GY1gTOgDIbwWyAr0k3vv3wlQj8ofBos6nkW3ApzvDCq9SKnO60GmCSK6KxJekS571L_yM9NEhCWXb-rxSZuEhAvJOfDuyf8GhSRXWgk8jGATSlYmc4eZbEjT7EqnQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.40139, 
+            "lng": -51.903593
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2134 - Maring\u00e1", 
+        "id": "f339a0bf1792b259695fc588ac1575377f5021b4", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Atualle", 
+        "reference": "CnRkAAAA85iiJ6mNJXaSoLnZJ3FMIe-zXU08wdGgoGUh1xxSLwpVpRZJFZrwAdyvJahORZ-ArV052tRDMBVnDe-O6k7vEHn8lvEf-Xna69zSX5c9Btm0L23YptlYCujMmJgZHhPZKmKoHmYFlq6-VrRK4J4yaxIQqvrnr7lTqcAtGDdR5xL4qRoUyKSGMHxxaIzrvG_8YWKczpT5Jac", 
+        "geometry": {
+          "location": {
+            "lat": -23.40139, 
+            "lng": -51.903593
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2134 - Maring\u00e1", 
+        "id": "aab8e7038684e3b556431fd6b20a86af51c5fc45", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia O\u00e1sis", 
+        "reference": "CnRtAAAAa5-p6XDA1bIdGI-b-KGwnYXT-a21uuO-gPq6TK0X6vjfeNxS-BPV7Oh2ip0l7rwvV7XThpme_8bT3TePuhdhc291TRTMIv_wSZxJGFSrwl6pmgWFJRiRxopYkb7CaXzvjm7fGI33uKWP1Y1Kln44WRIQa-RihA5atcT22V4tslmb4BoU53T6Gx21f7p2ZIwatucOYDJxxPI", 
+        "geometry": {
+          "location": {
+            "lat": -23.40135, 
+            "lng": -51.903043
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2145 - Jardim Oasis, Maring\u00e1", 
+        "id": "2e30305a2ab8266ba22f0b252a0ce21408227af1", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Sorridentes Consult\u00f3rio Odontol\u00f3gico", 
+        "reference": "CpQBhAAAAFgRsfMORhgi3mXEKqe3TKRq4wp5rMOfF6y_y0JZ8IH8slS86JnpJ94Y26Fcm09_Z0QeTZhJVx9izRiWM83hUZRwGu0vbVoB8kgy8k3nwtFDVVFlUK_HlfkoJZk4_BcNHyC3iv1eX6Hol9m556BPpBBQXR4JcwM93CQqgAvwDDzZfk0uX1TTuKaSrNOJH4rcJRIQLVzzL4pwAYkHacs0WivZohoUBTLqdH-0HdVPmRZKtx46yOJ7Lxo", 
+        "geometry": {
+          "location": {
+            "lat": -23.401714, 
+            "lng": -51.902427
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2221 - Jardim Oasis, Maring\u00e1", 
+        "id": "32ca117997a36f226f2cf238f5bfeb2b2a8fad77", 
+        "types": [
+          "dentist", 
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png"
+      }, 
+      {
+        "name": "DLP M\u00f3veis", 
+        "reference": "CnRoAAAAGblEukYPOfYtf9TR87X4crBUjbSXCRfBfqQgsyPX6VPeJE44vp-FAxvMSuEGA9tCRnQCADqGVeM9E2ROIX7y5tVBdY9ACtghfh9gg6NJakDIRMsevP20PntasGXWjqOD2li9_DoPSsfrAJ-sBYT1kBIQ2YpBTy6gotXbmERI4YcWFxoU-wj8oBtacKVJOuGH9Go0hMVWaY8", 
+        "geometry": {
+          "location": {
+            "lat": -23.400228, 
+            "lng": -51.902492
+          }
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182 - Zona 37, Maring\u00e1", 
+        "id": "0a8763e2e70d7426f48a678122bb313e5d808486", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Igreja Adventista do O\u00e1sis", 
+        "reference": "CoQBeAAAADoI2JgOorNiFJ_xG-obGMQzcPmCln3s90J_Ompe485B9czUzXHSk7SoOOogO3tHtJOYf04NgZrrNXkwPtVUV5haBu0gy38d2rKYmulqukyWx7LsysObNOy9tGyunuhBCkINetFDI5Ir13lwq_gpztBTFGVUg6GmXpK3b2OSWiHoEhALVyLazrgQch_pfDm5juj5GhQFzstaMjkDudFL-D35EfzQ8wIaZw", 
+        "geometry": {
+          "location": {
+            "lat": -23.397723, 
+            "lng": -51.903051
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "jardim O\u00e1sis, Rua Rio Itapemirim, Maring\u00e1", 
+        "id": "730e33bb098462a80560fc4924ab388d58aebd5c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Programa Comando Jovem", 
+        "reference": "CoQBdAAAAMkip7bK4DKAnPerv5q1jopgNJGAb7S6_ZwVCpKjRrZhlcMi9TgtGSDlWVmEEHFWNDAPXv3ioAPizXL6MxII4aNJZpVPofiTYkPCEkVo_BRRv5a_cTdIU4zEbt0B7CvKmxURA4uVR-bB2TYNVnwwno6emELBQBtbioPoOi3Jk_IVEhBO5NpMiQTN9cWAH2YnD4JcGhQPqBbY8Z6S5EissQ6muSRNCLmgHQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.399499, 
+            "lng": -51.903921
+          }
+        }, 
+        "vicinity": "R. Rio Itapemirin, 186, Maring\u00e1", 
+        "id": "d650bcd63a872ed8927f15553daad0471722e228", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "CFK IMP DE EQUIPAMENTOS FOTOGRAFICOS LTDA", 
+        "reference": "CpQBhgAAAL-blCpuxNwm8IiBMgu9ORN7WbkhlOrmf6Wvw0ILRU2lXNDCAUEBrcEoyYygkPka7PyVYpxkgMabX4iT4e-jyRky1YfmZYCshd1P1_Ji2SmOvzC0HDHp_VagfmQ60CDhKlWb0L2nUgsVnwtyuEC-GlhoNHWSUuT0As9ALvyPMnt3LKpCDZNYGOT_-2SqGdHkGhIQzRUFiAEkyFjJzxe4Q_5AKhoUS4fqX1Esk4e-IxlIC9hmbO55FUI", 
+        "geometry": {
+          "location": {
+            "lat": -23.400426, 
+            "lng": -51.90501
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1927 - Zona 37, Maring\u00e1", 
+        "id": "b39e5efdd9e07e57830be8dbd16e43f85a11e442", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAAsgvTIlMAhLieQeMfwtgx4D0z8Zyfm2-1xSaj0zm-PeR3L2CQS6MUnyY2CL-skpfPPOMkWa_k9fe9Dca-hlsnWSWmKQarwNzXTruwbl6CiHdXyDnL27f6o_EsnJBV_7L3tr1m5OSw4Bb3GT2ujk0oVxIQsY8MqrZMnSlqxRShXhGUaRoUKuAlP_i8u0DpHLgLR-PF-hF2Rtc", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 24", 
+        "reference": "CnRvAAAA8TdsHvRqEgOy41g60QgPrBV8DfvKhkPzhApLXAYQJytUUP4vBY90fbKW3KeQORnGVix7TswuUK6BnBw7T2Epm9kzke1BV1rxnLfnbPbBwBkQM8ab3CJGRZaZHm2TW8crP-tYVl-Pr2ncX9qcXs9DbxIQA9OSgABt5Zp4yIrdAZPdBxoUMg9pHi6NIeVxVrZ2JSqmPCjAIUU", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Refrigera\u00e7\u00e3o ABM Assist\u00eancia T\u00e9cnica", 
+        "reference": "CpQBhgAAADRH3LwHjp7o7YP-2WCuRet11wZ5B8vegKi74BKtepM5EwzEBFIoLjLYC9Mg_LKchev6LxPSVgNb-huyKAFyp6vJPja7HmwXeFnuVda0af7-8pF0haLfEAsd40yS_s-QO0ES7_y4XYUrhsSvpCANARr_JDezWjWtEF4KzHGtF4cjOEa8HmuyV3ek-nHXWU4tbxIQoxT7UWAFsU1jqnbdVq0jbBoU9qUmMGQKw2eXYksfkgXp03_muE4", 
+        "geometry": {
+          "location": {
+            "lat": -23.395502, 
+            "lng": -51.90881
+          }
+        }, 
+        "vicinity": "Rua Venezuela, 1321 - Jardim Alvorada, Maring\u00e1", 
+        "id": "26b59097d3dfd078e9163413d03b6ed31973bb32", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Loja Saroma", 
+        "reference": "CnRpAAAAEKsVDNsqBvTLfFD6B_9z_L7I_bXipehXnIBKXjQiRa2FGtz1ZETa2T9GPYeusjuzLypLxT1pdjzTIG0TPJsjUxOziaNJ1NHXiOGLQ9AlOYvKiSkG6EN3ffQQNYILWQ1ZFTMYhH84hIGURn_eTURsjRIQVMPrV3fDY80NGXFXMjQt8xoUIuJjjIBtZ446Yfu8QVcV-YzRHzc", 
+        "geometry": {
+          "location": {
+            "lat": -23.393403, 
+            "lng": -51.905921
+          }
+        }, 
+        "vicinity": "Avenida Franklin Delano Roosevelt, 2011 - Jardim Alvorada, Maring\u00e1", 
+        "id": "248816ee45568849492a6e5196e473ca6766c349", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "M A O Machado & Oliveira", 
+        "reference": "CoQBdgAAAFmy2uL7lbhyE4I3bHEH5q_hIhSyxL4C2XaETuvMUk1qhXbRC71BLYarwEQHClm7F0o0FVz4SjkiLcXrcRRSv6p4eKX3V09sCh2CsRfseXCA1wJxwwjefrNOD2fTkOO2OpdLDdnpOGKyW-j6RPI4uWEqwZgqTuR9j_fNIxI0XzlvEhDGKft0E2_EZpkqK62UqHYyGhRkVSKpvij8yq0bgNp-AxuNIzj64A", 
+        "geometry": {
+          "location": {
+            "lat": -23.393083, 
+            "lng": -51.907595
+          }
+        }, 
+        "vicinity": "Rua Venezuela, 1560 - Maring\u00e1", 
+        "id": "a3fd0ca7b85a1adc12bf944933b2040ebf61e341", 
+        "types": [
+          "meal_delivery", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Mirela Marques", 
+        "reference": "CnRtAAAAXoB49hMw2gpPnzPBKOnJVtTz47pwYy2JfPLZh1vA2hKEog0Zvy5vgr8WwS985wVD0Zm1zCSa1GlTLhFpmO-Py_-G-WuPIn6d8CMm4vTauSd596_pdJmI2El-hj191jlcMEJDYFW0fi8F6-ZavLVx1xIQE6gC2YM1eZdYqR2VFC_rNBoU-E5RKXUseIM9bctjIZx31p969S0", 
+        "geometry": {
+          "location": {
+            "lat": -23.393707, 
+            "lng": -51.906979
+          }
+        }, 
+        "vicinity": "Av:chile s/n, Maring\u00e1", 
+        "id": "fe5390df3b03cf8dc27e7fabe408589dd671a660", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "HIDREK SERVI\u00c7OS HIDRAULICOS LTDA", 
+        "reference": "CoQBfwAAAN2o3ZP6u3Z8NKzlECXv5zgfhg7fovS5HXqVVkgsMt9Pn1OfFzymaoEsWBboAZtGKNiI39VAVNj86VLEOzkYzDgRIvkO9Ajym7IGlcGKhMlsyAouKdkUmMXliwIbZy2s4_T5C3czNSgmJqPazQevQTSlyvRmgzWjy-yO2qv2kIaYEhDrUaQhhPE4thWs8yUbi0_bGhRfHfrkFyPL7KDEAxv5T2HVEBIfgA", 
+        "geometry": {
+          "location": {
+            "lat": -23.394796, 
+            "lng": -51.907711
+          }
+        }, 
+        "opening_hours": {
+          "open_now": true
+        }, 
+        "vicinity": "Rua Shibazaburo Katazato, 965 - Zona 24, Maring\u00e1", 
+        "id": "d073b71446ba895837ed9727c7e10861b6d220f0", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Telemensagem Mensageiros do Amor", 
+        "reference": "CoQBfgAAAIgR8dmfBsxXxi67EdGL8gAA9XCWES6xUzQlXvSkNBcesdiOGCYr9pPg8AgxPvv7sgQXOVe9-2BMlpiHqTztbzoj1gUKrarJ9Nnq-SER2QSe0gREn9YFen_K2SqmOgiTNQld76Nm0B-Q6UapAlz10xK7DcwnSyUFqsQw0IptQT_aEhBV72ZRL5EZ4ul8zg3128R4GhR6kJ-VXXKTj08cPTuOsMISTkQ2eg", 
+        "geometry": {
+          "location": {
+            "lat": -23.394922, 
+            "lng": -51.90738
+          }
+        }, 
+        "vicinity": "Rua Chile, 1076 - Jardim Alvorada, Maring\u00e1", 
+        "id": "111d6da52dde2e9281ff29784cb00b854a0fbbaa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 46", 
+        "reference": "CnRvAAAACKAjEjw8zog8zCl1AnOD-3F6Og9Zw5wjyg73AhfkPQoVDsDa3tESq4FlH9u3rk0jA7FMRO_GGOKHEgVvxxQ_7-H1PC_hG_eX7cfoxk5gZuwHtkOPlp2kzesjm1LdaprYWEEbmhkI_577XVNT7FQpDxIQlMymGtN1bjCzU8Rli53lVxoUVguwrnosccAtvRQ_lMayPVAnTgA", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAARepfo2KZYZq9SrHVZMSX-O89mnV3YX8WGUBgDRsKNOknHg25xd-cOg0YlWCxUxT1y07tdKWIMXL-JGC8aTmb3eIuLGkTFxUgiM6TNHkSEl_7sDltix06mQTD1drIeJVZYTtbpOM7ugOA4IQHvnjrQhIQ1E9rvuIwd1R-RGE3MBy9YBoU5-jFt2Ih2es6OSfylyU0C14Ct-s", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Galli Mudan\u00e7as", 
+        "reference": "CnRtAAAA3iW9uK033oVnEJKMxU3JGDZ3UrTUIl5VrJjB1VzDpKqi0CvPeaYwITZOa_X-JgSnxphr8EafYvJ_0jTEsTCpCm6ox-kVGlDN_-7MH6cwy2-B-x64qdjFlMIkBP0r9Bsy7XlGQbH_L-htU3jAaYIKiRIQ9taf7RRarA-fXUO3d76CEhoUqJqTXTf2D0op1athRoVxICwmtu8", 
+        "geometry": {
+          "location": {
+            "lat": -23.392426, 
+            "lng": -51.901729
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 2778 - Cj Res B Vieira, Maring\u00e1", 
+        "id": "894da227a9d39e4edd046e112c1df5511aa02ff1", 
+        "types": [
+          "storage", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Guilheme Equipe de Seguran\u00e7a", 
+        "reference": "CoQBegAAAPte1d5jYLPVr1xSYW05SlJUOlyZ_ukLBgXib_Q8fSrX1T7N2RZUiriB-YNBmaaYbkSKN0lAtd4gZfK_zDqCwsJbz1S8lDhOheE4h-XIWM8SDZeQMqQh3uUofelnLhEsEZ7K2uOqtI_NXt2wb2Sf188izODvwe5JgIKSD7DKpuAJEhDQ41WXk7SucQlHhD1XS_MmGhRyhc8vbvW2t-zXUE_-G1MvkuEUxA", 
+        "geometry": {
+          "location": {
+            "lat": -23.393817, 
+            "lng": -51.901005
+          }
+        }, 
+        "vicinity": "Rua Rio Tocantins, 2567 - Maring\u00e1", 
+        "id": "822a619e51614cb215577fe5a7bf8296b6c80441", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Calhas e Rufas S\u00e3o Francisco", 
+        "reference": "CoQBewAAAKzs7J5JluyCPeMgW6DtdQjT_YLpiaZuxrF-ya-wwnsuVcaa-b1vNvu2-KWIANvoRE49joFDT1GB7rTB5WfQbIIqrcfnb9NJWKB2T9GNPY9OcahgL6FGSXjbiYzQlPKyc4E1tXqjxZxFkOZMm73hMed31uKqkVkelwgYOQ1bHlRGEhAiWREbJbOzasv2VTBWswuoGhSc4aXMatVYvivmpa0YCqfkFI9cfg", 
+        "geometry": {
+          "location": {
+            "lat": -23.395561, 
+            "lng": -51.899889
+          }
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 699 - Cj Res B Vieira, Maring\u00e1", 
+        "id": "8474fc562e62a6391e09ee8b749537d7503e307a", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Refrigera\u00e7\u00e3o Com\u00e9rcio de Eletrodom\u00e9sticos WM", 
+        "reference": "CpQBjgAAALxoxfi87EtaK5h5jNa-3miuHXXvNlmVDANzRqtlTqHFHU667Lv3x3-zmlnCG-Dtsa4DRScj8TTpo7sYlqFN-GLuOPCJ7SRHZZR6VcxuBo6pb-UvbjRb0kn38P6eWWwY8AuwkFqIWyYBKn-hFT1W-iIrCaKMXHqZzqx5wvjy5f7uyoXBRDYqdMGTQU_hen_FTBIQqzyrU9rKIRsxctEMAJvvUxoUoMjOJjxLDNtPT3z7SLwrUI__KsM", 
+        "geometry": {
+          "location": {
+            "lat": -23.394007, 
+            "lng": -51.900658
+          }
+        }, 
+        "vicinity": "Rua Rio Tocantins, 2507 - cj Res P C Filho, Maring\u00e1", 
+        "id": "bce4edd0de6dd80b032bfce1812b4c0b141522df", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Associa\u00e7\u00e3o dos Oficiais de Justi\u00e7a do Paran\u00e1", 
+        "reference": "CpQBjwAAACVS3n_UYzGGUkp__wFde1kfbyOxLHYL0hnW6WQDLBLYKfHwwPcxc1pQ6jUiYm8t5oJX3SL51S_TzJJn8lCCVaGibjunYHcmwwVL4HuHUR7JL7X31nKlnVXlTQkICf1xhWsFKGHInNlopHFWRmKq-HBoAfZa7lZ7FhNrkW5g4QkiVLu09cth1N2XStnGktdvExIQcdsgLgk-u8awGKs82caD1RoURnUzZEbuLY7gKWmOrXcXQmWnhhc", 
+        "geometry": {
+          "location": {
+            "lat": -23.392952, 
+            "lng": -51.902512
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 2651 - Maring\u00e1", 
+        "id": "fcb52557436372cbfa0b3adcdc259481fc45cd51", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "V L DISTRIBUIDORA LTDA", 
+        "reference": "CoQBcwAAAGHOAOnWufKvGYhEW4jLxGIACid-YxoybGbIf-_BRijsT1Kf2jTxsFxDzj1n6bmjzDtwdzmIQ45iKzwd-l1Xeod2_rUlJ-kPxprtQJcagF4PQGCD1gdp24-K2p4s1hq7EuYi_LpyBxBsvIFv7OHFD5Ki74CymzlMQgekqKOCyAcgEhAaujUHbYe6l8g4bpNgmPA7GhQPbmklhSkrlIfFPqXXpB2yL9sSlQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.393876, 
+            "lng": -51.900516
+          }
+        }, 
+        "vicinity": "Rua Rio Tocantins, 2492 - Zona 37, Maring\u00e1", 
+        "id": "634ea387b54e799325a3fa52225bfb1141729d82", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Valdereza S de Souza Cosm\u00e9ticos", 
+        "reference": "CoQBfgAAAEhXTUxPSu_NBWlrWjE7KhlOOz2bWKnIUBGsUYPb-pODUxqnibRG5G1P_dH1ji-lbliCdepMqm8uepkpD1DLki9MLZrBULBGb6O1djT-WAl6IrALI-N8w5fhykI9QyH1uLRzvUyBvOV7R8vbGoIztjILvVJSrBn2EcmgCJOB5XoPEhBZTuEzwetRjor7mC-QwDP1GhQouMFKKd91qnRwBgLCLKtKJ1Zung", 
+        "geometry": {
+          "location": {
+            "lat": -23.39247, 
+            "lng": -51.900963
+          }
+        }, 
+        "vicinity": "Rua Dinorah Knabben Perin, 92 - Maring\u00e1", 
+        "id": "581f47b0da55a570c31d666d61ca3982496a0f7f", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jc Tendas", 
+        "reference": "CnRmAAAAdpJV8BfkqK13jom9ym5nn61HJG3i3gGPk7-2kQmJnDZIXNmWnehCJnicxrfKH_VoAJYtZOI2WTlox5yh46WaZctFnIn7M53ok4OdTybGEpJKvn3vlH1sjvvmlP2qSoSvNTZrVC6cQjlzxT9Iikc15xIQ1K-R5eaWE9qb4QG78oEDhhoUqb1K3HyqmlaquF_QR3BXAZiuvps", 
+        "geometry": {
+          "location": {
+            "lat": -23.393779, 
+            "lng": -51.901075
+          }
+        }, 
+        "vicinity": "Rua Rio Tocantins, 2579 - Maring\u00e1", 
+        "id": "adcce1aed2a5cf087099de4a005343354a49268f", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Waldevir Brust", 
+        "reference": "CnRsAAAATrAGIMMXSkd5r6XhYHQhcm80dS-31b2432dphRYzfVF4oA-PmBOQOmrAYDp9UwxFRMGnrNxaUFoNhg8xtLY4Nm4omMXKRO98epcy6hr_jWfWt_HQa56uhwVBaiQfAQTIRBXCUFOuf-DvNnPWI8MRlRIQRZmMT5plM7AzxTrbtk3ESBoUgpgBnFD8SRXLpn7GMM99s-DJ_no", 
+        "geometry": {
+          "location": {
+            "lat": -23.393205, 
+            "lng": -51.900507
+          }
+        }, 
+        "vicinity": "Rua Rio Amazonas, 178 - Maring\u00e1", 
+        "id": "c0f322f02bc0c4f4e8f09a57c00cb500729a2734", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAx60B7bQi7nb7qmV7kl6Mna1xvHMmVa89E8lk8R-uFygZIP7_ZzezNp5IHBWu4PQ3vP09j5zsSbt9qXbzIrSIr8KoePuDUaGnEnXST_hv64aS_vNzEf6dWIRdMf6jOoboYOLBdlf7TNSIDaTVARTKWhIQGfahD8Ump0k7v3ZQJY7NNRoURNe1J-c0gXIiBWEwZwSFaxDokn8", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAZWi2LmczOSCMRNaDifJj33I4VUrofF_rkALFBD_ygX7toWvxRDsuzblctsNq1pUtFQcPLYi8GafvoamHUpVIM6M0wEYOOS-6y7GkoDFiSWUSEG3XQC8a41Jo-yRTmFENhscaFOcQK_TEWBLUrlL8bwdRUrAXtpfQ", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Oasis", 
+        "reference": "CoQBdAAAAJ4f7EeIlilOxTA8qxqk1f_KSInlaTDvkFllAM7_DkNfNeXgrbPUD79U9L4Q6_Bi47Qed5-Qqif_P0-7X47dvENo5fwPEocU1QR1_B1lK7xCUM2hY-58pQUc-z15111OHTR593BUed_AER10G4Hwnm0mcqkcHigKRKM34VCfiL90EhDZ4CBCqdyPwe-riGdyJ-unGhS4uqEMemLFLwVk61E7BiPLEA05LA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4026102, 
+            "lng": -51.9004979
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.397723, 
+              "lng": -51.8934351
+            }, 
+            "southwest": {
+              "lat": -23.407386, 
+              "lng": -51.9054589
+            }
+          }
+        }, 
+        "vicinity": "Jardim Oasis", 
+        "id": "1e857033021adda3dff74604c616c607158b2f19", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Esta\u00e7\u00e3o Crian\u00e7a e Esta\u00e7\u00e3o Teen", 
+        "reference": "CpQBgQAAAOn55iSxXQn4XIYrlV_SFW8NGTsTpk5-xoAxIAav3Bz3pHnSgPWEvQAW2guC_RhpjT88geejMG7zvIb1l6xXwfKOOjrNs4yxzqiExmN6fuNCjJV_2xddK5P--0UECXJKvkx7lYoKXqDYMLyvjvYPkS1H64hXXb1aomJQrh1YZrHyA76Rt5uaTnLHWqiSa5yCLxIQb1NamdEPRMMwbtpXGoSQKhoUVDSE8chBDSl3zcAPtsXhj_phthU", 
+        "geometry": {
+          "location": {
+            "lat": -23.400811, 
+            "lng": -51.904861
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1994 - Maring\u00e1", 
+        "id": "2b46fd0d75de4680c2a7b0a1c0f35f41e2b79a1e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eterna Magia Telemensagem", 
+        "reference": "CoQBeAAAAMRJ_8ncXUaCEvEj4XK_ZsQy5FdxTkaEGGwxIfgpk7vd_lliip1Cs1eyWVwykcTO4UkfnKQ_Tq_mGwri0V8mghK7d3_22ZR0DOtFjZSC2EtcDyqQdkiKVJnSjYezyTIAP4eVi257BJpjcv4Pt-GsYopHrBdT5fhf1EPxI4hGpeKXEhAZJrzx-MnUbPW1btJ0c6g4GhSlBxykZFqqeAsXZ7jI7UveGo5kHg", 
+        "geometry": {
+          "location": {
+            "lat": -23.399768, 
+            "lng": -51.902437
+          }
+        }, 
+        "vicinity": "JD O\u00c1SIS, Rua Rio Paragua\u00e7u, 171 - Zona 37, Maring\u00e1", 
+        "id": "1b51c6693b55f7dba150bee3a9d6e243187031d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Nostra Pizza", 
+        "reference": "CnRrAAAA9HB_IvWI_2LlJ6175sQ6SjVQ6W4cwyDT2eefggcw6Y7TcD6bQZAldQxrNoLVzzjOVeTUka7BLnhr8yTRJawW4m1PRCvrCcLXYXEjaAIcWh336hOpOJmiCvjbfBTZJrZTe6gt89aksJ-3ObBvv96xGhIQdTS42rO9jD_SIyNDflwyMxoUlfEEtoc2-y7VsG2uyGPC3BFmoxk", 
+        "geometry": {
+          "location": {
+            "lat": -23.401467, 
+            "lng": -51.90345
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2150 - Maring\u00e1", 
+        "id": "ab04726c3e28120857e23a99faac0401c575a973", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "World Formaturas", 
+        "reference": "CnRuAAAAsG0Li4m2Dva0pG6QmENJcpCQx3dWbWxBxpjdui66xBBVZxvz8Q6UhZu98mWPonwtQ87ljtUhFc_WzdEK5xzkyFy1o9QS4NUOyRYXXwmTsTuL_B2Jg36h7_hsAClCiM0yhp5mkk7Amk4k9Gy8iOw1ThIQzfyzgwBGIXljBcry79zenRoU5MrY7tchVgLoazQK2a4dfXUkdHY", 
+        "geometry": {
+          "location": {
+            "lat": -23.399747, 
+            "lng": -51.902251
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182, Branca Vieira - Maring\u00e1", 
+        "id": "8986114dee272040ba6af7ac736a7e32213b5e28", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Terrapanini Terraplenagem", 
+        "reference": "CoQBdwAAAFB3WfXiCqKJFaU_mSrRF7QjwqfbBX-XJz3rC8d-4IiLljbiWwOFeaiVUzrwCBD5y7dRJ4g5sWTvwueYK7ucDAADu--1JwU_FESNS993gesfahFO5PUjrNDCVH8LF-HGJe-yyOKJUPMAK-SzYHvfBeRPthRfO_83oyLLu8T2m7MwEhCng_kB56RXj9DyDQElO-aKGhRTU1KuQzmSxsnfA2DseEbaow5yLw", 
+        "geometry": {
+          "location": {
+            "lat": -23.401427, 
+            "lng": -51.902915
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2161 - Jardim Oasis, Maring\u00e1", 
+        "id": "97457f7e8067d14e4c0a02e88a3475ca0baf7898", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "TransGalli Turismo", 
+        "reference": "CnRwAAAAgl8MgJcYB_TCxxsssIa3mlt74OlZwKPPvLuEGgkOzQzLy42rI293VZQPNVbIkxDPyXqd0yZ1c3YN3Xz7lofrt9VWFIg9jCxyFw8NCFplgdMwhN7BJuLoeRr0X4yXisq9cRnmDDkaRhDLNkaoQYaiXBIQxUZfUAZp9tikQvGwcJXPVxoUdkZUuKsOhuUunLv3Mk4dwFlJ2Y8", 
+        "geometry": {
+          "location": {
+            "lat": -23.402107, 
+            "lng": -51.903141
+          }
+        }, 
+        "vicinity": "Zona 37, Maring\u00e1", 
+        "id": "13a3e90d2312d56cdca878778f4a37f843304c9b", 
+        "types": [
+          "car_rental", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dicafil Com\u00e9rcio de Filtros para Motores", 
+        "reference": "CpQBhwAAAA5FbCssNCrkLpYvsW05q3_mEauCusa-5LCP5qo9FB5QAzJUJUWK4AhteGTSZNFFwGl3mIL713J0foFYjvyQe4jtPP8pdpQ4u786uoMR-37m5A23FkBhMY1C7KddJDNgIDeZkqd4Gldxwd121y5jojzcYWB5LinOZmEVvr7b2K00rxIitCHgI70-13YEoadGkxIQIUHD9mcBsXMDoLueS-Oh6RoUj7yHhV4YAIlatP3cZWynKNKvVBk", 
+        "geometry": {
+          "location": {
+            "lat": -23.400358, 
+            "lng": -51.905189
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1903 - Jardim Oasis, Maring\u00e1", 
+        "id": "4a93154a5f7132b298f909b4793e71cc70463355", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Max Agropecu\u00e1ria - Pet Shop", 
+        "reference": "CoQBegAAALVOUVNxNrQVPx5ia13KADUTu2vyoBSqEbvPsbekEAxeKv0y_ilpGlszdBojWOFdaaduNoa8wV_ox8vfmgWOrL3UaZo8PVW0CcM29xKmD8lJJoS5i5A4akwSEg0TL_wMLcRiwBbxoLKg_oMw9cejC2Xdi_GwILT2QqScMnkWvvFvEhBNtRarR-cwW6AWp1BEYakIGhR1cJLBJEZAZ8Q0ZB5pFn5tGpd9nw", 
+        "geometry": {
+          "location": {
+            "lat": -23.401003, 
+            "lng": -51.904391
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2030-2160 - Zona 37, Maring\u00e1", 
+        "id": "d8c0864429913e1a7d6441716071f4188d52e1ba", 
+        "types": [
+          "pet_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png"
+      }, 
+      {
+        "name": "Luminar Luminosos", 
+        "reference": "CnRwAAAAEfdsZBelb73f_1pGgMJsNKuFTzq5lWWm6sABOcS5L0gkVal7hgEjeabeaiidUGQn5LQBNbuEr2t-LVxjVwcCNGNT0TYc94XnShfnMmKDonExinl4n1cXn7i7ovBijnagK2T8sUUFVTzAfelI2VVbgxIQKGlaY1hlHCCus6pHybOY4BoUHzbRZLAFOyIruyXJnaoTC2hGYsg", 
+        "geometry": {
+          "location": {
+            "lat": -23.401983, 
+            "lng": -51.901959
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2279 - Jardim Oasis, Maring\u00e1", 
+        "id": "0f2580e9727f6c0ed2ec54b33806df26010a92d3", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A Natureza Empacotadora de Condimentos e Cereais", 
+        "reference": "CpQBjwAAAC8w3JzD_rETo-P3DpXi4o6yGa3BGyZngwXIwaxpavEmAm0kYEmUcWg8x6wTNKLGLFOr9IybA5115kKHaRMu5cAFhCPYELu-Rxd8_VjT3oOLduzTgll2-9-ChEZxby3AmOrcKLVk5EeyikEIlbSvo-xnYv295cHU5w4mPPM56d7fQFzTORZM6fMFCHxLzFvOjBIQtwcTFbNpv-27pKR3muJMHRoUV1ENabzXET4KVK9o5D1l3PpWIIs", 
+        "geometry": {
+          "location": {
+            "lat": -23.40206, 
+            "lng": -51.901827
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2295 - Jardim Oasis, Maring\u00e1", 
+        "id": "c8d0733caf523264fa80b25b9e79e6e80a4d5172", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Thelma e T\u00e2nia", 
+        "reference": "CoQBeAAAAKMdCnwu7UXnnRWcfhBq17dIFprDuFPXXQDTpGnaWITBo0DU1SB7ODcXimZZ65gvckqaGyYHkO5ZAUk6jO4WFo2yVuGkpcOGEV3Jq1LXs1I-E5zaEQzBXzKBykJB5dbBpDd5la_kQhrq_Zw63bpvVbj3qgNs6Ip0AfNeF-FgbKi0EhA7ks9q26N5Bus2U6DuhDgjGhTtnwCTMiowM3hztqg0m1O3T03WSA", 
+        "geometry": {
+          "location": {
+            "lat": -23.400256, 
+            "lng": -51.905459
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1875 - Jardim Oasis, Maring\u00e1", 
+        "id": "06783f10ba71b9c88982c8934c163f21e27dddad", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maria In\u00eaz Barbosa Chichanoski", 
+        "reference": "CoQBfgAAANzka9ooEbYeWDSiknM3F5zzEosguRlphCJ5dzjjiJKCrwa5cu_hhamcEC0rvcyM7tzb_B3jDCO09RYyHjHNLBqnbNZnkyO-7lCSptjKOhiCBGWOCmhSpYMYc_DfX3xcuPbENG_p7PYRopX_fOJQ9o5C8Hq4zuDA6lbKg6dlPWa3EhAVJKsdmSnakzkVVZj9rlG5GhRlQ_OSSNu0UsvU75XDEDn0uF5faQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.40139, 
+            "lng": -51.903593
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2134 - Maring\u00e1", 
+        "id": "f339a0bf1792b259695fc588ac1575377f5021b4", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Atualle", 
+        "reference": "CnRlAAAAmtTOvlBVNc2I8EEuDBaSfu4hhjLJceUNDnBhNKjym1CQ6bKl0IDLHlTr49P37P20U1ICmQdj90Jn8bemQFcef8OIMjIeTG9ukHCDG-JTXraDSFbVFOPleeDO0hCXdS2bcvyrL0Lpeye7HL-110F9ExIQ08iHPLcr32Zu07mwse73DxoUeovwcc9jl1zbVRaXN4Bhxffd_p8", 
+        "geometry": {
+          "location": {
+            "lat": -23.40139, 
+            "lng": -51.903593
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2134 - Maring\u00e1", 
+        "id": "aab8e7038684e3b556431fd6b20a86af51c5fc45", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia O\u00e1sis", 
+        "reference": "CnRuAAAAxAR7n0r-GqpjugaMxpLZKFuMif-Hdn64lwsyFtMgazxcOajyPV7_R-ejqX1qX6WBSzw1USyrxRXPYhDB5aHfmE3GwkzfS77VzBIZ6mzaZWqiCeLZhh-9Y6x_GDM9iunwFy93m0_t2pbLx1IddaEeHhIQH6ILr9ydVjOfb-osILumlBoU9lMSfnvgeWxETHqmyi_NFI7pCXE", 
+        "geometry": {
+          "location": {
+            "lat": -23.40135, 
+            "lng": -51.903043
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2145 - Jardim Oasis, Maring\u00e1", 
+        "id": "2e30305a2ab8266ba22f0b252a0ce21408227af1", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Sorridentes Consult\u00f3rio Odontol\u00f3gico", 
+        "reference": "CpQBhQAAADphAFt07W_txVa48VQ2VLKGIIlKCJ4mR2NSsaMCx7nc60M1Ys75TfWVOHs8BaG8SAIKX-6tV7PlWDPdxIvWfDSN-MCkgs04zYXQCxlKr_ElpJKPDuVkPmvAApuRuhIJsK4QXl7J4FQNl3X39tDINuEjVHQahSbe4IoZejJx-ElJYm1IQK9k_rzVDAqJCJwKBBIQbOhn7dCREGnNxGFfBnNVexoUJaNM7FWjLlH0_Ja2AfnmffEAZW8", 
+        "geometry": {
+          "location": {
+            "lat": -23.401714, 
+            "lng": -51.902427
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2221 - Jardim Oasis, Maring\u00e1", 
+        "id": "32ca117997a36f226f2cf238f5bfeb2b2a8fad77", 
+        "types": [
+          "dentist", 
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png"
+      }, 
+      {
+        "name": "DLP M\u00f3veis", 
+        "reference": "CnRpAAAAWSDUWxBOKqZojIN2rvo2ujW0QHRMgiXl-3FVyALXxs8WmmbtyZO1iiN_hMDsFdbcgY8Pw3qFzna_EN2WMZY8liK68F-uVtaKK1GYalgOe-YN-M9w9emAsa7VTLvEz8afLginGORaXTdDMXIRE0p6TxIQYAeGrK8WpfucJW4DFUOR_BoUaT4eSpqsTyKa8SE2N7ntpYEmqcg", 
+        "geometry": {
+          "location": {
+            "lat": -23.400228, 
+            "lng": -51.902492
+          }
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182 - Zona 37, Maring\u00e1", 
+        "id": "0a8763e2e70d7426f48a678122bb313e5d808486", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Programa Comando Jovem", 
+        "reference": "CoQBdQAAALG0iEMhMPaSr4OqU5JmLG8fPEgtitN6RtwmjO-pVmHOqFNV08qw5M80br9SRCD4774wYDn3PFMABvOmpePyOIn0SnL0ZWqdb-fwQ4B786sfoUbRP1IkMQT2AyOSuPxB63D1oEawAqLoC2wz_ELomLBzBoUio_XvWsGkLanTLT0FEhAX0qVk3JWC19ttRMoWlmyyGhQBrlkV03h0eYRAC-8rFUVlE-2qCw", 
+        "geometry": {
+          "location": {
+            "lat": -23.399499, 
+            "lng": -51.903921
+          }
+        }, 
+        "vicinity": "R. Rio Itapemirin, 186, Maring\u00e1", 
+        "id": "d650bcd63a872ed8927f15553daad0471722e228", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "CFK IMP DE EQUIPAMENTOS FOTOGRAFICOS LTDA", 
+        "reference": "CpQBhwAAAIj2OEzaHDsNg2eldxKUxkzpHX3gMyv8ZhYjrjySJuLm0R8usUHYD-aOO77gSc6sR9UNvy8EZWeznXjkAR5v2Y4XZFJaS-iwWkvcwxwKuTPROb9QE6r-hXULNifq_NFA6Di6cPvfiGED9YUs3yn5j-20UTvDGPIyVtje_hU5QhkO6XD-Y7MaIlBOquTedZWpYRIQ25Eo1vxnvSTMempQ65zQhBoUrw7lGXpGANyMV7ok2_Km3o2fLKQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400426, 
+            "lng": -51.90501
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1927 - Zona 37, Maring\u00e1", 
+        "id": "b39e5efdd9e07e57830be8dbd16e43f85a11e442", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRvAAAAjWLy-mbwsFL7rwPCkZx18k5HipVQ5f3efbvZTuJry5h6eyq5pUr-PpmqEBqdqxsufinfPk8ig7yiM29ZGRo9xFvxyGM5S5LzghmJMstI0GtQLo7xl-Fb40z6-XQwvmw9p-ohJYt7T4eA9JKBb9PhoBIQpuHudzYALiesStO0IYZM9hoUGciNWhaJPFHCtgxWkQDza4TJ9u0", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAAn6JROEpSssreU4evpzo7sL04Nktc8-OeqfcjhhwYbIgCfutd_KqIOieYko5pLKt49NlAEoTsP3LbLiu7CIFg15pTiGN4CDx4c3G92T1ExHUSEL9yL3lRUlsmb3ZCPBBvBz4aFFl3XHDMIMiT8flWdBZmDdIJAMHY", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Oasis", 
+        "reference": "CoQBcwAAAOgo14-IBAF3HqIzArkbCNQmYoTFDdEaja9ZlTwnpEykcQQDNAXdag9rsBNJD5azLm-cWbsLqI4WEBK_RYsB6Z_ZFRngohMRWT6L-brbtt2q3d1HaQcEXeq2v4VDCzTfMvXR6IFLIOI6YZV5FoMVfGSx1T5GCc1OMWRtvQvKZ3fLEhD_Bv_CrUXI7pa4PhdGA8sUGhQLxpFD-SxQ_7zJOo6jF_UsCunX9Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.4026102, 
+            "lng": -51.9004979
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.397723, 
+              "lng": -51.8934351
+            }, 
+            "southwest": {
+              "lat": -23.407386, 
+              "lng": -51.9054589
+            }
+          }
+        }, 
+        "vicinity": "Jardim Oasis", 
+        "id": "1e857033021adda3dff74604c616c607158b2f19", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Esta\u00e7\u00e3o Crian\u00e7a e Esta\u00e7\u00e3o Teen", 
+        "reference": "CoQBgAAAAKcNRKuwJKhZWkQxbr60ioDDWu3qFXttf_7zSU71XjEauigXoHYPLgIBrCdH5A8JPMr_GXJAacKrEBUtChjFFMn7NcG0KwPQL4EuiWaVkJLPIx0yJ8sqioz1zRagqOthUQeUWw1z587Mhde3A44LMifNzEd-Jyb4_jTZSlJzKt8jEhBDgaQYbAs6TKRMG2qMDwP1GhSu9YzV-ovDhBJgcM07U__KmaUfAQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400811, 
+            "lng": -51.904861
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1994 - Maring\u00e1", 
+        "id": "2b46fd0d75de4680c2a7b0a1c0f35f41e2b79a1e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eterna Magia Telemensagem", 
+        "reference": "CoQBdwAAAE5a3a9TQxzVvlfzzh0mdcCVvT9LHE-BgtHEod9RaJnbNtsz-RoNiRF0deb-SMtTltFy2f50AgoRPZWL8Ei_PwWHccAsy7qwcRf1G8VoZQhkOFJdNPtL4SzzIabG8KRWFyyBUksAPoSnUTfGMXX2yTPU5Ch5HQjRNaily0mTZhX9EhCrBOooS0Z9FfosE2yZwSd-GhQKqyTQaGyPCH9FKM-jGPatqfrhIA", 
+        "geometry": {
+          "location": {
+            "lat": -23.399768, 
+            "lng": -51.902437
+          }
+        }, 
+        "vicinity": "JD O\u00c1SIS, Rua Rio Paragua\u00e7u, 171 - Zona 37, Maring\u00e1", 
+        "id": "1b51c6693b55f7dba150bee3a9d6e243187031d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "World Formaturas", 
+        "reference": "CnRtAAAAuoDBhseODThIEs7roaH_ZWxUQz4C3wXDE0CH1ew-h1o9lkJtGG09FT1In7IF8V2hrEtYuMz0TLp8lmv9TbEGOdlU-sWxFDFrRrAPXQVadSihNnyDjgT2aZxS_lX4VoPEnIrRSYOL86Ly_8YAvsQVaBIQnz03uclLaotUrx4aIYbl0BoUBtvhwcncDa6El1SFgVSm-CaIPMM", 
+        "geometry": {
+          "location": {
+            "lat": -23.399747, 
+            "lng": -51.902251
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182, Branca Vieira - Maring\u00e1", 
+        "id": "8986114dee272040ba6af7ac736a7e32213b5e28", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dicafil Com\u00e9rcio de Filtros para Motores", 
+        "reference": "CpQBhgAAALxPxJ1l5nKP0vww2-jLKHooD6iDHvkJzsdQjB4S95cknDm-56WTxIj2TV614F_WfARLzqbR6yo0oOoyDiCrgEBpR0alhxojsVRuzUElbBZMzYtAKYuFgusNLwxFSjfKCW2xiccEasb8bGuaU-bRKNCfBbu26nP2-yemuoOVedQxnAnm4WZrr5oa1ug4evROjhIQl2L27SYBEAepe9bE3W-zLRoUmicCb9mNYzb0fB1K2GJJfxzcCzI", 
+        "geometry": {
+          "location": {
+            "lat": -23.400358, 
+            "lng": -51.905189
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1903 - Jardim Oasis, Maring\u00e1", 
+        "id": "4a93154a5f7132b298f909b4793e71cc70463355", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Thelma e T\u00e2nia", 
+        "reference": "CoQBdwAAAPuj-7p7ssG13DbS-zxlLXLcFyMFHsy6q8E8UqEb2bbkZnNAlscANO8Bm9oywWFlICWE0ueSuuFEF5TSksF4pkD5DaFbteZPnh0Dz41flV_VFVCWFlpWvMnbl0zAFr5rwLspP9K87lm8GECCNteLMknHvhezl14jRdkhNDY5wxcaEhBWHLVQZpx3myBIA9FSyQvaGhSIL-5RDeaLxhtImJMREhbE4-1svQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400256, 
+            "lng": -51.905459
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1875 - Jardim Oasis, Maring\u00e1", 
+        "id": "06783f10ba71b9c88982c8934c163f21e27dddad", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "DLP M\u00f3veis", 
+        "reference": "CnRoAAAA7p4qHkiVlpsq3fsiPqI-vltjnABEFASf14HuA3cUFGh9WQMBFqKEA8ODZGXP9FQjgX81JYeEz7V55dK8wduKARlRtygWZxZaujVXyPIfTxti-jAn_qleW7CvCOwbMg2NBPeggBdMg68Pqx85b02eYRIQFRapqDnZqfbUCc4hrb1h1RoURA7l7lkk97uNLstzQo_a0r8uzUo", 
+        "geometry": {
+          "location": {
+            "lat": -23.400228, 
+            "lng": -51.902492
+          }
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182 - Zona 37, Maring\u00e1", 
+        "id": "0a8763e2e70d7426f48a678122bb313e5d808486", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Igreja Adventista do O\u00e1sis", 
+        "reference": "CoQBeAAAAN1nxFEGGl_ksfUnXDc53cjKrujoeLB9q4IQbM3E5X8fadxuX57pr8buLpNChnlViyH_TiTcGWEqd99wjjMvPTqM34BvehGBuVg01FiDLTvmO3gDQ50X48dvvx7QCpwSKwM7cFAZV5_PIpR1g1VPMBQjuP94nlZWVrf4z69egXvuEhBZf-ok2sKW5qvNE39L8QcrGhRIsRuoyD7yeuD7KscQ7p_ugxlQ4A", 
+        "geometry": {
+          "location": {
+            "lat": -23.397723, 
+            "lng": -51.903051
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "jardim O\u00e1sis, Rua Rio Itapemirim, Maring\u00e1", 
+        "id": "730e33bb098462a80560fc4924ab388d58aebd5c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Programa Comando Jovem", 
+        "reference": "CoQBdAAAAEuBu6E1Y-wbwsSdmXcUpM0qCidvf7E_95ozEei8ShtbWLTgnqEtEnULfJ3T2shay5umNpTwdnZJFhrDWe8cZ3NzI9MYT_cpXQzxQSN8c5ZZ_podEIcvF_MH-R8aJ51Uqg1ktqCB_LMk6F9vsHFHOzL6mfL7V6Fo6wVqhNaEFZSJEhA6ThaiG1mNy0NIQjBeEjIWGhSBESOyl_Gk1biT-DBYsMPi-jrkSg", 
+        "geometry": {
+          "location": {
+            "lat": -23.399499, 
+            "lng": -51.903921
+          }
+        }, 
+        "vicinity": "R. Rio Itapemirin, 186, Maring\u00e1", 
+        "id": "d650bcd63a872ed8927f15553daad0471722e228", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "CFK IMP DE EQUIPAMENTOS FOTOGRAFICOS LTDA", 
+        "reference": "CpQBhgAAAOxW4J1kICCpYVy5zM2N_ECw8eNQApwY8NSwLOUdrYL4RxQ6hRJpAMghq70b-MXQPSavTCmaL1X5S1vWfamGi_Oxidsf1ux-rTDfbRkhS2ZAexK-IoLqWw6zQWzkbivloa17C3Th43BzkfHyoR5lFD3SPm7Rtewxj41WriankcYmpW0S2POwoRczTwdqG5pozRIQNTMRlMIeVaPll2XUbyGF_xoUPoxX-FSE1hpsOsD5mGtJ1F5kqJw", 
+        "geometry": {
+          "location": {
+            "lat": -23.400426, 
+            "lng": -51.90501
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1927 - Zona 37, Maring\u00e1", 
+        "id": "b39e5efdd9e07e57830be8dbd16e43f85a11e442", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "K3 Art Imagem", 
+        "reference": "CnRrAAAA4J_7zocf5hvqlLNEK9s39SoxSdwmoTgiS4Kc2fYtvJnSX-1PXeEpVv1NTUdwmq61ILMfp0zBCfeggDBaYOsvf_tdQZMrRWfDqMCLj3H7p1Y5d7N2Bvzf2XnpZYDh37QK6z_vYoI3zhg-yGH0TtCBnRIQQ-ObRZ9TBDJgaBd3tzcyNxoUfkaH-7_bsKcyjHSR3XMT2UHbajM", 
+        "geometry": {
+          "location": {
+            "lat": -23.398402, 
+            "lng": -51.903448
+          }
+        }, 
+        "vicinity": "Rua Rio Piquiri, 375, Fone Fixo Nacional 4062-0852 - Ramal 3952, Maringa Jd O\u00e1sis", 
+        "id": "f92a52e492b9511808201d957817af559384f94d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "VIA EMBRATEL MARING\u00c1", 
+        "reference": "CoQBcwAAAOtNT7MAiU-XwXkBQv68Wu9okDiY1-nPnb4ev5628c8QRLI9h56YFTnsi5v-DXd13cOUa_nedTTj0hG4Cy5PvR4TomQ8lDHESsanOEXpX7JW8Pfz2xJJcI4gClLMtjcEdusXF6ATqCu3iLpSSeg2AaQc5a2PZhOdpNqg_neMm4-OEhB9AkXcHHalmPx_y-BXPVsUGhRIP9_Q67JyS869xR3QjH2kS2KyiQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400374, 
+            "lng": -51.905146
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1915 - Zona 37, Maring\u00e1", 
+        "id": "1cff28711e72509456a31756262f1ac358ff18f8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "AsaNet Solutions", 
+        "reference": "CnRuAAAAfVX7dk0KhHSaUM9CYyjMJo_pwhNJ9qbLxl8id17QhgJdmbrQqHa7xz2SGB4VdmpgV3JRl8jvPnGlD-Ppgsr__PILw6vXzMhLkDZZh_0zH7OVE9NSy6kd0UBI2U6C1oTLrFboYjR0_zI_uSNoF3xGVhIQz_8ueOGcxVPUJkYgnpKgVBoU2ftAS3SaJ_p_QZUr53h1M3UDsy4", 
+        "geometry": {
+          "location": {
+            "lat": -23.399499, 
+            "lng": -51.903921
+          }
+        }, 
+        "vicinity": "R. Rio Itapemirin, 186, Maring\u00e1", 
+        "id": "5dea3d82f1e15175a00335ebd39ed8440c4e8135", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "M3TELECOM ASSINATURA VIA EMBRATEL", 
+        "reference": "CoQBfwAAAMS0aOuBhIq_kMDdv4mCpXU02FsP2JPL5fMBYocVUEAdiaupoc9A0cbLk_ui6xzCIiq3gRJFigpHi4wWT4xHcqLV0DobxzI1Zpji6v3SJzpepMLb5i3w-oEmm6-PHGdPF4Chs9MbueBwpqGOeyi4N0_L296SXZ6Kv5ddZtMwUUokEhD8szFxnGlEplcojtM6cYYDGhSEzuR2EmUrXYksIeq5KEmBh7GWCQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400456, 
+            "lng": -51.905183
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1915 - Zona 37, Maring\u00e1", 
+        "id": "871c455eed6b37b36f56229b49497bfe98df7fef", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "UNIFORMES BALNER", 
+        "reference": "CnRtAAAAro-MTm7I1D8e8tyMiRMbE5fBra06lDmXSXbW5hVwbT1wI1EYCC5vHIzBKuIZtmydRq2iaCZGNI7QaqUTEdvSHFZWg5KXvZrfoeUMTZqTcXD05uStilKurVmT1GgtYTxd2BFH7kUqEu-v_Fc9zOqd2RIQiqGeuquvKIbzeK5aoG_rCxoUK8tRsbSJs4CgPuTw9y7ouHfUrtc", 
+        "geometry": {
+          "location": {
+            "lat": -23.399222, 
+            "lng": -51.905233
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 1656 - Zona 37, Maring\u00e1", 
+        "id": "b9abce2cf158ce817dc64156cee3e0def0ccdd4d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Edson ferramentaira", 
+        "reference": "CnRwAAAAZJLmi7PtEE-gS3kRNtM6Fip-Be7zHQAXsZ6C42WeEqnWW6tSTsiaonGQaav2KEdfgiGfCHkbgLWewdoGFwYf7mFJzPFhxwf7RmkSjXZzST3NMyp0Mcgq9Yff4tt8YctYezkOIYmFurSzo7fPEaCmRxIQjzSP3s8Ge9ovmFqajnoKZhoUO6Tw29mG2Ujb5mql_rhyZhSNPJc", 
+        "geometry": {
+          "location": {
+            "lat": -23.39941, 
+            "lng": -51.902601
+          }
+        }, 
+        "vicinity": "Rua Rio Guandu, 1789 - Zona 37, Maring\u00e1", 
+        "id": "e3ff0cd815b1038ccb00bd7d71a49e3b539bddc8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Notria Jeans", 
+        "reference": "CnRpAAAAIeEgYCclqRiVAyuzEgkpdzEVxDUkJtUHmLW6DZY7KjOJxNFcWkV9e9PJD14Y9YXO3LqtSQTkjzCi_uIx29yaD597vde2qr-eqITWM0Ocnq8841ONbYT80KEkkiImtprUtjIXedSyQ8IQTKkX3z5lZhIQqF14rdO5u8iXtZe38YA1NhoUheRgsIuz1Dw132yn4lrPZXCJ4Kk", 
+        "geometry": {
+          "location": {
+            "lat": -23.398681, 
+            "lng": -51.903856
+          }
+        }, 
+        "vicinity": "Rua Rio Guandu, 1963 - Conj Res Branca Vieira, Maring\u00e1", 
+        "id": "3353aedbfcc56a7f298e59255eb20a2050843f46", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Valdereza S de Souza Cosm\u00e9ticos", 
+        "reference": "CoQBfgAAAOG2cRudlEfijhuApV4EaOkr3n3n3dugxWq30d5NRn45z6gsDg89tq7mvRR71136VQg6rT-mhK2MktvAw-6gZb_eezCNMYrtuDXoQo5jA2YtrPmrkCUZP2opRy1SO2r36HpobD_J_YSEX_gBUWCb17fG2tAh2CsuMp4jcnOzQ-4BEhBfSNgOhLa_THamK6IKnaPXGhQ0b-xMS3DGFqkS5mAbVgsQEay-Ng", 
+        "geometry": {
+          "location": {
+            "lat": -23.400487, 
+            "lng": -51.902862
+          }
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 111 - Maring\u00e1", 
+        "id": "f96dde988b11574088ed6ed30e6bacdcc20190e1", 
+        "types": [
+          "jewelry_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png"
+      }, 
+      {
+        "name": "Toc final", 
+        "reference": "CnRmAAAAQNfcVI1ONJod_7q2VUjrzm0e6LrlNeimgLtRY8lnMq3JCDhLWxiIf3M7YigL8RKbBdhXjylQ6xGNl5WEew4FfdAKEl97xu8fuaPh3Wos-crpNTQOp3MtuaVSmot5WXR-2WqQtOpxwQqyqv23WnLWtxIQ-gOmYquzq_8gAIxH2uBHuxoUE-P_TMwqIOvp5R_3uQ91AXcrI5A", 
+        "geometry": {
+          "location": {
+            "lat": -23.398353, 
+            "lng": -51.904402
+          }
+        }, 
+        "vicinity": "Rua Rio Guandu, 2047 - Conj Res Branca Vieira, Maring\u00e1", 
+        "id": "717db5f45d086af1e2f1802846606035be318593", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAA4QFJos9wC1jC9YXwLwAVPdWjNMmAI3C-fWT9isb-GOiGKDhgJko5pDMBjW0orD2cXb8wgdvSnaeavnhtjZas2NXWW2UTaPfbm6JMSwoQcUf2iuFxh4Y5Yk_TwK8ZNprvNJDgbQyS4W2i2OKTfHBmOBIQ_qJjUNpk1Weab7M3vX-MthoUKlFheS69A9Pl3Pcuac1CaIwQuaw", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "next_page_token": "ClREAAAA0LypbcX7m1rqF2_9bQk7MuEH1XwCCyMYRbCqvQLqrQBTzDKynzkd8iO9MDDyOyQsLAKNo1OnuKrCjg_e7PnuL1FTELM1AH8b_ZzUEBFigZwSEOUI-AtG1yB-plFx78G81f4aFEv3_aig1CdsvgxnckxndXRU1x2f", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Jardim Oasis", 
+        "reference": "CoQBcwAAAOclFBdQOXcuvd0U-eVhoE1TZugdqmfPCG0aHwQGjBKee8Is57QATi4nMTz8f6gAaEDblLlUMbDNX6YQKdE0b_NHf9zCdcGwd-0EP83uXor33Qq0zALw6txgJx0LVxO6kB31XGp34bfYOMy8qvCkkDlW1VX2VjituWBBneGxnjHTEhCY9iI41T6m6qxiq8U7NW9pGhRMWM-mpDtYimKkLVoDL6gM4xjgeQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.4026102, 
+            "lng": -51.9004979
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.397723, 
+              "lng": -51.8934351
+            }, 
+            "southwest": {
+              "lat": -23.407386, 
+              "lng": -51.9054589
+            }
+          }
+        }, 
+        "vicinity": "Jardim Oasis", 
+        "id": "1e857033021adda3dff74604c616c607158b2f19", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Esta\u00e7\u00e3o Crian\u00e7a e Esta\u00e7\u00e3o Teen", 
+        "reference": "CoQBgAAAAL9ID4g0tUauD0C5MQZETKTfs7HWsyMvi4EPrN9EengsnzrlPMk6O6A-ychlw7UjV7Iq1Dcst7BsKuz9HculTXsIeKtN4KH3LcmR4Fo_47ofjPfq7EXUFaTHVm2WtjvMOMhXCIeR1gkFVvV0ljyxPOX-9TuvQmad7eKJJ2vLBfvjEhDEIXv6PN91KVZZI_xEBi2zGhTtsBnu5I6yYnm8UIQZoBlpa8n1PA", 
+        "geometry": {
+          "location": {
+            "lat": -23.400811, 
+            "lng": -51.904861
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1994 - Maring\u00e1", 
+        "id": "2b46fd0d75de4680c2a7b0a1c0f35f41e2b79a1e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eterna Magia Telemensagem", 
+        "reference": "CoQBdwAAAG7IWtOh9rdGtysSditUTbX_N_OtzJlraIZMmHs3ly75h7XPLNNeW2gqFlhjeMqpb-OsgieDP6Imox8wp3egQtTR-LjOBrdWCA2ynFnDEIl9L4Umhj8hRxPfSlOCVBPQha265L_nX-rJV4nbyOTFCF5d4r9nJWrhBL24iNYKIUoHEhBvC8-1znQAnaXeWCU5yy2BGhT12puFabOBLy5TfvyxZyG3fa5p2w", 
+        "geometry": {
+          "location": {
+            "lat": -23.399768, 
+            "lng": -51.902437
+          }
+        }, 
+        "vicinity": "JD O\u00c1SIS, Rua Rio Paragua\u00e7u, 171 - Zona 37, Maring\u00e1", 
+        "id": "1b51c6693b55f7dba150bee3a9d6e243187031d1", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Nostra Pizza", 
+        "reference": "CnRqAAAAzSKtsYz_JHYNlyaA1PB8LScsxsnOf4rXH91XQRCmSa3w_YLS9SkTZZkXljbguFzxR1D6pcRu6SxjiYjI-L3a4XxkEq0eK0ofd_Luj8AERXwJPDQrMq2SeKBKo032nKzicXC4sZeY5SzOn8ZnSji2URIQEQ7jXsR5v82m8pBTEnCe9xoUluNWN33AjVHIkNhBopKmbUae_1g", 
+        "geometry": {
+          "location": {
+            "lat": -23.401467, 
+            "lng": -51.90345
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2150 - Maring\u00e1", 
+        "id": "ab04726c3e28120857e23a99faac0401c575a973", 
+        "types": [
+          "restaurant", 
+          "food", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      }, 
+      {
+        "name": "World Formaturas", 
+        "reference": "CnRtAAAAOBBry3TvmZBy4iIirk3AvW_Bs69SI6qDmcNM_vQDi7U4ZS694EwLgxpRu-APJwAx9UhMw454F12DE5AvdUnDAgKANTap7XSZZuyx687JSqyBKS5gDuqP8gHsA6e7MY8kND5riZ984-EfpCctmjTYrRIQgETYDWtUwIExZzcMWsxJdBoUhbBP3Jhi8Ye-MHkxuwgiC1wbrdg", 
+        "geometry": {
+          "location": {
+            "lat": -23.399747, 
+            "lng": -51.902251
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182, Branca Vieira - Maring\u00e1", 
+        "id": "8986114dee272040ba6af7ac736a7e32213b5e28", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Terrapanini Terraplenagem", 
+        "reference": "CoQBdgAAAEOqDf8SFiWaf1VGmlWjnii7VqpSRO3bYYdUvQxF9WA4WFAbMNrpnLdoPQ0-RW9DKWIjgGmk0Z926egbgTHxeENgdiJnJ9oJZ2OlHrq6U4bzoMnjhN_8Dj760__n6cfJ8Lui5qAU428DwgWvTewG1kvCiTrlKP95F4kBfKhiMDGXEhDcy7jxA7XzazagXDtKRSfeGhS_B8f6VZDx8uaU_bsMvzgy7RSd6w", 
+        "geometry": {
+          "location": {
+            "lat": -23.401427, 
+            "lng": -51.902915
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2161 - Jardim Oasis, Maring\u00e1", 
+        "id": "97457f7e8067d14e4c0a02e88a3475ca0baf7898", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dicafil Com\u00e9rcio de Filtros para Motores", 
+        "reference": "CpQBhgAAAAfX1nhDqM7uZ8YI8Gp4CZszFJqax9oBufZoDwteNG6Y9TunKghv1w-kMSYqU1A4ig3QXLpi50cBLlurI0niKxuxtcwmtwG5QMDICIMjjzvkvFhrY7oH5Vx7UT1OOqwzbwiXx6Bf0DIWm6y_i_OBVNAF1rhgATnGhRj-Xq6td2pR30v2vw4fZ1Wud097eX8UAxIQkNJl9QyEpPwzpVTZyqQo6RoUCWwuFkCb7ajRvqck0dYMULb-9kU", 
+        "geometry": {
+          "location": {
+            "lat": -23.400358, 
+            "lng": -51.905189
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1903 - Jardim Oasis, Maring\u00e1", 
+        "id": "4a93154a5f7132b298f909b4793e71cc70463355", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Max Agropecu\u00e1ria - Pet Shop", 
+        "reference": "CoQBeQAAAAhoE9OYdX1RNn_rMJM3hKXkNo-3jsZU_9gJULC9O7gcD-L1DSWHMINacFUZq7Y0gF8jozzxVVjYCTgl_AZ1Iyy-qtdoU6w8ygdtIV1SmlT2G9B53eAWuUTzzdlMxIUJPnBONwQvW4Ivws1WlZjz7mEFQg3mz2jwup62DtJuzEZCEhAB9QXQZkurE61StmzbrujhGhTG-zJ7ZIa4oZGBVomvcAFQoWocMg", 
+        "geometry": {
+          "location": {
+            "lat": -23.401003, 
+            "lng": -51.904391
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2030-2160 - Zona 37, Maring\u00e1", 
+        "id": "d8c0864429913e1a7d6441716071f4188d52e1ba", 
+        "types": [
+          "pet_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png"
+      }, 
+      {
+        "name": "Luminar Luminosos", 
+        "reference": "CnRvAAAAtTnDAe5bzlik9UmO_egYA0csg3HYeXXsQX96ixYrdN9PuqFaTEdDVy9X4R383ScRMtpe2qpJr9bCq4sbkUNHIj-JLBGDFRT6EEe3OzTW-_FB_drLSRgHvcdV98lT-fKkxti8geod3qUqPM_THAqK3xIQyyN5cSgZ1JS90siziw-t1xoUMlRjbaVvB0eBjLy1sWoM4dIdyLE", 
+        "geometry": {
+          "location": {
+            "lat": -23.401983, 
+            "lng": -51.901959
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2279 - Jardim Oasis, Maring\u00e1", 
+        "id": "0f2580e9727f6c0ed2ec54b33806df26010a92d3", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "A Natureza Empacotadora de Condimentos e Cereais", 
+        "reference": "CpQBjgAAAFyUEyKH33IH_zKuUweKvTi4W_j4PcvxQ_17Uu5RCUiwnafPXpGUGYz3FNznfubke2wW_SQobh4BtZMz84u3T_3zqskSIKikkbQydLxnsxUGiWAHrvyLPR5oZLdurU0jWVwbo_LWStPsPVI826hgxkPxBxKBmZObCLJS9tFHGaervUdlgziSQhQffjm_0XGPhhIQJACyDa6sogEBxnXNbqChVRoU2L5XgvRs4oTNoer9rMdDFh_9_EA", 
+        "geometry": {
+          "location": {
+            "lat": -23.40206, 
+            "lng": -51.901827
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2295 - Jardim Oasis, Maring\u00e1", 
+        "id": "c8d0733caf523264fa80b25b9e79e6e80a4d5172", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Thelma e T\u00e2nia", 
+        "reference": "CoQBdwAAAA4ToHsFoMUXffK2xegcepvVKvpmj_VlKsA0xzg_zhZ03iD1cQIbiWCVdjCLHbv2RLhX_orlQ7-nCN4Mh2hoy3slWMPuDfIHBstkvgeHGQnvTwL36ygY4zniuDrC93rRKphp0N8ZOXvm1jWiIzm-GOJEUeCAQqv8ix5NcjmQFZnJEhCZfB2CFL6VvtDA0_aNd8YeGhTCjXYW0jRtpqTpILqjNexyVUbCOQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.400256, 
+            "lng": -51.905459
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1875 - Jardim Oasis, Maring\u00e1", 
+        "id": "06783f10ba71b9c88982c8934c163f21e27dddad", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maria In\u00eaz Barbosa Chichanoski", 
+        "reference": "CoQBfQAAAAEgpQZf33LuMWDt8tpdWBShZlqe3ELC9yV6Q1cOFIqmq8g0gvoKtN6xRno6jKF3l6XnzGPTLg1rpPPqdmXVAneqjor2x17XBluSyKuDmVUJdwKiMoRVH8NwZ281RL41IOdQKQZEnhDkB5v9t48OyD2U5n_zygYzfENYP8qn1zmtEhBuEyRxih3lZWFFfMqMQMOvGhTtCX-27sAT681pLzzgBk-rpD8_Lg", 
+        "geometry": {
+          "location": {
+            "lat": -23.40139, 
+            "lng": -51.903593
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2134 - Maring\u00e1", 
+        "id": "f339a0bf1792b259695fc588ac1575377f5021b4", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Atualle", 
+        "reference": "CnRkAAAAIOxjDFIqgzSyYgN8W7x2SQo3OFfhttPyBJkpwVFkCkLhOm1oAWMXyF7u3z650TnwnncHJyt-jr6HC5iYz3twYuvDHUk_bH3e4CmVFsawEDPpB2EZfdZHLZpEY8qLebnABfywbsqdKnbAY66vIFo9WxIQcnG3JVDNtWsA19915wKRbxoUXrk0Db88ojvpKwEsPis0hd6y5iU", 
+        "geometry": {
+          "location": {
+            "lat": -23.40139, 
+            "lng": -51.903593
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2134 - Maring\u00e1", 
+        "id": "aab8e7038684e3b556431fd6b20a86af51c5fc45", 
+        "types": [
+          "beauty_salon", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png"
+      }, 
+      {
+        "name": "Farm\u00e1cia O\u00e1sis", 
+        "reference": "CnRtAAAADLBeq2jO5xzfwlGcZuo4sle9XrpLxlyW5TOkhYwMg2FZM6SLdblo5LQOPbeeYcGBqISfF0eU3yQlCIcAYgg44MTLieMx0HFJoIc_zVHMIAAnG1azo0Z4I3VHIzF7FYlmZV1Kzpa1tLECLy0F-7-p5RIQR7Qqe9cQt5TK-sRryWWd5hoU8E2-8OmMO5CiPUJ3XSKId1tVPEk", 
+        "geometry": {
+          "location": {
+            "lat": -23.40135, 
+            "lng": -51.903043
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2145 - Jardim Oasis, Maring\u00e1", 
+        "id": "2e30305a2ab8266ba22f0b252a0ce21408227af1", 
+        "types": [
+          "store", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Sorridentes Consult\u00f3rio Odontol\u00f3gico", 
+        "reference": "CpQBhAAAACtSaNxBkcKVjArksQPVm6Db8W6uL_v6rwuD92VL9u_GZchR9RotsclP8zyrLFA4oXg0nborwLcMp1lUlUbIirVA_FkyTS5084fJqzgB6fAoss0uD0IJc0fRmgNXhhbCcwR-qBD8iWdD93rTkAKZsXkh6rmEEcWvBJxjgAGHleB9Nd_JsixOHy2zIAIKiEqcLhIQeAYk8H0qCUeOaQa0_NIUkRoUNegn-z9D2q1HWUGsdgUB8TAmTos", 
+        "geometry": {
+          "location": {
+            "lat": -23.401714, 
+            "lng": -51.902427
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 2221 - Jardim Oasis, Maring\u00e1", 
+        "id": "32ca117997a36f226f2cf238f5bfeb2b2a8fad77", 
+        "types": [
+          "dentist", 
+          "doctor", 
+          "health", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png"
+      }, 
+      {
+        "name": "DLP M\u00f3veis", 
+        "reference": "CnRoAAAAH0gzN9z4insFBo8LOahD0TRsk_2I_Tqulwluy5gio0gwz2JJGwin3O-ZHqWqyheALlWDND5fm78Z0kX8PudyCFRFCMetlysGxGKGgrkwjpTRvSVYXOtDpgspdgP40ln8ADrwSFSn0DeFv4rXJLqVNhIQHyl2NZdEY1-d8kgOv611LhoUZsP1ELHuflm4LdB4MqPeyLy4TIE", 
+        "geometry": {
+          "location": {
+            "lat": -23.400228, 
+            "lng": -51.902492
+          }
+        }, 
+        "vicinity": "Rua Rio Paragua\u00e7u, 182 - Zona 37, Maring\u00e1", 
+        "id": "0a8763e2e70d7426f48a678122bb313e5d808486", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Programa Comando Jovem", 
+        "reference": "CoQBdAAAAGkSD1aV-RbiQ8WphjcHs-b8bXwWzkpBitbIpnAhvghujKB3FTeONd80pRIM-LTHgOdtwp1hRek-9u0ro4FCEBXQTR5ypHh75IcJy-1lFnxxtWxtA1ZxN55yLDuxvsDQr5w03hnr0GItntI5C0eKtEz6XVHPAwunf2DTCh-PXpKGEhCDHgyZ9uVZOnUrUm8gOfEEGhSySULrBXvYDUjIVk6nVaibCKgZAQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.399499, 
+            "lng": -51.903921
+          }
+        }, 
+        "vicinity": "R. Rio Itapemirin, 186, Maring\u00e1", 
+        "id": "d650bcd63a872ed8927f15553daad0471722e228", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "CFK IMP DE EQUIPAMENTOS FOTOGRAFICOS LTDA", 
+        "reference": "CpQBhgAAAB9dZcFpAcKPKDdv48pwztWeuIzGTlrncNKfEw37sEaPNoTQH1bNfKo0VtYWPp9t53aJR2tX_RjOWw41R6Kq5gTpgqV-3aDOZP8NkF9yqRKGYClg-SHy5Xkl006DWhn5DZwQ1SOgyVslYur7MuJm0VpLmc4G16Fn9wqpsajuWAS7MQ9NwsAabERoBo9viVhqMBIQpF8LcLzPRrau7IjWLwnCGhoUddSHngtANJtZUZPfw7OFsqxV0PY", 
+        "geometry": {
+          "location": {
+            "lat": -23.400426, 
+            "lng": -51.90501
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1927 - Zona 37, Maring\u00e1", 
+        "id": "b39e5efdd9e07e57830be8dbd16e43f85a11e442", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "K3 Art Imagem", 
+        "reference": "CnRrAAAANRi2sGBuRZVxEWvZu4B83j8MRALmiN46rvSRVHQ8in5SVqXwMU25F5_w9jxgUgAliAz4efokmhsiyXvSoYtceGcCxK8QVoQOEr3cMQYPd88Cc_5qUJIkomQICqmCcNoXolAm04To3f-WjWZjr38tNBIQVAgFQatVLbSAhRmBfEriHRoUvqdjlqpplevchePZyxiNPl9ssbg", 
+        "geometry": {
+          "location": {
+            "lat": -23.398402, 
+            "lng": -51.903448
+          }
+        }, 
+        "vicinity": "Rua Rio Piquiri, 375, Fone Fixo Nacional 4062-0852 - Ramal 3952, Maringa Jd O\u00e1sis", 
+        "id": "f92a52e492b9511808201d957817af559384f94d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAA1PsP1X2mach3qozk2kb5KBSJNW2-LnSSBqxYPYIK29Pev0p4DZzFTfjNP7R8GpIPzIEnHZAnEVjls7UbLxx3fHzHO1YhS83vaQsuEFvYFD7AkvPCJtUyqyPO-0k_fHoXRv2Ufys475I51fpLGbHi2xIQF3KoIxrLH3C9aKI8No2XxhoUhc8nZUgbOjwA6CkG3Nw72e6Y6p0", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAAAWzQHYipqtkGh1_UHZfrAvkZM8B7GWYfGiUNb8wY4ao7b5E9qhmr5lWtAwHk27CzCzOxs3IrIyFQqabbQU-RWK5ivW3IEaozGFr998BjJREACeSu3vJGHV1iEb_425pOq7UmC8WOYq2N4h4ZVvZcjhIQbNKG89p3zy-GJfJ19o92UhoUOZwurwHkm4kyNUpIR192xjGnF2E", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Igreja Adventista do O\u00e1sis", 
+        "reference": "CoQBeAAAACA6uQ7_JGxFl0L_RL0vYrNGRXrVGk6eMHPiS4f_F0JdpomZkhSm5NYp7d_yanFkxt1PH2wJj20zj6CfQxoBjDBehRiyJe6ITEfPFs5o9l3PnTGHbn2Z7i9F-LmCdYes0nhqT71b5J3EuDrBDI31QGoYXxwhpnCM-MqK01C1ZmsKEhBb9dA3uA_fF_1x8uw4fdQrGhQGrILa0UOhToxDyJ_ZACN00LgXMg", 
+        "geometry": {
+          "location": {
+            "lat": -23.397723, 
+            "lng": -51.903051
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "jardim O\u00e1sis, Rua Rio Itapemirim, Maring\u00e1", 
+        "id": "730e33bb098462a80560fc4924ab388d58aebd5c", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "K3 Art Imagem", 
+        "reference": "CnRrAAAAnt-dxyRnfz0V1CFy297qcI9tUAIjmPKnsQ8oNJ8yv9Y61rT8J5_Q5XmMRIqPeleqYH5IVWqSXyCsHuhebHVJmfLlrTrz_mI6onJ7gjEHMdPfkfQr21tIvYXq1wDl5nIqs2fSswjaU1nH1X8oW0JWHBIQ38WRHbzj5OS6fO9OKu23jxoUMNNik1xr0aW2y_-J6hhFZ151BU0", 
+        "geometry": {
+          "location": {
+            "lat": -23.398402, 
+            "lng": -51.903448
+          }
+        }, 
+        "vicinity": "Rua Rio Piquiri, 375, Fone Fixo Nacional 4062-0852 - Ramal 3952, Maringa Jd O\u00e1sis", 
+        "id": "f92a52e492b9511808201d957817af559384f94d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Notria Jeans", 
+        "reference": "CnRpAAAAaQf2mNy1dCib1kcT33xYJi2OC30i_YqoufJCRPNFiwVfftYB5lcyICuA1CZv8AXWLG1wncamF-m7hjCTi6PvqBKsb3jn5hk5v9FrhI3r3oo8csAx-zluCiMPFUL6uB0_OsZen333KDyh5_ZD8PXk_xIQ-HB7jCOVT6XZMWl_20wI1xoUTF7spDcHVC7oFDskeDBTUk2igio", 
+        "geometry": {
+          "location": {
+            "lat": -23.398681, 
+            "lng": -51.903856
+          }
+        }, 
+        "vicinity": "Rua Rio Guandu, 1963 - Conj Res Branca Vieira, Maring\u00e1", 
+        "id": "3353aedbfcc56a7f298e59255eb20a2050843f46", 
+        "types": [
+          "clothing_store", 
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      }, 
+      {
+        "name": "Toc final", 
+        "reference": "CnRmAAAAnDuTNK7yaEWmxB-5hrONmdPLjosIUYu4UAkqSZTkX-zvKooy0vWztrDPb-a2S-untMSVJh2tg1vNdsHRmjBINMl-2ruW_8qPi2n5Ay7BTMYcRYQlEIOxI73nfUoGzmCjJmwTCvtUt8MirmORmGAOlhIQ51cuhzB0fRoR3rfShezCkBoUavqJzXTZlW3VPDTc_wQnTNK7sfs", 
+        "geometry": {
+          "location": {
+            "lat": -23.398353, 
+            "lng": -51.904402
+          }
+        }, 
+        "vicinity": "Rua Rio Guandu, 2047 - Conj Res Branca Vieira, Maring\u00e1", 
+        "id": "717db5f45d086af1e2f1802846606035be318593", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAntUUETCmPw-5VFnUveUPoml5Vfkzf8Rk7Jplgk_WRgXexdrxKffQ-YfKx5x8h2W9ZxgsNmLUnjB3k9smjdf0-Yzosmd6xd-Tcq6hukjbou6p4q-btvekSduJEXgJgg96Ij1uyUBIZ46f4VOg4ay5OBIQwIR1m2S5rVPImqFfybT6LxoUM6N-mbk1kaRDbXV_4B_6TTOmSWY", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 24", 
+        "reference": "CnRuAAAAtCKQbwNNfxuB-o9KPqzfIaQfMx6ueFIvW-CFa1Owlz0_RnhFSn6IPBSCDWI50wkmammI3l2E10yf4NuL9F3UO9Sj4oAamBEJy-Eng0SO1p-erpsK_hCEkBtOh_pJXab9J-Vf0If27lnt6zggz2IygxIQs54z2DKff84OT9mCYW0WzBoUPt8NzIpHYwnALQjvN-IlesDWHWA", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "NJS Servi\u00e7os Esquadrias", 
+        "reference": "CoQBdgAAAO-GznsJ_slqFk7hRMAX9btY_83omOheeD5D1BeMptUcqZOXKpNc2_nSNQVyTioijBGnJZK2Lo0bhYLnNupfQuDlsCfWdg_sVhuywOdcuLGoh_-BU1vK9f6dAu4m6FSuO0nOj-NCjrC7EoOt0inf6QPjuDb8Sd_pj4WLu1JG2uA_EhAFzdeZXywQZcyHYTF6oa9-GhTevDUeEd2QWOlXbvWi9z7ob3E7ow", 
+        "geometry": {
+          "location": {
+            "lat": -23.399856, 
+            "lng": -51.907378
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1722 - Maring\u00e1", 
+        "id": "156637e1feca0855dd39b727e8d19636a921c131", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Quinta Igreja Presbiteriana Renovada de Maring\u00e1", 
+        "reference": "CpQBjgAAAN1mShptCeC-b-e9RlGF6czFvRJbyGhLOCMcjIfevKdEdFgobiWLv7CwLHyFQDgSoLY12FAX9Fjn4AqXN5OQ4ZYGWDu1VJ9ZUV8-C-kXSemsOIi5o90gcKYhUyhQzdAonJCrSB4lMuMQBkgNv-DNFSRf2A53A2TuaQgus50wFs1PiaLEE4_pDHk2r64zeNTfHBIQY84_fuQk-43LgfZ5SnNSdRoUx7gMm3qizkPMF2zASBMu6km4qaA", 
+        "geometry": {
+          "location": {
+            "lat": -23.401493, 
+            "lng": -51.910244
+          }
+        }, 
+        "vicinity": "Rua Chile, 285 - Maring\u00e1", 
+        "id": "62a99a858fc25b39cb597eec1f6aa21bee946f0e", 
+        "types": [
+          "place_of_worship", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disk Entulho Can\u00e7\u00e3o", 
+        "reference": "CoQBcgAAAD1XhDJWho6M3yu0YInUPuuO-dJWVpwAoMEaMdHWqxPFE2PcTOTjCFZ4i6CZKdguWjKBwM8IWEh2cfnIZSzDR_4uUbspEaeu7NkNKt__lubpO4yTNRaB6WgljgYHjbtF71Jim6RGS_DtxylQE0byck9VVzzazrUJGr4Zok25wZLZEhCqFBPdWUs0ajI8e5cG9ymMGhQ_bllnI41pwVXDqHVmfZnfNBmKMQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "8bf83e3e1f5398fb6184b5bf0b4584ad68e98a52", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Thelma e T\u00e2nia", 
+        "reference": "CoQBdwAAAMDa-79L9pUFP81UAeq4oa_tHegnNmxe_9Tn6aO7LLEMNV2a-bL1LPfUTsTcIdwNonk2vrBqtqbj-sSqvzro0CP20QLvkZZq7pm29UUgjEELeACq9RKHwMS3AyDg5aSoyFpNzUYEkj7XdxpONQlWNkWRKJ-xfUOJRBl_GucqY-9wEhBI_1XHQ2Zuf4gz9pN_1rChGhTXh2w_6bY-wW2P6rbZ5RCZ7FNOqw", 
+        "geometry": {
+          "location": {
+            "lat": -23.400256, 
+            "lng": -51.905459
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1875 - Jardim Oasis, Maring\u00e1", 
+        "id": "06783f10ba71b9c88982c8934c163f21e27dddad", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Pereira, Vanessa G", 
+        "reference": "CnRwAAAAai5HIFZLW6pVEYpZGtQmWzE7GUY5Xmbr3FfzRnqckxS1fe866NpdFrgtPmNsed7Uq3NlZ2q4n2NtAhfDqGamPNz9i5xL8hw-Tfu_O42opzKF4cqGxSXCZzUAM8ktsfuU57C3pGLZSQJ4Jh16gW89WRIQy-Hp6fM-dbLUIgmCyelU7BoUa31bCT4XILG6abRKlPoYLJCvsuA", 
+        "geometry": {
+          "location": {
+            "lat": -23.399021, 
+            "lng": -51.909777
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1460 - Maring\u00e1", 
+        "id": "29e83c459dc5e30d33a938c10ae8e7c220b575a4", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Manoel Nascimento da Silva", 
+        "reference": "CoQBdwAAAD20Q49fsDfx6EzwtV0nf1M0Xoma6PdTU0qq4jJLk9SxqhBtoaYR-7SNi8iMmb63knDLKlFBbFWbqcNI_p8i3G4gKYzwwrCoqkVEzVlLmCZQeq8CYN-IbkH5NDUVl4Ajv3Cl1KOIUeJRjHlsjdb5yQHdCJwqRPeansbwuY8MTGn2EhBH4226BFMqjcGrk3WzH3JzGhRxTcK3fActAQwevpr_CjYAb3Vx9Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "bf5dd06f74a7a33690ed38e5f3bdc54d42dcba7d", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Londre A\u00e7o Com\u00e9rcio de Ferro e A\u00e7o", 
+        "reference": "CpQBgwAAAIw6vz_kyut42M0ELctWV4ce2wESJsUyJ0yJnPVl3FUWULx_rHrCr6IczXowFYS3Axm_A_6ZCiZe92m4mwqYiPf7ei4ADv_DJpnr8Z2p86fiYP2QBsVX4uUvNMjLOb4vrYFpU2OudrEOUI8nLfsbwxs8RSU98TUq-q4I92hgKabikj_ki-55OhfQwhefxWIWbhIQ77zEC0QW4vOoCl4g6jGigBoUwzb_QJVm8cm5x4waYAVIq-NkIPs", 
+        "geometry": {
+          "location": {
+            "lat": -23.399034, 
+            "lng": -51.909739
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1464 - Maring\u00e1", 
+        "id": "adb42028901efb74e3af823eabc13ee8ea58e0cb", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Grades Gradecon do Brasil Ind Metal\u00fargica", 
+        "reference": "CpQBhwAAAFNzpraBnTws9GTFbEc-bSvRFi7ya9HwVlReMNPWlW4rsAGz0ScDVBvIRB4tRtqVtGACpte3chAVXp1byCYhuoG4s7OJk7z0hGBq9pcesZgFpYwGYTwGyoNSpur6byamzQ24f2ipP16FJwTK5Y6IeBo6AOfJ7exyBqG1Kp45jZJaxfCzYlHDmYDmN4y8IcI6LxIQc8XMM7_eaMJrYvRWErJKcxoUu3qKCPtRawwxXiTXJHEqZBeQB4M", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "74b340b2814a521556361e518c27de05ec437786", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "G\u00e1s glp G\u00e1s", 
+        "reference": "CnRqAAAAxGsBAH9gPD0t6qDb7BvL-k4GoN5vG-ZX9KkLd1nnQMs6D7t9Ui_JYTp7Azz4ozwlvMvXPFOtQ4m-pCQ8C4P7dczOvfl5iAxQmqqVl6YeIc3HmCaN2ZlTrWfL3h4h4EAvDKXGlZ39lGNr4I-Ns5TUaRIQLBCMnblheAWTk58folglCBoUhJ_2a1yD9-NF6f4QZLNkdqJOMpc", 
+        "geometry": {
+          "location": {
+            "lat": -23.398944, 
+            "lng": -51.909111
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1523 - Maring\u00e1", 
+        "id": "d0470580168b94b5dc8b50adb9e189193c426bfd", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disk G\u00e1s", 
+        "reference": "CnRnAAAA-A45QTZxpsqZW01XV_elc07HXBIyGmyeWj0KG1odefxcyUd22P833bDVnecQrn0SG_dYM7lKg3s1pDacKAZi55PAnyNuQcyKVQydGW4XZOZKoGrFIZuAvGB3lU6yDuFU4Y2BABj5aUrVwBLr3ZyTABIQJdxaWGLbRF8Nmfs2EmP5YRoUO3Yt-IjwOrwGAawJ1mvc3M-MAjU", 
+        "geometry": {
+          "location": {
+            "lat": -23.399178, 
+            "lng": -51.909074
+          }
+        }, 
+        "vicinity": "Rua Chile, 578 - Jardim Alvorada, Maring\u00e1", 
+        "id": "7d24e07391de367eb2c6d66b0636e08fe4625727", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Persianas Persilux", 
+        "reference": "CnRwAAAAlaEXoR2O02PEfckjZMlMKFiN7aJokLFRJELduDSgYaY2Nf3njT61uem23eonAFca7VurDVxgDn5FHtZztwAsMuGfsheEeB8-ww9YdftNisl8-0VAOZ5SZOE4r75ZVwAAayUjniuv06B2AOzrPMFTrBIQC2uxEvVb1ATkxyLNL95fYBoU_Yb2j2ExqyvqvIK5KBeuwMc04rs", 
+        "geometry": {
+          "location": {
+            "lat": -23.402888, 
+            "lng": -51.90617
+          }
+        }, 
+        "vicinity": "-Jd. Alvorada -, Av. Luc\u00edlio de Held, 488 - Zona 24, Maring\u00e1", 
+        "id": "d10651208c253c965ce808af416b6922b05b4a37", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Aba Telemensagens", 
+        "reference": "CnRvAAAA3Tnecm8UkHZU0vOFcN_Wi2SZTl3Rzz7u5P8H7vJVwW-Kcq64wtFeDLjN9h0AxuPpg5o8McYd8RBmzhsry1oax-nSNS9dUMEezW1qO622zFWjIS84G5H3d6Flo6YZPbLd4knUfR1jakTRdVql3rMPZRIQKmlDclCY6cBAEvtqIX3cYxoUthcDy1xdza3voo2h_1Nt7tCnt84", 
+        "geometry": {
+          "location": {
+            "lat": -23.400051, 
+            "lng": -51.908483
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 1208 - Jardim Alvorada, Maring\u00e1", 
+        "id": "93bd0f39246dcea4562d43bc0270659eb44af1aa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dallas Renovadora de Ve\u00edculos", 
+        "reference": "CoQBfAAAAD6Dcgbu9YnIXmC1x4WcV4czHP1nhW4b5_k5OzM6RCARP4k1XbWib3u-voE09xCf8Ik4XURKdLZ4aKMCmBDHL4iAiiXvpLsSJpi6Z9JqgYQh0-9YaIiNDm0zJDLDVHuMMV7zDOlx5sX5qeXCXaar9w53p3x8vu5I7HA9_tgfHSXeEhBGExPWFKYeQISyTFbFye86GhSMcum901OMuMjFXN3-3TvblrTYTA", 
+        "geometry": {
+          "location": {
+            "lat": -23.398936, 
+            "lng": -51.910025
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1434 - Maring\u00e1", 
+        "id": "4dc2f1af829cdd14f7cfc53cac522b78cf763292", 
+        "types": [
+          "car_repair", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dallas Renovadora Ve\u00edculos", 
+        "reference": "CoQBeAAAAJVQJyjn3wBpGnUiA_12gC2arv91L46LpNKlOzSt2vp6aiVo9KcSGN4JMllgko79U-nyd1xqZhAO1O2DA8GXDv5HsptzpKrK3wyIZvfc4SPtaMoFYltAn_PtpgUhUS3PJ99KN3AHgfs_QVFn1Z-QLJARn3Tlq05wY9edBMVVGKmoEhAoZKdavvwwD2bIPjQU-VTLGhTt14wSSVyKTs5ZVzsnaNBrBM9jtg", 
+        "geometry": {
+          "location": {
+            "lat": -23.399409, 
+            "lng": -51.908675
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1580 - Maring\u00e1", 
+        "id": "9d329d3af240b4e65ccb6854ae4ff44976544630", 
+        "types": [
+          "parking", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Mudan\u00e7as Vi\u00e7osa", 
+        "reference": "CnRuAAAAvS8Otcn7Jrd3nNXw_UZfkzjStaLYaK_Xv6sNkXIS4od6e7r6_J_VWv5u2CQoAyzNSdefQgf2jyrSWDVZZ406PC53iO8h7I2ZOt7BIFd4RWsx9QV0TcZtLDRws0J1lVOSMIXmurIuML5ZPRNnJ5L9YhIQ66Z4I9rodvkshQamH-mhhxoUTHblzqQ0u2bDab_xifGJ6MSHCQY", 
+        "geometry": {
+          "location": {
+            "lat": -23.398745, 
+            "lng": -51.909678
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1461 - Maring\u00e1", 
+        "id": "65353196a083d1a666ff0483f6152c9963e2593e", 
+        "types": [
+          "storage", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAA92KHCSi0c9v7wPhcWQcQRKfCx3o8Hkltlh-RBlEGjfcPZoYbvVvx0pvrfDNMowUmde2ApFV71HGgzn3bHBEYlmJ5dimIEHA3WRvrXxIkiX4d7Eqr5ZCReJnjcsgTtT4dUYghA_UIiKRWbo5zuIpvCRIQcHhCQJzi8FiR3r8EWoImNxoUK1SctWGwTpgHCuI2Ei5I0vBFmoU", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 24", 
+        "reference": "CnRvAAAAuAZIm7gPdcqGhuHjjR6iNz2uq7rTi38BpgeMPO27zk53y6JNR44IM08ndfgsIObE2Jv1TCs4T5u-a5sNyuQvjw89l9ECwgkkjhC5kAoXq1kcIX6FvtjVJ0Fdrngl-J5qPxma4s1t7rs6Xopl1QXslBIQSIHU3SZbZ_6iUKKyhARLyhoUbkSdnzflD9L5HvnsbNbQit4R7Vw", 
+        "geometry": {
+          "location": {
+            "lat": -23.3982751, 
+            "lng": -51.9183433
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.388465, 
+              "lng": -51.9059424
+            }, 
+            "southwest": {
+              "lat": -23.408899, 
+              "lng": -51.9288856
+            }
+          }
+        }, 
+        "vicinity": "Zona 24", 
+        "id": "e87434beb0d60dedf624db2257bfcdaab5a10c57", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Esta\u00e7\u00e3o Crian\u00e7a e Esta\u00e7\u00e3o Teen", 
+        "reference": "CpQBgQAAAPGKH1yy3WL_OX6DZ_Xntu_It6e1jVfBmZp_JXpw-CWTU_C4k3f1UvNc3JoUwytWH5ll0dPDwZ4C5vTvwB7PMGSw5sljqzDzMM0rjM7OC4c1OtiK_cy2wXTPy_n3Y8cg3SYgCvHqyKe_NMDb_XYWrLlCmX2bnwgqGuCIUr_3Dlng2UOK4MyfJIHBvUnVflhjHxIQjZ2pjDmFXXmWoOQ-ccT15RoUfn8XK2jPA3qYHlqKkLrezR2y-po", 
+        "geometry": {
+          "location": {
+            "lat": -23.400811, 
+            "lng": -51.904861
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1994 - Maring\u00e1", 
+        "id": "2b46fd0d75de4680c2a7b0a1c0f35f41e2b79a1e", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "NJS Servi\u00e7os Esquadrias", 
+        "reference": "CoQBdwAAAI52-h5Ue24A2nrcTyW2Lx0zaXJMp9JOFvMrcIrNTJgPHgFy4h-qBNftKbXiaJ7aJ41zH54FdZWEzyIVpEHNJV_g1qodxzKQZ5RUP_ziSCfPTGirUXMC82nN26astdiURPigmKuhgHvE-WW6CWMESo8dKLIIvVvtBD-DM8AlTPJ8EhCOE7uBAS-JxyHjJWPJAqxDGhRfQH-QqJybnvKQu1JFWYAcVKVwhg", 
+        "geometry": {
+          "location": {
+            "lat": -23.399856, 
+            "lng": -51.907378
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1722 - Maring\u00e1", 
+        "id": "156637e1feca0855dd39b727e8d19636a921c131", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dicafil Com\u00e9rcio de Filtros para Motores", 
+        "reference": "CpQBhwAAAGzZw8xUr3BfxPRZpo59s3pPca36eChEg3x5AOwFIgFI8d1LlogcRTXJD5wqMOdgSzl-Y5KhyhIhUj2XgEd6wzEx1smd8fIos0KZ-ZCcwi3lTmonJhbYcYwjXmCBjTh5qth4Xcz4DpYixNvtkk2ZvQtg2LA-hudbjUsWQuLsUURX0Ro22JJQ6htf6f3LKCg2uBIQQovWClz8hyUkJocV3QkT-hoUzmG0wSlJ-dfmB5nCaqImt7dtdEE", 
+        "geometry": {
+          "location": {
+            "lat": -23.400358, 
+            "lng": -51.905189
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1903 - Jardim Oasis, Maring\u00e1", 
+        "id": "4a93154a5f7132b298f909b4793e71cc70463355", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Marmoraria Thelma e T\u00e2nia", 
+        "reference": "CoQBeAAAAP8ayDIo_hzH1yUaRWikiWTXUa88OkUAbMC7Vfw17SC2xY7IK6YfY2OLJ-izUt_2J2VemPJw7JUF723JuV7UcoJ8EOY0cs03tKg1o-tHKojqCKJAB802BXTFexKaymNXMiGoJ9oMgrJTniLzo9YdocY9fBFWLT6VAbztnuE-kABxEhBUFyiVEpmNgBHTCYfHF6x3GhRSjAKmzJOkYfY3U-E_2m0KHeA_7g", 
+        "geometry": {
+          "location": {
+            "lat": -23.400256, 
+            "lng": -51.905459
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1875 - Jardim Oasis, Maring\u00e1", 
+        "id": "06783f10ba71b9c88982c8934c163f21e27dddad", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "G\u00e1s glp G\u00e1s", 
+        "reference": "CnRrAAAA3Br2SDvEDFq3RQskk_tOqec5468ENVQlsW8ssU6GqNT0nGgttD47tf6UZtOdTQG9jIIQ1YyXycx9BjlE8CM3bkBnCUC9CjTc2U_Goy4VxDkZKqLExuiosWz07qHAUEY1huCe8XTx5jNzN5uVyO__rxIQyW_lmvlldJTRD1Sd9dYK3xoUPg_4JJB1BN5GxMUogK_MmjGC5-s", 
+        "geometry": {
+          "location": {
+            "lat": -23.398944, 
+            "lng": -51.909111
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1523 - Maring\u00e1", 
+        "id": "d0470580168b94b5dc8b50adb9e189193c426bfd", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "CFK IMP DE EQUIPAMENTOS FOTOGRAFICOS LTDA", 
+        "reference": "CpQBhwAAAM_ul4Ddgg2FDTe37VUPZSxgL3Mu6LH_Poy3yA_AFwUXGRpQyjcwN8mUBlJt7mV3zTbXwrYdUJS46kkbR0BPreFL4eDfGC6MXpWyT5jo3vsnHGgea1XOxJZLclAr7JFasevDE9CWajvypcqYc8mSj36FJmoPp1IV3GwGEBt64z82BfOocPInH94lyJfy3JwseRIQUKTx6S0iSNIvYjm441sU1hoUx11IRu-4ZKwVlMctqgtj9bcNuZ4", 
+        "geometry": {
+          "location": {
+            "lat": -23.400426, 
+            "lng": -51.90501
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1927 - Zona 37, Maring\u00e1", 
+        "id": "b39e5efdd9e07e57830be8dbd16e43f85a11e442", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "VIA EMBRATEL MARING\u00c1", 
+        "reference": "CoQBdAAAAP6mSkFwt0NxttdmZPpAQfZ5atNtXB8KqvY7pPlXJglst0DUc9MV1eek6J8bqiItJm_cOni82LD0S3ZHLjCY726JrIWWSTdAFh-U-ouOoyNAghhGHrRcHODRVYumywPMUTMIY9nWMauvx0GQ6B4vt95dQbnxCB8pGsf23FLEP9LvEhCof1E6GnYzoEtoVBWUr71zGhRFrsgsZMRG1L-c8nWrcPJl3PCUFg", 
+        "geometry": {
+          "location": {
+            "lat": -23.400374, 
+            "lng": -51.905146
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1915 - Zona 37, Maring\u00e1", 
+        "id": "1cff28711e72509456a31756262f1ac358ff18f8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "M3TELECOM ASSINATURA VIA EMBRATEL", 
+        "reference": "CoQBgAAAAGGG3qpJ2NvYvKtswGeE8tvNdKhRsfJBQmKljjKEThUNmOV7_9s639OzCSlcHzqu8Rc5RKaETnanej9zRYUh6-L8I_tYd6UV3lhvlLZUMlRB2PBL2x2mAIsL0v8kOKNwrkcqrL6bnpfvbBRPOeOncyces9EfV8-9cahH1aGOF-siEhBpWN1ISE8qBOR1wP1A-Np7GhQDyMh5vkSg_qSF8zbUQBGFuZyFgw", 
+        "geometry": {
+          "location": {
+            "lat": -23.400456, 
+            "lng": -51.905183
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1915 - Zona 37, Maring\u00e1", 
+        "id": "871c455eed6b37b36f56229b49497bfe98df7fef", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Disk G\u00e1s", 
+        "reference": "CnRoAAAAV320hoc8SQrCKolJzSO0XnBerxNOC1TxjUVHVn-7-7aHRX3OhdGhSlnKgAUUpCXl5T1OVBs8uhPxpC-MPHKzAJHHCqGhG9Eoidpx5ck-E8RGW6v8J5rE9hEqcZv-xNPWbw2CgTpYo05X3gmt4hke0hIQ4g89yZv-2bZTa7LnI958bhoUlFmHuuYxSQfwsFX71_y3Gr_FDYA", 
+        "geometry": {
+          "location": {
+            "lat": -23.399178, 
+            "lng": -51.909074
+          }
+        }, 
+        "vicinity": "Rua Chile, 578 - Jardim Alvorada, Maring\u00e1", 
+        "id": "7d24e07391de367eb2c6d66b0636e08fe4625727", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "UNIFORMES BALNER", 
+        "reference": "CnRuAAAARjtFl0OkDIsG0oeoyFN1ns9z3bh2YTj_HEGLBri9a5nAx41ZugI0vD8TsL_UcCgDubBEGV3-VxYgCDTwa1p0Syh-GH0h5yvM6w_6BZ3LYzHRId0P20Lt3DIT2YSLFgJDTmfhJE3xDD1uDi95-TnsPRIQwmH7ioIFhsOpez-CW6BAbBoU8SVhXKUYpvSzqbNi0UsKbV3Zfic", 
+        "geometry": {
+          "location": {
+            "lat": -23.399222, 
+            "lng": -51.905233
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 1656 - Zona 37, Maring\u00e1", 
+        "id": "b9abce2cf158ce817dc64156cee3e0def0ccdd4d", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Aba Telemensagens", 
+        "reference": "CnRwAAAAziaiebdQv73sblFKK3VFCqcdswXmTcZx0jnXz7zznn20GIKlojwe-sgFMBvqHjNq_huSLd04FRU6G7Jo5c6IumJLfEbRZHFtUSOgXZZLlh2p70cAXsgmPnZwEbh5RvFPNSgefkUim5pq2o2DfRwrjxIQablCla0nmy6z5Mrwr81jUxoUFw4JcYzJsk_9n-R8aYLaCAzGtKE", 
+        "geometry": {
+          "location": {
+            "lat": -23.400051, 
+            "lng": -51.908483
+          }
+        }, 
+        "vicinity": "Rua Col\u00f4mbia, 1208 - Jardim Alvorada, Maring\u00e1", 
+        "id": "93bd0f39246dcea4562d43bc0270659eb44af1aa", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Dallas Renovadora Ve\u00edculos", 
+        "reference": "CoQBeQAAAJyky1_kn8Fu7d-qNI0tYtxmVNLdMoXMCneEq4WyJV_j4UhABRoBuzkpg7Mj6MhnsOFhAc3GKDCN540IOYizxMr-S_a2oAPZaXixOtK6hmJqzJsU3TpEctXp-r4Lpd1rRSpoc-y2cfi9ZQaJ3Na6bKCFS0wZrnP_jAVYjohDP0RtEhA9SArLZk1O1-FFYkCe1xnXGhRmZGuYxy13CfT4m9TB5NCP4x5oDQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.399409, 
+            "lng": -51.908675
+          }
+        }, 
+        "vicinity": "Avenida Dona Sophia Rasgulaeff, 1580 - Maring\u00e1", 
+        "id": "9d329d3af240b4e65ccb6854ae4ff44976544630", 
+        "types": [
+          "parking", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 46", 
+        "reference": "CnRvAAAABJc-yNItVgtRqAlmFfk_MHpK1Fa25toADNAmD1JSbsUPNpbPfWGrTirXKC5IW_L_23Hzp25KywNAHzPlIAfNIbqmeKxglExF7DRS_p6d9BPVdAfsITSztD0KAA2WJiaovFMvfsupxER--cP810Mj7xIQdEPas1dd5p_RVyrmSpLH1hoUsP8nwIzeY6m2tlxeH0H2-PXcRaQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]

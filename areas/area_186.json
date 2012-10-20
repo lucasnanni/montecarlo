@@ -1,0 +1,1030 @@
+[
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 37", 
+        "reference": "CnRvAAAAnFyCfSspkNZzevF8oFAzT20friziYdoXAq4MNh84fl1P76aVYUw0JREVI9CMGcMQ5OgH0aYIJv21YU8HVKWr43AKngZOKHf9EZhLu4xVRdYinvZ3J0XxRTKqUaldjUjPP9wlocq2wYiyrgOaGnDuOxIQ2AFlMDcQMgsZXVr-Ir9wGxoU79JTf5QrhusTqqV8VEEhnKTWL4Y", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Recanto da Sopa", 
+        "reference": "CnRtAAAAZg-HUC4sNLYao_6QOI9GtYVgNCQj2MSqEi04Xoiacr6wTV9zpcyML5oigPPAAQJUXZoBKzfcGkvf8hqgKU61tu-nVcVWaakkespZNhXeZl_1xm98gTbXutHqtSEllgYqszlnkcu7UP8gL2ENZGTTihIQQi3VzawNdHyYwhrnDoA8MhoUyQ9FToYhKuDbF1Em_Uju4k3ofog", 
+        "geometry": {
+          "location": {
+            "lat": -23.392562, 
+            "lng": -51.896508
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 33 - Maring\u00e1", 
+        "id": "81405c296a580b2ec06a55042e738e6b83b2bdd8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jevant Moveis LTDA ME", 
+        "reference": "CoQBcwAAAJnqftxchwqzt9muVUNCCVRQUhzEn7Loa15iyyBP44SHxwGJ98vEEoynit7GPrEmes40MNnTCJ-daHLVaHULRHSWJ00fxImVLaMrahM5gfCFy9payRgRByG96zYS6txO-rVo7G0kaRAJGhTdwzckAg72qN04k4yJ6s6nbnOK1BG3EhAiN3FInJKmqTQ8GjUeJTMeGhR5KEAAg-WEdy0yKyfAyLUl38Ahlw", 
+        "geometry": {
+          "location": {
+            "lat": -23.392748, 
+            "lng": -51.896851
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Pion. Guarino Augusto Basseto, 2020 - Zona 37, Maring\u00e1", 
+        "id": "f359f0579321bffe04ff163fc570653c4e6056ab", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vidra\u00e7aria Atual Vidros e Persianas", 
+        "reference": "CpQBggAAANGdbG6ABDBJXQuiHRTZwMNc7MjD6bmFWADRumx4VNx-h_SSs2Y1vsAGccI0qQ2QJbGeYWsgo62kai1uFMly3K6fPKXllwd4p8TOtfU0YHdxQ2ivrhQ16sBFAJ1XL7VZRb_7UawjAMRPBvbkGiLheQDhfrLPma6R5hdWx9ZNoOD4krt3QBVa2S3e4595YgbIcxIQqC1BSGtI5Ud8bMOYNJCoGRoUUPn3tEcKZLbThJRPu3bREl4tyGA", 
+        "geometry": {
+          "location": {
+            "lat": -23.392879, 
+            "lng": -51.895723
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 1284 - Conj. Res. Branca Vieira, Maring\u00e1", 
+        "id": "af2c02531d0475d0d2601f4d6fdcd94726fcf8ec", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAf0uTpSPP4lWnh6GDE71_Q2as2RnEkmJFz2khMGHcRt_pTLUOzTV-3lDOXgDylzv-r9OjFoipxXwgD2Phavv2cWx8Su6oU951f5GRNCsRUypooepoX5tMozI_P5u-xUMYbeT7bDC1_djNfxcXSvT14hIQ-i7hjZf0kNDm43kVnQw7cxoUp6-fxWDhlH2RDAxT1PQz_n-KgBU", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAAdxKteCIAjhUFgY7y4ybLjLxAoDrR_XQUBDlek5wnt88Sm10yMAxGT1xtHr9W9G1_PC4RaMwT_k_T416VVawEGRWGL0-wXZVnxNmY9rj-zTQdxIUi_baLoEzwr9EwZ4TTPr8gOAo2DSxjoHhW4F6ZXRIQoUO8T3ZX9BDcnRCndowbIxoUZDGIjyVeFC9iepDi11cqLa0FXNQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Recanto da Sopa", 
+        "reference": "CnRsAAAAkItZcmt-NlFKVMr1P8qZa_8rV-cMHXhbzmR7sEgrlrS7sU1HkRpJTgqRPAWgkRHzDZ-FzieS-UGmYoi7sAQ-Qe_llAnDQN_eBxJjTGFuOHKDVVYX9-lDTLHyzEljEpazzBH6gKA8HfTdZudHYgtXnhIQKjV7q2GG0nLi5tA2yd_e_BoUtEsBkXl3YeD1I1tcGpCGPmx9hAo", 
+        "geometry": {
+          "location": {
+            "lat": -23.392562, 
+            "lng": -51.896508
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 33 - Maring\u00e1", 
+        "id": "81405c296a580b2ec06a55042e738e6b83b2bdd8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jevant Moveis LTDA ME", 
+        "reference": "CoQBcgAAAEc6Mjx_t6tvP5ZYDTp9JvXMesPKk-hfoce3qTZ1oAQTA3z0b7vNDAiKFzFSkEDwlY1Qq-S8ZFb4mWJELD09DOcVBZZmT8idbWbT9ikXvSENVXXJiK-qp-JTDgVOlZx_eBY6_Qrz15F62nsxz3gMW1aAiLDEzLUhiRNSnF_4TX4IEhCVYdFmx9AQ3bX1bvipI3RXGhTQAMtj8KoXifm4mCUb59Ley4pB8Q", 
+        "geometry": {
+          "location": {
+            "lat": -23.392748, 
+            "lng": -51.896851
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Pion. Guarino Augusto Basseto, 2020 - Zona 37, Maring\u00e1", 
+        "id": "f359f0579321bffe04ff163fc570653c4e6056ab", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vidra\u00e7aria Atual Vidros e Persianas", 
+        "reference": "CpQBgQAAAI3EaLRVn_eOwtsMxmtmp1-mxZbcdV3BvdimH6H_DdDu3dhl-KYX4ljJgV8SXk__pXaa7LHFS2B-qmdhKxUvNOUbwqd5395POSkyKkLaJ-gsLM6iyQYy6X1kcuIpXGXqghVanQiOln902DGhcNYMIdGFuMYrfyWDLRbxXNJeVHD3ifPMpRT3kRFJuQROPGM4CBIQOAE7Ue_0QMP_Qb9_VCg1vhoU6ZwyE5KB9L1a6pjmCbyr4_xSPIg", 
+        "geometry": {
+          "location": {
+            "lat": -23.392879, 
+            "lng": -51.895723
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 1284 - Conj. Res. Branca Vieira, Maring\u00e1", 
+        "id": "af2c02531d0475d0d2601f4d6fdcd94726fcf8ec", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAA-25y7gWAiKFyZxSjpa6wgc35dDaU5kCpO9zcT1Oph8K-IUzjWq6YkPIg0kN2wlH_M1lQQK2pLYlTvFru_CEjLHvp1cHkzB96oxaX-5LksoFy_p7V50qRwQNiK0mG6GRUdUTyA42jeNV6vwirveR56RIQS2tfljcueH-ZV1sraWtKnxoUM08dNJQDn22O5Mg6eHdRf25d5OM", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAADqtXCr2TUP5mKVi-Qdo2Pa1hg3ek6flN12URFBX-fZ447t_ssqZRwTDYTtLeIkmmIR4nl4YM4T3LuFXtZpwQ07MBf91sxmyKTXbanrJjoZWmRBfsPsXKd1PsOrFP5yk_-glCcjjz4mQ5d85GHnwSghIQGWtCHcen8Zb9QBtjBHhuRxoUeLONijbTRsOuNQ_qEYD4zuuCKzU", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAqsFy07cKxDbVSp-yFy_PLdv31sOF-rQDjgfoXPglZ2qhJzhtONuhka-5fB26gYMVf5yOJiuTSFIxNsQbLULZKXcvWj2atYRPwKA4ptInCvXJg2HCBIRWGHB9ApnbI5waCQto0rRQtSO1FQRrNG_BkBIQ_i2NZYmosXM3qvyx4Xr6ihoUGhGtLlDaFvqeTJbfZycGz-tnKGI", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRvAAAAzd3O62mDWGliX_mpx75w1Y7yrvu-w_0akKgZvx7hnVtpq9mvxqYzxFrYKvlE9Ij03r7bgJtu246RY9g3nXT9sjhEo3wihk0eLTdl_nsKJ5YH3dH_JPpEA2ixItfv9MuQCc0Y-RAGI7Vx2XK2zA81RhIQgILRsIV9Q4MUiTJEQk1enRoUbGnKBMcNWdi957v6ykyu62ettew", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Telemensagem Rede Vida", 
+        "reference": "CoQBdQAAAO4QlwByd9yilFlZtP1rpz6vajv5Cd76dTEiG0cFRJcwNYBtwMfoMFuZVsts0ccNdhyB46IoUcmFTI_p2gVBj-RAdPE3IJYxVJNGukrM1zHb0MLI3hHZZvOvJFjC6kzQkMEFuRy6tifLibV1LmUXtraZ9yaf7XBxGclgMdU07kVUEhCQjoyV9dxo9tQj6bFKcgODGhQfKBRz5fJ6kvkZICjW5z5797Q8Yg", 
+        "geometry": {
+          "location": {
+            "lat": -23.388627, 
+            "lng": -51.89825
+          }
+        }, 
+        "vicinity": "Rua Itaipu, 58 - Maring\u00e1", 
+        "id": "2e2c2a6756715427a92e13bc7a876f8819cf6bb2", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Buffet Fest Evandro", 
+        "reference": "CoQBcgAAAIbJGhWMZ_6t3mCkq0-6-GaNOYmWc62n6ZAbxtihaFhCqUI8MaClthOopVUehfvFRwlZuDb5kiegCqOGmntkcg8T_4e-xoRRq6ZCMFQu5FjKHqCoiyFbyjN-GUtMhqdzW6_cYo4o2XfBIZUqX0xcbDXvhVUKiQLsUqHucdPX_Ch6EhDCXqqW7UMe94dep6WKMK1qGhSHrBuWegjIYbrB2M1PwOA-F2Klfw", 
+        "geometry": {
+          "location": {
+            "lat": -23.388783, 
+            "lng": -51.897875
+          }
+        }, 
+        "vicinity": "Rua Itaipu, 18 - Ebenezer, Maring\u00e1", 
+        "id": "30349200858030b2b76e7646eb551cb1fe6e8079", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Omega Salgados", 
+        "reference": "CnRsAAAA5Dt5HjuXALjJxSDjVdTwg8lgmRslwjrNO9x8lt1hl--Cx7olp-dNLwCdr34J67Fsa0gvZBVBlUTANX0rHa7WGORfgPn9ssQNGR6-2vTqVc-NylA5V0sIdEPpNQYrWnGLgUDdMOt8cMb0J1veh8iXlBIQ1tGGMt92BURjWxPkISjEiRoUa1xUFtfAYES42G7FhyOSCVDI-Vc", 
+        "geometry": {
+          "location": {
+            "lat": -23.388276, 
+            "lng": -51.899542
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Itaipu, 75 - Zona 46, Maring\u00e1", 
+        "id": "10a460eb96453d08f87fef701a9d6a356d7d708b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Shekinah Seguran\u00e7a Eletr\u00f4nica", 
+        "reference": "CoQBfQAAADmOrkkxewRonNVB722_IOu1yawX30hg7qVIo3sgsTjLLkBApNXX3nhhUjfdh90LZoYZi73oTqEkgd-rcUcCjNVJAGq9GmzcT2kf92KrEqMRn5Lh8qt9TLXKdxRC0HJO0qGan2n-jnLOYnzQHdj7r90yNGmIa_OEGD1ypzYqi_s6EhALBU50Knafe9qXUMLG11pcGhSar_z-UiZz7MREeCGZzDbZcOqxMA", 
+        "geometry": {
+          "location": {
+            "lat": -23.385898, 
+            "lng": -51.898352
+          }
+        }, 
+        "vicinity": "Jd. Andrade - CEP:, Rua Am\u00e9rico Laerte Bigat\u00e3o, 382 - Maring\u00e1", 
+        "id": "5574f6b2608750e7438a64edd8bff9eb9588b540", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Onimidia", 
+        "reference": "CnRnAAAA_Uc61-37EzqpjY0d7B37lXrrozLoDRIDJU9Jv3EC-EzUmckIQEaL24acNrY-U2gxqtIA5ZV-7xiXsFMpiEg6edhm7KtVIIrJnAtcJ-Ztz1h74yo0eB6xdD51UU-50Wk3sAlMCHnwq-UoIa4QZ8G0RhIQO5Qbm7jlnvN3lVrSBLO2MBoUYVKm3KhQwUW0x-ix8fDOCgVxOs8", 
+        "geometry": {
+          "location": {
+            "lat": -23.388402, 
+            "lng": -51.901701
+          }
+        }, 
+        "vicinity": "Rua Foz do Areia, 244 - Ebenezer, Maring\u00e1", 
+        "id": "4beca7e39fee0587498b7b24ac5eec85ba0c857b", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "EMGITEC - Maquinas e Equipamentos", 
+        "reference": "CoQBfwAAACaSv-dN7TzwssInN_QAGQVpuT24qV4lv9zlkt_myzIf3vuqeyiMinK_GxoDkvTCnlleu2-ciEr7H3Aqep68YxTjIKIDjp9_1GFYX3O3c2BjgaEeuxD1EAD3355O8YKJOAL1O6BDkvycPn1MCkLqmJzVagcUNGdg00BzMJ6mA_2JEhDhxmewrd66jZzTN0dh8Q21GhTJt5UE0rTBnk_giLLkXAnocD7FZg", 
+        "geometry": {
+          "location": {
+            "lat": -23.387332, 
+            "lng": -51.898496
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av. Anel Vi\u00e1rio, 6405 - Zona 46, Maring\u00e1", 
+        "id": "724255355e5cdefa9b8f0b37c7e4bf83ef6dd2ea", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAA9DwLGJDB_FOXGta1omTRVGLU7rstFqTLMlmv0dYUXbaiFfjl1CThiGPkPlKbgF-pa8iGBIFGZZpzS4o24Tw_gAZtagmPzNB0qP9kn_1ypqSqTy1fq-mhvgcZq_4zbZv_IZS8CIdB0S_C1nzPLRIcNBIQnS4fpWBx98b_YvaikzCy-hoUMfzQbcOGI5V0vnajimPVjNe3xYM", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 37", 
+        "reference": "CnRvAAAAtDcJsfyt_G2sBj4oNeOHcEA5rWwv_daSC-AghXleh2LafCWgqMbnLh0GjIwNq8LwnEvkDD7W6r07JQnWrJGbr4lqBSMQjbWlLa60Vw5Kcn-q44cU-eS8tJt9TWvowtcglQkWANTbnzKdYXTW2zZJzBIQhIIFz8QCvDt22HZ1OyHbYxoUwS90Z1naaJrlUPq75PsGleRmYA4", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Escola Eximius Ensino Fundamental", 
+        "reference": "CoQBgAAAAAysz9xOxk5kiRFIHsI5J1sCAmdhvSBSMPqKzreP9ChrLqCGMPwR8VrO3Onq8TestLdLMsgOa-tllzjEayD0ZunaOu2C4EX-nxiY2bosuMkPR84DkXzb1QZkdu_vya0Q19iQCvT3dJSxhrWN4U39OT15qttoWwQeVzfWOEtJt7DkEhDp2En8z-8rC12v2ASiBJbvGhREYhsov82qihR9uDV9nHtMD2tOrw", 
+        "geometry": {
+          "location": {
+            "lat": -23.393726, 
+            "lng": -51.892623
+          }
+        }, 
+        "vicinity": "Rua Rio Maca\u00fabas, 500 - Parque Residencial T, Maring\u00e1", 
+        "id": "68d7112eddda82b82908ead01153f6858238fc00", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Biscuit", 
+        "reference": "CnRmAAAAd3TFGxEuhmeutv8Rc3-4S3O44hcBWtjaaMAFzOCUDkBmQS8ip1I3A5qKQVqN001bIt42Jle8PCCBZs1dVawPurDNeTynZ0J3nx2Ihv7Z2XtBOttIp5gqfzq-NIfbYn7Ov5lXxuEXPHw3xDF5rXAMARIQHk4LXylVjTFZIibwwH02uxoUfj22d15W4AFQLI161qmM-lB9Eao", 
+        "geometry": {
+          "location": {
+            "lat": -23.393551, 
+            "lng": -51.890814
+          }
+        }, 
+        "vicinity": "Rua Cooleiros, 142 - Zona 37, Maring\u00e1", 
+        "id": "371e761b37bcca79ebf09679a11b4b61ce3e9762", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRwAAAAiyEGYHnegdGs__nzRHHeFiiBj3h6YamTXm8o4EQjewenFsouX291SAUeyeWqzfyl3UxlsF3NzUVScFl-1hid1uLvrYQ3Xqz392dAu0FgyTQG_zf8Ce7cOFuaRrC2DuwwHZAcR5Hz7-1TBiaHyFUqkBIQGjToshXhrS-pdshIcS8JQhoUgXeG0u5sfAgHUmoiR7PbBVmB9Wg", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAAGFMwIqc3j_UXBp0e9Has_flNUJzzWfvLvtRMIPgBDwRgMsIkxho-ARtbdLtS04FHwGFEAUE3WDgvCYCtt7xJMJHB-uSBZYeMCxMTUgKZwoE027_WyomuLjPNTEiqwZdVKuqN1TSAho0KplFFO8EYuBIQ3JpjBjOQQCUPwz08rhbudhoUxQHvHJ0yMn_RP2shrPs4WMSt654", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAZgIem1KHq6b_nQff2dmK6Emmla8iZBk21Jf7Cx_vNJPluxgj70zPvpTwz7GSGrx-MqkTpB-T6VUHkq3dSZCRQeFP6L0XCM3XSxoiAud0hMfuC6J6GKTjTCqBNCWGQolZYHIkwdBkkefw0cYP1CwVLxIQANr-D0b0skIcDYii1OEjYBoUFVx_avNxDeTwZbHg1lNGxY2vAnA", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAk9kIVCoYr1uAGGsQ1kFVBT39rlaaoefrwX5UDaqZcc2ZtLnA8MHxhtSq1b91g-59y6JYvunb53DZzd2XjkG0p9jVkZuZdR-UEu0EB295Ufu7QE8664nVEXbIZZG00xy6DI3p6Dgc3glbdFHZJCRRVxIQZ0pT2DXllhelMBYqbE5DNRoUKle_2maHG6ZuN1fDTTcAMS9vFuI", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Escola Eximius Ensino Fundamental", 
+        "reference": "CoQBfwAAABGJYPKrEQTFJTvGJLLrvudyiWHDD0en7-vUK4qgnXrPmq0Fn7ISNmp-MxKLK58p4qZBhNeS3Spds1sPBnKtdVUpgu_FwVO-VID-sZ6H5kSvfwqZiX2Q5yWBoqYpsW00zi_N-xkFytoIx3UqUjHfGSVoB3qbC-YB4s1bd4PpZftfEhABAlIhJWeHzAts7tAw2WPYGhSwqJqedGEm8_LhmJBDzn_wwGSbSQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.393726, 
+            "lng": -51.892623
+          }
+        }, 
+        "vicinity": "Rua Rio Maca\u00fabas, 500 - Parque Residencial T, Maring\u00e1", 
+        "id": "68d7112eddda82b82908ead01153f6858238fc00", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Biscuit", 
+        "reference": "CnRlAAAAyRo3IZ6Y-f0Y7t86SWsZbO-v7Cao6Mx2ql2Gjl76a-ZrWo8f6NCQ4JzyNv67uDbJqvcUKOgNl4BO4QRt1Hr-4LpNveS-eLf9u6suokKZfy8AOaWox_MY_jQW05HSeBTzWr0ws8dQ3ejvmBVh5d-QshIQHCndX9a0CcTllWMHZk30RxoUb7Mrn2PZOWsswXkiQawsCVq0wmk", 
+        "geometry": {
+          "location": {
+            "lat": -23.393551, 
+            "lng": -51.890814
+          }
+        }, 
+        "vicinity": "Rua Cooleiros, 142 - Zona 37, Maring\u00e1", 
+        "id": "371e761b37bcca79ebf09679a11b4b61ce3e9762", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Bar do Bigode", 
+        "reference": "CnRqAAAAiHNhozHAd5-TWHtT3qJyxZ29H9-7GiAsioA-8pF01ClJnlOvwdZGRmY-cJoTUdTDW72jlGQU_tSIKWhnN63DoKPrYRZK1fXyix1BFqEeFQTkBACaQFGG99I51L4nqAbWZbBBkOWWx-0eJ9ZTl3vcPBIQKY9GBSu9fYRhPQ-OtVbHDBoUZSY_wC-75HLsXV2U4X5mI5WtlsI", 
+        "geometry": {
+          "location": {
+            "lat": -23.393919, 
+            "lng": -51.889299
+          }
+        }, 
+        "vicinity": "Avenida Anel Vi\u00e1rio, 4899-4971 - Zona 37, Maring\u00e1", 
+        "id": "196328fdf86b00e37f4d469ff703d9f8fab3b24b", 
+        "types": [
+          "bar", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png"
+      }, 
+      {
+        "name": "FGT Computadores", 
+        "reference": "CnRuAAAAHBg0iP7VtYGZKxs1Z47jEV0SAGa1hUlNBlEaMWTOnOos_PgNX9YM07Oic8KidVErqV1CbxJyaqOBqR1MFOp70Sd6byBKZXS60HfY7SJRO0-4jv69kBFipUHgqXfCucRNjxDoUZGmtEfigs_eEALu7RIQKBa0NqfrIdycehvSQF9mPhoUylevgE-A4U79qmGNtO6y0TElW-w", 
+        "geometry": {
+          "location": {
+            "lat": -23.393971, 
+            "lng": -51.889275
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Av Major Abelardo Jos\u00e9 da Cruz, Maring\u00e1", 
+        "id": "9d6abee640bfcf2afca952f3c0e0e9128fa64512", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAA9XyKalqV7iUOvY_4oKT8DRLFD9pAi8n0jBjl9x-34IRrpUWkWZpCBa6OOa5x4B3k3uvzfsT336Z9bWIJswd_-0FRixg5W8haSDkeVe6Bk9YiFR4RvGgVBVercLHPIPdi9mdZjq2Lb-DDKS-l4nxMWxIQ2eylhj_TbtnzV_Wgqg1ACxoUG0-4azBhDm9pJBWHwIzI5i8tsfg", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRuAAAApC0ITYP5pdEiQ42cAHDqr9ClmtogSuS_DJabg_1GdeCeaGD6RhDLr9bClme2F0AdtbKiJJ_PrhRtnI81cJ0AG6NbU4vozqPCcecBri5tLfG-r1bVw2PM1O_DU1u-EcPYY_O-6QcPQ6ALV1Rp6_TCPxIQcNG_YGenSKj10sv6qf15LxoUwfNv3T1LsPjXWFeNXdB5vNmaTp4", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Recanto da Sopa", 
+        "reference": "CnRsAAAARcJhw76XjS6cYkPOAyB2nsTBx-H5nheGveVG8imRw7wlD2lsEqGYYeu2XEn5jirrb8mJKMo8snK0ilVXbLT3DQ6jA9kyGAdYnhgSi082NEXAnYycA9Eb-l0MgEyk6MeRmsd3fzVg1_PSaiWsTVdxuxIQcxLY8sCHVRFaJCPca58tshoUsl-LgdATdnm0yGLkatVz9PLFd9U", 
+        "geometry": {
+          "location": {
+            "lat": -23.392562, 
+            "lng": -51.896508
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 33 - Maring\u00e1", 
+        "id": "81405c296a580b2ec06a55042e738e6b83b2bdd8", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Jevant Moveis LTDA ME", 
+        "reference": "CoQBcgAAAF9muBuZjuwtZvvwAmHjWGdr8FpCdIR9D_7gPITlqzLv0EB0blURXYLQLJ1U8yK7ws8tRXoldHPN1cilBU-KtQ_rpnkVTLYnFHo00SC45ZX4AicQaYy7CG-xdAPpM9UeVyP57rf4HKtphpeGVveT7p0N7ioQsnOqq4Wakkgj0RxsEhD0cDWNdVldeKZ8O21pcLaMGhRngS0jx_Rs1vUgMIClnZivvDOfDw", 
+        "geometry": {
+          "location": {
+            "lat": -23.392748, 
+            "lng": -51.896851
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Pion. Guarino Augusto Basseto, 2020 - Zona 37, Maring\u00e1", 
+        "id": "f359f0579321bffe04ff163fc570653c4e6056ab", 
+        "types": [
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vidra\u00e7aria Atual Vidros e Persianas", 
+        "reference": "CpQBgQAAAI4pgodkIXvWjMAvsuCgaidQ_EgdWrBUSVEqdLSdVJrpuR7CBQ86UZVNbSI5HSmn93zLCj_NTJl5et0231CPk9Zo9nxwXSf7d_qRtxYEuX5ZP7HDbWAbIVHbLU3oxWDhqvrCRgdaQhN2swYkANMGmntOTJMdSIEKdocw8YsRMqflLdHCI5Lf07wi9-y4Z_Lz5RIQecvPkm9HjjhplkyyLlBnfhoUtManRS8c1o6eA0GNrRQkpAtVIWQ", 
+        "geometry": {
+          "location": {
+            "lat": -23.392879, 
+            "lng": -51.895723
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 1284 - Conj. Res. Branca Vieira, Maring\u00e1", 
+        "id": "af2c02531d0475d0d2601f4d6fdcd94726fcf8ec", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAErwYQTG6H3RhUazydpb9zzvlw1TCuGjoPiQr1lG1ErPB-SVRIxYg4_GvzCfe6CR5TP5k4nyACmYrF602ER8_ysEt2HdyoVifeCE84j7BpIUKKFcX89QGeOoO1cIz6JICO5dws_mSQztJKIb8YQ-nEBIQ-pOSwEadCeK4TtekvaIL6hoUhMatl0drwTgu6PAiSWkY4VX_MSU", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [
+      "Listings by <a href=\"http://www.telelistas.net/\">Telelistas</a>"
+    ], 
+    "results": [
+      {
+        "name": "Zona 37", 
+        "reference": "CnRuAAAAqrsJ4rwgVg7hTjcQXacp1JKmkAT2o4kDUzR7BOTILuAiWu_Fcw6R5rsVaXUiQDVSfyrJeKq-PWqNl_xwVDYigSV9kbjJbJW-Bq6fUqcSImTyqcDyIoenOjkKRpshgLaSmi0gVzrNvVAkgtj3GouxDxIQdG1C1ujY0f_-dDjUIvNB8xoUOFTOI5lKhwlEsTRiKdDIatcPnMs", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Escola Eximius Ensino Fundamental", 
+        "reference": "CoQBfwAAABMZmRoVhAg5Cb08F4ZkGo9xByRIfmHsnqrdViNIvlJvdK8Ul_cCmkpGqS51qZRdOvmdiJbvCCSzGoe9Pp865YzJnuTfNXOUQCN7GHMDFmVricDo4SuwUEUR89Pmw0tYFVLF0u_ZVnqQ-LqLqz7-BNWpS5-IcHdZ3Xj5hJYLucLsEhBcngX1KRhN5rIur7cYoCvdGhToq5w3BNaycLZJnsPKz1N8zZTQZw", 
+        "geometry": {
+          "location": {
+            "lat": -23.393726, 
+            "lng": -51.892623
+          }
+        }, 
+        "vicinity": "Rua Rio Maca\u00fabas, 500 - Parque Residencial T, Maring\u00e1", 
+        "id": "68d7112eddda82b82908ead01153f6858238fc00", 
+        "types": [
+          "school", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Eletroames", 
+        "reference": "CnRnAAAAPSiHUQ1Gbyr1KYKEEzn2h6h8n_PZiLah80k7OJfHZebjbPrxEWpNns9R0FHwSEaqFXEDIYewPScM678Noa0f9KxArmYis97ZIKbMTYtsaGyvAmyq3c1piDovHYxjjJO2y4ijEp_UeazVCKGvj2sPexIQZW3gVqIHwnDhJt67WbuHzxoUDSksbi5bBblRS_YXLD86fpXJUIY", 
+        "geometry": {
+          "location": {
+            "lat": -23.394836, 
+            "lng": -51.893229
+          }
+        }, 
+        "opening_hours": {
+          "open_now": false
+        }, 
+        "vicinity": "Rua Pioneiro Guarino Augusto Basseto, N\u00ba 2476, Maring\u00e1", 
+        "id": "a2a01f193737084fb7d543836e9cf078a397d93a", 
+        "types": [
+          "electrician", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Vidra\u00e7aria Atual Vidros e Persianas", 
+        "reference": "CpQBgQAAAEScAcSk6QWMJ5IRlTpYkgSOY9GGMa3LVd9W5p8nTrTrd1Mu-FT8p_9GRWPbpEqaD_OIv6dCeV026EDGDxeLeKxGThJBfqv03_oqSIlx3o2FaSJm-MIM2Fxqvuvzb2TH7Sx3bkctwgKinQT8APkdtFW8VZYoLFcuTJ2SP4ThmbjyWlR2tzdsAUUdERV5sFK8KxIQIat7xuobqooxGxQkvWbUKBoUsWqS_Pm0uvxGFykEAHYE-aTO9U8", 
+        "geometry": {
+          "location": {
+            "lat": -23.392879, 
+            "lng": -51.895723
+          }
+        }, 
+        "vicinity": "Rua Rio S\u00e3o Francisco, 1284 - Conj. Res. Branca Vieira, Maring\u00e1", 
+        "id": "af2c02531d0475d0d2601f4d6fdcd94726fcf8ec", 
+        "types": [
+          "store", 
+          "establishment"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }, 
+      {
+        "name": "Maring\u00e1", 
+        "reference": "CnRvAAAAG2gTlc-ZHCPP_jG2-xJ5B785ApSoU4lSJ6Y-1iAwAhhi_Q3Clm_jU8u8RHX086YefIUUrAJF-aAa76S9lCdPLV7tZUsrpwSHSMGvlLNp2BxR0lBD0bhNbwezT5uMHvnPV0VfGYgRyTNC-_sdvOVjvhIQdZisYb9fg2uYDc3uaEJT-RoUgl12-s6XHXCAloOlLOrnYLTnvic", 
+        "geometry": {
+          "location": {
+            "lat": -23.427304, 
+            "lng": -51.9375047
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.25344, 
+              "lng": -51.835463
+            }, 
+            "southwest": {
+              "lat": -23.558014, 
+              "lng": -52.1011961
+            }
+          }
+        }, 
+        "vicinity": "Maring\u00e1", 
+        "id": "24b5b48c412af5805a55e4237119cc41424a7773", 
+        "types": [
+          "locality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }, 
+  {
+    "status": "OK", 
+    "html_attributions": [], 
+    "results": [
+      {
+        "name": "Zona 46", 
+        "reference": "CnRvAAAAcdyBl3JKniPxwU5eRASH0ff6212NxUCpTHGgK_zbi2M6QXCSYCz1JjKGPTnKfVaZn9d2ov1ilLTIL1Lu_kFEmVEedwFB4eNds5eTdz1HGbk1nDmhcnt3D3dSbEjFl55nRLuDHzH133iZqktEwf99EBIQYxpyxpMojPXx94Dnlcte3hoUfLbnWOLQkor52WuBFa3K3oDEg6A", 
+        "geometry": {
+          "location": {
+            "lat": -23.386702, 
+            "lng": -51.9130553
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.380512, 
+              "lng": -51.8942602
+            }, 
+            "southwest": {
+              "lat": -23.400035, 
+              "lng": -51.91954029999999
+            }
+          }
+        }, 
+        "vicinity": "Zona 46", 
+        "id": "96e48733bd8e9bedccb22ef8385d52b39c60b0f3", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }, 
+      {
+        "name": "Zona 37", 
+        "reference": "CnRvAAAAVWk0suPvaQyZ5y-2qEvVyeG3gqT1lpd2_SB3KNOyz-ohznWqicD8DR57oXFO0k9_8xHpEiitLiQCB3fTHBE5iIzcDxdQ3-_C7U3bW0DImLJDsaFuCJWYwVbXgHGpM28LCAK_uuN8J8d8tC9wtsISZhIQSzeN4NOWGTFA7ZQpLG2hxBoUxFfr4QtGJUwbc0ira0jeCh7E2sI", 
+        "geometry": {
+          "location": {
+            "lat": -23.4005347, 
+            "lng": -51.8998371
+          }, 
+          "viewport": {
+            "northeast": {
+              "lat": -23.3861241, 
+              "lng": -51.8743202
+            }, 
+            "southwest": {
+              "lat": -23.4235231, 
+              "lng": -51.9151874
+            }
+          }
+        }, 
+        "vicinity": "Zona 37", 
+        "id": "8eb03761c0a75c32f47521abfcd29b983afbdc0b", 
+        "types": [
+          "sublocality", 
+          "political"
+        ], 
+        "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png"
+      }
+    ]
+  }
+]
