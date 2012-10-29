@@ -1,4 +1,6 @@
 import json
+import pickle
+import itertools
 
 
 class TipoEstabelecimento:
@@ -18,6 +20,7 @@ tabela = []
 
 areas = ["areas/area_%i.json"%(i) for i in xrange(225)]
 
+"""
 for area in areas:
     linha = {}
     arquivo = open(area, "r")
@@ -34,7 +37,32 @@ for area in areas:
     for tipo in tipos:
         if linha[tipo].quantidade: linha[tipo].rating = linha[tipo].rating / linha[tipo].quantidade
     tabela.append(linha)
-                
+"""
+
+
+chaves = [set(chave) for chave in itertools.combinations(tipos, 4)]
+tabela = {}
+for i,area in enumerate(areas):
+    print "Area:",i
+    amostras = json.load(open(area))
+    tipos_area = set()
+    for amostra in amostras:
+        for estab in amostra['results']:
+            for tipo in estab['types']:
+                if tipo in tipos:
+                    tipos_area.add(tipo)
+    
+    for chave in chaves:
+        if chave.issubset(tipos_area):
+            #chave_norm = tuple(sorted(list(chave)))
+            chave_norm = ".".join(sorted(list(chave)))
+            tabela[chave_norm] = tabela.get(chave_norm, 0) + 1
+
+pickle.dump(tabela, (open("tabela.pickle","wb")))
+json.dump(tabela, open("tabela.json","wb"))
+
+"""
+
 titulo = "area"     
 ds = "d"
 for tipo in tipos:
@@ -51,3 +79,4 @@ for linha in tabela:
             l += "\t" + str(linha[tipo].quantidade)
     print(l)
     area += 1
+"""
